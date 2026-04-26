@@ -1,0 +1,41 @@
+tile.air.name=Powietrze
+tile.personalSpacePortal.name=Portal do Osobistego Wymiaru
+tile.personalSpacePortalLegacy.name=Pierwotny Portal do Osobistego Wymiaru (UW Migracja)
+
+chat.overworldPersonalDimension=Osobiste Wymiary mogą być stworzone tylko w Overworldzie
+chat.personalWorld.created=Portal do Osobistego Wymiaru poprawnie utworzony!
+chat.personalWorld.updated=Portal do Osobistego Wymiaru poprawnie zmieniony!
+chat.personalWorld.relinked=Portal poprawnie połączony do wymiaru %d
+chat.personalWorld.relinked.error=Portal nie został połączony, ponieważ zostałby utracony dostęp do wymiaru.
+chat.personalWorld.proximity=Zbyt blisko innego portalu.
+chat.personalWorld.denied=Ustawienia nie zostały zmienione: Brak dostępu.
+chat.personalWorld.badLayers=Ustawienia nie zostały zmienione: używanie zakazanych warstw bloków.
+
+gui.personalWorld.voidWorld=Świat Pustki
+gui.personalWorld.biome=Nazwa Biomu
+gui.personalWorld.presets=Profile
+gui.personalWorld.layers=Warstwy
+
+gui.personalWorld.skyColor=Kolor nieba
+gui.personalWorld.skyColor.red=Czerwony:
+gui.personalWorld.skyColor.green=Zielony:
+gui.personalWorld.skyColor.blue=Niebieski:
+gui.personalWorld.starBrightness=Jasność Gwiazdy
+
+gui.personalWorld.vegetation=Liście
+gui.personalWorld.trees=Drzewa
+gui.personalWorld.weather=Pogoda
+gui.personalWorld.clouds=Chmury
+
+gui.personalWorld.invalidSyntax=Nieprawidłowa składnia.
+gui.personalWorld.notAllowed=Niedozwolone przez konfigurację serwera
+
+gui.personalWorld.skyType.VANILLA=Niebo z podstawowego minecrafta
+gui.personalWorld.skyType.BARNADA_C=Niebo z Barnada C
+gui.personalWorld.skyType.GARDEN_OF_GLASS=Niebo z Garden of Glass
+
+commands.pspace.usage=/pspace (give-portable GRACZ WYMIAR [X] [Y] [Z]) | (tpx GRACZ WYMIAR [X Y Z]) | (Is) | (where GRACZ) | (allow-worldgen-change WYMIAR)
+commands.pspace.badDimension=Ten wymiar nie istnieje
+commands.pspace.where=Gracz %s jest w wymiarze %d
+commands.pspace.tpx=Gracz %s został przeteleportowany do %d: %d, %d, %d
+commands.pspace.allow-worldgen-change=Gracz %s odblokował ustawienia generacji świata w wymiarze %d

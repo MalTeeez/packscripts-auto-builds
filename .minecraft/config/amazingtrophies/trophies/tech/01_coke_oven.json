@@ -1,0 +1,24 @@
+{
+  "id": "coke_oven",
+  "condition": {
+    "type": "achievement",
+    "id": "coke_oven"
+  },
+  "model": {
+    "type": "complex",
+    "keys": {
+      "B": "gregtech:gt.blockcasings12",
+      "C": "gregtech:gt.blockmachines"
+    },
+    "metadata": {
+      "B": 0,
+      "C": 236
+    },
+    "transpose": true,
+    "structure": [
+      ["BBB", "BBB", "BBB"],
+      ["BCB", "B B", "BBB"],
+      ["BBB", "BBB", "BBB"]
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+tile.air.name=Luft
+tile.personalSpacePortal.name=Persönliches Dimensionsportal
+tile.personalSpacePortalLegacy.name=Legacy Persönliches Dimensionsportal (UW-Migration)
+
+chat.overworldPersonalDimension=Persönliche Dimensionen können nur aus der Overworld erstellt werden.
+chat.personalWorld.created=Persönliche Dimension erfolgreich erstellt!
+chat.personalWorld.updated=Persönliche Dimension erfolgreich aktualisiert!
+chat.personalWorld.relinked=Portal erfolgreich in Dimension %d neu verknüpft!
+chat.personalWorld.relinked.error=Portal wurde nicht neu verknüpft, da dies den Zugang zur Dimension verlieren würde.
+chat.personalWorld.proximity=Zu nah an einem anderen Portal.
+chat.personalWorld.denied=Einstellungen nicht geändert: Zugriff verweigert.
+chat.personalWorld.badLayers=Einstellungen nicht geändert: Verbotene Blockschichten verwendet.
+
+gui.personalWorld.voidWorld=Leere Welt
+gui.personalWorld.biome=Biomname
+gui.personalWorld.presets=Vorlagen
+gui.personalWorld.layers=Ebenen
+
+gui.personalWorld.skyColor=Himmelsfarbe
+gui.personalWorld.skyColor.red=Rot:
+gui.personalWorld.skyColor.green=Grün:
+gui.personalWorld.skyColor.blue=Blau:
+gui.personalWorld.starBrightness=Sternenhelligkeit
+
+gui.personalWorld.vegetation=Blattwerk
+gui.personalWorld.trees=Bäume
+gui.personalWorld.weather=Wetter
+gui.personalWorld.clouds=Wolken
+
+gui.personalWorld.invalidSyntax=Ungültige Syntax
+gui.personalWorld.notAllowed=Durch Serverkonfiguration nicht erlaubt
+
+gui.personalWorld.skyType.VANILLA=Standardhimmel
+gui.personalWorld.skyType.BARNADA_C=Barnada C Himmel
+gui.personalWorld.skyType.GARDEN_OF_GLASS=Garden of Glass Himmel
+
+commands.pspace.usage=/pspace (give-portal player DIM [X] [Y] [Z])|(tpx player DIM [X Y Z])|(ls)|(where player)|(allow-worldgen-change DIM)
+commands.pspace.badDimension=Die angegebene Dimension existiert nicht.
+commands.pspace.where=Spieler %s befindet sich in Dimension %d.
+commands.pspace.tpx=Spieler %s wurde teleportiert zu %d: %d, %d, %d.
+commands.pspace.allow-worldgen-change=Spieler %s hat Weltgenerierungseinstellungen für Dimension %d freigeschaltet.

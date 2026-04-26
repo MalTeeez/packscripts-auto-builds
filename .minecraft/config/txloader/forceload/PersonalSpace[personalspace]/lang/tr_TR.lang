@@ -1,0 +1,41 @@
+tile.air.name=Hava
+tile.personalSpacePortal.name=Kişisel Boyut Geçidi
+tile.personalSpacePortalLegacy.name=Eski Kişisel Boyut Geçidi (Eski Sürüm)
+
+chat.overworldPersonalDimension=Kişisel boyutlar sadece ana dünyadan yaratılabilir
+chat.personalWorld.created=Kişisel boyut başarıyla yaratıldı!
+chat.personalWorld.updated=Kişisel boyut başarıyla güncellendi!
+chat.personalWorld.relinked=Portal %d boyutunda başarıyla yeniden bağlandı
+chat.personalWorld.relinked.error=Portal yeniden bağlanmadı çünkü boyuta erişimin kaybedilmesine neden olacaktı.
+chat.personalWorld.proximity=Başka portala çok yakın.
+chat.personalWorld.denied=Ayarlar değiştirilmedi: erişim reddedildi.
+chat.personalWorld.badLayers=Ayarlar değiştirilmedi: yasaklı blok katmanları kullanılıyor.
+
+gui.personalWorld.voidWorld=Boşluk dünya
+gui.personalWorld.biome=Biyom ismi
+gui.personalWorld.presets=Ön Ayarlar
+gui.personalWorld.layers=Katmanlar
+
+gui.personalWorld.skyColor=Gökyüzü rengi
+gui.personalWorld.skyColor.red=Kırmızı:
+gui.personalWorld.skyColor.green=Yeşil:
+gui.personalWorld.skyColor.blue=Mavi:
+gui.personalWorld.starBrightness=Yıldız parlaklığı
+
+gui.personalWorld.vegetation=Bitki Tabakası
+gui.personalWorld.trees=Ağaçlar
+gui.personalWorld.weather=Hava durumu
+gui.personalWorld.clouds=Bulutlar
+
+gui.personalWorld.invalidSyntax=Geçersiz Sözdizimi
+gui.personalWorld.notAllowed=Sunucu yapılandırması tarafından izin verilmiyor
+
+gui.personalWorld.skyType.VANILLA=Vanilla gökyüzü
+gui.personalWorld.skyType.BARNADA_C=Barnada C gökyüzü
+gui.personalWorld.skyType.GARDEN_OF_GLASS=Camlar Bahçesi gökyüzü
+
+commands.pspace.usage=/pspace (give-portal player DIM [X] [Y] [Z])|(tpx player DIM [X Y Z])|(ls)|(where player)|(allow-worldgen-change DIM)
+commands.pspace.badDimension=Belirtilen boyut mevcut değil
+commands.pspace.where=Oyuncu %s %d boyutunda
+commands.pspace.tpx=Oyuncu %s %d'ye ışınlandı: %d, %d, %d
+commands.pspace.allow-worldgen-change=Oyuncu %s %d boyutu için boyut üretim ayarlarının kilidini açtı
