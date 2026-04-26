@@ -1,0 +1,87 @@
+{
+    "RELATIVE_INSTANCE_DIRECTORY": "./",
+    "MOD_BASE_DIR": "./.minecraft/mods",
+    "ANNOTATED_FILE": "./annotated_mods.json",
+    "PACKAGING": {
+        "PACK_NAME": "GTNH Daily",
+        "PACKAGE_DIRECTORY": "./packaging/",
+        "REMOTE_MANIFEST_PROJECT": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/gtnh-daily",
+        "PACK_VARIANTS": {
+            "client": {
+                "TYPE": "client",
+                "REQUIRED_MOD_TAGS": [
+                    "SIDE.CLIENT"
+                ],
+                "EXCLUDED_MOD_TAGS": [],
+                "TRACK_INCLUDE_PATHS": [
+                    "./.minecraft"
+                ],
+                "FORCE_INCLUDE_PATHS": [
+                    {
+                        "relative_path": "./packaging/unsup.jar",
+                        "include_as": "minecraft/unsup.jar"
+                    },
+                    {
+                        "relative_path": "./packaging/client/unsup.ini",
+                        "include_as": "minecraft/unsup.ini"
+                    },
+                    {
+                        "relative_path": "./packaging/client/instance.cfg",
+                        "include_as": "instance.cfg"
+                    },
+                    {
+                        "relative_path": "./libraries",
+                        "include_as": "libraries"
+                    },
+                    {
+                        "relative_path": "./patches",
+                        "include_as": "patches"
+                    },
+                    {
+                        "relative_path": "./mmc-pack.json",
+                        "include_as": "mmc-pack.json"
+                    },
+                    {
+                        "relative_path": "./gtnh_icon.png",
+                        "include_as": "gtnh_icon.png"
+                    }
+                ],
+                "EXCLUDE_FROM_INCLUDE_PATHS": [
+                    "./.minecraft/mods/disabled_mods"
+                ],
+                "EXCLUDE_PATTERNS": [
+                    "\\.git\\w+$"
+                ]
+            },
+            "server": {
+                "TYPE": "server",
+                "REQUIRED_MOD_TAGS": [
+                    "SIDE.SERVER"
+                ],
+                "EXCLUDED_MOD_TAGS": [],
+                "TRACK_INCLUDE_PATHS": [
+                    "./.minecraft/mods",
+                    "./.minecraft/config",
+                    "./.minecraft/scripts"
+                ],
+                "FORCE_INCLUDE_PATHS": [
+                    {
+                        "relative_path": "./packaging/unsup.jar",
+                        "include_as": "unsup.jar"
+                    },
+                    {
+                        "relative_path": "./packaging/server/unsup.ini",
+                        "include_as": "unsup.ini"
+                    }
+                ],
+                "EXCLUDE_FROM_INCLUDE_PATHS": [
+                    "./.minecraft/mods/disabled_mods"
+                ],
+                "EXCLUDE_PATTERNS": [
+                    "\\.git\\w+$"
+                ]
+            }
+        },
+        "MAX_WORKER_THREADS": 10
+    }
+}
