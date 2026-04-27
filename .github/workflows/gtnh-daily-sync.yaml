@@ -54,6 +54,7 @@ jobs:
             ! -path './packscripts*' \
             -delete
 
+          ls -la "/tmp/gtnh-unpacked/GT New Horizons daily/.minecraft/mods/
           cp -r --no-preserve=mode "/tmp/gtnh-unpacked/GT New Horizons daily/". .
 
       - name: Auto-enroll large files in Git LFS
