@@ -62,13 +62,13 @@ jobs:
         run: |
           git lfs install
           rm -f .gitattributes
+          pwd
+          ls -la
           find . -mindepth 1 \
             ! -path './.git*' \
             ! -path './packscripts*' \
             -size +10M \
-            | sed 's|.*\.\([^.]*\)$|\1|' \
-            | sort -u \
-            | xargs -I{} git lfs track "*.{}"
+            | xargs -I{} git lfs track "{}"
 
       - name: Commit pack snapshot
         run: |
