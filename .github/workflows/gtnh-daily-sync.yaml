@@ -32,7 +32,7 @@ jobs:
             --jq '.artifacts[] | select(.name | contains("mmcprism-new-java")) | .id')
           gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${artifact_id}/zip" \
-            --output /tmp/gtnh-artifact/artifact.zip
+            > /tmp/gtnh-artifact/artifact.zip
 
       - name: Unpack artifact
         run: |
