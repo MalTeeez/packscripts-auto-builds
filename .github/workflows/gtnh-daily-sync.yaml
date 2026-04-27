@@ -11,14 +11,14 @@ on:
         required: true
 
 permissions:
-  contents: write
+  contents: write # push commit
 
 jobs:
   sync:
     runs-on: ubuntu-24.04
     steps:
       - name: Check out gtnh-daily branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: gtnh-daily
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -51,11 +51,7 @@ jobs:
           ls /tmp/gtnh-unpacked/
 
           # Clear existing pack contents, preserve repo files
-          find . -mindepth 1 \
-            ! -path './.git*' \
-            ! -path './.github*' \
-            ! -path './packscripts*' \
-            -delete
+          rm -rf .minecraft libraries patches gtnh_icon.png instance.cfg mmc-pack.json 
 
           inner_dir="/tmp/gtnh-unpacked/GT New Horizons daily"
           chmod -R u+rX "$inner_dir"
@@ -82,20 +78,14 @@ jobs:
           git push origin "daily-${{ inputs.run_number }}"
 
       - name: Set up Bun
-        uses: oven-sh/setup-bun@v2
+        uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6
 
       - name: Run packscripts bootstrap
         working-directory: packscripts
-        run: bun main package bootstrap
+        run: PACKSCRIPTS_IS_LIMITED_ENV=1 bun main package bootstrap
 
       - name: Commit generated manifests
         run: |
           git add -A
           git diff --cached --quiet || git commit -m "chore: bootstrap manifests for daily-${{ inputs.run_number }}"
           git push origin gtnh-daily
-
-      - name: Update last processed run number
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh variable set LAST_RUN_NUMBER --body "${{ inputs.run_number }}"

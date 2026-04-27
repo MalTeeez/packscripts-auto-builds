@@ -25,7 +25,8 @@ jobs:
 
           run_id=$(echo "$latest" | jq -r '.id')
           run_number=$(echo "$latest" | jq -r '.run_number')
-          last_processed=${{ vars.LAST_RUN_NUMBER || 0 }}
+          last_processed=$(gh api "repos/${{ github.repository }}/git/refs/tags" \
+            --jq '[.[] | select(.ref | startswith("refs/tags/daily-")) | .ref | ltrimstr("refs/tags/daily-")] | map(tonumber) | max // 0')
 
           echo "Latest run: #$run_number (id: $run_id)"
           echo "Last processed: #$last_processed"
