@@ -54,7 +54,7 @@ jobs:
             ! -path './packscripts*' \
             -delete
 
-          cp -r /tmp/gtnh-unpacked/. .
+          cp -r --no-preserve=mode "/tmp/gtnh-unpacked/GT New Horizons daily/". .
 
       - name: Auto-enroll large files in Git LFS
         run: |
