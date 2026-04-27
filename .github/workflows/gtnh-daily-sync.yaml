@@ -2,24 +2,18 @@ name: Sync GTNH Daily Builds
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '20 5 * * *' # 5:20am UTC, ~2hrs after DAXXL's 3:20am build
+    inputs:
+      run_id:
+        type: string
+        required: true
+      run_number:
+        type: string
+        required: true
 
 jobs:
   sync:
     runs-on: ubuntu-24.04
     steps:
-      - name: Get latest successful DAXXL daily run
-        id: daxxl
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          run=$(gh api \
-            "repos/GTNewHorizons/DreamAssemblerXXL/actions/workflows/daily-modpack-build.yml/runs?status=success&per_page=1" \
-            --jq '.workflow_runs[0] | {id: .id, run_number: .run_number}')
-          echo "run_id=$(echo "$run" | jq -r '.id')" >> "$GITHUB_OUTPUT"
-          echo "run_number=$(echo "$run" | jq -r '.run_number')" >> "$GITHUB_OUTPUT"
-
       - name: Check out gtnh-daily branch
         uses: actions/checkout@v4
         with:
@@ -28,30 +22,19 @@ jobs:
           fetch-depth: 0 # needed for tagging
           submodules: true
 
-      - name: Check if already processed
-        id: check
-        run: |
-          if [ -f .last-run-id ] && [ "$(cat .last-run-id)" = "${{ steps.daxxl.outputs.run_id }}" ]; then
-            echo "skip=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "skip=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Download Prism zip artifact
-        if: steps.check.outputs.skip == 'false'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p /tmp/gtnh-artifact
           artifact_id=$(gh api \
-            "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ steps.daxxl.outputs.run_id }}/artifacts" \
+            "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts" \
             --jq '.artifacts[] | select(.name | contains("mmcprism-new-java")) | .id')
           gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${artifact_id}/zip" \
             --output /tmp/gtnh-artifact/artifact.zip
 
       - name: Unpack artifact
-        if: steps.check.outputs.skip == 'false'
         run: |
           # Outer zip (GitHub artifact wrapper) -> inner zip (actual pack)
           unzip -o /tmp/gtnh-artifact/artifact.zip -d /tmp/gtnh-artifact/
@@ -66,14 +49,12 @@ jobs:
             ! -path './.git*' \
             ! -path './.github*' \
             ! -path './packscripts*' \
-            ! -name '.last-run-id' \
             -delete
 
           # Copy contents of "GT New Horizons daily/" to repo root
           cp -r "$inner_dir"/. .
 
       - name: Auto-enroll large files in Git LFS
-        if: steps.check.outputs.skip == 'false'
         run: |
           git lfs install
           rm -f .gitattributes
@@ -86,29 +67,30 @@ jobs:
             | xargs -I{} git lfs track "*.{}"
 
       - name: Commit pack snapshot
-        if: steps.check.outputs.skip == 'false'
         run: |
-          echo "${{ steps.daxxl.outputs.run_id }}" > .last-run-id
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore: sync GTNH daily-${{ steps.daxxl.outputs.run_number }} (DAXXL run ${{ steps.daxxl.outputs.run_id }})"
-          git tag "daily-${{ steps.daxxl.outputs.run_number }}"
+          git commit -m "chore: sync GTNH daily-${{ inputs.run_number }} (DAXXL run ${{ inputs.run_id }})"
+          git tag "daily-${{ inputs.run_number }}"
           git push origin gtnh-daily
-          git push origin "daily-${{ steps.daxxl.outputs.run_number }}"
+          git push origin "daily-${{ inputs.run_number }}"
 
       - name: Set up Bun
-        if: steps.check.outputs.skip == 'false'
         uses: oven-sh/setup-bun@v2
 
       - name: Run packscripts bootstrap
-        if: steps.check.outputs.skip == 'false'
         working-directory: packscripts
         run: bun main package bootstrap
 
       - name: Commit generated manifests
-        if: steps.check.outputs.skip == 'false'
         run: |
           git add -A
-          git diff --cached --quiet || git commit -m "chore: bootstrap manifests for daily-${{ steps.daxxl.outputs.run_number }}"
+          git diff --cached --quiet || git commit -m "chore: bootstrap manifests for daily-${{ inputs.run_number }}"
           git push origin gtnh-daily
+
+      - name: Update last processed run number
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh variable set LAST_RUN_NUMBER --body "${{ inputs.run_number }}"
