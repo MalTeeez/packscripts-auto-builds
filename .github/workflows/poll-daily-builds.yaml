@@ -1,5 +1,8 @@
 name: Poll GTNH Daily Builds
 
+permissions:
+  actions: write
+
 on:
   workflow_dispatch:
   schedule:
