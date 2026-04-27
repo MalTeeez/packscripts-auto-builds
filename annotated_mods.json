@@ -563,7 +563,7 @@
         }
     },
     "DraconicEvolution": {
-        "file_path": "./.minecraft/mods/Draconic-Evolution-1.5.22-GTNH.jar",
+        "file_path": "./.minecraft/mods/Draconic-Evolution-1.5.24-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -636,7 +636,7 @@
         }
     },
     "EnderIO": {
-        "file_path": "./.minecraft/mods/EnderIO-2.10.24.jar",
+        "file_path": "./.minecraft/mods/EnderIO-2.10.25.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -779,7 +779,7 @@
         }
     },
     "Forestry": {
-        "file_path": "./.minecraft/mods/Forestry-4.11.13.jar",
+        "file_path": "./.minecraft/mods/Forestry-4.11.14.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1191,7 +1191,7 @@
         }
     },
     "InfernalMobs": {
-        "file_path": "./.minecraft/mods/InfernalMobs-1.10.3-GTNH.jar",
+        "file_path": "./.minecraft/mods/InfernalMobs-1.10.4-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1237,7 +1237,7 @@
         }
     },
     "JABBA": {
-        "file_path": "./.minecraft/mods/JABBA-1.5.19.jar",
+        "file_path": "./.minecraft/mods/JABBA-1.5.20.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1276,7 +1276,8 @@
             "BuildCraft|Robotics",
             "modularui2",
             "unimixins",
-            "NotEnoughItems"
+            "NotEnoughItems",
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -1390,7 +1391,7 @@
         }
     },
     "MouseTweaks": {
-        "file_path": "./.minecraft/mods/MouseTweaks-2.5.0-GTNH.jar",
+        "file_path": "./.minecraft/mods/MouseTweaks-2.5.1-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1414,7 +1415,7 @@
         }
     },
     "MrTJPCoreMod": {
-        "file_path": "./.minecraft/mods/MrTJPCore-1.3.5.jar",
+        "file_path": "./.minecraft/mods/MrTJPCore-1.3.6.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1441,7 +1442,7 @@
         }
     },
     "NEIAddons": {
-        "file_path": "./.minecraft/mods/NEIAddons-1.18.0.jar",
+        "file_path": "./.minecraft/mods/NEIAddons-1.18.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1523,7 +1524,7 @@
         }
     },
     "NotEnoughItems": {
-        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.91-GTNH.jar",
+        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.93-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1606,7 +1607,7 @@
         }
     },
     "OpenComputers": {
-        "file_path": "./.minecraft/mods/OpenComputers-1.12.37-GTNH.jar",
+        "file_path": "./.minecraft/mods/OpenComputers-1.12.38-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -2114,7 +2115,7 @@
         }
     },
     "TConstruct": {
-        "file_path": "./.minecraft/mods/TConstruct-1.14.56-GTNH.jar",
+        "file_path": "./.minecraft/mods/TConstruct-1.14.58-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -2329,7 +2330,9 @@
         "wants": [
             "forgelin",
             "Thaumcraft",
-            "unimixins"
+            "unimixins",
+            "Forgelin",
+            "SpongeMixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -2646,7 +2649,8 @@
         "wanted_by": [],
         "wants": [
             "witchery",
-            "unimixins"
+            "unimixins",
+            "spongemixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -2907,7 +2911,7 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.1.18.jar",
+        "file_path": "./.minecraft/mods/angelica-2.1.19.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -2960,7 +2964,7 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-909-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-911-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -3002,7 +3006,7 @@
         "wanted_by": [],
         "wants": [
             "unimixins",
-            "unimixins"
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -3053,7 +3057,8 @@
             "Thaumcraft",
             "unimixins",
             "gtnhlib",
-            "TC4Tweaks|API|InfusionRecipeLib"
+            "TC4Tweaks|API|InfusionRecipeLib",
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -3189,7 +3194,7 @@
         }
     },
     "betterbuilderswands": {
-        "file_path": "./.minecraft/mods/BetterBuildersWands-0.13.10-GTNH.jar",
+        "file_path": "./.minecraft/mods/BetterBuildersWands-0.13.11-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -3280,7 +3285,7 @@
         }
     },
     "betterquesting": {
-        "file_path": "./.minecraft/mods/BetterQuesting-3.8.36-GTNH.jar",
+        "file_path": "./.minecraft/mods/BetterQuesting-3.8.37-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -3356,7 +3361,7 @@
         }
     },
     "bogosorter": {
-        "file_path": "./.minecraft/mods/bogosorter-1.3.25-GTNH.jar",
+        "file_path": "./.minecraft/mods/bogosorter-1.3.26-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -3420,7 +3425,8 @@
         "notes": "",
         "wanted_by": [],
         "wants": [
-            "unimixins"
+            "unimixins",
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -3535,7 +3541,7 @@
         }
     },
     "chromatictooltipscompat": {
-        "file_path": "./.minecraft/mods/chromatictooltipscompat-1.0.23-GTNH.jar",
+        "file_path": "./.minecraft/mods/chromatictooltipscompat-1.0.25-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4004,7 +4010,7 @@
         }
     },
     "etfuturum": {
-        "file_path": "./.minecraft/mods/etfuturum-2.6.20-GTNH.jar",
+        "file_path": "./.minecraft/mods/etfuturum-2.6.22-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4028,7 +4034,7 @@
         }
     },
     "extremesoundmuffler": {
-        "file_path": "./.minecraft/mods/esm-legacy-1.7.10-1.0.14.jar",
+        "file_path": "./.minecraft/mods/esm-legacy-1.7.10-1.0.15.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4167,7 +4173,7 @@
         }
     },
     "gendustry": {
-        "file_path": "./.minecraft/mods/gendustry-1.9.8-GTNH.jar",
+        "file_path": "./.minecraft/mods/gendustry-1.9.9-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4192,7 +4198,7 @@
         }
     },
     "gravisuiteneo": {
-        "file_path": "./.minecraft/mods/gravisuiteneo-1.3.8.jar",
+        "file_path": "./.minecraft/mods/gravisuiteneo-1.3.9.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4217,7 +4223,7 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.457.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.461.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4417,8 +4423,8 @@
         "wanted_by": [],
         "wants": [
             "unimixins",
-            "unimixins",
-            "gtnhlib"
+            "gtnhlib",
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -4502,7 +4508,7 @@
         }
     },
     "ironchestminecarts": {
-        "file_path": "./.minecraft/mods/IronChestMinecarts-1.2.0.jar",
+        "file_path": "./.minecraft/mods/IronChestMinecarts-1.2.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4537,7 +4543,8 @@
             "irontankminecarts"
         ],
         "wants": [
-            "BuildCraft|Core"
+            "BuildCraft|Core",
+            "BuildCraft|Factory"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -4668,7 +4675,7 @@
         }
     },
     "malisisdoors": {
-        "file_path": "./.minecraft/mods/malisisdoors-1.19.4-GTNH.jar",
+        "file_path": "./.minecraft/mods/malisisdoors-1.19.5-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4798,7 +4805,8 @@
         ],
         "wants": [
             "unimixins",
-            "NotEnoughItems"
+            "NotEnoughItems",
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -4813,7 +4821,7 @@
         }
     },
     "modularui2": {
-        "file_path": "./.minecraft/mods/modularui2-2.3.57-1.7.10.jar",
+        "file_path": "./.minecraft/mods/modularui2-2.3.58-1.7.10.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4827,7 +4835,8 @@
         ],
         "wants": [
             "unimixins",
-            "gtnhlib"
+            "gtnhlib",
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -4842,7 +4851,7 @@
         }
     },
     "naturescompass": {
-        "file_path": "./.minecraft/mods/naturescompass-1.5.0-GTNH.jar",
+        "file_path": "./.minecraft/mods/naturescompass-1.5.1-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4864,7 +4873,7 @@
         }
     },
     "navigator": {
-        "file_path": "./.minecraft/mods/navigator-1.1.0.jar",
+        "file_path": "./.minecraft/mods/navigator-1.1.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4888,7 +4897,7 @@
         }
     },
     "neenergistics": {
-        "file_path": "./.minecraft/mods/NotEnoughEnergistics-1.7.28.jar",
+        "file_path": "./.minecraft/mods/NotEnoughEnergistics-1.7.29.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4913,7 +4922,7 @@
         }
     },
     "neicustomdiagram": {
-        "file_path": "./.minecraft/mods/NEICustomDiagram-1.8.19.jar",
+        "file_path": "./.minecraft/mods/NEICustomDiagram-1.8.20.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4937,7 +4946,7 @@
         }
     },
     "neid": {
-        "file_path": "./.minecraft/mods/notenoughIDs-2.1.10.jar",
+        "file_path": "./.minecraft/mods/notenoughIDs-2.1.11.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4961,7 +4970,7 @@
         }
     },
     "neiintegration": {
-        "file_path": "./.minecraft/mods/NEIIntegration-1.5.2.jar",
+        "file_path": "./.minecraft/mods/NEIIntegration-1.5.3.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -5007,7 +5016,7 @@
         }
     },
     "nutrition": {
-        "file_path": "./.minecraft/mods/nutrition-0.1.7.jar",
+        "file_path": "./.minecraft/mods/nutrition-0.1.8.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -5324,7 +5333,8 @@
         "notes": "",
         "wanted_by": [],
         "wants": [
-            "unimixins"
+            "unimixins",
+            "gtnhmixins"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -5566,7 +5576,8 @@
         "wanted_by": [],
         "wants": [
             "appliedenergistics2",
-            "Thaumcraft"
+            "Thaumcraft",
+            "thaumcraft"
         ],
         "enabled": true,
         "other_mod_ids": [],
