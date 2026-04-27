@@ -38,7 +38,7 @@ jobs:
         run: |
           # Outer artifact zip -> inner pack zip
           unzip -o /tmp/gtnh-artifact/artifact.zip -d /tmp/gtnh-artifact/
-          pack_zip=$(find /tmp/gtnh-artifact -name "*.zip" | head -n1)
+          pack_zip=$(find /tmp/gtnh-artifact -name "*.zip" ! -name "artifact.zip" | head -n1)
 
           # Inner pack zip -> unpack to temp dir
           mkdir -p /tmp/gtnh-unpacked
