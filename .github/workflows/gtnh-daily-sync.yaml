@@ -41,6 +41,7 @@ jobs:
           pack_zip=$(find /tmp/gtnh-artifact -name "*.zip" | head -n1)
 
           # Inner zip -> "GT New Horizons daily/" directory
+          unzip -l "$pack_zip" | head -20
           unzip -o "$pack_zip" -d /tmp/gtnh-unpacked/
           inner_dir=$(find /tmp/gtnh-unpacked -mindepth 1 -maxdepth 1 -type d | head -n1)
 
