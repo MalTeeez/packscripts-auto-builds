@@ -5,7 +5,8 @@
     "PACKAGING": {
         "PACK_NAME": "GTNH Daily",
         "PACKAGE_DIRECTORY": "./packaging/",
-        "REMOTE_MANIFEST_PROJECT": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/gtnh-daily",
+        "GIT_REMOTE_URL": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/gtnh-daily",
+        "GIT_LFS_REMOTE_URL": "https://github.com/malteeez/packscripts-auto-builds/raw/gtnh-daily",
         "PACK_VARIANTS": {
             "client": {
                 "TYPE": "client",
