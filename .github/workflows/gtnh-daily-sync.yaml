@@ -88,7 +88,7 @@ jobs:
           # Dont do this for now, it might be a bit to expensive
           # bun main refresh
 
-          bun main package build
+          bun main package build -t daily-${{ inputs.run_number }}
           bun main package bundle
 
       - name: Commit generated manifests

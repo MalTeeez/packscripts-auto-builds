@@ -20,11 +20,11 @@
                 "FORCE_INCLUDE_PATHS": [
                     {
                         "relative_path": "./packaging/unsup.jar",
-                        "include_as": "minecraft/unsup.jar"
+                        "include_as": ".minecraft/unsup.jar"
                     },
                     {
                         "relative_path": "./packaging/client/unsup.ini",
-                        "include_as": "minecraft/unsup.ini"
+                        "include_as": ".minecraft/unsup.ini"
                     },
                     {
                         "relative_path": "./packaging/client/instance.cfg",
