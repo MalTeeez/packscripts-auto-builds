@@ -80,12 +80,19 @@ jobs:
       - name: Set up Bun
         uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6
 
-      - name: Run packscripts bootstrap
+      - name: Run packscripts
         working-directory: packscripts
-        run: PACKSCRIPTS_IS_LIMITED_ENV=1 bun main package bootstrap
+        env:
+          PACKSCRIPTS_IS_LIMITED_ENV: 1
+        run: |
+          # Dont do this for now, it might be a bit to expensive
+          # bun main refresh
+
+          bun main package build
+          bun main package bundle
 
       - name: Commit generated manifests
         run: |
           git add -A
-          git diff --cached --quiet || git commit -m "chore: bootstrap manifests for daily-${{ inputs.run_number }}"
+          git diff --cached --quiet || git commit -m "chore: version manifests for daily-${{ inputs.run_number }}"
           git push origin gtnh-daily
