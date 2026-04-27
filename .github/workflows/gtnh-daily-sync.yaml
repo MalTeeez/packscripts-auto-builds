@@ -36,14 +36,16 @@ jobs:
 
       - name: Unpack artifact
         run: |
-          # Outer zip (GitHub artifact wrapper) -> inner zip (actual pack)
+          # Outer artifact zip -> inner pack zip
           unzip -o /tmp/gtnh-artifact/artifact.zip -d /tmp/gtnh-artifact/
           pack_zip=$(find /tmp/gtnh-artifact -name "*.zip" | head -n1)
 
-          # Inner zip -> "GT New Horizons daily/" directory
-          unzip -l "$pack_zip" | head -20
+          # Inner pack zip -> contents (has "GT New Horizons daily/" at root)
           unzip -o "$pack_zip" -d /tmp/gtnh-unpacked/
           inner_dir=$(find /tmp/gtnh-unpacked -mindepth 1 -maxdepth 1 -type d | head -n1)
+
+          echo "inner_dir: $inner_dir"
+          ls "$inner_dir"
 
           # Clear existing pack contents, preserve repo files
           find . -mindepth 1 \
@@ -52,7 +54,6 @@ jobs:
             ! -path './packscripts*' \
             -delete
 
-          # Copy contents of "GT New Horizons daily/" to repo root
           cp -r "$inner_dir"/. .
 
       - name: Auto-enroll large files in Git LFS
