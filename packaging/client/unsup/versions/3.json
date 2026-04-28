@@ -3,14 +3,6 @@
     "hash_function": "SHA-2 256",
     "changes": [
         {
-            "path": "instance.cfg",
-            "from_hash": "7a24d38380c16f2b3326962c240179495dfe0f54a16f111927d08450c995a866",
-            "from_size": 368,
-            "to_hash": "190eae77f19ddeb0a2b25e6d911296d952f573f4dbaca3130ddba967cbfbb679",
-            "to_size": 361,
-            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa9470303ba894bce2763120b49b262399637ab/packaging/client/instance.cfg"
-        },
-        {
             "path": ".minecraft/unsup.jar",
             "from_hash": "cbce18f0dc255a7b622abf1cbfed73811e8713f75ca6d56ee4d4b195184a0d41",
             "from_size": 950208,

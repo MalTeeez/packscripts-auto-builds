@@ -28,7 +28,8 @@
                     },
                     {
                         "relative_path": "./packaging/client/instance.cfg",
-                        "include_as": "instance.cfg"
+                        "include_as": "instance.cfg",
+                        "dont_track": true
                     },
                     {
                         "relative_path": "./libraries",
