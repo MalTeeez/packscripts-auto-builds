@@ -20,6 +20,11 @@
                 "FORCE_INCLUDE_PATHS": [
                     {
                         "relative_path": "./packaging/unsup.jar",
+                        "include_as": ".minecraft/unsup.jar",
+                        "dont_track": true
+                    },
+                    {
+                        "relative_path": "./packaging/unsup.jar",
                         "include_as": ".minecraft/unsup.jar"
                     },
                     {
