@@ -1,0 +1,58 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/Forestry-4.11.17.jar",
+            "from_hash": "7eabd371e8c1b769ecb033be7ee4d7bf738fdb0b0afa19f5f559992b08f38e68",
+            "from_size": 3388515,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.472.jar",
+            "from_hash": "d1479f9126f4891128ec523a0b19d387365a1ddbff94aad99e08db86f4d5ef68",
+            "from_size": 57542661,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.474.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "60a30a1a530b453463c20510f1009f8b36e2adfb03154b62cb5cc619c3b18119",
+            "to_size": 57545641,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/4e9762f58633f80f4dcd7be7e0de36778f1fe5a0/.minecraft/mods/gregtech-5.09.52.474.jar"
+        },
+        {
+            "path": ".minecraft/mods/Forestry-4.11.18.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2a843458f681b12287d1b665cfcc109f47c09bab1f14cdf0c9d77361e62062d6",
+            "to_size": 3388620,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4e9762f58633f80f4dcd7be7e0de36778f1fe5a0/.minecraft/mods/Forestry-4.11.18.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-919-GTNH.jar",
+            "from_hash": "461f834015a46bc60678b92356107502f3320fdd1a842e13fa0a898b9d0aed5a",
+            "from_size": 4213177,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-920-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d2059a482dbea518aeec5133b8dc7927d0373aafba6ea928fcd2578e237f616a",
+            "to_size": 4213204,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4e9762f58633f80f4dcd7be7e0de36778f1fe5a0/.minecraft/mods/appliedenergistics2-rv3-beta-920-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
