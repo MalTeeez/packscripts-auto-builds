@@ -1,0 +1,58 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.42-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2fe87103b2485578eef09fb3f315637e5ef7b7efbceb7b200c6d4c2fc6916223",
+            "to_size": 1911390,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4615041ee388fa7b40aa79ccf1001b79b518ec21/.minecraft/mods/BetterQuesting-3.8.42-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.40-GTNH.jar",
+            "from_hash": "109c1f650f638287a8ba6018c064f05e1c78126cc4566ef13869f91579d420c4",
+            "from_size": 1906721,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-922-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3703c042e0cf6d11b9a2edd8173cdb855c24eeb611ab42040645bf4ef015f7fb",
+            "to_size": 4213409,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4615041ee388fa7b40aa79ccf1001b79b518ec21/.minecraft/mods/appliedenergistics2-rv3-beta-922-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/littletiles-1.6.24.jar",
+            "from_hash": "35689fff01f0497cd86b45643c858bbf0e8423d026de18afbba8d4cd7277881f",
+            "from_size": 642812,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/littletiles-1.6.25.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7915c09d337cfece09258d1ea93c9962673860fb8e49da51b4a14541be91908f",
+            "to_size": 647697,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4615041ee388fa7b40aa79ccf1001b79b518ec21/.minecraft/mods/littletiles-1.6.25.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-920-GTNH.jar",
+            "from_hash": "d2059a482dbea518aeec5133b8dc7927d0373aafba6ea928fcd2578e237f616a",
+            "from_size": 4213204,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
