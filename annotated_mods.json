@@ -3416,7 +3416,7 @@
         }
     },
     "betterquesting": {
-        "file_path": "./.minecraft/mods/BetterQuesting-3.8.42-GTNH.jar",
+        "file_path": "./.minecraft/mods/BetterQuesting-3.8.43-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -3432,14 +3432,14 @@
             "cb4bq"
         ],
         "update_state": {
-            "version": "3.8.42-GTNH",
+            "version": "3.8.43-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "2fe87103b2485578eef09fb3f315637e5ef7b7efbceb7b200c6d4c2fc6916223"
+            "sha256_sum": "4f0b9605db2bc58c521ad49a56e1f043f74379816e8bc1de029c5c26b518c8b1"
         }
     },
     "blocklimiter": {
@@ -4042,7 +4042,7 @@
         }
     },
     "dreamcraft": {
-        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.8.226.jar",
+        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.8.232.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4060,14 +4060,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.8.226",
+            "version": "2.8.232",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "72cfd2d4d788566de0fdc6f25faa80472d6e5cf516798aca3f52bd54f0050955"
+            "sha256_sum": "0337de41db348bb843d3b558330d1b890269fe6239368290b395350870288258"
         }
     },
     "duradisplay": {
@@ -4395,7 +4395,7 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.476.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.480.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4439,14 +4439,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.52.476",
+            "version": "5.09.52.480",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "4f827cba04a48c0582113a86a73400a135b582b6deeedcb857dec203825b2a1a"
+            "sha256_sum": "4726978312eb84095d06d7a7dd60bf8b3246ec16e9a84f64510a35a352582d02"
         }
     },
     "gtnhcredits": {
@@ -4473,12 +4473,12 @@
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.9.56.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.9.57.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.56/gtnhlib-0.9.56.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.9.57/gtnhlib-0.9.57.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4529,14 +4529,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.9.56",
+            "version": "0.9.57",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GH_RELEASE",
             "file_pattern": "",
-            "sha256_sum": "df9640f9e619d41151ade42c9d7f1864bb406109873d48ca491aab1545f76877"
+            "sha256_sum": "30889437c3219889f5a7771b8f8786b19f64b9dea4e7e7ea389ee59bda7b4b36"
         }
     },
     "gtnhtcwands": {
@@ -4592,12 +4592,12 @@
         }
     },
     "hodgepodge": {
-        "file_path": "./.minecraft/mods/hodgepodge-2.7.133.jar",
+        "file_path": "./.minecraft/mods/hodgepodge-2.7.134.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.133/hodgepodge-2.7.133.jar",
+        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.134/hodgepodge-2.7.134.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -4608,14 +4608,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.7.133",
+            "version": "2.7.134",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GH_RELEASE",
             "file_pattern": "",
-            "sha256_sum": "1ecda848cb60ed6059c1593b955bbac15a49be7167fc4a524778910cd0272e26"
+            "sha256_sum": "c59886b01e65ab333e6fb723a64c4f47d005b37e780996b7c1590a1a0c3ca18b"
         }
     },
     "holoinventory": {
@@ -4867,7 +4867,7 @@
         }
     },
     "malisisdoors": {
-        "file_path": "./.minecraft/mods/malisisdoors-1.19.7-GTNH.jar",
+        "file_path": "./.minecraft/mods/malisisdoors-1.19.8-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4882,18 +4882,18 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.19.7-GTNH",
+            "version": "1.19.8-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "2716e27006139466193a9927d8368b749233d38f9bad98ab1ec259414f7e2caa"
+            "sha256_sum": "93d8d72dd39bcc9702f94ea9ec59923f052a6a89b4f1d511a793a5da7b72ee56"
         }
     },
     "matter-manipulator": {
-        "file_path": "./.minecraft/mods/matter-manipulator-0.1.28-GTNH.jar",
+        "file_path": "./.minecraft/mods/matter-manipulator-0.1.29-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4905,14 +4905,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.1.28-GTNH",
+            "version": "0.1.29-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "659a460c9fdaf19670a97647ba55a993b406d6c35a9348ec4c84fc29b3198a74"
+            "sha256_sum": "d680eaf4bed903d2caa3f01790d5bd2b9b2dd8a9b4d2ac7aefa0340bbe3ba098"
         }
     },
     "mobsinfo": {
