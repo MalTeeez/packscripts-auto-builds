@@ -15,41 +15,43 @@
                 ],
                 "EXCLUDED_MOD_TAGS": [],
                 "TRACK_INCLUDE_PATHS": [
-                    "./.minecraft"
+                    {
+                        "path": "./.minecraft"
+                    }
                 ],
                 "FORCE_INCLUDE_PATHS": [
                     {
-                        "relative_path": "./packaging/unsup.jar",
+                        "path": "./packaging/unsup.jar",
                         "include_as": ".minecraft/unsup.jar.new"
                     },
                     {
-                        "relative_path": "./packaging/unsup-launcher.jar",
+                        "path": "./packaging/unsup-launcher.jar",
                         "include_as": ".minecraft/unsup-launcher.jar",
                         "dont_track": true
                     },
                     {
-                        "relative_path": "./packaging/client/unsup.ini",
+                        "path": "./packaging/client/unsup.ini",
                         "include_as": ".minecraft/unsup.ini"
                     },
                     {
-                        "relative_path": "./packaging/client/instance.cfg",
+                        "path": "./packaging/client/instance.cfg",
                         "include_as": "instance.cfg",
                         "dont_track": true
                     },
                     {
-                        "relative_path": "./libraries",
+                        "path": "./libraries",
                         "include_as": "libraries"
                     },
                     {
-                        "relative_path": "./patches",
+                        "path": "./patches",
                         "include_as": "patches"
                     },
                     {
-                        "relative_path": "./mmc-pack.json",
+                        "path": "./mmc-pack.json",
                         "include_as": "mmc-pack.json"
                     },
                     {
-                        "relative_path": "./gtnh_icon.png",
+                        "path": "./gtnh_icon.png",
                         "include_as": "gtnh_icon.png"
                     }
                 ],
@@ -67,9 +69,26 @@
                 ],
                 "EXCLUDED_MOD_TAGS": [],
                 "TRACK_INCLUDE_PATHS": [
-                    "./.minecraft/mods",
-                    "./.minecraft/config",
-                    "./.minecraft/scripts"
+                    {
+                        "path": "./.minecraft/mods",
+                        "include_as": "mods"
+                    },
+                    {
+                        "path": "./.minecraft/config",
+                        "include_as": "config"
+                    },
+                    {
+                        "path": "./.minecraft/scripts",
+                        "include_as": "scripts"
+                    },
+                    {
+                        "path": "./.minecraft/journeymap",
+                        "include_as": "journeymap"
+                    },
+                    {
+                        "path": "./.minecraft/serverutilities",
+                        "include_as": "serverutilities"
+                    }
                 ],
                 "FORCE_INCLUDE_PATHS": [
                     {
@@ -77,15 +96,21 @@
                         "include_as": "unsup.jar.new"
                     },
                     {
-                        "relative_path": "./packaging/server/unsup.ini",
-                        "include_as": "unsup.ini"
+                        "path": "./packaging/server",
+                        "include_as": ""
                     }
                 ],
                 "EXCLUDE_FROM_INCLUDE_PATHS": [
-                    "./.minecraft/mods/disabled_mods"
+                    "./.minecraft/mods/disabled_mods",
+                    "./packaging/server/unsup/"
                 ],
                 "EXCLUDE_PATTERNS": [
-                    "\\.git\\w+$"
+                    "\\.git\\w+$",
+                    "\\.minecraft\\/config\\/amazingtrophies\\/lang\\/(?!en_US)\\w{2}_\\w{2}\\.lang$",
+                    "\\.minecraft\\/config\\/Betterloadingscreen\\/tips\\/(?!en_US)\\w{2}_\\w{2}\\.txt$",
+                    "\\.minecraft\\/config\\/GTNewHorizons\\/CustomToolTips_\\w{2}_\\w{2}\\.xml$",
+                    "\\.minecraft\\/config\\/InGameInfoXML\\/InGameInfo_\\w{2}_\\w{2}\\.xml$",
+                    "\\.minecraft\\/mods\\/OpenSecurity\\/sounds\\/alarms\\/.+\\.ogg"
                 ]
             }
         },

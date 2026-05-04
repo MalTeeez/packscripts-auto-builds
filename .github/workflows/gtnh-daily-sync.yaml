@@ -25,48 +25,93 @@ jobs:
           fetch-depth: 0 # needed for tagging
           submodules: true
 
-      - name: Download Prism zip artifact
+      - name: Download pack zip artifacts
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdir -p /tmp/gtnh-artifact
-          artifact_id=$(gh api \
+          mkdir -p /tmp/gtnh-client /tmp/gtnh-server
+
+          client_id=$(gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts" \
             --jq '.artifacts[] | select(.name | contains("mmcprism-new-java")) | .id')
           gh api \
-            "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${artifact_id}/zip" \
-            > /tmp/gtnh-artifact/artifact.zip
+            "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${client_id}/zip" \
+            > /tmp/gtnh-client/artifact.zip
 
-      - name: Unpack artifact
+          server_id=$(gh api \
+            "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts" \
+            --jq '.artifacts[] | select(.name | contains("server-new-java")) | .id')
+          gh api \
+            "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${server_id}/zip" \
+            > /tmp/gtnh-server/artifact.zip
+
+      - name: Clear current state
+        run: rm -rf .minecraft libraries patches gtnh_icon.png instance.cfg mmc-pack.json
+
+      - name: Unpack client artifact & update current state from it
         run: |
-          # Outer artifact zip -> inner pack zip
-          unzip -o /tmp/gtnh-artifact/artifact.zip -d /tmp/gtnh-artifact/
-          pack_zip=$(find /tmp/gtnh-artifact -name "*.zip" ! -name "artifact.zip" | head -n1)
+          unzip -o /tmp/gtnh-client/artifact.zip -d /tmp/gtnh-client/
+          pack_zip=$(find /tmp/gtnh-client -name "*.zip" ! -name "artifact.zip" | head -n1)
+          mkdir -p /tmp/gtnh-client-unpacked
+          unzip -o "$pack_zip" -d /tmp/gtnh-client-unpacked/
 
-          # Inner pack zip -> unpack to temp dir
-          mkdir -p /tmp/gtnh-unpacked
-          unzip -o "$pack_zip" -d /tmp/gtnh-unpacked/
-
-          echo "Contents of unpacked zip:"
-          ls /tmp/gtnh-unpacked/
-
-          # Clear existing pack contents, preserve repo files
-          rm -rf .minecraft libraries patches gtnh_icon.png instance.cfg mmc-pack.json 
-
-          inner_dir="/tmp/gtnh-unpacked/GT New Horizons daily"
+          inner_dir="/tmp/gtnh-client-unpacked/GT New Horizons daily"
           chmod -R u+rX "$inner_dir"
           cp -r "$inner_dir/." .
 
+      - name: Unpack server artifact
+        run: |
+          unzip -o /tmp/gtnh-server/artifact.zip -d /tmp/gtnh-server/
+          pack_zip=$(find /tmp/gtnh-server -name "*.zip" ! -name "artifact.zip" | head -n1)
+          mkdir -p /tmp/gtnh-server-unpacked
+          unzip -o "$pack_zip" -d /tmp/gtnh-server-unpacked/
+
       - name: Set up Bun
         uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6
-        
-      - name: Refresh tracked mods with packscripts
+
+      - name: Run client pass
         working-directory: packscripts
         env:
           PACKSCRIPTS_IS_LIMITED_ENV: 1
           PACKSCRIPTS_GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          bun main refresh --existing_only
+          bun main refresh --toggle_tag SIDE.CLIENT
+
+      - name: Stage server artifact
+        run: |
+          mkdir -p packaging/server
+          find /tmp/gtnh-server-unpacked -maxdepth 1 ! -path /tmp/gtnh-server-unpacked \
+            \( -type f -o -name "libraries" \) \
+            | xargs -I{} mv {} packaging/server/
+
+          # Merge remaining server dirs (config, journeymap, etc.) into .minecraft, excluding mods (since me merge that later)
+          find /tmp/gtnh-server-unpacked -maxdepth 1 ! -path /tmp/gtnh-server-unpacked \
+            ! -name "mods" -type d \
+            | xargs -I{} cp -rn {} .minecraft/
+
+      - name: Swap mods folder for server pass
+        run: |
+          mv .minecraft/mods /tmp/gtnh-client-mods
+          cp -r /tmp/gtnh-server-unpacked/mods .minecraft/mods
+
+      - name: Run server pass
+        working-directory: packscripts
+        env:
+          PACKSCRIPTS_IS_LIMITED_ENV: 1
+          PACKSCRIPTS_GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bun main refresh --remove_untagged SIDE. --toggle_tag SIDE.SERVER
+
+      - name: Merge mods folders
+        run: |
+          cp -rn /tmp/gtnh-client-mods/. .minecraft/mods/
+
+      - name: Update direct links
+        working-directory: packscripts
+        env:
+          PACKSCRIPTS_IS_LIMITED_ENV: 1
+          PACKSCRIPTS_GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+        run: |
           bun main version verify_links
 
       - name: Auto-enroll large files in Git LFS
