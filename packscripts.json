@@ -92,17 +92,18 @@
                 ],
                 "FORCE_INCLUDE_PATHS": [
                     {
-                        "relative_path": "./packaging/unsup.jar",
+                        "path": "./packaging/unsup.jar",
                         "include_as": "unsup.jar.new"
                     },
                     {
-                        "path": "./packaging/server",
+                        "path": "./packaging/server/",
                         "include_as": ""
                     }
                 ],
                 "EXCLUDE_FROM_INCLUDE_PATHS": [
                     "./.minecraft/mods/disabled_mods",
-                    "./packaging/server/unsup/"
+                    "./packaging/server/unsup/",
+                    "./.minecraft/config/txloader"
                 ],
                 "EXCLUDE_PATTERNS": [
                     "\\.git\\w+$",
