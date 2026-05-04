@@ -65,6 +65,7 @@ jobs:
           pack_zip=$(find /tmp/gtnh-server -name "*.zip" ! -name "artifact.zip" | head -n1)
           mkdir -p /tmp/gtnh-server-unpacked
           unzip -o "$pack_zip" -d /tmp/gtnh-server-unpacked/
+          chmod -R u+rX /tmp/gtnh-server-unpacked
 
       - name: Set up Bun
         uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6
@@ -87,7 +88,7 @@ jobs:
           # Merge remaining server dirs (config, journeymap, etc.) into .minecraft, excluding mods (since me merge that later)
           find /tmp/gtnh-server-unpacked -maxdepth 1 ! -path /tmp/gtnh-server-unpacked \
             ! -name "mods" -type d \
-            | xargs -I{} cp -rn {} .minecraft/
+            | xargs -I{} cp -r --update=none {} .minecraft/
 
       - name: Swap mods folder for server pass
         run: |
