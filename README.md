@@ -10,7 +10,7 @@ Next, select your java 25 install under the instance settings, and tick the "Ski
 
 That's it, just launch the game now!
 
-### for servers
+### for servers (TBD; BROKEN FOR NOW)
 Download the starter zip from `https://github.com/MalTeeez/packscripts-auto-builds/raw/refs/heads/gtnh-daily/GTNH%20Daily-server.zip` (make sure to follow redirects), and unzip it.
 
 Make sure you agree to the eula before starting.
