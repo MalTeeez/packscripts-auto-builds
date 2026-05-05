@@ -46,7 +46,9 @@ jobs:
             > /tmp/gtnh-server/artifact.zip
 
       - name: Clear current state
-        run: rm -rf .minecraft libraries patches gtnh_icon.png instance.cfg mmc-pack.json
+        run: |
+          rm -rf .minecraft libraries patches gtnh_icon.png instance.cfg mmc-pack.json
+          find packaging/server -maxdepth 1 ! -path packaging/server ! -name 'unsup' -exec rm -rf {} +
 
       - name: Unpack client artifact & update current state from it
         run: |
@@ -103,9 +105,11 @@ jobs:
         run: |
           bun main refresh --remove_untagged SIDE. --toggle_tag SIDE.SERVER
 
-      - name: Merge mods folders
-        run: |
-          cp -rn /tmp/gtnh-client-mods/. .minecraft/mods/
+      - name: Merge mods folders from both variants
+        run: cp -r --update=none /tmp/gtnh-client-mods/. .minecraft/mods/
+
+      - name: Attach unsup launcher to server start
+        run: echo "-javaagent:unsup-launcher.jar" >> packaging/server/java9args.txt
 
       - name: Update direct links
         working-directory: packscripts

@@ -96,6 +96,11 @@
                         "include_as": "unsup.jar.new"
                     },
                     {
+                        "path": "./packaging/unsup-launcher.jar",
+                        "include_as": "unsup-launcher.jar",
+                        "dont_track": true
+                    },
+                    {
                         "path": "./packaging/server/",
                         "include_as": ""
                     }
