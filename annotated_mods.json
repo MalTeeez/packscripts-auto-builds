@@ -472,12 +472,12 @@
         }
     },
     "BuildCraft|Core": {
-        "file_path": "./.minecraft/mods/buildcraft-7.1.59.jar",
+        "file_path": "./.minecraft/mods/buildcraft-7.1.60.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.59/buildcraft-7.1.59.jar",
+        "source": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.60/buildcraft-7.1.60.jar",
         "notes": "",
         "wanted_by": [
             "BuildCraft|Compat",
@@ -495,14 +495,14 @@
             "BuildCraft|Robotics"
         ],
         "update_state": {
-            "version": "7.1.59",
+            "version": "7.1.60",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GH_RELEASE",
             "file_pattern": "",
-            "sha256_sum": "196141b817b8633deb92a5a703d6991e524e65c08090115197816f90dbd4d85d"
+            "sha256_sum": "baf0144151267aed892bb44631418a4e6d7f584914b08bd14703d43a5c359af4"
         }
     },
     "CarpentersBlocks": {
@@ -585,7 +585,7 @@
         }
     },
     "DraconicEvolution": {
-        "file_path": "./.minecraft/mods/Draconic-Evolution-1.5.25-GTNH.jar",
+        "file_path": "./.minecraft/mods/Draconic-Evolution-1.5.26-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -597,14 +597,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.5.25-GTNH",
+            "version": "1.5.26-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GH_RELEASE",
             "file_pattern": "",
-            "sha256_sum": "289d3aa06a89c8585ee90aafabbe599fb6b962d227c51dc1b517b43685f903d8"
+            "sha256_sum": "afff97f773cf7bbf053c6f9010e572671eb31bc6b809bfabd1ea4d81aa357b17"
         }
     },
     "DummyCore": {
@@ -2784,7 +2784,7 @@
         }
     },
     "WitcheryExtras": {
-        "file_path": "./.minecraft/mods/WitcheryExtras-1.4.14.jar",
+        "file_path": "./.minecraft/mods/WitcheryExtras-1.4.15.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -2800,14 +2800,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.4.14",
+            "version": "1.4.15",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "660029275d77a097fe5f70d0bab0b56d40b890b5fb55ff62df41b97e4acc57ab"
+            "sha256_sum": "85258d362f7a9a575ec0af47ae543a207014056db72648bda7fd9b3c5e37b502"
         }
     },
     "WitchingGadgets": {
@@ -4497,7 +4497,7 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.489.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.490.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4541,14 +4541,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.52.489",
+            "version": "5.09.52.490",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "d7c82d8ff040561d7c190a43c44b528e79b895364c3eea9f5f02766acc7fff3e"
+            "sha256_sum": "e8180a2394b719c2201a20bb13b5256d8236a23af473035125757381488aa998"
         }
     },
     "gtnhcredits": {
@@ -4872,25 +4872,25 @@
         }
     },
     "journeymap": {
-        "file_path": "./.minecraft/mods/journeymap-1.7.10-5.2.14-fairplay.jar",
+        "file_path": "./.minecraft/mods/journeymap-1.7.10-5.2.15-fairplay.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/TeamJM/journeymap-legacy/releases/download/5.2.14/journeymap-1.7.10-5.2.14-fairplay.jar",
+        "source": "https://github.com/TeamJM/journeymap-legacy/releases/download/5.2.15/journeymap-1.7.10-5.2.15-fairplay.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "5.2.14",
+            "version": "5.2.15",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GH_RELEASE",
             "file_pattern": "",
-            "sha256_sum": "7da201ed56a561b70a0dd539f23d1eea9fb61189986889c68db25fb673fb770c"
+            "sha256_sum": "1c2fe3179d92e67d636158d2d817fab6d4ed31b424272d0ff8dac2337a1b726f"
         }
     },
     "littletiles": {
