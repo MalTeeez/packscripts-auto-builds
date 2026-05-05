@@ -48,7 +48,11 @@ jobs:
       - name: Clear current state
         run: |
           rm -rf .minecraft libraries patches gtnh_icon.png instance.cfg mmc-pack.json
-          find packaging/server -maxdepth 1 ! -path packaging/server ! -name 'unsup' -exec rm -rf {} +
+          find packaging/server -maxdepth 1 \
+            ! -path packaging/server \
+            ! -name 'unsup' \
+            ! -name 'unsup.ini' \
+            -exec rm -rf {} +
 
       - name: Unpack client artifact & update current state from it
         run: |
