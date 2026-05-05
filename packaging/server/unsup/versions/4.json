@@ -1,0 +1,81 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/WitcheryExtras-1.4.14.jar",
+            "from_hash": "660029275d77a097fe5f70d0bab0b56d40b890b5fb55ff62df41b97e4acc57ab",
+            "from_size": 118481,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/WitcheryExtras-1.4.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "85258d362f7a9a575ec0af47ae543a207014056db72648bda7fd9b3c5e37b502",
+            "to_size": 118243,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a6a8df7d192adcc275af3a902e0c7d2af90d5044/.minecraft/mods/WitcheryExtras-1.4.15.jar"
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.5.26-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "afff97f773cf7bbf053c6f9010e572671eb31bc6b809bfabd1ea4d81aa357b17",
+            "to_size": 6747900,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a6a8df7d192adcc275af3a902e0c7d2af90d5044/.minecraft/mods/Draconic-Evolution-1.5.26-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.489.jar",
+            "from_hash": "d7c82d8ff040561d7c190a43c44b528e79b895364c3eea9f5f02766acc7fff3e",
+            "from_size": 57668190,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.490.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e8180a2394b719c2201a20bb13b5256d8236a23af473035125757381488aa998",
+            "to_size": 58427502,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/a6a8df7d192adcc275af3a902e0c7d2af90d5044/.minecraft/mods/gregtech-5.09.52.490.jar"
+        },
+        {
+            "path": ".minecraft/mods/Draconic-Evolution-1.5.25-GTNH.jar",
+            "from_hash": "289d3aa06a89c8585ee90aafabbe599fb6b962d227c51dc1b517b43685f903d8",
+            "from_size": 6747197,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/buildcraft-7.1.59.jar",
+            "from_hash": "196141b817b8633deb92a5a703d6991e524e65c08090115197816f90dbd4d85d",
+            "from_size": 2687369,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/buildcraft-7.1.60.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "baf0144151267aed892bb44631418a4e6d7f584914b08bd14703d43a5c359af4",
+            "to_size": 2685338,
+            "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.60/buildcraft-7.1.60.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a6a8df7d192adcc275af3a902e0c7d2af90d5044/.minecraft/mods/buildcraft-7.1.60.jar"
+        },
+        {
+            "path": ".minecraft/mods/journeymap-1.7.10-5.2.14-fairplay.jar",
+            "from_hash": "7da201ed56a561b70a0dd539f23d1eea9fb61189986889c68db25fb673fb770c",
+            "from_size": 8865539,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
