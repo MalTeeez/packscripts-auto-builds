@@ -3,20 +3,20 @@
     "hash_function": "SHA-2 256",
     "changes": [
         {
-            "path": "config/VillageNames4/newvillages/village_gen.cfg",
-            "from_hash": "a8476fb099243617f039e20b9d27512f5b3771899aedbb351470697e93904781",
-            "from_size": 84463,
-            "to_hash": "3d58b0b11b65c07bafe3293f356736bb0784a9bdc1db40a36184779828f34a14",
-            "to_size": 84735,
-            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/config/VillageNames4/newvillages/village_gen.cfg"
-        },
-        {
             "path": "config/amazingtrophies/lang/en_US.lang",
             "from_hash": "3f43312a68e60097e3d894a9effe3d1b34897625bc8b711cb4e01967cdf03fa4",
             "from_size": 9618,
             "to_hash": "78d169cb5213c59bf3809df1de0906ecf07fffa7f00d6fbb5e1bc8ac460b09dc",
             "to_size": 9623,
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/config/amazingtrophies/lang/en_US.lang"
+        },
+        {
+            "path": "config/VillageNames4/newvillages/village_gen.cfg",
+            "from_hash": "a8476fb099243617f039e20b9d27512f5b3771899aedbb351470697e93904781",
+            "from_size": 84463,
+            "to_hash": "3d58b0b11b65c07bafe3293f356736bb0784a9bdc1db40a36184779828f34a14",
+            "to_size": 84735,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/config/VillageNames4/newvillages/village_gen.cfg"
         },
         {
             "path": "config/betterquesting/resources/midnight/bq_themes.json",
@@ -27,9 +27,23 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/config/betterquesting/resources/midnight/bq_themes.json"
         },
         {
-            "path": ".minecraft/mods/Natura-2.8.18.jar",
+            "path": "mods/EnderIO-2.10.26.jar",
+            "from_hash": "fd8c52088a83fe3604748bc273fb33c340b3c0e3153e0008aecd04a016340d37",
+            "from_size": 4899211,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Natura-2.8.18.jar",
             "from_hash": "dc00a479235c3dce823ba79211e90596961c08fac2e2e185e023f4a6e73b7b57",
             "from_size": 883884,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/VillageNames-4.5.11-GTNH.jar",
+            "from_hash": "ab7ac9459d5a5549775a5ce680f99c0149e8a39a0bd2939c1677539a4ac70260",
+            "from_size": 3482789,
             "to_hash": null,
             "to_size": 0
         },
@@ -43,13 +57,6 @@
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/Natura-2.8.19.jar"
         },
         {
-            "path": ".minecraft/mods/EnderIO-2.10.26.jar",
-            "from_hash": "fd8c52088a83fe3604748bc273fb33c340b3c0e3153e0008aecd04a016340d37",
-            "from_size": 4899211,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
             "path": "mods/EnderIO-2.10.27.jar",
             "from_hash": null,
             "from_size": 0,
@@ -59,41 +66,16 @@
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/EnderIO-2.10.27.jar"
         },
         {
-            "path": ".minecraft/mods/VillageNames-4.5.11-GTNH.jar",
-            "from_hash": "ab7ac9459d5a5549775a5ce680f99c0149e8a39a0bd2939c1677539a4ac70260",
-            "from_size": 3482789,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
-            "path": "mods/VillageNames-4.5.12-GTNH.jar",
-            "from_hash": null,
-            "from_size": 0,
-            "to_hash": "29bdb1d2ae3e25cfd2a7a589c3a20bc4b1c131e5d70de5e57edf03524d88dd41",
-            "to_size": 3481456,
-            "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.12-GTNH/VillageNames-4.5.12-GTNH.jar",
-            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/VillageNames-4.5.12-GTNH.jar"
-        },
-        {
-            "path": ".minecraft/mods/backhand-1.8.8.jar",
-            "from_hash": "cf094f413b1ed3658fe479a1f87a4edb2f6d4c4404e1fb2fa0759d57000e718f",
-            "from_size": 147639,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
-            "path": "mods/backhand-1.8.9.jar",
-            "from_hash": null,
-            "from_size": 0,
-            "to_hash": "ba0b66051bdc9e24aab5a5d0c8a8267bbf4c0d26f1fde56e16f9a0b4f7c606d5",
-            "to_size": 147640,
-            "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.9/backhand-1.8.9.jar",
-            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/backhand-1.8.9.jar"
-        },
-        {
-            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-923-GTNH.jar",
+            "path": "mods/appliedenergistics2-rv3-beta-923-GTNH.jar",
             "from_hash": "b888e118f17a30846aea7db1318583d943a6559392fffb8cc963617e9ec0053f",
             "from_size": 4213440,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/backhand-1.8.8.jar",
+            "from_hash": "cf094f413b1ed3658fe479a1f87a4edb2f6d4c4404e1fb2fa0759d57000e718f",
+            "from_size": 147639,
             "to_hash": null,
             "to_size": 0
         },
@@ -107,14 +89,32 @@
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/appliedenergistics2-rv3-beta-924-GTNH.jar"
         },
         {
-            "path": ".minecraft/mods/chromatictooltips-1.0.22-GTNH.jar",
+            "path": "mods/VillageNames-4.5.12-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "29bdb1d2ae3e25cfd2a7a589c3a20bc4b1c131e5d70de5e57edf03524d88dd41",
+            "to_size": 3481456,
+            "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.12-GTNH/VillageNames-4.5.12-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/VillageNames-4.5.12-GTNH.jar"
+        },
+        {
+            "path": "mods/backhand-1.8.9.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ba0b66051bdc9e24aab5a5d0c8a8267bbf4c0d26f1fde56e16f9a0b4f7c606d5",
+            "to_size": 147640,
+            "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.9/backhand-1.8.9.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/backhand-1.8.9.jar"
+        },
+        {
+            "path": "mods/chromatictooltips-1.0.22-GTNH.jar",
             "from_hash": "a60b72f33a84f3e9197aa426b06790a750b1ea9d5f1ca8228ab5203bfc58fcf9",
             "from_size": 234172,
             "to_hash": null,
             "to_size": 0
         },
         {
-            "path": ".minecraft/mods/gregtech-5.09.52.484.jar",
+            "path": "mods/gregtech-5.09.52.484.jar",
             "from_hash": "1638335af80011d8d2107bba986df5d6283f8ee0b6729544d49e54cd47ce3f6c",
             "from_size": 57614454,
             "to_hash": null,
@@ -153,6 +153,13 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/falsepatternlib-mc1.7.10-1.11.0.jar"
         },
         {
+            "path": "mods/magicbees-2.10.8-GTNH.jar",
+            "from_hash": "59a297914e3e9cfbfe7d513c3e8056246400ad32d2bcf58d7c948e5831060b75",
+            "from_size": 1012527,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
             "path": "mods/magicbees-2.10.9-GTNH.jar",
             "from_hash": null,
             "from_size": 0,
@@ -162,23 +169,16 @@
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/magicbees-2.10.9-GTNH.jar"
         },
         {
-            "path": ".minecraft/mods/magicbees-2.10.8-GTNH.jar",
-            "from_hash": "59a297914e3e9cfbfe7d513c3e8056246400ad32d2bcf58d7c948e5831060b75",
-            "from_size": 1012527,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
-            "path": ".minecraft/mods/notenoughIDs-2.1.11.jar",
-            "from_hash": "40bae977b2ffcd464ca8b6c1fd4db530332bb90b14d891c33d8ac25ca6be3b3f",
-            "from_size": 62386,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
-            "path": ".minecraft/mods/modularui2-2.3.59-1.7.10.jar",
+            "path": "mods/modularui2-2.3.59-1.7.10.jar",
             "from_hash": "150c8fabc39e8974684d09b76fcde4fc746331e024e23c4db94f5cc1dfe1939a",
             "from_size": 1608362,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/notenoughIDs-2.1.11.jar",
+            "from_hash": "40bae977b2ffcd464ca8b6c1fd4db530332bb90b14d891c33d8ac25ca6be3b3f",
+            "from_size": 62386,
             "to_hash": null,
             "to_size": 0
         },
@@ -191,7 +191,7 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/modularui2-2.3.60-1.7.10.jar"
         },
         {
-            "path": ".minecraft/mods/nutrition-0.1.8.jar",
+            "path": "mods/nutrition-0.1.8.jar",
             "from_hash": "0e6165ba0b132d21cc92efaf9eef9aa2388daebdce11e8fb8bea6a1a0017c715",
             "from_size": 115019,
             "to_hash": null,
@@ -220,6 +220,13 @@
             "to_hash": "f7880530f1910b8087672b77647a4e8b43a5b8f25369426378f04cb5f4f176c4",
             "to_size": 325,
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/packaging/server/startserver-java9.bat"
+        },
+        {
+            "path": "unsup.ini",
+            "from_hash": "58a70444dd15e97441b4b1486192c1bc4549a49ac8d2378d94e57a71cffb4b46",
+            "from_size": 178,
+            "to_hash": null,
+            "to_size": 0
         },
         {
             "path": "startserver-java9.sh",

@@ -267,7 +267,7 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/CoinsCoinsCoins-McmojGJJS3m8fS6c4olJmQ==.json"
         },
         {
-            "path": ".minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/HowtoOpenYourWoo-AAAAAAAAAAAAAAAAAAAJHQ==.json",
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/HowtoOpenYourWoo-AAAAAAAAAAAAAAAAAAAJHQ==.json",
             "from_hash": "56731f9ced3b2d94a501aa6f09f056baf1428a1114456e4ad935b1505de06e14",
             "from_size": 110,
             "to_hash": null,
@@ -586,7 +586,7 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/HowtoOpenYourWoo-AAAAAAAAAAAAAAAAAAAJHQ==.json"
         },
         {
-            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/HowtoOpenYourWoo-AAAAAAAAAAAAAAAAAAAJHQ==.json",
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/HowtoOpenYourWoo-AAAAAAAAAAAAAAAAAAAJHQ==.json",
             "from_hash": "42b26b4efae6b792a9cdd60539e46244b77d8f428d0e3d5438a032aab4c6fc1c",
             "from_size": 4435,
             "to_hash": null,
@@ -721,7 +721,7 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/config/betterquesting/DefaultQuests/Quests/WorkingwithOil-AAAAAAAAAAAAAAAAAAAADw==/SuperFuelAtTheTo-AAAAAAAAAAAAAAAAAAAL0Q==.json"
         },
         {
-            "path": ".minecraft/mods/Thaumic-Exploration-1.5.23-GTNH.jar",
+            "path": "mods/Thaumic-Exploration-1.5.23-GTNH.jar",
             "from_hash": "1f246fabd93b5560e8be4a2865e1717a5d5f5b0c3298ed8cac4a47ef621af517",
             "from_size": 1821328,
             "to_hash": null,
@@ -736,28 +736,30 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/mods/Thaumic-Exploration-1.5.24-GTNH.jar"
         },
         {
-            "path": ".minecraft/mods/chromatictooltipscompat-1.0.27-GTNH.jar",
-            "from_hash": "3a1225ddfa9616a3263ab2b30fb628e6676d384470072a45eee7b7d23e6c76d5",
-            "from_size": 129196,
+            "path": "mods/angelica-2.1.20.jar",
+            "from_hash": "c7de6102fcb96dd0cd0de19cb787752f0dcfc6665985ccf28a09c58a5a2fb25a",
+            "from_size": 7327405,
             "to_hash": null,
             "to_size": 0
         },
         {
-            "path": ".minecraft/mods/cropsnh-2.0.48.jar",
-            "from_hash": "e5359712a9c34bb81ec1b124cdbf0dabfb549f45062b03899f4b898acc7f4fc8",
-            "from_size": 1482294,
-            "to_hash": null,
-            "to_size": 0
+            "path": "mods/appliedenergistics2-rv3-beta-926-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f191a0f6f007b5c33c6a4ce3ff0b1f9f54da4f5933943f32abd7cd788f329d29",
+            "to_size": 4267490,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-926-GTNH/appliedenergistics2-rv3-beta-926-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/mods/appliedenergistics2-rv3-beta-926-GTNH.jar"
         },
         {
-            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-924-GTNH.jar",
+            "path": "mods/appliedenergistics2-rv3-beta-924-GTNH.jar",
             "from_hash": "4d93d4a3cca4b2ff3a1048bda3f04b3bbca619a83c97081d49b0f4c8d4b668c6",
             "from_size": 4268157,
             "to_hash": null,
             "to_size": 0
         },
         {
-            "path": ".minecraft/mods/gregtech-5.09.52.487.jar",
+            "path": "mods/gregtech-5.09.52.487.jar",
             "from_hash": "398ddf3599ed029a09b0664ec5a10ed0473c9250378823e0373367372d4a616b",
             "from_size": 57660917,
             "to_hash": null,
@@ -772,21 +774,18 @@
             "url": "https://github.com/malteeez/packscripts-auto-builds/raw/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/mods/gregtech-5.09.52.489.jar"
         },
         {
-            "path": "mods/appliedenergistics2-rv3-beta-926-GTNH.jar",
-            "from_hash": null,
-            "from_size": 0,
-            "to_hash": "f191a0f6f007b5c33c6a4ce3ff0b1f9f54da4f5933943f32abd7cd788f329d29",
-            "to_size": 4267490,
-            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-926-GTNH/appliedenergistics2-rv3-beta-926-GTNH.jar",
-            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/mods/appliedenergistics2-rv3-beta-926-GTNH.jar"
+            "path": "mods/chromatictooltipscompat-1.0.27-GTNH.jar",
+            "from_hash": "3a1225ddfa9616a3263ab2b30fb628e6676d384470072a45eee7b7d23e6c76d5",
+            "from_size": 129196,
+            "to_hash": null,
+            "to_size": 0
         },
         {
-            "path": "unsup.ini",
-            "from_hash": null,
-            "from_size": 0,
-            "to_hash": "58a70444dd15e97441b4b1486192c1bc4549a49ac8d2378d94e57a71cffb4b46",
-            "to_size": 178,
-            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/packaging/server/unsup.ini"
+            "path": "mods/cropsnh-2.0.48.jar",
+            "from_hash": "e5359712a9c34bb81ec1b124cdbf0dabfb549f45062b03899f4b898acc7f4fc8",
+            "from_size": 1482294,
+            "to_hash": null,
+            "to_size": 0
         },
         {
             "path": "mods/cropsnh-2.0.49.jar",
@@ -797,11 +796,12 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/.minecraft/mods/cropsnh-2.0.49.jar"
         },
         {
-            "path": ".minecraft/mods/angelica-2.1.20.jar",
-            "from_hash": "c7de6102fcb96dd0cd0de19cb787752f0dcfc6665985ccf28a09c58a5a2fb25a",
-            "from_size": 7327405,
-            "to_hash": null,
-            "to_size": 0
+            "path": "unsup.ini",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "58a70444dd15e97441b4b1486192c1bc4549a49ac8d2378d94e57a71cffb4b46",
+            "to_size": 178,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ab4dc8688a6a6d76ec149ba91d7324c4c55448e3/packaging/server/unsup.ini"
         },
         {
             "path": "unsup.jar.new",
