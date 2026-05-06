@@ -1,0 +1,4 @@
+-javaagent:unsup-launcher.jar
+-Dunsup.debug=false
+-Dunsup.downloadWorkers=8
+-Dunsup.versionSelectorOnLaunch=false
