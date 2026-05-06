@@ -114,7 +114,13 @@ jobs:
         run: cp -r --update=none /tmp/gtnh-client-mods/. .minecraft/mods/
 
       - name: Attach unsup launcher to server start
-        run: echo "-javaagent:unsup-launcher.jar" >> packaging/server/java9args.txt
+        run: |
+          printf '%s\n' \
+            "-javaagent:unsup-launcher.jar" \
+            "-Dunsup.debug=false" \
+            "-Dunsup.downloadWorkers=8" \
+            "-Dunsup.versionSelectorOnLaunch=false" \
+            >> java9args.txt
 
       - name: Update direct links
         working-directory: packscripts
