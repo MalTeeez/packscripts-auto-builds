@@ -89,6 +89,7 @@ jobs:
           mkdir -p packaging/server
           find /tmp/gtnh-server-unpacked -maxdepth 1 ! -path /tmp/gtnh-server-unpacked \
             \( -type f -o -name "libraries" \) \
+            ! -name "changelog from daily * to *.md" \
             | xargs -I{} mv {} packaging/server/
 
           # Merge remaining server dirs (config, journeymap, etc.) into .minecraft, excluding mods (since me merge that later)
