@@ -48,15 +48,6 @@
             "to_size": 0
         },
         {
-            "path": "mods/Natura-2.8.19.jar",
-            "from_hash": null,
-            "from_size": 0,
-            "to_hash": "882dd8b3691050ad3e1dc3878c5bc425b9dcc26caf808739b5713f96da83900b",
-            "to_size": 883876,
-            "url": "https://github.com/GTNewHorizons/Natura/releases/download/2.8.19/Natura-2.8.19.jar",
-            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/Natura-2.8.19.jar"
-        },
-        {
             "path": "mods/EnderIO-2.10.27.jar",
             "from_hash": null,
             "from_size": 0,
@@ -64,6 +55,15 @@
             "to_size": 4896572,
             "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.27/EnderIO-2.10.27.jar",
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/EnderIO-2.10.27.jar"
+        },
+        {
+            "path": "mods/Natura-2.8.19.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "882dd8b3691050ad3e1dc3878c5bc425b9dcc26caf808739b5713f96da83900b",
+            "to_size": 883876,
+            "url": "https://github.com/GTNewHorizons/Natura/releases/download/2.8.19/Natura-2.8.19.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/Natura-2.8.19.jar"
         },
         {
             "path": "mods/appliedenergistics2-rv3-beta-923-GTNH.jar",
@@ -105,13 +105,6 @@
             "to_size": 147640,
             "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.9/backhand-1.8.9.jar",
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/backhand-1.8.9.jar"
-        },
-        {
-            "path": "mods/chromatictooltips-1.0.22-GTNH.jar",
-            "from_hash": "a60b72f33a84f3e9197aa426b06790a750b1ea9d5f1ca8228ab5203bfc58fcf9",
-            "from_size": 234172,
-            "to_hash": null,
-            "to_size": 0
         },
         {
             "path": "mods/gregtech-5.09.52.484.jar",
@@ -160,6 +153,13 @@
             "to_size": 0
         },
         {
+            "path": "mods/modularui2-2.3.59-1.7.10.jar",
+            "from_hash": "150c8fabc39e8974684d09b76fcde4fc746331e024e23c4db94f5cc1dfe1939a",
+            "from_size": 1608362,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
             "path": "mods/magicbees-2.10.9-GTNH.jar",
             "from_hash": null,
             "from_size": 0,
@@ -169,11 +169,12 @@
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/magicbees-2.10.9-GTNH.jar"
         },
         {
-            "path": "mods/modularui2-2.3.59-1.7.10.jar",
-            "from_hash": "150c8fabc39e8974684d09b76fcde4fc746331e024e23c4db94f5cc1dfe1939a",
-            "from_size": 1608362,
-            "to_hash": null,
-            "to_size": 0
+            "path": "mods/modularui2-2.3.60-1.7.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c550b9eda8a2cdc517cd08bae6e1ed09601a2ea6af942afcbcaf7878dd5397b7",
+            "to_size": 1608604,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/modularui2-2.3.60-1.7.10.jar"
         },
         {
             "path": "mods/notenoughIDs-2.1.11.jar",
@@ -181,14 +182,6 @@
             "from_size": 62386,
             "to_hash": null,
             "to_size": 0
-        },
-        {
-            "path": "mods/modularui2-2.3.60-1.7.10.jar",
-            "from_hash": null,
-            "from_size": 0,
-            "to_hash": "c550b9eda8a2cdc517cd08bae6e1ed09601a2ea6af942afcbcaf7878dd5397b7",
-            "to_size": 1608604,
-            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/.minecraft/mods/modularui2-2.3.60-1.7.10.jar"
         },
         {
             "path": "mods/nutrition-0.1.8.jar",
@@ -222,19 +215,19 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/packaging/server/startserver-java9.bat"
         },
         {
-            "path": "unsup.ini",
-            "from_hash": "58a70444dd15e97441b4b1486192c1bc4549a49ac8d2378d94e57a71cffb4b46",
-            "from_size": 178,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
             "path": "startserver-java9.sh",
             "from_hash": "f6d56f04b146402e1a5ce67202611ee4b5320329cc3b8ca7d66c685d827e1c43",
             "from_size": 426,
             "to_hash": "98b83b577ab5aa7bf9d706a465f3ddb33302890296914a79c3487699e74f21e3",
             "to_size": 573,
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68cde7d0257f10705cb36df8abccb5b2c2251fe3/packaging/server/startserver-java9.sh"
+        },
+        {
+            "path": "unsup.ini",
+            "from_hash": "58a70444dd15e97441b4b1486192c1bc4549a49ac8d2378d94e57a71cffb4b46",
+            "from_size": 178,
+            "to_hash": null,
+            "to_size": 0
         }
     ],
     "component_versions": {

@@ -3,13 +3,6 @@
     "hash_function": "SHA-2 256",
     "changes": [
         {
-            "path": "mods/Draconic-Evolution-1.5.25-GTNH.jar",
-            "from_hash": "289d3aa06a89c8585ee90aafabbe599fb6b962d227c51dc1b517b43685f903d8",
-            "from_size": 6747197,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
             "path": "mods/WitcheryExtras-1.4.14.jar",
             "from_hash": "660029275d77a097fe5f70d0bab0b56d40b890b5fb55ff62df41b97e4acc57ab",
             "from_size": 118481,
@@ -23,6 +16,13 @@
             "to_hash": "85258d362f7a9a575ec0af47ae543a207014056db72648bda7fd9b3c5e37b502",
             "to_size": 118243,
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a6a8df7d192adcc275af3a902e0c7d2af90d5044/.minecraft/mods/WitcheryExtras-1.4.15.jar"
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.5.25-GTNH.jar",
+            "from_hash": "289d3aa06a89c8585ee90aafabbe599fb6b962d227c51dc1b517b43685f903d8",
+            "from_size": 6747197,
+            "to_hash": null,
+            "to_size": 0
         },
         {
             "path": "mods/gregtech-5.09.52.489.jar",
@@ -62,13 +62,6 @@
             "to_size": 2685338,
             "url": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.60/buildcraft-7.1.60.jar",
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a6a8df7d192adcc275af3a902e0c7d2af90d5044/.minecraft/mods/buildcraft-7.1.60.jar"
-        },
-        {
-            "path": "mods/journeymap-1.7.10-5.2.14-fairplay.jar",
-            "from_hash": "7da201ed56a561b70a0dd539f23d1eea9fb61189986889c68db25fb673fb770c",
-            "from_size": 8865539,
-            "to_hash": null,
-            "to_size": 0
         }
     ],
     "component_versions": {

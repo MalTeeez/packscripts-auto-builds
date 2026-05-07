@@ -11,6 +11,20 @@
             "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d69920a6e947dfd35e9c39c2f107139cb068a6e8/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier4EV-AAAAAAAAAAAAAAAAAAAABg==/RadonLoop-AAAAAAAAAAAAAAAAAAAE2Q==.json"
         },
         {
+            "path": "mods/BetterQuesting-3.8.44-GTNH.jar",
+            "from_hash": "9efd1b502db40ae5353796ce5ea8ac1051d3abb2cc719b84a9af66e57b0fe247",
+            "from_size": 1911825,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.93-GTNH.jar",
+            "from_hash": "1ae4f0cd02ae8de6ca52225740e9d76a4c4e265be0f7418a34ccc877abe7fb56",
+            "from_size": 1569966,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
             "path": "mods/BetterQuesting-3.8.45-GTNH.jar",
             "from_hash": null,
             "from_size": 0,
@@ -28,16 +42,9 @@
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d69920a6e947dfd35e9c39c2f107139cb068a6e8/.minecraft/mods/NotEnoughItems-2.8.94-GTNH.jar"
         },
         {
-            "path": "mods/NotEnoughItems-2.8.93-GTNH.jar",
-            "from_hash": "1ae4f0cd02ae8de6ca52225740e9d76a4c4e265be0f7418a34ccc877abe7fb56",
-            "from_size": 1569966,
-            "to_hash": null,
-            "to_size": 0
-        },
-        {
-            "path": "mods/BetterQuesting-3.8.44-GTNH.jar",
-            "from_hash": "9efd1b502db40ae5353796ce5ea8ac1051d3abb2cc719b84a9af66e57b0fe247",
-            "from_size": 1911825,
+            "path": "mods/TConstruct-1.14.62-GTNH.jar",
+            "from_hash": "f1ae30a7c8e9df757d2aba820782828b585e732a0c77184845b5867c60be536d",
+            "from_size": 5549975,
             "to_hash": null,
             "to_size": 0
         },
@@ -47,15 +54,6 @@
             "from_size": 394710,
             "to_hash": null,
             "to_size": 0
-        },
-        {
-            "path": "mods/WarpTheory-1.5.7-GTNH.jar",
-            "from_hash": null,
-            "from_size": 0,
-            "to_hash": "20aea23718cf4079b27b557c2f83bc8847b8a5eb45e86003902a0e9651d1a1a6",
-            "to_size": 399390,
-            "url": "https://github.com/GTNewHorizons/WarpTheory/releases/download/1.5.7-GTNH/WarpTheory-1.5.7-GTNH.jar",
-            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d69920a6e947dfd35e9c39c2f107139cb068a6e8/.minecraft/mods/WarpTheory-1.5.7-GTNH.jar"
         },
         {
             "path": "mods/TConstruct-1.14.64-GTNH.jar",
@@ -98,9 +96,18 @@
             "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/d69920a6e947dfd35e9c39c2f107139cb068a6e8/.minecraft/mods/gtnhlib-0.9.60.jar"
         },
         {
-            "path": "mods/TConstruct-1.14.62-GTNH.jar",
-            "from_hash": "f1ae30a7c8e9df757d2aba820782828b585e732a0c77184845b5867c60be536d",
-            "from_size": 5549975,
+            "path": "mods/WarpTheory-1.5.7-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "20aea23718cf4079b27b557c2f83bc8847b8a5eb45e86003902a0e9651d1a1a6",
+            "to_size": 399390,
+            "url": "https://github.com/GTNewHorizons/WarpTheory/releases/download/1.5.7-GTNH/WarpTheory-1.5.7-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d69920a6e947dfd35e9c39c2f107139cb068a6e8/.minecraft/mods/WarpTheory-1.5.7-GTNH.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.22-GTNH.jar",
+            "from_hash": "1a2250cb6580c392d46d4311dbfd9142d8cd133aab22b0724a207a8259b59c1b",
+            "from_size": 5014005,
             "to_hash": null,
             "to_size": 0
         },
@@ -112,11 +119,12 @@
             "to_size": 0
         },
         {
-            "path": "mods/etfuturum-2.6.22-GTNH.jar",
-            "from_hash": "1a2250cb6580c392d46d4311dbfd9142d8cd133aab22b0724a207a8259b59c1b",
-            "from_size": 5014005,
-            "to_hash": null,
-            "to_size": 0
+            "path": "java9args.txt",
+            "from_hash": "fb273ff9b9769494eb790fc3e65596ba3fde2c1be4511fb41bf108f161f5878a",
+            "from_size": 1821,
+            "to_hash": "89a31f8d3f362696bf5bc503e1123025645ab36baf317bc5394cbb372ff91fb9",
+            "to_size": 1791,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d69920a6e947dfd35e9c39c2f107139cb068a6e8/packaging/server/java9args.txt"
         },
         {
             "path": "mods/holoinventory-2.5.13-GTNH.jar",
@@ -134,14 +142,6 @@
             "to_size": 5014801,
             "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.24-GTNH/etfuturum-2.6.24-GTNH.jar",
             "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d69920a6e947dfd35e9c39c2f107139cb068a6e8/.minecraft/mods/etfuturum-2.6.24-GTNH.jar"
-        },
-        {
-            "path": "java9args.txt",
-            "from_hash": "fb273ff9b9769494eb790fc3e65596ba3fde2c1be4511fb41bf108f161f5878a",
-            "from_size": 1821,
-            "to_hash": "89a31f8d3f362696bf5bc503e1123025645ab36baf317bc5394cbb372ff91fb9",
-            "to_size": 1791,
-            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d69920a6e947dfd35e9c39c2f107139cb068a6e8/packaging/server/java9args.txt"
         }
     ],
     "component_versions": {

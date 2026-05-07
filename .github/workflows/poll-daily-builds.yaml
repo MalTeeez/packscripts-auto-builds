@@ -13,32 +13,61 @@ jobs:
   poll:
     runs-on: ubuntu-24.04
     steps:
-      - name: Check for new DAXXL runs
+      - name: Check for new DAXXL runs and sync each in order
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          latest=$(curl -s \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/GTNewHorizons/DreamAssemblerXXL/actions/workflows/daily-modpack-build.yml/runs?status=success&per_page=1" \
-            | jq '.workflow_runs[0] | {id: .id, run_number: .run_number}')
-
-          run_id=$(echo "$latest" | jq -r '.id')
-          run_number=$(echo "$latest" | jq -r '.run_number')
           last_processed=$(gh api "repos/${{ github.repository }}/git/refs/tags" \
             --jq '[.[] | select(.ref | startswith("refs/tags/daily-")) | .ref | ltrimstr("refs/tags/daily-")] | map(tonumber) | max // 0')
-
-          echo "Latest run: #$run_number (id: $run_id)"
           echo "Last processed: #$last_processed"
 
-          if [ "$run_number" -le "$last_processed" ]; then
+          # Fetch recent successful runs (up to 50) and filter to unprocessed ones, sorted oldest first
+          missed=$(curl -s \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/GTNewHorizons/DreamAssemblerXXL/actions/workflows/daily-modpack-build.yml/runs?status=success&per_page=50" \
+            | jq --argjson last "$last_processed" \
+              '[.workflow_runs[] | select(.run_number > $last) | {id: .id, run_number: .run_number}] | sort_by(.run_number)')
+
+          count=$(echo "$missed" | jq 'length')
+          if [ "$count" -eq 0 ]; then
             echo "Nothing to do."
             exit 0
           fi
+          echo "Found $count unprocessed run(s)."
 
-          echo "Triggering sync for run #$run_number"
-          curl -s -X POST \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/gtnh-daily-sync.yaml/dispatches" \
-            -d "{\"ref\":\"gtnh-daily\",\"inputs\":{\"run_id\":\"$run_id\",\"run_number\":\"$run_number\"}}"
+          for row in $(echo "$missed" | jq -c '.[]'); do
+            run_id=$(echo "$row" | jq -r '.id')
+            run_number=$(echo "$row" | jq -r '.run_number')
+            echo "Triggering sync for run #$run_number (id: $run_id)"
+
+            dispatch_time=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+            curl -s -X POST \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/gtnh-daily-sync.yaml/dispatches" \
+              -d "{\"ref\":\"gtnh-daily\",\"inputs\":{\"run_id\":\"$run_id\",\"run_number\":\"$run_number\"}}"
+
+            # Wait for the triggered sync run to appear then complete
+            echo "Waiting for sync workflow to start..."
+            triggered_run_id=""
+            for i in $(seq 1 30); do
+              sleep 10
+              triggered_run_id=$(gh api \
+                "repos/${{ github.repository }}/actions/workflows/gtnh-daily-sync.yaml/runs?created=>=$dispatch_time&per_page=5" \
+                --jq '.workflow_runs[0].id // empty')
+              if [ -n "$triggered_run_id" ]; then
+                echo "Sync run started: $triggered_run_id"
+                break
+              fi
+            done
+
+            if [ -z "$triggered_run_id" ]; then
+              echo "ERROR: Could not find triggered sync run for daily-$run_number"
+              exit 1
+            fi
+
+            echo "Waiting for sync run $triggered_run_id to complete..."
+            gh run watch "$triggered_run_id" --repo "${{ github.repository }}" --exit-status
+            echo "Sync for daily-$run_number complete."
+          done

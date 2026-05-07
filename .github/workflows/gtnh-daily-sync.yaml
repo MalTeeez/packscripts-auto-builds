@@ -33,14 +33,14 @@ jobs:
 
           client_id=$(gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts" \
-            --jq '.artifacts[] | select(.name | contains("mmcprism-new-java")) | .id')
+            --jq '.artifacts[] | select(.name | contains("mmcprism-java17")) | .id')
           gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${client_id}/zip" \
             > /tmp/gtnh-client/artifact.zip
 
           server_id=$(gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts" \
-            --jq '.artifacts[] | select(.name | contains("server-new-java")) | .id')
+            --jq '.artifacts[] | select(.name | contains("server-java17")) | .id')
           gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${server_id}/zip" \
             > /tmp/gtnh-server/artifact.zip
@@ -56,21 +56,17 @@ jobs:
 
       - name: Unpack client artifact & update current state from it
         run: |
-          unzip -o /tmp/gtnh-client/artifact.zip -d /tmp/gtnh-client/
-          pack_zip=$(find /tmp/gtnh-client -name "*.zip" ! -name "artifact.zip" | head -n1)
           mkdir -p /tmp/gtnh-client-unpacked
-          unzip -o "$pack_zip" -d /tmp/gtnh-client-unpacked/
+          unzip -o /tmp/gtnh-client/artifact.zip -d /tmp/gtnh-client-unpacked/
 
-          inner_dir="/tmp/gtnh-client-unpacked/GT New Horizons daily"
+          inner_dir=$(find /tmp/gtnh-client-unpacked -mindepth 1 -maxdepth 1 -type d | head -n1)
           chmod -R u+rX "$inner_dir"
           cp -r "$inner_dir/." .
 
       - name: Unpack server artifact
         run: |
-          unzip -o /tmp/gtnh-server/artifact.zip -d /tmp/gtnh-server/
-          pack_zip=$(find /tmp/gtnh-server -name "*.zip" ! -name "artifact.zip" | head -n1)
           mkdir -p /tmp/gtnh-server-unpacked
-          unzip -o "$pack_zip" -d /tmp/gtnh-server-unpacked/
+          unzip -o /tmp/gtnh-server/artifact.zip -d /tmp/gtnh-server-unpacked/
           chmod -R u+rX /tmp/gtnh-server-unpacked
 
       - name: Set up Bun
