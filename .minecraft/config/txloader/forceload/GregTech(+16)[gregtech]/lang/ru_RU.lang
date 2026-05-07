@@ -167,13 +167,13 @@ gt.oreprefix.8x_material_wire=8x %s провод
 gt.oreprefix.12x_material_wire=12x %s провод
 gt.oreprefix.16x_material_wire=16x %s провод
 
-gt.oreprefix.tiny_material_fluid_pipe=Tiny %s Fluid Pipe
-gt.oreprefix.small_material_fluid_pipe=Small %s Fluid Pipe
-gt.oreprefix.material_fluid_pipe=%s Fluid Pipe
-gt.oreprefix.large_material_fluid_pipe=Large %s Fluid Pipe
-gt.oreprefix.huge_material_fluid_pipe=Huge %s Fluid Pipe
-gt.oreprefix.quadruple_material_fluid_pipe=Quadruple %s Fluid Pipe
-gt.oreprefix.nonuple_material_fluid_pipe=Nonuple %s Fluid Pipe
+gt.oreprefix.tiny_material_fluid_pipe=Крошечная %s жидкостная труба
+gt.oreprefix.small_material_fluid_pipe=Маленькая %s жидкостная труба
+gt.oreprefix.material_fluid_pipe=%s жидкостная труба
+gt.oreprefix.large_material_fluid_pipe=Большая %s жидкостная труба
+gt.oreprefix.huge_material_fluid_pipe=Огромная %s жидкостная труба
+gt.oreprefix.quadruple_material_fluid_pipe=4x %s жидкостная труба
+gt.oreprefix.nonuple_material_fluid_pipe=9x %s жидкостная труба
 
 gt.oreprefix.tiny_material_item_pipe=Tiny %s Item Pipe
 gt.oreprefix.small_material_item_pipe=Small %s Item Pipe
@@ -2207,8 +2207,8 @@ GT5U.machines.industrialapiary.upgradeslot.tooltip=Слот улучшения
 GT5U.machines.industrialapiary.autoqueen.tooltip=Автоматически помещать матку после размножения во входной слот
 GT5U.machines.industrialapiary.autoqueen.tooltip.1=§7Не требует улучшение "Автоматизация"
 GT5U.machines.industrialapiary.autoqueen.tooltip.2=§7§oЭта опция игнорируется, если установлено улучшение "Автоматизация"
-GT5U.machines.debugstructurewriter.tooltip=Scans Blocks Around
-GT5U.machines.debugstructurewriter.tooltip.1=Prints Multiblock NonTE structure check code
+GT5U.machines.debugstructurewriter.tooltip=Сканирует блоки вокруг
+GT5U.machines.debugstructurewriter.tooltip.1=Печатает код не-ТЕ структуры мультиблоков
 GT5U.machines.debugstructurewriter.tooltip.2=ABC axes aligned to machine front
 GT5U.machines.debugstructurewriter.printed=Printed structure to console
 GT5U.machines.debugstructurewriter.gui.origin=Origin
@@ -2344,6 +2344,7 @@ GT5U.gui.button.batch_mode_off=Пакетный режим: ВЫКЛ
 GT5U.gui.button.lock_recipe_on=Блокировка рецепта: ВКЛ
 GT5U.gui.button.lock_recipe_off=Блокировка рецепта: ВЫКЛ
 GT5U.gui.button.structure_update=Обновить структуру
+GT5U.gui.button.highlight_block=Подсветить блок в мире
 GT5U.gui.button.down_tier=Понизить тир
 GT5U.gui.button.tier=Тир:
 GT5U.gui.button.forbidden=§4Нельзя изменить режим для этого механизма
@@ -2472,7 +2473,7 @@ GT5U.gui.text.drone_production_item=Предмет
 GT5U.gui.text.drone_production_fluid=Жидкость
 GT5U.gui.text.drone_connectionCount=Всего подключений: %s
 GT5U.gui.text.drone_power_total=Total EU consumed in last %s:
-GT5U.gui.text.drone_connectionList=Список подключенных механизмов
+GT5U.gui.text.drone_connectionList=Список подключённых механизмов
 GT5U.gui.text.drone_average=Average EU consumed in last %s
 GT5U.gui.text.drone_item_total=Total item produced in last %s:
 GT5U.gui.text.drone_fluid_total=Total fluid produced in last %s:
@@ -2506,6 +2507,11 @@ GT5U.gui.text.low_wafer_tier=Вафля слишком маленького ур
 GT5U.gui.text.not_enough_wafer=Found wafer but recipe requires more than given
 GT5U.gui.text.static_mode=Статический режим
 GT5U.gui.text.unneeded_muffler=Does not accept Muffler Hatches
+GT5U.gui.text.unknown_structure_error=Ошибка неизвестная структура
+GT5U.gui.text.dt_missing_output_hatch=Missing Output Hatch on layer %s
+GT5U.gui.text.dangote_missing_top=Top layer is invalid or muffler hatch is not placed on the top layer
+GT5U.gui.text.too_short=The structure is too short
+GT5U.gui.text.hatch_invalid=Hatch requirement is not met
 GT5U.gui.not_loaded=Some block is not chunk loaded
 GT5U.gui.wrong_block=Invalid block at (%s, %s, %s)
 GT5U.gui.missing_casings=Too few casings: need %s but have %s
@@ -4955,8 +4961,8 @@ gt.item.circuit.chip.optical.name=Необработанный незащище�
 gt.item.circuit.chip.optical.tooltip=Необработанный оптический чип
 
 ## Basic Electronic Circuit
-gt.item.circuit.basic_electronic.name=Basic Electronic Circuit
-gt.item.circuit.basic_electronic.tooltip=A Basic Circuit
+gt.item.circuit.basic_electronic.name=Базовая электросхема
+gt.item.circuit.basic_electronic.tooltip=Базовая электросхема
 
 ## NAND Chip
 gt.item.nand_chip.name=NAND-чип
@@ -4975,8 +4981,8 @@ gt.item.circuit.good_integrated.name=Хорошая интегрированна
 gt.item.circuit.good_integrated.tooltip=Хорошая электросхема
 
 ## Advanced Integrated Circuit
-gt.item.circuit.advanced_integrated.name=Advanced Integrated Circuit
-gt.item.circuit.advanced_integrated.tooltip=An Advanced Circuit
+gt.item.circuit.advanced_integrated.name=Продвинутая интегрированная электросхема
+gt.item.circuit.advanced_integrated.tooltip=Продвинутая электросхема
 
 ## Nano Circuits
 gt.item.circuit.nano_processor.name=Нано процессор
@@ -5045,11 +5051,11 @@ gt.item.circuit_board.bio_ultra.name=Ультра био мутировавша�
 gt.item.circuit_board.bio_ultra.tooltip=Биогенетическая мутированная подложка
 gt.item.circuit_board.optical.name=Оптическая печатная плата
 gt.item.circuit_board.optical.tooltip=Оптически наполненная плата
-gt.item.circuit_board.exotic.name=Exotic Circuit Board
+gt.item.circuit_board.exotic.name=Экзотическая печатная плата
 gt.item.circuit_board.exotic.tooltip=Exotic Matter Infused Board
-gt.item.circuit_board.cosmic.name=Cosmic Circuit Board
+gt.item.circuit_board.cosmic.name=Космическая печатная плата
 gt.item.circuit_board.cosmic.tooltip=Cosmos Infused Board
-gt.item.circuit_board.transcendent.name=Temporally Transcendent Circuit Board
+gt.item.circuit_board.transcendent.name=Временно трансцендентная печатная плата
 gt.item.circuit_board.transcendent.tooltip=Temporally Warped Board
 
 ## Optical Circuits
@@ -6710,7 +6716,7 @@ GTPP.tooltip.meta_special.quantum_modulation=Обеспечивает квант
 GTPP.tooltip.meta_food.unless_starving=Я бы не стала есть это, если бы не умирала от голода
 GTPP.tooltip.meta_food.better_cooked=Выглядит приготовленным не лучше
 GTPP.tooltip.meta_food.warm_touch=Теплый на ощупь
-GTPP.tooltip.dust-decay-hint=Only decays in a %s or a %s
+GTPP.tooltip.dust-decay-hint=Распадается только в %s или %s
 
 # GTPP structure hints
 GTPP.tooltip.structure.anvil=Наковальня
@@ -6782,7 +6788,7 @@ GT5U.tooltip.volumetric_flask.set_volume=ПКМ по воздуху, чтобы 
 
 GT5U.tooltip.purify.1=Бросьте в котёл для получения чистой пыли
 GT5U.tooltip.purify.2=Бросьте в котёл для получения чистой измельчённой руды
-GT5U.tooltip.flour.cauldron=Throw into Cauldron with Water to make Dough
+GT5U.tooltip.flour.cauldron=Бросьте в котёл с водой для получения теста
 GT5U.tooltip.nqgen=Может использоваться как заменитель топлива из обогащённого наквадаха
 
 # Scanner info
@@ -6938,7 +6944,7 @@ GT5U.infodata.large_fluid_extractor.heating_coil_speed_bonus=Бонус нагр
 GT5U.infodata.large_fluid_extractor.total_speed_multiplier=Множитель общей скорости: %s%.0f%s %%
 GT5U.infodata.large_fluid_extractor.total_eu_multiplier=Общий множитель EU/t: %s%.0f%s %%
 
-GT5U.infodata.large_neutralization_engine=Large Neutralization Engine
+GT5U.infodata.large_neutralization_engine=Большой двигатель сгорания
 
 GT5U.infodata.oil_drill.drilling_fluid=Буровой раствор: %s
 GT5U.infodata.oil_drill.drilling_flow=Поток бурения: %s Л/тик

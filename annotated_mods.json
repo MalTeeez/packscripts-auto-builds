@@ -1213,7 +1213,7 @@
         }
     },
     "InGameInfoXML": {
-        "file_path": "./.minecraft/mods/InGameInfoXML-2.9.2.jar",
+        "file_path": "./.minecraft/mods/InGameInfoXML-2.9.3.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1227,14 +1227,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.9.2",
+            "version": "2.9.3",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "528774b13660b3517b1d3c3f9fc96b2ddda3346b2276655c5a119aa5a568de33"
+            "sha256_sum": "aa49887a21363d02ff2fc84aa9b7411c7b4f8a99932c12cae0af1f8da19d4103"
         }
     },
     "InfernalMobs": {
@@ -1627,12 +1627,12 @@
         }
     },
     "NotEnoughItems": {
-        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.94-GTNH.jar",
+        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.96-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.94-GTNH/NotEnoughItems-2.8.94-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.96-GTNH/NotEnoughItems-2.8.96-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "beebetteratbees",
@@ -1654,14 +1654,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.8.94-GTNH",
+            "version": "2.8.96-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GH_RELEASE",
             "file_pattern": "",
-            "sha256_sum": "d31eaf88ec28f5a7e888595c896aab02a4ff6df9864ffeba8f6cfa5292249f48"
+            "sha256_sum": "fc7dd84ec96c3e366ce4e1096899d74f31081a75b8371bd6b3983267ab52d9f0"
         }
     },
     "OilTweak": {
@@ -4471,7 +4471,7 @@
         }
     },
     "gravisuiteneo": {
-        "file_path": "./.minecraft/mods/gravisuiteneo-1.3.9.jar",
+        "file_path": "./.minecraft/mods/gravisuiteneo-1.3.10.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4486,18 +4486,18 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.3.9",
+            "version": "1.3.10",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "7c6f7ab0b5a3272b3d0448c2f6d624a1d144c16a7914894ff2ba3c740688977b"
+            "sha256_sum": "27f9154ee172f756b56fd8f9baee1728a874c759a502ffdb78fec0f90f04b2ba"
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.493.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.494.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4541,14 +4541,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.52.493",
+            "version": "5.09.52.494",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "a00d521ec18a30ed0f6f7f8ea285565226f7470281416fc8680b7b0a6cf7eb8d"
+            "sha256_sum": "ed03a3a285469aee9adf33dc86a192339cd230f254e3cd00c1bb1a76eefababb"
         }
     },
     "gtnhcredits": {
@@ -5562,12 +5562,12 @@
         }
     },
     "serverutilities": {
-        "file_path": "./.minecraft/mods/ServerUtilities-2.2.24.jar",
+        "file_path": "./.minecraft/mods/ServerUtilities-2.2.25.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.24/ServerUtilities-2.2.24.jar",
+        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.25/ServerUtilities-2.2.25.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -5578,14 +5578,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.2.24",
+            "version": "2.2.25",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GH_RELEASE",
             "file_pattern": "",
-            "sha256_sum": "8d48ed73d57e87a6f28111a78cc9d1d547033043c250f4d4a10c53bf3ec4f5a3"
+            "sha256_sum": "bac4570f5f830ce7152e5b71a1b21dcc56a66bfc47088118b2d9fa565653752c"
         }
     },
     "sharedprospecting": {

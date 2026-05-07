@@ -119,7 +119,7 @@ gtpp.nei.tgs.1=Саженец не расходуется.
 gtpp.nei.tgs.2=Если указан %s,
 gtpp.nei.tgs.3=Вместо этого выращивают саженцы.
 gtpp.nei.tgs.sapling=Выводится, если указан %s
-gtpp.nei.chemical_plant.not_consumed=Does not always get consumed in the process
+gtpp.nei.chemical_plant.not_consumed=Не всегда расходуется в процессе работы
 gtpp.nei.chemical_plant.higher_tier_casing=Higher tier pipe casings allow this item to last longer
 
 gtpp.nei.tgs.tooltip.sapling=Поместите в слот контроллера механизма
@@ -3950,7 +3950,7 @@ item.BasicGenericChemItem.34.name=Hellish Force Catalyst
 item.BasicGenericChemItem.35.name=Кристаллический окрашенный катализатор
 
 # Added 13/03/26
-item.BasicGenericChemItem.36.name=Chlorination Catalyst
+item.BasicGenericChemItem.36.name=Катализатор хлорирования
 
 # config gui
 gtpp.gui.config.general=Общие
@@ -3998,7 +3998,7 @@ gtpp.tooltip.dark_world_portal.0=Разместите это, если вам с
 gtpp.tooltip.dark_world.ground=Если случится возгорание, сгорит очень быстро.
 gtpp.tooltip.dark_world.polluted_dirt=Может быть, вы можете что-то с этим сделать?
 gtpp.tooltip.dark_world.polluted_dirt.1=Это пахнет хуже, чем пердеж бобов...
-gtpp.tooltip.alkalus_disk.0=Shines the way towards the far away Everglades.
+gtpp.tooltip.alkalus_disk.0=Shines the way, towards the far away Everglades.
 gtpp.tooltip.alkalus_disk.1=Этот предмет создает такую температуру, что вам бы не хотелось использовать его неправильно.
 gtpp.tooltip.tool.durability=Прочность:
 gtpp.tooltip.tool.turbine_efficiency=Эффективность турбины:
@@ -4010,7 +4010,7 @@ gtpp.tooltip.tool.mining_speed=Скорость добычи:
 
 gtpp.tooltip.wireless_charger.0=Можно заблокировать владельца ЛКМ+Shift отвёрткой
 gtpp.tooltip.wireless_charger.1=Используйте отвёртку для смены режима.
-gtpp.tooltip.wireless_charger.2=§aДальний режим§7: Может обеспечивать питание 1A для одного игрока на расстоянии до %s м.
+gtpp.tooltip.wireless_charger.2=§aДальний режим§7: Может обеспечивать 1А питание для каждого игрока на расстоянии до %s м.
 gtpp.tooltip.wireless_charger.3=§aЛокальный режим§7: Может подавать 2A каждому игроку в пределах %s м.
 gtpp.tooltip.wireless_charger.4=§aСмешанный режим§7: Может подавать 1A на расстоянии до %s м и более 1A в пределах %s м.
 

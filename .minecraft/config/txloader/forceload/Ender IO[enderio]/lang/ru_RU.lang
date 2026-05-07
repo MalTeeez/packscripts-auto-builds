@@ -373,14 +373,14 @@ enderio.endergeticCapacitor.name=Эндергетический конденса
 enderio.endergisedCapacitor.name=Сияющий конденсатор
 enderio.totemicCapacitor.name=Тотемный конденсатор
 
-enderio.machine.tooltip.upgrade.name=Machine Upgrade
+enderio.machine.tooltip.upgrade.name=Улучшение механизма
 enderio.machine.tooltip.upgrade=Улучшения:
-enderio.machine.tooltip.upgrade.tier=Tier: 
-enderio.machine.tooltip.upgrade.energyreceived=Max Energy Received: 
-enderio.machine.tooltip.upgrade.energyextracted=Max Energy Extracted: 
-enderio.machine.tooltip.upgrade.farmstation=Farming station radius: 
-enderio.machine.tooltip.upgrade.energystorage=Max energy storage: 
-enderio.machine.tooltip.upgrade.range=Range upgrade:
+enderio.machine.tooltip.upgrade.tier=Тир:
+enderio.machine.tooltip.upgrade.energyreceived=Максимум полученной энергии:
+enderio.machine.tooltip.upgrade.energyextracted=Максимум изъятой энергии:
+enderio.machine.tooltip.upgrade.farmstation=Радиус фермерской станции:
+enderio.machine.tooltip.upgrade.energystorage=Максимум хранения энергии:
+enderio.machine.tooltip.upgrade.range=Улучшение радиуса:
 enderio.machine.tooltip.clearConfig=Это очистит всю хранящуюся информацию!
 
 #Machines
@@ -759,7 +759,7 @@ item.itemTravelStaff.tooltip.detailed.line3=активированы ПКМ
 item.itemTravelStaff.tooltip.detailed.line4=Shift+ПКМ телепортирует
 item.itemTravelStaff.tooltip.detailed.line5=игрока на короткую дистанцию
 enderio.itemTravelStaff.notEnoughPower=Недостаточно энергии
-enderio.travelStaffKeybind.isDisabled=Travel Staff Blink Keybind Disabled!
+enderio.travelStaffKeybind.isDisabled=Сочетание клавиш для перемещения посохом путешествий отключён
 
 item.itemTeleportStaff.name=Посох Телепортации
 item.itemTeleportStaff.tooltip.detailed.line1=ПКМ позволяет телепортироваться туда, куда вы смотрите
@@ -782,7 +782,7 @@ enderio.itemCoordSelector.chat.setDimension=Выбранное измерени�
 #Painter
 tile.blockPainter.name=Покрасочный механизм
 enderio.blockPainter.paintedWith=Покрашено в:
-enderio.blockPainter.paintedWith.none=§onothing§r
+enderio.blockPainter.paintedWith.none=§oничего§r
 tile.blockPaintedFence.name=Покрашенный забор
 tile.blockPaintedFenceGate.name=Покрашенная калитка
 tile.blockPaintedWall.name=Покрашенная стена
@@ -1367,7 +1367,7 @@ enderio.gui.weather.task.clear=Ясная погода
 enderio.gui.weather.task.rain=Дождливая погода
 enderio.gui.weather.task.storm=Гроза
 enderio.gui.weather.requiredfluid=Требуется жидкость: %s L
-enderio.weatherObelisk.fuelTank=Barometric Flux Tank
+enderio.weatherObelisk.fuelTank=Резервуар барометрического потока
 
 #Enchants
 enchantment.enderio.soulBound=Печать души
@@ -1431,7 +1431,7 @@ enderio.keybind.jump=Прыжок
 enderio.keybind.stepassist=Шаг вверх
 enderio.keybind.yetawrenchmode=Режим ключа Yeta
 enderio.keybind.magnet=Переключить электромагнит
-enderio.keybind.staffoftravelingtp=Travel Staff Blink
+enderio.keybind.staffoftravelingtp=Перемещение посохом путешествий
 enderio.nei.alloysmelter=Завод сплавов
 enderio.nei.enchanter=Зачарователь
 enderio.nei.sagmill=Дробитель
