@@ -1,0 +1,28 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/salisarcana-1.1.57-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7c950f695cf2626a927a3eaa8d7103a260c9a2d5817a6cf09957d50fe5e50261",
+            "to_size": 639525,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d8d6c008ddbf1536b4b1b1ed7ab2afd97918fedc/.minecraft/mods/salisarcana-1.1.57-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/salisarcana-1.1.55-GTNH.jar",
+            "from_hash": "606e68409206fb80aa06bab85ff94dbd614a690df6d48bb7ecc136ece5aa9c69",
+            "from_size": 638572,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
