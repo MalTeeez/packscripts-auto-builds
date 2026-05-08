@@ -116,7 +116,7 @@ jobs:
             "-Dunsup.debug=false" \
             "-Dunsup.downloadWorkers=8" \
             "-Dunsup.versionSelectorOnLaunch=false" \
-            >> java9args.txt
+            >> packaging/server/java9args.txt
 
       - name: Update direct links
         working-directory: packscripts
@@ -153,6 +153,15 @@ jobs:
         run: |
           bun main package build -t daily-${{ inputs.run_number }}
           bun main package bundle
+
+      - name: Auto-enroll large files in Git LFS
+        run: |
+          rm -f .gitattributes
+          find . -mindepth 1 \
+            ! -path './.git*' \
+            ! -path './packscripts*' \
+            -size +10M \
+            | xargs -I{} git lfs track "{}"
 
       - name: Commit generated manifests
         run: |

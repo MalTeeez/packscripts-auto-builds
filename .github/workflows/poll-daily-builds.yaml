@@ -68,6 +68,6 @@ jobs:
             fi
 
             echo "Waiting for sync run $triggered_run_id to complete..."
-            gh run watch "$triggered_run_id" --repo "${{ github.repository }}" --exit-status
+            gh run watch --interval 30 "$triggered_run_id" --repo "${{ github.repository }}" --exit-status
             echo "Sync for daily-$run_number complete."
           done
