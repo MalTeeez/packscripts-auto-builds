@@ -1,0 +1,21 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/unsup.jar.new",
+            "from_hash": "a1318996908dabdac8065439089e3fc79cb4efd96e63cfdad9f7027f1b755b08",
+            "from_size": 966763,
+            "to_hash": "b55225f1b5db6c96968a7d98155693384d712dd0b24890280cc58e897d241116",
+            "to_size": 970855,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f3b49c62f04aae2052d9e52c8b5d1f843c397514/packaging/unsup.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
