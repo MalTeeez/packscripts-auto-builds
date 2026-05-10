@@ -1,0 +1,88 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNH-TC-Wands-1.4.12.jar",
+            "from_hash": "3d6acd87a33a734ca17f825457390d42f666564b826041e68d1ebf7f3df51b7e",
+            "from_size": 24200,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.242.jar",
+            "from_hash": "e119868001b537ea65acd0f459220756e007dde18154c60afbeb767131238abd",
+            "from_size": 48443699,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.244.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "659941baf0db9fab560c03d7a50d0ce08d169b1991d30e5248ec772df55d3bf6",
+            "to_size": 48444552,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/7d441d65e8472f68c7db9cf2b810ec98bf0f6ed7/.minecraft/mods/GTNewHorizonsCoreMod-2.8.244.jar"
+        },
+        {
+            "path": "mods/AmunRa-GC-0.8.11.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a655a8fa6c9a748866aff186e9dcf305de854c8918d8e6294b001ff601192940",
+            "to_size": 1609194,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/7d441d65e8472f68c7db9cf2b810ec98bf0f6ed7/.minecraft/mods/AmunRa-GC-0.8.11.jar"
+        },
+        {
+            "path": "mods/GTNH-TC-Wands-1.4.14.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2fd54cd4cf0352819018ce627e8f391b6c2a842118dfc5f1702ea053fc082e05",
+            "to_size": 30447,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/7d441d65e8472f68c7db9cf2b810ec98bf0f6ed7/.minecraft/mods/GTNH-TC-Wands-1.4.14.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.52.502.jar",
+            "from_hash": "b08807873ea857e9f942fb1cc022b4f95c5adfd80cc150da790d314e89457d06",
+            "from_size": 58445562,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.504.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fbcc49668589cb9f2591a448da9831750dbcf14e6f2f9f71128785aa90d6809e",
+            "to_size": 58445569,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/7d441d65e8472f68c7db9cf2b810ec98bf0f6ed7/.minecraft/mods/gregtech-5.09.52.504.jar"
+        },
+        {
+            "path": "mods/AmunRa-GC-0.8.10.jar",
+            "from_hash": "f13fdf271871820674b7c4e9c28e6289be3906e59ed3e1370b3afeb5c22d0959",
+            "from_size": 1608921,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.50.jar",
+            "from_hash": "5b66d26ea9dc9bb189062825c29d879f817b82e6100352dde2f3adca225db1a3",
+            "from_size": 1482373,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.53.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "207119c121c7c05f8d9b3ccb1e68fef6c39ef65aba313e5ba075086db0d22b3e",
+            "to_size": 1482625,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/7d441d65e8472f68c7db9cf2b810ec98bf0f6ed7/.minecraft/mods/cropsnh-2.0.53.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
