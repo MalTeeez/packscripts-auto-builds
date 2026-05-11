@@ -1,0 +1,28 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.246.jar",
+            "from_hash": "193657e007f2d38eff28aece7394adaf44514162c70550042792cc60070b1a88",
+            "from_size": 48444644,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.247.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "84003f6c817424fce85c7d5495c8607cd922b6e7b9fa329f4c4e180d0221155d",
+            "to_size": 48444654,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/61cbf77d23e596cc385bebb4c6456ebf3fe4b955/.minecraft/mods/GTNewHorizonsCoreMod-2.8.247.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
