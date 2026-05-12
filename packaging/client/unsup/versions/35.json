@@ -1,0 +1,28 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/bettercrashes-1.4.2-GTNH.jar",
+            "from_hash": "afec0267c0db2c23ed8ac921851f38877cfd2cc052865ae9b455cdda33e8d43e",
+            "from_size": 41506,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/bettercrashes-1.4.3-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7705e2e912b8bb1640aaee2f8ae9c27dcb95bb4a634c0593b1ecf2d009b310a3",
+            "to_size": 41568,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4ce4521d97c42ea63d252cb2aa672e82e0fc4370/.minecraft/mods/bettercrashes-1.4.3-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
