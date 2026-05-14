@@ -78,10 +78,6 @@
                         "include_as": "config"
                     },
                     {
-                        "path": "./.minecraft/scripts",
-                        "include_as": "scripts"
-                    },
-                    {
                         "path": "./.minecraft/journeymap",
                         "include_as": "journeymap"
                     },
@@ -120,6 +116,10 @@
                 ]
             }
         },
-        "MAX_WORKER_THREADS": 10
+        "MAX_WORKER_THREADS": 10,
+        "IMAGE": {
+            "GIT_CHANGE_WINDOW": 50,
+            "STAGING_DIRECTORY": "./staging/"
+        }
     }
 }

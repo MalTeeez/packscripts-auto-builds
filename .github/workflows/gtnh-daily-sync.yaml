@@ -111,6 +111,7 @@ jobs:
 
       - name: Attach unsup launcher to server start
         run: |
+          cp packaging/server/java9args.txt packaging/server/java9args_default.txt
           printf '%s\n' \
             "-javaagent:unsup-launcher.jar" \
             "-Dunsup.debug=false" \
