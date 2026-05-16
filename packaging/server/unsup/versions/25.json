@@ -1,0 +1,74 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.52.511.jar",
+            "from_hash": "7f6fedc2a973bd4ca5f65087251dbcfd449d4efe57dec351631c808a206e99c6",
+            "from_size": 56840938,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.513.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c796863dfab66d72380bef0f368931a7ca03963ea74df0d28a05e3f0a382eb29",
+            "to_size": 56977986,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/3f71497e7e3ac7ff46aeb3df8a726dc091cff314/.minecraft/mods/gregtech-5.09.52.513.jar"
+        },
+        {
+            "path": "mods/StorageDrawers-2.2.21-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2627c469bfdaa5d606a6d7668fdf4c3bb1d0bc7275b262388d3dd6ebe97896ba",
+            "to_size": 1267726,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3f71497e7e3ac7ff46aeb3df8a726dc091cff314/.minecraft/mods/StorageDrawers-2.2.21-GTNH.jar"
+        },
+        {
+            "path": "mods/StorageDrawers-2.2.20-GTNH.jar",
+            "from_hash": "ca25605e02b497767c963e4517be806afedbb1d4652df6ab9c9ec19c128b94da",
+            "from_size": 1267460,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.49-GTNH.jar",
+            "from_hash": "33c8a197c7a67e892e33f995d2031dfd23b4e4e6a19b676198a4f4a2325ac033",
+            "from_size": 1429578,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.50-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e76c320aea84bc88830150c1941267b5ad567dba84a0888ecc3d8c89e0d2422f",
+            "to_size": 1429581,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.50-GTNH/thaumicenergistics-1.7.50-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3f71497e7e3ac7ff46aeb3df8a726dc091cff314/.minecraft/mods/thaumicenergistics-1.7.50-GTNH.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.69.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "50e16bc2aa7e98ae9f82ed3645cd8c5becf35b9702fffcd029b0de91acb188ff",
+            "to_size": 2088464,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3f71497e7e3ac7ff46aeb3df8a726dc091cff314/.minecraft/mods/vendingmachine-0.4.69.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.68.jar",
+            "from_hash": "f8f84aaa4ff78d84f8baeb7067e73585b2cf58f969a0267c9e74aec7f7fbaf88",
+            "from_size": 2088451,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
