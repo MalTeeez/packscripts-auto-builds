@@ -1,0 +1,44 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.52.513.jar",
+            "from_hash": "c796863dfab66d72380bef0f368931a7ca03963ea74df0d28a05e3f0a382eb29",
+            "from_size": 56977986,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.514.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "359aa4dfe1747eeed7f8d9b0e82d2a114b2bb10a5a0d2f2ea0a53b02b77ab022",
+            "to_size": 56977968,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/1b11681ea232d973d8c6d000ff5c0924a4beaba5/.minecraft/mods/gregtech-5.09.52.514.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.29-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "27b87d6043891d23af6a70ba2fd9ddc63dcc2709fde52557eab5d07cc54caefd",
+            "to_size": 5227779,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.29-GTNH/etfuturum-2.6.29-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1b11681ea232d973d8c6d000ff5c0924a4beaba5/.minecraft/mods/etfuturum-2.6.29-GTNH.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.27-GTNH.jar",
+            "from_hash": "c89cfa6b469d39aa51e01c67f912766e2dd4fbde274f404eafc1f27bbd59f28d",
+            "from_size": 5014496,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260225.192616-2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.16",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.16"
+    }
+}
