@@ -1,0 +1,89 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/BetterQuesting-3.8.52-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5ffabb1beffd17003917eed1ee014a4d49973e1387b24b1306eb112373aaa815",
+            "to_size": 1900321,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46ec97e27a11494f91709aaefb6bf1260a02e086/.minecraft/mods/BetterQuesting-3.8.52-GTNH.jar"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.50-GTNH.jar",
+            "from_hash": "31cd5fa390a91ceb74469e0b7b102eb7efab00b8c2d511b1d4bf62080814878f",
+            "from_size": 1905250,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.56.jar",
+            "from_hash": "ca6a6bb492f0d76036893fcc95cb474c994255ed6d9d1202c95bc777b57a6887",
+            "from_size": 1482745,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.521.jar",
+            "from_hash": "9039e276fc8a57e045b2b15dd121fb35bdee4d159f73344a3b509c5825d4e830",
+            "from_size": 57274042,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.522.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fb65f2035f221498e0b9d22cd335e753d1150f7e33fff6c47198f28596eea6da",
+            "to_size": 57274127,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/46ec97e27a11494f91709aaefb6bf1260a02e086/.minecraft/mods/gregtech-5.09.52.522.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.59.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d19a015d61e16efe2fd4e23df4d354b4e93ce423650ad4241df8bef7e22baf9d",
+            "to_size": 1484613,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46ec97e27a11494f91709aaefb6bf1260a02e086/.minecraft/mods/cropsnh-2.0.59.jar"
+        },
+        {
+            "path": "mods/salisarcana-1.1.59-GTNH.jar",
+            "from_hash": "98cb95f2858098b286f56be19bffc57d25c15a6363636b14210bbcbaf08ecfaa",
+            "from_size": 639506,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/salisarcana-1.1.60-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7641f10eb8884218720dc7bce743d968877b36a75068c065658d6646b06dfa85",
+            "to_size": 643167,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46ec97e27a11494f91709aaefb6bf1260a02e086/.minecraft/mods/salisarcana-1.1.60-GTNH.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.31-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e3f152ff23c25ee27f651c827116a39b928f306cab4251b4ca8fdd808384b74a",
+            "to_size": 5227818,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.31-GTNH/etfuturum-2.6.31-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46ec97e27a11494f91709aaefb6bf1260a02e086/.minecraft/mods/etfuturum-2.6.31-GTNH.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.29-GTNH.jar",
+            "from_hash": "27b87d6043891d23af6a70ba2fd9ddc63dcc2709fde52557eab5d07cc54caefd",
+            "from_size": 5227779,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.17",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.17"
+    }
+}
