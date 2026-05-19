@@ -1,0 +1,161 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/Botania-1.13.17-GTNH.jar",
+            "from_hash": "cb69b01de76ea5387e240551c7ecb79fae90dcbbedae94856161d6d71d93a159",
+            "from_size": 15929390,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Botania-1.13.19-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "001dfb6327421168e5a8e1af8b5270accbe4e03c9aa1a1b8842824f1cf3dcd05",
+            "to_size": 15928932,
+            "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.19-GTNH/Botania-1.13.19-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/Botania-1.13.19-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.255.jar",
+            "from_hash": "ad4bf337bb11563b3ecf23af9166ea2d2764998e07c25592e6fe6d2ae51cc273",
+            "from_size": 48436240,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.257.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "18837d532100c57ac8d2601965bff00a0071d73916f3a8fb09d6350c849076d4",
+            "to_size": 48433246,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/GTNewHorizonsCoreMod-2.8.257.jar"
+        },
+        {
+            "path": "config/IguanaTinkerTweaks/restrictions.cfg",
+            "from_hash": "a8f56e6fdb35ceaee177a8d446d41a924526f66f560e4befccaeffadfd985bd1",
+            "from_size": 7709,
+            "to_hash": "590c6d0416dc1c80a66644ed65f9e5fefa68629d913aaba5c309b88558852b81",
+            "to_size": 7730,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/config/IguanaTinkerTweaks/restrictions.cfg"
+        },
+        {
+            "path": "mods/IguanaTweaksTConstruct-2.7.5.jar",
+            "from_hash": "4e8cb30b3ed8236585f10ed7a0c5174dfad2c03125c523c6d0291296ab790976",
+            "from_size": 434272,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.40-GTNH.jar",
+            "from_hash": "acc423ecc1d9b7cb137d959fe88bc55d9726e9ba6943344435c58f5fb9928e06",
+            "from_size": 16775199,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.42-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0862d3101f94343359b55754d0d4c58d29b03b0e90eb18dd57b5f18f291d6c89",
+            "to_size": 16773106,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.42-GTNH/OpenComputers-1.12.42-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/OpenComputers-1.12.42-GTNH.jar"
+        },
+        {
+            "path": "mods/IguanaTweaksTConstruct-2.7.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "76ef0c5ce5145da00e2fac152a0b9fa33d1676bc0e635180e0f737a55464076e",
+            "to_size": 434407,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/IguanaTweaksTConstruct-2.7.6.jar"
+        },
+        {
+            "path": "mods/NEICustomDiagram-1.8.27.jar",
+            "from_hash": "70112ab7bf7efdc081f4fc9f0f2c6b305b5e363290e87ee65562a06497f0fdc4",
+            "from_size": 946376,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NEICustomDiagram-1.8.29.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "08565a566ed8bd3c0bbd41953640ed6d0ad54c779ecf423dbc0cf0da8a76c248",
+            "to_size": 923964,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/NEICustomDiagram-1.8.29.jar"
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.22.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "acd34a15d82aa6d5147b8185731cd6bb495b9e9798a5b640c375f7d70e07785f",
+            "to_size": 1970574,
+            "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.22/ThaumicTinkerer-2.12.22.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/ThaumicTinkerer-2.12.22.jar"
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.21.jar",
+            "from_hash": "7cdaa135bc113fffd9af1651a6bb5412e62a9c82273ad486d9adf107944a6c9d",
+            "from_size": 1970888,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.72-GTNH.jar",
+            "from_hash": "9f9962e8dadd25498e107f5de8d0ae974a6977512442f901660e638abd80fe64",
+            "from_size": 5566359,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/coretweaks-0.3.4.3-GTNH.jar",
+            "from_hash": "b1ebced1976048b952376c14ea3b6000d34768897faa33fe0230c2c4da4b6a06",
+            "from_size": 1245678,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.73-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a8c97ca97dbca8eedd81832642a95f179ed2e9158746251eea406a1f7a93a261",
+            "to_size": 5566470,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.73-GTNH/TConstruct-1.14.73-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/TConstruct-1.14.73-GTNH.jar"
+        },
+        {
+            "path": "mods/coretweaks-0.3.4.4-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "60d95e240b18b9cdfca8cc3a0b4ca6c246967655de7bf71f7f4ea8a3185a2bad",
+            "to_size": 1245835,
+            "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.4.4-GTNH/coretweaks-0.3.4.4-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/coretweaks-0.3.4.4-GTNH.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.70.jar",
+            "from_hash": "2b0ae0c3483566eab7e831c6ad839081772cc93fd5863ec5cbd5af243e8de776",
+            "from_size": 2084972,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/vendingmachine-0.4.71.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "66fa68287965f0a1c2005406fb331eeceadf04b642c36272cae60ae514413945",
+            "to_size": 2143116,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f96ada8679d6aa3f563e60b361176dfdf639868d/.minecraft/mods/vendingmachine-0.4.71.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.17",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.17"
+    }
+}
