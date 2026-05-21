@@ -169,3 +169,12 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "chore: version manifests for daily-${{ inputs.run_number }}"
           git push origin gtnh-daily
+
+      - name: Trigger Image Build
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: | # We have to do this manually, since this workflow was already triggered via API using the GH token
+            curl -s -X POST \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/gtnh-daily-image.yaml/dispatches"
