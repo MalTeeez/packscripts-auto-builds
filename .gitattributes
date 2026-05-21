@@ -1,13 +1,12 @@
-GTNH[[:space:]]Daily-server.zip filter=lfs diff=lfs merge=lfs -text
 .minecraft/resourcepacks/Realistic[[:space:]]Sky[[:space:]]GT[[:space:]]New[[:space:]]Horizons.zip filter=lfs diff=lfs merge=lfs -text
 .minecraft/config/txloader/load/galacticraftcore/sounds/music/nebulalullaby.ogg filter=lfs diff=lfs merge=lfs -text
 .minecraft/config/txloader/load/galacticraftcore/sounds/music/absolutezero.ogg filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/OpenComputers-1.12.42-GTNH.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/HardcoreEnderExpansion-1.12.22-GTNH.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/gtnhlib-0.10.2.jar filter=lfs diff=lfs merge=lfs -text
-.minecraft/mods/gregtech-5.09.52.529.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/Botania-1.13.19-GTNH.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/Thaumcraft-1.7.10-4.2.3.5.jar filter=lfs diff=lfs merge=lfs -text
+.minecraft/mods/gregtech-5.09.52.530.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/GTNewHorizonsCoreMod-2.8.258.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/Galacticraft-3.4.28-GTNH.jar filter=lfs diff=lfs merge=lfs -text
 packaging/server/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar filter=lfs diff=lfs merge=lfs -text
