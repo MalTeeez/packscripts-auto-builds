@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write # push commit
+  actions: write # dispatch image workflow
 
 jobs:
   sync:
@@ -125,7 +126,7 @@ jobs:
           PACKSCRIPTS_IS_LIMITED_ENV: 1
           PACKSCRIPTS_GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          bun main version verify_links
+          bun main version verify_links --org LegacyModdingMC --org GTNewHorizons
 
       - name: Auto-enroll large files in Git LFS
         run: |
@@ -174,8 +175,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: | # We have to do this manually, since this workflow was already triggered via API using the GH token
-            curl -s -X POST \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/gtnh-daily-image.yaml/dispatches" \
-              -d '{"ref":"gtnh-daily"}'
+          response=$(curl -s -w "\n%{http_code}" -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/gtnh-daily-image.yaml/dispatches" \
+            -d '{"ref":"gtnh-daily"}')
+          body=$(echo "$response" | head -n -1)
+          status=$(echo "$response" | tail -n1)
+          echo "HTTP $status: $body"
+          [ "$status" -eq 204 ] || echo "ERROR: Failed to dispatch image workflow (HTTP $status)"
