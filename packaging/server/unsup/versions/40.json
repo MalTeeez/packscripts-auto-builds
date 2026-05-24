@@ -1,0 +1,58 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.52.541.jar",
+            "from_hash": "380266ae57a6b4e96d97eabbdd16047ca48bba0336014a00fc88599b527453f5",
+            "from_size": 57707330,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.545.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6756c39566e22a2c22d8f553e217b637a41221d9f4297cb8ded7892459a39d7b",
+            "to_size": 57707326,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/6dbb2055568823b7621e7708284c3eecadb9537b/.minecraft/mods/gregtech-5.09.52.545.jar"
+        },
+        {
+            "path": "mods/ArchitectureCraft-1.12.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ad6b8371d78c3046613a59f2745dc3bf08b2a1877448ade2f1c4d264683bc945",
+            "to_size": 701546,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6dbb2055568823b7621e7708284c3eecadb9537b/.minecraft/mods/ArchitectureCraft-1.12.12.jar"
+        },
+        {
+            "path": "mods/ArchitectureCraft-1.12.11.jar",
+            "from_hash": "83f7b1bc1d8449d10d7e53c9678eaf9371f86eec9b25eb5b4e2624a021817acf",
+            "from_size": 699457,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.148.jar",
+            "from_hash": "a629ea79c34f041e908a123d84cbc7510443fcb649fe798e0dcd96f0e6c531a1",
+            "from_size": 1011702,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.149.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ecd0785a333464b98785af380793f48111315d4529b5a95186a74f713f1e5824",
+            "to_size": 1013997,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6dbb2055568823b7621e7708284c3eecadb9537b/.minecraft/mods/hodgepodge-2.7.149.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.18",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.18"
+    }
+}
