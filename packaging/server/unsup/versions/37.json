@@ -1,0 +1,153 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/NEI/handlerordering.csv",
+            "from_hash": "f7a0c38314221fda392d860a5e9031e395696dabf9f5a066771d5edbb2f4599f",
+            "from_size": 13268,
+            "to_hash": "54a2cdcd4ae1b46b3048b8f2bc2590a6693270a6525fcc6495da7b09307da131",
+            "to_size": 18886,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/config/NEI/handlerordering.csv"
+        },
+        {
+            "path": "config/forestry/backpacks.cfg",
+            "from_hash": "699a691951661258b53b274ab793ef786c1f56a29fbeb901cf279e2073b5378f",
+            "from_size": 432378,
+            "to_hash": "f271a843c38394bae3ff58b434c01593fe64749c57a180f30150efbf54ad1681",
+            "to_size": 432404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/config/forestry/backpacks.cfg"
+        },
+        {
+            "path": "mods/ServerUtilities-2.2.33.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6d4d0771b81761a9632c428c083d0346ddcc601ba9ad3a52892aeaf989e7e78a",
+            "to_size": 1895009,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.33/ServerUtilities-2.2.33.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/ServerUtilities-2.2.33.jar"
+        },
+        {
+            "path": "mods/ServerUtilities-2.2.32.jar",
+            "from_hash": "4032a7dc6972e7f188fa26df803ee518dcd9a0054ed50a3e6c3a6a9a494a16d4",
+            "from_size": 1887225,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/archaicfix-0.7.9.jar",
+            "from_hash": "ed8396b7cc90a459097ce1176e5d7d017ad3f71cf75d11bb20f888713a8d254d",
+            "from_size": 292419,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/archaicfix-0.8.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "15d0de52361ab20057e14c2a0bec7b8614c63bcef1b010490506ea00ae79011e",
+            "to_size": 293536,
+            "url": "https://github.com/embeddedt/ArchaicFix/releases/download/0.8.0/archaicfix-0.8.0.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/archaicfix-0.8.0.jar"
+        },
+        {
+            "path": "mods/chunkapi-mc1.7.10-0.8.2.jar",
+            "from_hash": "522439b4207df980d5c829663393d4ce749824bb1adb1181a3e83373d613c985",
+            "from_size": 472948,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.535.jar",
+            "from_hash": "b158a12f0f5e6405b92a882b53f95f6e4df14a4ff2f12284299916567c7a9f2b",
+            "from_size": 57534399,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.536.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "699de1a091fdd476d1247c56fdf7dff81d3dc0bf95a2ddbfd488e66c19e6d15a",
+            "to_size": 57553182,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/gregtech-5.09.52.536.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-949-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ef76ba680bafeea07669dfd903bf008bbbdd577c492f38d296c119912a7977bd",
+            "to_size": 4513448,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-949-GTNH/appliedenergistics2-rv3-beta-949-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/appliedenergistics2-rv3-beta-949-GTNH.jar"
+        },
+        {
+            "path": "mods/chunkapi-mc1.7.10-0.8.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ddb6ee5fa6b452e2aa9f19c88531ba2b237c76200195064f3e3280c7e86eb69b",
+            "to_size": 473072,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/chunkapi-mc1.7.10-0.8.3.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.145.jar",
+            "from_hash": "27db56202a99049d9b999d02e55f73ab58fb1afe15d13bd005c25e9f3d27d334",
+            "from_size": 1001588,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-948-GTNH.jar",
+            "from_hash": "19e1bdead4b5a57556ba8d4a08c626907bdc3c69d65d55fb0aee8f44e060ae16",
+            "from_size": 4513357,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.6.25.jar",
+            "from_hash": "7915c09d337cfece09258d1ea93c9962673860fb8e49da51b4a14541be91908f",
+            "from_size": 647697,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.146.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "01b6360a19251c49d33b93d006c91bd4274894728041556a9daed75271bfb5aa",
+            "to_size": 1001589,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.146/hodgepodge-2.7.146.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/hodgepodge-2.7.146.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.26.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "234218de6e5d368240e55f34a13567fbe1c19c678ca94dc1c10ba672a158493b",
+            "to_size": 650744,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/littletiles-1.6.26.jar"
+        },
+        {
+            "path": "mods/structurelib-1.4.34.jar",
+            "from_hash": "fc6a3b2af6b3db9addab54d1eeb3d41a93abe54f5ea5b8006bc8bf0fc25aa9dc",
+            "from_size": 344363,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/structurelib-1.4.36.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d9bd94ddc9acec53071c24d5de5957d08a5ea36eac374e7b771ad34c67783d4b",
+            "to_size": 349483,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4bb574fa912d40efbf39fa02f184f8957e79f452/.minecraft/mods/structurelib-1.4.36.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.18",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.18"
+    }
+}
