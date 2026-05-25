@@ -12,6 +12,9 @@ COPY .minecraft/serverutilities ./serverutilities
 # separate quests from rest of config, since that gets updated A LOT more than anything else there
 COPY --exclude=.minecraft/config/betterquesting/DefaultQuests/ .minecraft/config ./config
 COPY .minecraft/config/betterquesting/DefaultQuests ./config/betterquesting/
+# include packscripts mainfests for this version
+COPY annotated_mods.json ./annotated_mods.json
+COPY packscripts.json ./packscripts.json
 
 # use default argument file (not unsup modified)
 RUN rm java9args.txt && mv java9args_default.txt java9args.txt
