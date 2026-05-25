@@ -1,0 +1,104 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/IguanaTinkerTweaks/BlockDefaults.cfg",
+            "from_hash": "5288f5b7f6d1c7161b4b1b7c9c9c557d3fa5de5b00c0bc562bb34f1c3193ab97",
+            "from_size": 725977,
+            "to_hash": "ce8199d43a2dea0ed006d332b8572885823a95503e836b80049ed0a85744d38c",
+            "to_size": 724557,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/27addd8de6ebd55200e7b7d00b5e56360515473a/.minecraft/config/IguanaTinkerTweaks/BlockDefaults.cfg"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.264.jar",
+            "from_hash": "f8df017a79c5ad3e7466b96cdc5c78ee00e350354b2fe0a0f3941945a23ce838",
+            "from_size": 48440259,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.265.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "383c4322a98d6e16002bb68b00461454c8bd3d54f14618c7978a84fc0e7daa25",
+            "to_size": 48441513,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/27addd8de6ebd55200e7b7d00b5e56360515473a/.minecraft/mods/GTNewHorizonsCoreMod-2.8.265.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.52.545.jar",
+            "from_hash": "6756c39566e22a2c22d8f553e217b637a41221d9f4297cb8ded7892459a39d7b",
+            "from_size": 57707326,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.547.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b891e11e8b0b92f26a9e782f9c58eef6ae8519927236c68536b095b0ff3e2042",
+            "to_size": 57712921,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/27addd8de6ebd55200e7b7d00b5e56360515473a/.minecraft/mods/gregtech-5.09.52.547.jar"
+        },
+        {
+            "path": "config/forestry/backpacks.cfg",
+            "from_hash": "f271a843c38394bae3ff58b434c01593fe64749c57a180f30150efbf54ad1681",
+            "from_size": 432404,
+            "to_hash": "317433605a47ebbd87daf6db6ec0e319ada045ea5e37ec697ca60dcff9bbe285",
+            "to_size": 432229,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/27addd8de6ebd55200e7b7d00b5e56360515473a/.minecraft/config/forestry/backpacks.cfg"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.58-GTNH.jar",
+            "from_hash": "0e601c5fbaa054f45fac5327a8c73deda1c5ab13896aa0b827bd8482fb5dfb30",
+            "from_size": 1927405,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.149.jar",
+            "from_hash": "ecd0785a333464b98785af380793f48111315d4529b5a95186a74f713f1e5824",
+            "from_size": 1013997,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.60-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "198e00836c72661eac9afc202f34ecfc0719e67af4a4bea557daf80dc4c3c404",
+            "to_size": 1928359,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/27addd8de6ebd55200e7b7d00b5e56360515473a/.minecraft/mods/BetterQuesting-3.8.60-GTNH.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.150.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3da9a7e3ea03dce918c2c322c7aea734323815ad60c27b14800c2f9145a7a8b0",
+            "to_size": 1024923,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/27addd8de6ebd55200e7b7d00b5e56360515473a/.minecraft/mods/hodgepodge-2.7.150.jar"
+        },
+        {
+            "path": "mods/modularui2-2.3.66-1.7.10.jar",
+            "from_hash": "47e5eae74c0b61e3654d2ddf81ac3757a4fb39c945ad912848058659988d0a7b",
+            "from_size": 1611012,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/modularui2-2.3.67-1.7.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "71fae3070e3b6840bbd769df0b14563198a30774cc67a2c27a8078472537b525",
+            "to_size": 1611091,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/27addd8de6ebd55200e7b7d00b5e56360515473a/.minecraft/mods/modularui2-2.3.67-1.7.10.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.18",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.18"
+    }
+}
