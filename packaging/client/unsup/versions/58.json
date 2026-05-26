@@ -1,0 +1,81 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/endlessids-mc1.7.10-1.7.1.jar",
+            "from_hash": "79acdc8febc7fa7a6b5521831587cd5f82a86c13a2d7733e79509c28ee1c59b4",
+            "from_size": 357865,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/endlessids-mc1.7.10-1.7.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8d539f9a090eebf4b4df6010d3ace9425383cea56ac19486bc1031ce7353d823",
+            "to_size": 358397,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a180783d851d29f5077092483ca94ae248426169/.minecraft/mods/endlessids-mc1.7.10-1.7.3.jar"
+        },
+        {
+            "path": ".minecraft/mods/falsepatternlib-mc1.7.10-1.11.0.jar",
+            "from_hash": "d041868ae9dc9b5b4fdc9edbffdab268d8689bb0bf57909961be4cabe2144fb1",
+            "from_size": 978029,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.551.jar",
+            "from_hash": "310aba94f9c7545077aeca3a699ef192218b2481821f13b5d8561123801a570e",
+            "from_size": 57715106,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.553.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8841a4cb0eb11306983ba2547643b21a7799372c591de8524509ea5ac8f4fc87",
+            "to_size": 57723805,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/a180783d851d29f5077092483ca94ae248426169/.minecraft/mods/gregtech-5.09.52.553.jar"
+        },
+        {
+            "path": ".minecraft/mods/VillageNames-4.5.13-GTNH.jar",
+            "from_hash": "680a1596ae08f4c20e41dea12df4c6a04d3a15eca98e2a08cfb976fb817973a6",
+            "from_size": 3481459,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/VillageNames-4.5.14-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6f9d7af2b309b7e02d6e846a9738408ab6c2c28a51f017332dcb777f5142a269",
+            "to_size": 3482425,
+            "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.14-GTNH/VillageNames-4.5.14-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a180783d851d29f5077092483ca94ae248426169/.minecraft/mods/VillageNames-4.5.14-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/sharedprospecting-2.0.5.jar",
+            "from_hash": "cb8f1bb62d0acbfbb9cddc1f50b0cc14f98101fce8af5341b44245bd82271180",
+            "from_size": 50009,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/falsepatternlib-mc1.7.10-1.12.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c9a54be08551db0d7eb77f64c1baaf6680bc1b8076ad17746754c9e1eaf1e04c",
+            "to_size": 993042,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a180783d851d29f5077092483ca94ae248426169/.minecraft/mods/falsepatternlib-mc1.7.10-1.12.0.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.18",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.18"
+    }
+}
