@@ -40,6 +40,14 @@ if grep --quiet --fixed-strings 'The state engine was in incorrect state ERRORED
   exit 1
 fi
 
+if grep --quiet --fixed-strings 'Duplicate mod found:' "$SERVERLOG"; then
+  {
+    printf 'Server had duplicate files, environment cant be guaranteed to contain indev version:'
+    cat $SERVERLOG
+  } >&2
+  exit 1
+fi
+
 if grep --quiet --fixed-strings 'Exception stopping the server' "$SERVERLOG"; then
   {
     printf "Server didn't shut down cleanly:\n"

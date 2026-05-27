@@ -19,7 +19,7 @@ while [ $i -lt 24 ]; do
     if ! kill -0 $SERVER_PID 2>/dev/null; then
         echo "Server exited unexpectedly during startup"
         wait $SERVER_PID
-        exit $?
+        exit 1
     fi
     if grep -q "Done.*For help, type \"help\" or \"\?\"" server.log; then
         echo "Server started after $((i * 5))s"
@@ -41,7 +41,7 @@ sleep 60
 if ! kill -0 $SERVER_PID 2>/dev/null; then
     echo "Server crashed during settling"
     wait $SERVER_PID
-    exit $?
+    exit 1
 fi
 
 echo "Stopping server..."
