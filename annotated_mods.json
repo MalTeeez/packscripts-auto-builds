@@ -210,7 +210,16 @@
         ],
         "source": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.21-GTNH/BaublesExpanded-2.2.21-GTNH.jar",
         "notes": "",
-        "wanted_by": [],
+        "wanted_by": [
+            "Botania",
+            "Thaumcraft",
+            "ThaumicHorizons",
+            "WarpTheory",
+            "angermod",
+            "botanichorizons",
+            "dreamcraft",
+            "thaumicbases"
+        ],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [
@@ -432,8 +441,9 @@
             "botanichorizons"
         ],
         "wants": [
-            "Baubles",
-            "gtnhlib"
+            "Baubles|Expanded",
+            "gtnhlib",
+            "Baubles"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -952,12 +962,12 @@
         }
     },
     "GalacticraftCore": {
-        "file_path": "./.minecraft/mods/Galacticraft-3.4.28-GTNH.jar",
+        "file_path": "./.minecraft/mods/Galacticraft-3.4.29-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.4.28-GTNH/Galacticraft-3.4.28-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.4.29-GTNH/Galacticraft-3.4.29-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "GalacticraftAmunRa",
@@ -971,14 +981,14 @@
             "GalacticraftMars"
         ],
         "update_state": {
-            "version": "3.4.28-GTNH",
+            "version": "3.4.29-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "9b4f5a52c6717f7c77e0ed0ee43201362d6a1a4bbf2298350481d489095d2ad2"
+            "sha256_sum": "0a1d55f628c96c1a2786b104447a3c5a160519999b9fdd4865f20adf68801714"
         }
     },
     "GalaxySpace": {
@@ -1629,12 +1639,12 @@
         }
     },
     "NotEnoughItems": {
-        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.98-GTNH.jar",
+        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.99-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.98-GTNH/NotEnoughItems-2.8.98-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.99-GTNH/NotEnoughItems-2.8.99-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "beebetteratbees",
@@ -1657,14 +1667,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.8.98-GTNH",
+            "version": "2.8.99-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "a8e7680b1b9d71fe3e0e30f96b9794fb1bd420a618a8a2f59c4e64809e617b73"
+            "sha256_sum": "3a5e248cac1016577d431cf4cae9f5e53c51e082acbef2519916b944874b20fd"
         }
     },
     "OilTweak": {
@@ -1716,12 +1726,12 @@
         }
     },
     "OpenComputers": {
-        "file_path": "./.minecraft/mods/OpenComputers-1.12.43-GTNH.jar",
+        "file_path": "./.minecraft/mods/OpenComputers-1.12.44-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.43-GTNH/OpenComputers-1.12.43-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.44-GTNH/OpenComputers-1.12.44-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "openglasses",
@@ -1734,14 +1744,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.12.43-GTNH",
+            "version": "1.12.44-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "b27640564a74542c8b985391d8f78df34c87472007a830c555b9f1621708fad5"
+            "sha256_sum": "00a1b32d7969e475d9ba37b981b2efb5442600eca3f98c68cf5e9c22bb3db994"
         }
     },
     "OpenMods": {
@@ -1853,26 +1863,26 @@
         }
     },
     "ProjectBlue": {
-        "file_path": "./.minecraft/mods/ProjectBlue-1.2.9-GTNH.jar",
+        "file_path": "./.minecraft/mods/ProjectBlue-1.2.10-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ProjectBlue/releases/download/1.2.9-GTNH/ProjectBlue-1.2.9-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/ProjectBlue/releases/download/1.2.10-GTNH/ProjectBlue-1.2.10-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.2.9-GTNH",
+            "version": "1.2.10-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "6d45dfd4d29274bee44c314974e2b3b1f2e16a4b5ad7fa34d7fd6f90270ae423"
+            "sha256_sum": "344d739ea270b920b9092abf900ed6d4e08aade24727a568899ffcccebdcf263"
         }
     },
     "RIO": {
@@ -2414,6 +2424,7 @@
             "WitchingGadgets"
         ],
         "wants": [
+            "Baubles|Expanded",
             "Baubles"
         ],
         "enabled": true,
@@ -2519,6 +2530,7 @@
         "wanted_by": [],
         "wants": [
             "Thaumcraft",
+            "Baubles|Expanded",
             "Baubles"
         ],
         "enabled": true,
@@ -2660,26 +2672,26 @@
         }
     },
     "VillageNames": {
-        "file_path": "./.minecraft/mods/VillageNames-4.5.14-GTNH.jar",
+        "file_path": "./.minecraft/mods/VillageNames-4.5.15-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.14-GTNH/VillageNames-4.5.14-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.15-GTNH/VillageNames-4.5.15-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "4.5.14-GTNH",
+            "version": "4.5.15-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "6f9d7af2b309b7e02d6e846a9738408ab6c2c28a51f017332dcb777f5142a269"
+            "sha256_sum": "1b71a27287b4c0b77aba15e7a01fa205c4e6d9a37aaec036860ab0c33fe506ef"
         }
     },
     "WR-CBE|Core": {
@@ -2771,6 +2783,7 @@
         "wanted_by": [],
         "wants": [
             "Thaumcraft",
+            "Baubles|Expanded",
             "Baubles"
         ],
         "enabled": true,
@@ -3080,8 +3093,9 @@
         "notes": "",
         "wanted_by": [],
         "wants": [
-            "Baubles",
-            "gtnhlib"
+            "Baubles|Expanded",
+            "gtnhlib",
+            "Baubles"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -3097,12 +3111,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-957-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-959-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-957-GTNH/appliedenergistics2-rv3-beta-957-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-959-GTNH/appliedenergistics2-rv3-beta-959-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3119,14 +3133,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-957-GTNH",
+            "version": "rv3-beta-959-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "e629ea8bbaf3f9e20971878766e5bd7a7e398a0c93011dfc621a6cceb38b1b5e"
+            "sha256_sum": "722a24d008d6d5f6944f461033d7556772c7a1450bea957327d0975df54a3fb8"
         }
     },
     "archaicfix": {
@@ -3507,12 +3521,12 @@
         }
     },
     "bogosorter": {
-        "file_path": "./.minecraft/mods/bogosorter-1.3.27-GTNH.jar",
+        "file_path": "./.minecraft/mods/bogosorter-1.3.28-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.27-GTNH/bogosorter-1.3.27-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.28-GTNH/bogosorter-1.3.28-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3523,14 +3537,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.3.27-GTNH",
+            "version": "1.3.28-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "85ae24a3d875041836e2c7c963face731ecb415a6bcb51705618e8c247e7f2a5"
+            "sha256_sum": "5f38a3d42656c19edee95f95e1017e219d641d659a63f3d765738d1901b4d7f9"
         }
     },
     "botanichorizons": {
@@ -3544,11 +3558,12 @@
         "wanted_by": [],
         "wants": [
             "Thaumcraft",
-            "Baubles",
+            "Baubles|Expanded",
             "Botania",
             "gregtech",
             "TConstruct",
-            "Avaritia"
+            "Avaritia",
+            "Baubles"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -3667,11 +3682,11 @@
         }
     },
     "chromatictooltips": {
-        "file_path": "./.minecraft/mods/chromatictooltips-1.0.27-GTNH.jar",
+        "file_path": "./.minecraft/mods/chromatictooltips-1.0.28-GTNH.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.27-GTNH/chromatictooltips-1.0.27-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/ChromaticTooltips/releases/download/1.0.28-GTNH/chromatictooltips-1.0.28-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "chromatictooltipscompat"
@@ -3682,14 +3697,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.0.27-GTNH",
+            "version": "1.0.28-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0893752be51cd7f841465b3439aa889065c4477b98d1d64ac8487f81d56e538a"
+            "sha256_sum": "8587d87ad2460e6c757921142d733d7401d41fd643109a8d6a92e1f085c72798"
         }
     },
     "chromatictooltipscompat": {
@@ -3932,12 +3947,12 @@
         }
     },
     "cropsnh": {
-        "file_path": "./.minecraft/mods/cropsnh-2.0.62.jar",
+        "file_path": "./.minecraft/mods/cropsnh-2.0.63.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.62/cropsnh-2.0.62.jar",
+        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.63/cropsnh-2.0.63.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3946,14 +3961,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.0.62",
+            "version": "2.0.63",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "709554214b979da68de96aeff23455110aed10fb16e148f9f6b976accaa7b293"
+            "sha256_sum": "9c9994cb57aca83bcecaaadf12a052d3797a51f46b7ceea10f0ccea378c88581"
         }
     },
     "custommainmenu": {
@@ -4071,7 +4086,7 @@
         }
     },
     "dreamcraft": {
-        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.8.265.jar",
+        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.8.266.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4084,19 +4099,20 @@
         "wants": [
             "gtnhlib",
             "YAMCore",
+            "Baubles|Expanded",
             "Baubles"
         ],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.8.265",
+            "version": "2.8.266",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "383c4322a98d6e16002bb68b00461454c8bd3d54f14618c7978a84fc0e7daa25"
+            "sha256_sum": "f2e6c96edfa0cc48d6c02abfc61b3fe79d19c85c7d26c3dad68a9a25c10ad384"
         }
     },
     "duradisplay": {
@@ -4550,12 +4566,12 @@
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.10.7.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.10.8.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.10.7/gtnhlib-0.10.7.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.10.8/gtnhlib-0.10.8.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4608,14 +4624,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.10.7",
+            "version": "0.10.8",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "b9baa220ec0bd1f0b75a6c90814ec904ce029946d23765b6b0560f162f7386c1"
+            "sha256_sum": "f10aa5c052353b099069e07b76797b256130e35010b9469f13d7360b9ee54337"
         }
     },
     "gtnhtcwands": {
@@ -4671,12 +4687,12 @@
         }
     },
     "hodgepodge": {
-        "file_path": "./.minecraft/mods/hodgepodge-2.7.150.jar",
+        "file_path": "./.minecraft/mods/hodgepodge-2.7.151.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.150/hodgepodge-2.7.150.jar",
+        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.151/hodgepodge-2.7.151.jar",
         "notes": "",
         "wanted_by": [
             "supernova"
@@ -4689,14 +4705,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.7.150",
+            "version": "2.7.151",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "3da9a7e3ea03dce918c2c322c7aea734323815ad60c27b14800c2f9145a7a8b0"
+            "sha256_sum": "dbf36fa939882aa60793817b1c6959bed700a95a818307d1ea7199cc48164b6d"
         }
     },
     "holoinventory": {
@@ -5826,8 +5842,9 @@
         "wanted_by": [],
         "wants": [
             "Thaumcraft",
-            "Baubles",
-            "DummyCore"
+            "Baubles|Expanded",
+            "DummyCore",
+            "Baubles"
         ],
         "enabled": true,
         "other_mod_ids": [],
@@ -6080,26 +6097,26 @@
         }
     },
     "vendingmachine": {
-        "file_path": "./.minecraft/mods/vendingmachine-0.4.76.jar",
+        "file_path": "./.minecraft/mods/vendingmachine-0.4.77.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.76/vendingmachine-0.4.76.jar",
+        "source": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.77/vendingmachine-0.4.77.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.4.76",
+            "version": "0.4.77",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4875bc7325cb3a34846ba6dffcc1bd37d13e66305181ec6c98a783dc5ca7d8e2"
+            "sha256_sum": "5a2bb63488d364ba3ea3ab2d61c890178b9c8538e0dcc76871a487f6b07b9755"
         }
     },
     "visualprospecting": {
