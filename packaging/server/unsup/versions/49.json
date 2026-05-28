@@ -1,0 +1,54 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.52.557.jar",
+            "from_hash": "c932937a1d000a77553cc79f449a8b3f1862693c7ecda697147291925b3a14f6",
+            "from_size": 57738730,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.558.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fea35e5f1ac47583bbbe7a48b3921e4fef720651c69f2c50f2e12b949ddab652",
+            "to_size": 57739003,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.558/gregtech-5.09.52.558.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/0eb34b4a40828dd58ab9c2f9d79b443242e21df7/.minecraft/mods/gregtech-5.09.52.558.jar"
+        },
+        {
+            "path": "mods/gtnhextlib-1.0.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "76f8e0d8d558c098670aad99959ee8f53339d185629af7d876c6c1cdde901778",
+            "to_size": 25126898,
+            "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.0/gtnhextlib-1.0.0.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/0eb34b4a40828dd58ab9c2f9d79b443242e21df7/.minecraft/mods/gtnhextlib-1.0.0.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.79.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c1c0709f735c6fef4b138cc1ffb73fcd4d623b4def18212b058cb8c143d78da2",
+            "to_size": 2159770,
+            "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.79/vendingmachine-0.4.79.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0eb34b4a40828dd58ab9c2f9d79b443242e21df7/.minecraft/mods/vendingmachine-0.4.79.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.78.jar",
+            "from_hash": "01bf0c621d2275f82c46de0624ff9d15d599a3b86927d75ca2d723b06f4fb39c",
+            "from_size": 2153552,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.18",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.18"
+    }
+}
