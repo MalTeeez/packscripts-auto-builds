@@ -1,0 +1,61 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.52.556.jar",
+            "from_hash": "f591523fc0fe6af88594ea46820fece690e2e4146cb8447d87c59a7cfd3cfe75",
+            "from_size": 57738730,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.557.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c932937a1d000a77553cc79f449a8b3f1862693c7ecda697147291925b3a14f6",
+            "to_size": 57738730,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.557/gregtech-5.09.52.557.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/be978d6ac49d55101e0836f1fbe99e0a3a77aa7a/.minecraft/mods/gregtech-5.09.52.557.jar"
+        },
+        {
+            "path": "mods/hydroenergy-1.4.19.jar",
+            "from_hash": "189ea941fceb5f9c5df46f518acfe75f623091b96bb9fcaf190b6f77805facff",
+            "from_size": 204713,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hydroenergy-1.4.20.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b6b2e3efe427190785be5d1ecaef427d49519af53213f2de59eed82bcadcdf83",
+            "to_size": 206261,
+            "url": "https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.20/hydroenergy-1.4.20.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/be978d6ac49d55101e0836f1fbe99e0a3a77aa7a/.minecraft/mods/hydroenergy-1.4.20.jar"
+        },
+        {
+            "path": "mods/mobsinfo-0.5.14-GTNH.jar",
+            "from_hash": "39cb221742c0f19a26dda67daf4cf56b091aefd974ca6a4fb03bd87d42f5be06",
+            "from_size": 432029,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/mobsinfo-0.5.15-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f830726b3da923733e558c44bb92c364116fd716025c44860ccef06408c65453",
+            "to_size": 433468,
+            "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.15-GTNH/mobsinfo-0.5.15-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/be978d6ac49d55101e0836f1fbe99e0a3a77aa7a/.minecraft/mods/mobsinfo-0.5.15-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.18",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.18"
+    }
+}
