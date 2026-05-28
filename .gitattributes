@@ -1,10 +1,9 @@
-GTNH[[:space:]]Daily-server.zip filter=lfs diff=lfs merge=lfs -text
 packaging/server/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/resourcepacks/Realistic[[:space:]]Sky[[:space:]]GT[[:space:]]New[[:space:]]Horizons.zip filter=lfs diff=lfs merge=lfs -text
 .minecraft/config/txloader/load/galacticraftcore/sounds/music/absolutezero.ogg filter=lfs diff=lfs merge=lfs -text
 .minecraft/config/txloader/load/galacticraftcore/sounds/music/nebulalullaby.ogg filter=lfs diff=lfs merge=lfs -text
+.minecraft/mods/gregtech-5.09.52.557.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/Galacticraft-3.4.29-GTNH.jar filter=lfs diff=lfs merge=lfs -text
-.minecraft/mods/gregtech-5.09.52.556.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/Botania-1.13.21-GTNH.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/OpenComputers-1.12.44-GTNH.jar filter=lfs diff=lfs merge=lfs -text
 .minecraft/mods/HardcoreEnderExpansion-1.12.22-GTNH.jar filter=lfs diff=lfs merge=lfs -text
