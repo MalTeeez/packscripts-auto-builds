@@ -2198,12 +2198,12 @@
         }
     },
     "StorageDrawers": {
-        "file_path": "./.minecraft/mods/StorageDrawers-2.2.24-GTNH.jar",
+        "file_path": "./.minecraft/mods/StorageDrawers-2.2.25-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.24-GTNH/StorageDrawers-2.2.24-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.2.25-GTNH/StorageDrawers-2.2.25-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -2218,14 +2218,14 @@
             "StorageDrawersMisc"
         ],
         "update_state": {
-            "version": "2.2.24-GTNH",
+            "version": "2.2.25-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "ece6dfad9b56dcae94877c055b2049fc494063736da4204c53cb27438e5419ad"
+            "sha256_sum": "455c491c9e1d5ea5ea98fd43c8efe0f59d0fe7e0a36365a17e76680b0fd529e7"
         }
     },
     "SuperTic": {
@@ -2286,7 +2286,7 @@
         }
     },
     "TGregworks": {
-        "file_path": "./.minecraft/mods/TGregworks-1.7.10-GTNH-1.0.31.jar",
+        "file_path": "./.minecraft/mods/TGregworks-1.7.10-GTNH-1.0.32.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -2301,14 +2301,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "GTNH-1.0.31",
+            "version": "GTNH-1.0.32",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "5cfa60fb5fe9ce5478fb646f89f3803814ee1c45d96d88826b6fc8a274e108ed"
+            "sha256_sum": "abd65c3e523a2f15ca8ce03827887862febdff720c3e14a0a9117038ca65bd28"
         }
     },
     "TML": {
@@ -3111,12 +3111,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-964-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-966-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-964-GTNH/appliedenergistics2-rv3-beta-964-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-966-GTNH/appliedenergistics2-rv3-beta-966-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3133,14 +3133,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-964-GTNH",
+            "version": "rv3-beta-966-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4db5dcb8fee919dc8aa7d92c5ade5f96da51bcf234be0d44e6783cfde6b883bd"
+            "sha256_sum": "0d0a17df859504fcf54bd973d24064fcfa21048c97824b0cb7d3fc7f18589e49"
         }
     },
     "archaicfix": {
@@ -4489,12 +4489,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.568.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.570.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.568/gregtech-5.09.52.568.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.570/gregtech-5.09.52.570.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4533,14 +4533,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.52.568",
+            "version": "5.09.52.570",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "de38a08a70453a97a545bf261f21ed9cf782e3b8b57ebd7bb763eaa0dd76a8f1"
+            "sha256_sum": "c423bf4f8d01c141ed9921a123eaf875db5095d38593af9be04632eb8223a38c"
         }
     },
     "gtnhcredits": {
@@ -4589,12 +4589,12 @@
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.11.3.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.11.4.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.3/gtnhlib-0.11.3.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.4/gtnhlib-0.11.4.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4647,14 +4647,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.11.3",
+            "version": "0.11.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "04052a1acc35c69ea1913bc4ba5e53328ca08c244525aa217dade956adc12208"
+            "sha256_sum": "eabffc240dfaf94486d4b65ae6ffb1435088ca63afaa086a7472f4ac01ecde11"
         }
     },
     "gtnhtcwands": {
@@ -5161,12 +5161,12 @@
         }
     },
     "modularui2": {
-        "file_path": "./.minecraft/mods/modularui2-2.3.69-1.7.10.jar",
+        "file_path": "./.minecraft/mods/modularui2-2.3.71-1.7.10.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.69-1.7.10/modularui2-2.3.69-1.7.10.jar",
+        "source": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.71-1.7.10/modularui2-2.3.71-1.7.10.jar",
         "notes": "",
         "wanted_by": [
             "bogosorter",
@@ -5181,14 +5181,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.3.69-1.7.10",
+            "version": "2.3.71-1.7.10",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "2526cab34748d4ab5ae8eacc1efaa0fdce69c88bb4f4e9d583bd747846500864"
+            "sha256_sum": "1c70516b4c6c9161a339343a5677489a5765cc26d29fd3c083759e75f006e11c"
         }
     },
     "naturescompass": {
@@ -5533,26 +5533,26 @@
         }
     },
     "personalspace": {
-        "file_path": "./.minecraft/mods/personalspace-1.0.38.jar",
+        "file_path": "./.minecraft/mods/personalspace-1.0.39.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/PersonalSpace/releases/download/1.0.38/personalspace-1.0.38.jar",
+        "source": "https://github.com/GTNewHorizons/PersonalSpace/releases/download/1.0.39/personalspace-1.0.39.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.0.38",
+            "version": "1.0.39",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "2ef5b33b5d52405def667710956c0d54c171b8755eced7cc9a9ed456bfee4804"
+            "sha256_sum": "03874e583080d1ded5661a537f6101b8ded58f8d8a8d12c6b3b2f2e16a4f4520"
         }
     },
     "postea": {
@@ -5604,12 +5604,12 @@
         }
     },
     "salisarcana": {
-        "file_path": "./.minecraft/mods/salisarcana-1.1.61-GTNH.jar",
+        "file_path": "./.minecraft/mods/salisarcana-1.1.62-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.61-GTNH/salisarcana-1.1.61-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.62-GTNH/salisarcana-1.1.62-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -5618,14 +5618,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.1.61-GTNH",
+            "version": "1.1.62-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0efdd97004d286562eba97ecc3d0d6be46e8c8f6a3a92660439b2184381a7902"
+            "sha256_sum": "3bafdf4c93370073ab08e330f8c604a0bf130f8c4013aaa6727e9151c6c259f8"
         }
     },
     "serverutilities": {
@@ -6120,26 +6120,26 @@
         }
     },
     "vendingmachine": {
-        "file_path": "./.minecraft/mods/vendingmachine-0.4.82.jar",
+        "file_path": "./.minecraft/mods/vendingmachine-0.4.83.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.82/vendingmachine-0.4.82.jar",
+        "source": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.83/vendingmachine-0.4.83.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.4.82",
+            "version": "0.4.83",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "6b9418e50abe083af09e4dce67dfad7f8858d0e64456442466e1f9e9c7d204cc"
+            "sha256_sum": "7eb1509f56600fe81bfb115ae0702466322ccad50e54bdbe61db78e313dd0c6a"
         }
     },
     "visualprospecting": {
