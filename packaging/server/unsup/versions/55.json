@@ -1,0 +1,29 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.52.570.jar",
+            "from_hash": "c423bf4f8d01c141ed9921a123eaf875db5095d38593af9be04632eb8223a38c",
+            "from_size": 67449395,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.572.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6b08306ce55a29747e1acd16b0ad8edbaac39ca2e7a49d38d9fc74ab0c2e0d9f",
+            "to_size": 67489330,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.572/gregtech-5.09.52.572.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/eb55ae68c1169875c4fca4ccaeb8f0ac96eff617/.minecraft/mods/gregtech-5.09.52.572.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260513.220205-7",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.21",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.21"
+    }
+}
