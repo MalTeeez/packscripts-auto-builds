@@ -1,0 +1,210 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/EnhancedLootBags/LootBags.xml",
+            "from_hash": "437a128431076aa1ff695d841bc24aae27b203f4aa9a03b1d28aaabab5f58282",
+            "from_size": 436000,
+            "to_hash": "7d04585190c29e0937b01b08846811e1ca001bf6f2a693f7a9a1af00990c52bf",
+            "to_size": 436066,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/config/EnhancedLootBags/LootBags.xml"
+        },
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.64-GTNH.jar",
+            "from_hash": "fb35abc0cbf17a28bea48d2a7e0589a22dc6caa0927d122aa81e1f5271fc60b3",
+            "from_size": 1943267,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/EMT-1.7.21.jar",
+            "from_hash": "1537904389fedf2257b8bf0ac5cf7da4271bde06af04f07075a2b1f90f5e1831",
+            "from_size": 1473023,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.65-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8d460e20c4b7c0a1600353598fe6590d325698ed1cff89245cddb3bbe8f58734",
+            "to_size": 1942775,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.65-GTNH/BetterQuesting-3.8.65-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/BetterQuesting-3.8.65-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.8.273.jar",
+            "from_hash": "30083e722036cc9ec0c7a39082082418bf78455d797fa0fdab7a8e22c51d9bea",
+            "from_size": 48310373,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.8.274.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "27f848fa16df433ff1ee9a30c9abafee645c734b92a0996c52a9b20433e316f2",
+            "to_size": 48310837,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/GTNewHorizonsCoreMod-2.8.274.jar"
+        },
+        {
+            "path": ".minecraft/mods/EMT-1.7.22.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2a3befd5f19c3f977f560fc44a97988c533da0388a1a240984f78d19199cce6b",
+            "to_size": 1473272,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/EMT-1.7.22.jar"
+        },
+        {
+            "path": ".minecraft/mods/Tainted-Magic-7.7.8-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9274e143c554d142461271687d44a0dfce26d1a34eea0faba2c5411b463f559d",
+            "to_size": 2395082,
+            "url": "https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.7.8-GTNH/Tainted-Magic-7.7.8-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/Tainted-Magic-7.7.8-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/Tainted-Magic-7.7.7-GTNH.jar",
+            "from_hash": "c6df86bece775f012b8234895448b7647b7cdc3aea88c8f830d9e315228f5fb2",
+            "from_size": 2394832,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/EnderIO-2.10.29.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5f516b3c8f108e1567fb1b5403d72da4e040d05494a43357feae740c1d1e6dfe",
+            "to_size": 4896750,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.29/EnderIO-2.10.29.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/EnderIO-2.10.29.jar"
+        },
+        {
+            "path": ".minecraft/mods/WailaHarvestability-1.3.5-GTNH.jar",
+            "from_hash": "98911d1815df1c0c8cb9338e4b238c683d27518f03cf7dd6d4df617895d27e3b",
+            "from_size": 30670,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/WailaHarvestability-1.3.6-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f947078e58bb765b79bda0100dfb6388b6dff6c8d1098827240f3204405254aa",
+            "to_size": 30517,
+            "url": "https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.3.6-GTNH/WailaHarvestability-1.3.6-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/WailaHarvestability-1.3.6-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/EnderIO-2.10.28.jar",
+            "from_hash": "da2ea3b45b027586cafdc3cf5e10856362e95720119bdbc7d757c9a2a2c5fcb3",
+            "from_size": 4896686,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/bogosorter-1.3.28-GTNH.jar",
+            "from_hash": "5f38a3d42656c19edee95f95e1017e219d641d659a63f3d765738d1901b4d7f9",
+            "from_size": 300871,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/bogosorter-1.3.29-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3cb43fb43d748464ab1e9f54c1fec6744f075a1d5cddb6e8e9c785717e8adbe7",
+            "to_size": 301026,
+            "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.29-GTNH/bogosorter-1.3.29-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/bogosorter-1.3.29-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/gravisuiteneo-1.3.11.jar",
+            "from_hash": "b9edaea80c867f312d80507dbf3d25a31be39bd7ad046b601ad75949ca74ec6a",
+            "from_size": 976532,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.575.jar",
+            "from_hash": "0f0ef5d572b01a2392bf6b020f9a8eb3cbd769d288835c732625adf7699e45c3",
+            "from_size": 67638061,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.577.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9e7d6b8fc30a19fcedf97ed2296bf02b698099fcc9f72405af6bbfc3b90dd14a",
+            "to_size": 67638095,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.577/gregtech-5.09.52.577.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/gregtech-5.09.52.577.jar"
+        },
+        {
+            "path": ".minecraft/mods/gravisuiteneo-1.3.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "407fec5130db11434e38d5e5111c0cb22be7ee63a648da42ecd5cd15e0d22464",
+            "to_size": 976631,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/gravisuiteneo-1.3.12.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-970-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ebc4adfa92d236acf4a9c230d9da83df5421754d6f86d54a884a6d7cddbab866",
+            "to_size": 4603919,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-970-GTNH/appliedenergistics2-rv3-beta-970-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/appliedenergistics2-rv3-beta-970-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-969-GTNH.jar",
+            "from_hash": "b7fb56ca5142f6edb08e3af599f51447e4b287a6e58618dbaf8600904e34f1a8",
+            "from_size": 4603919,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.157.jar",
+            "from_hash": "e6d2af0451543406c21f4491a3947d5e499bed9a0d33bb8c42969e5f01d304fc",
+            "from_size": 1042103,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.158.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dee9638faa27c18cb20050c3b2d6e778d70d0f9c6dceab0b671f4d31958dabe6",
+            "to_size": 1043556,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.158/hodgepodge-2.7.158.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/hodgepodge-2.7.158.jar"
+        },
+        {
+            "path": ".minecraft/mods/thaumicboots-1.5.11.jar",
+            "from_hash": "7439b9d3029efca4bc887f4fb71748af3d611ebf7e3ee9d138e0cda349493329",
+            "from_size": 1446218,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/thaumicboots-1.5.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2d037fcdc06bd3051f9c4b047c7910927f13a47d03f004d9773db430daad31f7",
+            "to_size": 1446380,
+            "url": "https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.5.12/thaumicboots-1.5.12.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f590342410218916a31d7334707fa038f6acc419/.minecraft/mods/thaumicboots-1.5.12.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.22",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.22"
+    }
+}
