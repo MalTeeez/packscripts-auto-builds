@@ -2306,7 +2306,7 @@
         }
     },
     "TGregworks": {
-        "file_path": "./.minecraft/mods/TGregworks-1.7.10-GTNH-1.0.32.jar",
+        "file_path": "./.minecraft/mods/TGregworks-GTNH-1.0.35.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -2323,14 +2323,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "GTNH-1.0.32",
+            "version": "GTNH-1.0.35",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "abd65c3e523a2f15ca8ce03827887862febdff720c3e14a0a9117038ca65bd28"
+            "sha256_sum": "a46766b739c56e07f0aab7d053daadfb3d32d5baaa0ec70bcc44e8aee291553a"
         }
     },
     "TML": {
@@ -4515,12 +4515,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.578.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.579.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.578/gregtech-5.09.52.578.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.579/gregtech-5.09.52.579.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4588,14 +4588,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.52.578",
+            "version": "5.09.52.579",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0ebcc4e5a3357eca2742955bb1e932f1a591795125760fce6dc951c7fe8b66f6"
+            "sha256_sum": "0deb83283a37e08c06a36b962cf6e939f4c2687990f10e11db3c82b6082bbe52"
         }
     },
     "gtnhcredits": {
