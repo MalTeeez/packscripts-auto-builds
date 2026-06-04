@@ -1,0 +1,93 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/Botania-1.13.21-GTNH.jar",
+            "from_hash": "5134fba75e9aeb59d32088d0a44aecda80b322dc24b7c6ad64356e87df9afd6c",
+            "from_size": 15928892,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/Botania-1.13.25-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5882c41b63d1f298b06fc88b9afc28a994b18e1511254796dfe6d0b721747c63",
+            "to_size": 16894212,
+            "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.25-GTNH/Botania-1.13.25-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/01c55236a3d843f0810415d74beb60328082f1b0/.minecraft/mods/Botania-1.13.25-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/adventurebackpack-1.4.19-GTNH.jar",
+            "from_hash": "70e0968d27bb7af5c860d0f27189304f03acd18d607db644ac49a3045371aa4d",
+            "from_size": 3250833,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/adventurebackpack-1.4.21-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b8a6706dc769895ba676237825991dc156c1572b96e4e19802631c6bec86ccde",
+            "to_size": 3253862,
+            "url": "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.4.21-GTNH/adventurebackpack-1.4.21-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/01c55236a3d843f0810415d74beb60328082f1b0/.minecraft/mods/adventurebackpack-1.4.21-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/TConstruct-1.14.87-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "de8cf635fcb4a6bc8004a7bbdab23b0e5973e6231ec3873f117fe291044927b4",
+            "to_size": 5581166,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.87-GTNH/TConstruct-1.14.87-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/01c55236a3d843f0810415d74beb60328082f1b0/.minecraft/mods/TConstruct-1.14.87-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/TConstruct-1.14.80-GTNH.jar",
+            "from_hash": "c8b7f9528e0c72dc640c4a4137d2bb2b2a61d5ba2657350d7bdc42ac8aa43319",
+            "from_size": 5568608,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/salisarcana-1.1.62-GTNH.jar",
+            "from_hash": "3bafdf4c93370073ab08e330f8c604a0bf130f8c4013aaa6727e9151c6c259f8",
+            "from_size": 661546,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/salisarcana-1.1.64-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "45dc0e7f7371c8de2d5b86f1800a8c2ce96e8bda232fc06404baaaaa21f02af8",
+            "to_size": 662952,
+            "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.64-GTNH/salisarcana-1.1.64-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/01c55236a3d843f0810415d74beb60328082f1b0/.minecraft/mods/salisarcana-1.1.64-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/logisticspipes-1.5.24-GTNH.jar",
+            "from_hash": "c489c01d379f06836998608ef691a5ddd5e37ec2efd25d3d3ce0fec2a475b804",
+            "from_size": 2901569,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/logisticspipes-1.5.25-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e5c30891cfdf5d24c0384b5378e1349a5e879c670e2e1909deec2b2eb76fb9a5",
+            "to_size": 2901762,
+            "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.25-GTNH/logisticspipes-1.5.25-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/01c55236a3d843f0810415d74beb60328082f1b0/.minecraft/mods/logisticspipes-1.5.25-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
