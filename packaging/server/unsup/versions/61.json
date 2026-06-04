@@ -1,0 +1,60 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/EnhancedLootBags/LootBags.xml",
+            "from_hash": "7d04585190c29e0937b01b08846811e1ca001bf6f2a693f7a9a1af00990c52bf",
+            "from_size": 436066,
+            "to_hash": "1370fc85aa5d744b29100834dca490555d70087447b260b03671d4c0eb9ff343",
+            "to_size": 435696,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b58defe75b388b2de15de25b20a3fda3fa6628e3/.minecraft/config/EnhancedLootBags/LootBags.xml"
+        },
+        {
+            "path": "mods/gregtech-5.09.52.578.jar",
+            "from_hash": "0ebcc4e5a3357eca2742955bb1e932f1a591795125760fce6dc951c7fe8b66f6",
+            "from_size": 67648117,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.579.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0deb83283a37e08c06a36b962cf6e939f4c2687990f10e11db3c82b6082bbe52",
+            "to_size": 67648259,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.579/gregtech-5.09.52.579.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/b58defe75b388b2de15de25b20a3fda3fa6628e3/.minecraft/mods/gregtech-5.09.52.579.jar"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/HowtoBee-AAAAAAAAAAAAAAAAAAAAFA==/DeathtoBees-AAAAAAAAAAAAAAAAAAAF6Q==.json",
+            "from_hash": "d0afebe80322415477b92d2ac83e520650adff834f74ee387bc525b4e12f6ed1",
+            "from_size": 2862,
+            "to_hash": "c014bcdc80b67cc72540722837e2e1ab6a2ce0dd33271ba0d1bd8a83c9e3502a",
+            "to_size": 2865,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b58defe75b388b2de15de25b20a3fda3fa6628e3/.minecraft/config/betterquesting/DefaultQuests/Quests/HowtoBee-AAAAAAAAAAAAAAAAAAAAFA==/DeathtoBees-AAAAAAAAAAAAAAAAAAAF6Q==.json"
+        },
+        {
+            "path": "mods/TGregworks-1.7.10-GTNH-1.0.32.jar",
+            "from_hash": "abd65c3e523a2f15ca8ce03827887862febdff720c3e14a0a9117038ca65bd28",
+            "from_size": 67649,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TGregworks-GTNH-1.0.35.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a46766b739c56e07f0aab7d053daadfb3d32d5baaa0ec70bcc44e8aee291553a",
+            "to_size": 67629,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b58defe75b388b2de15de25b20a3fda3fa6628e3/.minecraft/mods/TGregworks-GTNH-1.0.35.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
