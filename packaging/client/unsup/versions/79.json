@@ -1,0 +1,22 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/guidenh-1.3.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "19514e70ab45981cf00b3b1eda8abe5663dbaa858c18eedccabfa54b3bbdd961",
+            "to_size": 18186727,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.3/guidenh-1.3.3.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/f2ca0f3cc887b976585e9fe82c1a28823edf7701/.minecraft/mods/guidenh-1.3.3.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
