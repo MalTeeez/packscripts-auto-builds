@@ -1,0 +1,92 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.274.jar",
+            "from_hash": "27f848fa16df433ff1ee9a30c9abafee645c734b92a0996c52a9b20433e316f2",
+            "from_size": 48310837,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.275.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5afe1ba8551d1d28aba40516010fb1261b6befc3be902aac524cb5a2883ca45e",
+            "to_size": 48310992,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/6b7f0923e4131463dddbf457863a6ce3cb717cc6/.minecraft/mods/GTNewHorizonsCoreMod-2.8.275.jar"
+        },
+        {
+            "path": "mods/Universal-Singularities-8.14.2.jar",
+            "from_hash": "9483ee8ba0207585c7208727e072b14bc5564bde46a8bf280fdd7f781ea9bb68",
+            "from_size": 19560,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Universal-Singularities-8.15.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f6b3c369435361e620d57ee0879826b2c005e8a3e92feb00429708103bb7b0ea",
+            "to_size": 20103,
+            "url": "https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.15.1/Universal-Singularities-8.15.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b7f0923e4131463dddbf457863a6ce3cb717cc6/.minecraft/mods/Universal-Singularities-8.15.1.jar"
+        },
+        {
+            "path": "mods/eternalsingularity-1.4.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9c14074b0749ecddab62e2b16921de23360149e3bda9fb4fbf870efc3b5fd4a9",
+            "to_size": 118896,
+            "url": "https://github.com/GTNewHorizons/Eternal-Singularity/releases/download/1.4.3/eternalsingularity-1.4.3.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b7f0923e4131463dddbf457863a6ce3cb717cc6/.minecraft/mods/eternalsingularity-1.4.3.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.52.579.jar",
+            "from_hash": "0deb83283a37e08c06a36b962cf6e939f4c2687990f10e11db3c82b6082bbe52",
+            "from_size": 67648259,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.581.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "54797e4a7818b971d8a5708a8d3637cfeff483e01dfabaab32ff231844f7a0bf",
+            "to_size": 67726456,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.581/gregtech-5.09.52.581.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/6b7f0923e4131463dddbf457863a6ce3cb717cc6/.minecraft/mods/gregtech-5.09.52.581.jar"
+        },
+        {
+            "path": "mods/eternalsingularity-1.4.2.jar",
+            "from_hash": "e7f4225957427a37e94dd3741ed96cc0f6903b9be01d8722cf7ea633fa6c6757",
+            "from_size": 118897,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-972-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3c278469ecf2d4cb6301a2dde4fcd25d2b21f53319f30d38146c4d39e9ce0df3",
+            "to_size": 4604512,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-972-GTNH/appliedenergistics2-rv3-beta-972-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b7f0923e4131463dddbf457863a6ce3cb717cc6/.minecraft/mods/appliedenergistics2-rv3-beta-972-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-971-GTNH.jar",
+            "from_hash": "b8e27bf69a59a5509068de490b52c8c21f0d6f1631f7276ddd9bf3eb10caa995",
+            "from_size": 4603642,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
