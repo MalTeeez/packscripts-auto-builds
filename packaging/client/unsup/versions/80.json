@@ -1,0 +1,602 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/Betterloadingscreen/betterloadingscreen.cfg",
+            "from_hash": "95edca9ad4d3cbe742e9baf26495a08579621388a8908d4c1f1516b79b21654c",
+            "from_size": 9118,
+            "to_hash": "951d4e1926d6908e919328db88ebf7c2efaa69ab7b2228638927a133d789adf4",
+            "to_size": 10003,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/Betterloadingscreen/betterloadingscreen.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background1.png",
+            "from_hash": "0465d5324d96d225adb99782c781660e472bd8ef494d7365f061a4473a9206ed",
+            "from_size": 988910,
+            "to_hash": "00211c911ccd842603bae05cb8915316e5698728a27ded2f003924444db2eef6",
+            "to_size": 1001279,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background1.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background10.png",
+            "from_hash": "babb59b070d8d01fe1eed0a26751bfdf81a342034b4b10f714a750bd65ae50d8",
+            "from_size": 1055236,
+            "to_hash": "68f11ca6c7f544e7f335a616f18b45e0525fed23ddf4ffedfad870d6b4ecbe20",
+            "to_size": 1136805,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background10.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background11.png",
+            "from_hash": "d15f551891354f3eb832d86b00f654f3afa2c6a3471cba5013e7a5bf8266bbcf",
+            "from_size": 1086953,
+            "to_hash": "447226134ea5b0e8a95f7bb2e67253049567a2b3849464c9e805a401ecb4929e",
+            "to_size": 686335,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background11.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background12.png",
+            "from_hash": "edc74244ef4e5f15d1021a416a52105ca0bcc8a053e0b24a615d136ee8fe7733",
+            "from_size": 1597405,
+            "to_hash": "42c3ad18801fca9a34ad728a03e2eab1f9faf5c452577178fe5b9cac31ebf2da",
+            "to_size": 966682,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background12.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background13.png",
+            "from_hash": "437de26bb77312d2a2654f2133fa0f9b45fa167a6ac0243dadb4f09b4c3dfbba",
+            "from_size": 1406814,
+            "to_hash": "9bba23b1c1d7be4f48742ac2e7f7b4788761db3a56ff48bf67c3c84026b0ceb7",
+            "to_size": 704880,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background13.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background14.png",
+            "from_hash": "2d77c164fd423ca7aa7017cd225be150150c019617d023dd57102874fb4c1415",
+            "from_size": 901727,
+            "to_hash": "287a77a19d7449b636b6b87818f429b58693277bebe524aea788547a1097dfe6",
+            "to_size": 785649,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background14.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background15.png",
+            "from_hash": "de706c7071c7d8cd33c792fd8461df31bd041ac32cb1678c92cc3dcac2a86728",
+            "from_size": 1275271,
+            "to_hash": "c3f687d6d84f8b68e1549e71c907dd455034d1d73020000ae11502175239de88",
+            "to_size": 923945,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background15.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background16.png",
+            "from_hash": "7259baf60e816ae0c5cf0c098b3761614dfdd2c578f86b7a81a807c606307f8a",
+            "from_size": 1122687,
+            "to_hash": "119c38a714696422a0246a49d9c9b7585797662a28ebb4379179afefc3eb5879",
+            "to_size": 762779,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background16.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background19.png",
+            "from_hash": "98d7f3608cb79948e5a0521e4744cd66abe32aa3b4027a7fdfa49372965a9b10",
+            "from_size": 1022290,
+            "to_hash": "4a7af2a9886b4531e490c10b30a60ecb2f0dfc935b5c5bf06a3541b48d9bd1a2",
+            "to_size": 444509,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background19.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background17.png",
+            "from_hash": "ffa98848603d00a3a3b1ae7cc3ae48ef91bfa319e38e0116b919175cd79208f1",
+            "from_size": 949377,
+            "to_hash": "0deafcd85721519ef2f9621e57ff913aae1a2f1d2ca6fdfa12927a2ada4d9cf8",
+            "to_size": 992326,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background17.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background18.png",
+            "from_hash": "8a467f6f8a69bf86b13d8af95865dea3ba70af80667b5234a9bfbaf2469d0012",
+            "from_size": 1199301,
+            "to_hash": "4d33fd4ea113b147bd377e087eeb81db9a28d444fd9799ccb973cc5c207a9f76",
+            "to_size": 901968,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background18.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background2.png",
+            "from_hash": "faa9bfe51c187f1260bdba2b1d7ec4093bf77d4f0513e395099820d15f19a689",
+            "from_size": 1147828,
+            "to_hash": "460f3de60a7a911cd26fe449382b1ad304321fa1678e50447e9807db36a4f614",
+            "to_size": 1022725,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background2.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background20.png",
+            "from_hash": "62a876d4c7e5f4fac94ca42afd3736a8ecf255108dbf370ed3aef3b2459b7da8",
+            "from_size": 1275129,
+            "to_hash": "356ef950fb8b5c5eadcc2081378a44f41f168117483ab98caa8cd3452e9b3b27",
+            "to_size": 861261,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background20.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background21.png",
+            "from_hash": "91a040c0238bb5de5bef1de13b82651c36f8bc10f22fb44fa44939888cc8a1da",
+            "from_size": 1162503,
+            "to_hash": "cf5b8db7cdb19c66df8fb11d7aef082767e5f97afe96ac2607589e17296e9fe4",
+            "to_size": 1280833,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background21.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background22.png",
+            "from_hash": "cefc5e80874c2471108b24009ddbec151cd5ef26599cf525227dfe7916e7cb87",
+            "from_size": 967711,
+            "to_hash": "8b92233b0c1ad0a73046312c223670db9be613583c6e042db0d674ec0fc9b02b",
+            "to_size": 1103926,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background22.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background23.png",
+            "from_hash": "6187ab36631a503f3866a74bf1072836016f4c374ebe71f152bcb1470dff1a17",
+            "from_size": 1104721,
+            "to_hash": "7a8c7bc764f96c8026d021711f128ce72fa9d766454ab52c7792ce3a1506a343",
+            "to_size": 1229621,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background23.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background24.png",
+            "from_hash": "6a35e1547ae6a59b7e749be2371a7fd4fd4de27273d7946e2f901288c718bd09",
+            "from_size": 1698435,
+            "to_hash": "3d19edcbbf60ecaddd3896e15267374fd9946398e1d26eacf0665f89d5041609",
+            "to_size": 511975,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background24.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background25.png",
+            "from_hash": "ca49d2cb928eb61f8b0e74fe9916daa6f6af93c45e71e1f19f44764923ac7e73",
+            "from_size": 1440940,
+            "to_hash": "576323acc448cf70eee7afaaa747ec276347ae7a45b762516adaea16dbe337f9",
+            "to_size": 1012606,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background25.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background26.png",
+            "from_hash": "480e7a8e9c8459d0db4093948d0fbe255d5b211d2654dc368fc05ca75dbd24e9",
+            "from_size": 1044018,
+            "to_hash": "adeb82b93d32d11b2c8f78ce6b03505761fe38da950d7a67de6225ca08e13b4c",
+            "to_size": 909656,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background26.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background27.png",
+            "from_hash": "4555bd595906c1280e2c3bbc5c2308868714ae7bf5bdd5833b7bf8afd1d0e804",
+            "from_size": 1502203,
+            "to_hash": "f6815448bfa40a52db15a9943e1935453d789e6d1bc72ad7e212971358289f31",
+            "to_size": 661014,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background27.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background28.png",
+            "from_hash": "dca5ab66837a8ae6d32cd68f556cf6a4cea9a5eb8c9a7c81622f37b9b9b8f139",
+            "from_size": 1165241,
+            "to_hash": "db178349c700e7026d9ca0dc76fa495ac39e2645286aa1450190cd094f4d1635",
+            "to_size": 1097548,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background28.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background29.png",
+            "from_hash": "ad36c14e9ea7c089d57e328d3a8c29dea17d2d44eca230a56c2e78fb7fb6c637",
+            "from_size": 1366690,
+            "to_hash": "65e2abd3d167fc1ef4829ff082cec3a58670c7072a10ecf4ccf94432503e7d87",
+            "to_size": 841595,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background29.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background3.png",
+            "from_hash": "1b52fafdbaeb614280ba5928bd7c5c0a9b2a7c285c0f57654ccb16d5f3af40a2",
+            "from_size": 1001518,
+            "to_hash": "1187ec872c9b32edc8928cc37e89c8016ad5f3e3a4e2c0e62f9333209cc3c5cc",
+            "to_size": 926142,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background3.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background30.png",
+            "from_hash": "9935d50f4ef3526ae5225dff835fe0f24565a3c37b370d48b200a3cc641e5607",
+            "from_size": 1089023,
+            "to_hash": "673a17bbb10d044c901728a030f05cb0b40208de54615add91c27814d5fc4135",
+            "to_size": 893363,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background30.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background31.png",
+            "from_hash": "a1d36f85a32376fc5daae524b081f851600f5ef5bbad840486d012b983c4c76d",
+            "from_size": 1254014,
+            "to_hash": "540f4a80526340a31bb22a12b5066225ef5608a525e4bab43e24dceef7ccda88",
+            "to_size": 1162878,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background31.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background32.png",
+            "from_hash": "095f9499d094e22739c01407834272427ae98af5c398a105c98de4618fb27761",
+            "from_size": 917615,
+            "to_hash": "1bf7c1845f94d0908458084eb305ed5d5afb6da6d34c9ef4b4e234e64911af84",
+            "to_size": 958155,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background32.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background33.png",
+            "from_hash": "d6488118ea48df4c0e21c9e6564f8c3020f5569be42a31ecec78abf77750899c",
+            "from_size": 1565578,
+            "to_hash": "7e7b9065e9cad2f00b564794acb99afb1a819f11548250da4908c51f729dd906",
+            "to_size": 1482483,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background33.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background35.png",
+            "from_hash": "12a6c3542940397a243baecb5c9a05a89b7c70453b79bd8255e6683dd69c25fc",
+            "from_size": 1042083,
+            "to_hash": "677eb14e79d449d8f68489b4a17c9c4f4ed05fef1304fb8cfc1edcfdedd0912f",
+            "to_size": 1553158,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background35.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background36.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "31f9aa9680a2383fcdb82136000a6ff97d375f1ec9e7ceabdf65000d4640f5a5",
+            "to_size": 942519,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background36.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background34.png",
+            "from_hash": "3a2f2724c4f036ab0f8c8a9af60637d35bebd31d1ae0b4b401c5da579c6588b2",
+            "from_size": 1456943,
+            "to_hash": "02ed10122a5dcf1959909e7ccb3df2a90edadf94656ce5f2bd74e0b8078ca1aa",
+            "to_size": 823011,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background34.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background37.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "86a191885991cc0a04f58012446651d3125aea730f350fb39f8ff08bd1d3480e",
+            "to_size": 1169384,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background37.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background38.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0955e3dbb89d736618acbe0eb21ea637e575733e8cb2d34c79ec3b8818a899d4",
+            "to_size": 890730,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background38.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background4.png",
+            "from_hash": "c0d53548718cf73b6450a9ae97eac81dbf9d25e6de9d27bad4242974a43478de",
+            "from_size": 1279500,
+            "to_hash": "a3ce81358952a8a2f6bcfbd81c386b2e269b41db3b93396f685bc01a457a393c",
+            "to_size": 1042365,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background4.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background39.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "254bf086867eccf3d8ecc86d6ca52867b1e953face9847a745cfc5a0fbe5bb21",
+            "to_size": 1076495,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background39.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background40.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "07d83def25d88e19ef7ac295723894d0171a1f19a61ca679088ed2ab6059f351",
+            "to_size": 963629,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background40.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background41.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "13ab3cd1fa6fc4fa23c15d0db376c51089ba6f66c20d62e927d9b9442e36f18a",
+            "to_size": 1025039,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background41.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background42.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "28db349793ef5685dfe162de805b6b65cc313012dfe995e00e30942d6cde63b4",
+            "to_size": 790860,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background42.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background43.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "18897833e8da9468e59e3c8a6c0e8ea8d9729c720aa378b129eb57abbb6c1aa9",
+            "to_size": 1181376,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background43.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background46.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5ee6bf85828d8e9ef57bd6bb9d9296f7aca6183d0d990f1d9ca6ebe3b6b61757",
+            "to_size": 768975,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background46.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background47.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fa58dd9456cb9d11a4a747d1ce9bb1b8dedfc1b0a4971cbf242b66cc518fc7cb",
+            "to_size": 639886,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background47.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background44.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ec4892fbf0bec0747cc802ca7f7e1e4c91002fe8f7ac50a61f6ed0bf838af791",
+            "to_size": 946839,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background44.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background48.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "06669e1fc6ed0aaa8f9e7e69f21483a3b824d4ea693d3825e39b509ace79203b",
+            "to_size": 740847,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background48.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background49.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f97cfcfcc0806c7c4c1dc939f59943a2257a937f4f4fcd31f570dcf2fd2ef4b5",
+            "to_size": 1219780,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background49.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background5.png",
+            "from_hash": "de8be5fe222c6ec810adb7729b9de4a04be39a8477c4105bcb418a137329d0b8",
+            "from_size": 1240427,
+            "to_hash": "a65d109634c99446d39fa4c73ccbd693a4cde979decd3939359e50214dfe436a",
+            "to_size": 921639,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background5.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background50.png",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c474cb50f93fadfa05f37d5da02e7d2aa03969528b7f81dc621528b6c41dd2a6",
+            "to_size": 704652,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background50.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background6.png",
+            "from_hash": "f1689f1f21b3f2a9f21121500a3630a698362ee824cefbb1a381b2bd3f355139",
+            "from_size": 1253500,
+            "to_hash": "96ed21ca4629e8f883a8ddb972f4456df89c4f7feaba9b7961afb0f93c475cbf",
+            "to_size": 960268,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background6.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background8.png",
+            "from_hash": "a8dcf13c90bd08b358c0b869ede9f29b56daf5735f18596e350a6a3477211edc",
+            "from_size": 1327847,
+            "to_hash": "26b33ef3b536c9794812668c753aa1b8d23af8d55acc4fa4409182a9f9bc042a",
+            "to_size": 1222055,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background8.png"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background7.png",
+            "from_hash": "5c51a283660cce5ee0ffe9f91dbdfa4d5bd2070947820f3dfeade4b45aedaadc",
+            "from_size": 1243818,
+            "to_hash": "0a4e639db7d832ec46da622234f7f8df50bbc257a8d0cd3e847030badca08445",
+            "to_size": 1079181,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background7.png"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.8.275.jar",
+            "from_hash": "5afe1ba8551d1d28aba40516010fb1261b6befc3be902aac524cb5a2883ca45e",
+            "from_size": 48310992,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.8.276.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "44dd86bb8376553be21ac370f218860f0287d99a77f0916eb1453cea8ecfedef",
+            "to_size": 48314170,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/GTNewHorizonsCoreMod-2.8.276.jar"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background9.png",
+            "from_hash": "2526049f53c9b25cae31a62273361d4dade9591657a79f939295a10bf77b0340",
+            "from_size": 1204862,
+            "to_hash": "78f4e985cc61eae7c39f61b22b816d76168229e098c15cd811db2c60d41be7ab",
+            "to_size": 783269,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/config/txloader/forceload/betterloadingscreen/textures/backgrounds/background9.png"
+        },
+        {
+            "path": ".minecraft/mods/ForgeMultipart-1.7.6.jar",
+            "from_hash": "aad4df07b31523a7e9ef2bce800760f1deecdb83bb7751c5f35584ce10eef9ec",
+            "from_size": 942311,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ForgeMultipart-1.7.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "00bd8e936f09466e231fc1b199fb704606a06ed4f022ed8efbf5a988a1928965",
+            "to_size": 942326,
+            "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.7/ForgeMultipart-1.7.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/ForgeMultipart-1.7.7.jar"
+        },
+        {
+            "path": ".minecraft/mods/TGregworks-1.7.10-GTNH-1.0.33.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "93ffca6f64fc394383a8b73838eb416bc0c4b97c8b4e89000afbcd89a2a5e807",
+            "to_size": 67639,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/TGregworks-1.7.10-GTNH-1.0.33.jar"
+        },
+        {
+            "path": ".minecraft/mods/ServerUtilities-2.2.37.jar",
+            "from_hash": "a54a013c7ef55b0ee3c6d23db0f2332e6a2586a50eeba61e60f140756e7154e2",
+            "from_size": 1895627,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ServerUtilities-2.2.38.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c6c8738aa5023b73492f741c9761e9a36dfe1548d7aa4e584f49f38e0f31fae1",
+            "to_size": 1902239,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.38/ServerUtilities-2.2.38.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/ServerUtilities-2.2.38.jar"
+        },
+        {
+            "path": ".minecraft/mods/TGregworks-GTNH-1.0.35.jar",
+            "from_hash": "a46766b739c56e07f0aab7d053daadfb3d32d5baaa0ec70bcc44e8aee291553a",
+            "from_size": 67629,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/WR-CBE-1.7.5.jar",
+            "from_hash": "9ecd446666c227d5e5973ecd2f0aa247062ed47aac182a2bec47e1d0e18ffed2",
+            "from_size": 337177,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/WR-CBE-1.7.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a194be422f50771e0694a9361f164a5243c5996a3f39febf33c85a08497cfd3e",
+            "to_size": 337197,
+            "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.6/WR-CBE-1.7.6.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/WR-CBE-1.7.6.jar"
+        },
+        {
+            "path": ".minecraft/mods/Waila-1.19.29.jar",
+            "from_hash": "15a45861ec0a972ebf1b26a1cfb3e16afada3108b2bd3835f19aa8f106f6c50c",
+            "from_size": 548016,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/Waila-1.19.30.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6e4190602e9828f3a5ba3e2c4f73f21bf3275813278e82eee63a98a0c218f043",
+            "to_size": 548085,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/Waila-1.19.30.jar"
+        },
+        {
+            "path": ".minecraft/mods/ae2fc-1.5.87-gtnh.jar",
+            "from_hash": "180ca701d451ee31b561b542ad624ab708f1cd7a566d9890d7b6fb92fee70223",
+            "from_size": 804549,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ae2fc-1.5.88-gtnh.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "37a93d007d96255fc8d96452e4c011e6706b8bd4d49d55435a0445932c87df65",
+            "to_size": 804541,
+            "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.88-gtnh/ae2fc-1.5.88-gtnh.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/ae2fc-1.5.88-gtnh.jar"
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.65.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "feb008ebbac20e195c3513e0933e70d50714ccc8316b7af05007329d9f9c8926",
+            "to_size": 1505214,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.65/cropsnh-2.0.65.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/cropsnh-2.0.65.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.581.jar",
+            "from_hash": "54797e4a7818b971d8a5708a8d3637cfeff483e01dfabaab32ff231844f7a0bf",
+            "from_size": 67726456,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.582.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "63d06fe99c2489654eb2524ae6a5d8d7df037917223af0dfab2d7f6b0efb4cfb",
+            "to_size": 67717428,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.582/gregtech-5.09.52.582.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/gregtech-5.09.52.582.jar"
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.64.jar",
+            "from_hash": "5816d77a2a332da9ae90d857facd7c72ff9e663ec217e19322939aeaf9c766c2",
+            "from_size": 1505177,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.158.jar",
+            "from_hash": "dee9638faa27c18cb20050c3b2d6e778d70d0f9c6dceab0b671f4d31958dabe6",
+            "from_size": 1043556,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.159.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3cac071b6ab494f26d141a7ffc814c2d4a9515eee631ae822f3953380db23aec",
+            "to_size": 1045062,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.159/hodgepodge-2.7.159.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/hodgepodge-2.7.159.jar"
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.52-GTNH.jar",
+            "from_hash": "3269ad817437e84b34f3a6a4d97eb4107e7ede68a2ef9c29e02b2b7feb06ac66",
+            "from_size": 1429891,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.1.30.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "bc0f8cb4052a473dcd0dfa24a178e0e01e267040120318be92d595f1671088e1",
+            "to_size": 7450291,
+            "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.30/angelica-2.1.30.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/angelica-2.1.30.jar"
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.53-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9e8e8315ba808433e01b3aa4b0627dc12c2edea7467adcff52ffc5cbebe598a0",
+            "to_size": 1429890,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.53-GTNH/thaumicenergistics-1.7.53-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eca5b1b39efae50453d22efe84ce2b26de53f894/.minecraft/mods/thaumicenergistics-1.7.53-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.1.29.jar",
+            "from_hash": "745b30bf37c0bd8a68821458504b5060f9972259af17e7ea827e7b0e1b5a4a92",
+            "from_size": 7440532,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
