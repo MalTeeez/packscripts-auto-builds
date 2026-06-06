@@ -1,0 +1,61 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.52.582.jar",
+            "from_hash": "63d06fe99c2489654eb2524ae6a5d8d7df037917223af0dfab2d7f6b0efb4cfb",
+            "from_size": 67717428,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.583.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2cf3b0521cfc9c422f84846b1ed5e72381fbaa2d95844a14c348c6dd48670f9e",
+            "to_size": 67717700,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.583/gregtech-5.09.52.583.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/5ace98303f372a59b03284a0ca325955c89d228b/.minecraft/mods/gregtech-5.09.52.583.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.86.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "197294a70e9ca23a6b5b0d941c802cd3329cad8a7bf0f5673ef69c0ffbcf8d3d",
+            "to_size": 2181709,
+            "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.86/vendingmachine-0.4.86.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ace98303f372a59b03284a0ca325955c89d228b/.minecraft/mods/vendingmachine-0.4.86.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.85.jar",
+            "from_hash": "8e5570a3cfc5a717b966af1fe112505f44bfb074fec15ba84202c03b81d664bf",
+            "from_size": 2179524,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-973-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2584c2029ed68452a768b57d37e1f211448841ac706822b133f856f733cd48a4",
+            "to_size": 4600985,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-973-GTNH/appliedenergistics2-rv3-beta-973-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ace98303f372a59b03284a0ca325955c89d228b/.minecraft/mods/appliedenergistics2-rv3-beta-973-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-972-GTNH.jar",
+            "from_hash": "3c278469ecf2d4cb6301a2dde4fcd25d2b21f53319f30d38146c4d39e9ce0df3",
+            "from_size": 4604512,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
