@@ -1,0 +1,61 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/ServerUtilities-2.2.39.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "19de3ddd4ad06c4824bf9d3dc64fdde363a0ba38bee55a59604f3488101279ba",
+            "to_size": 1902365,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.39/ServerUtilities-2.2.39.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c2096793ee42818e9323e70a1292cc810d795c68/.minecraft/mods/ServerUtilities-2.2.39.jar"
+        },
+        {
+            "path": "mods/ServerUtilities-2.2.38.jar",
+            "from_hash": "c6c8738aa5023b73492f741c9761e9a36dfe1548d7aa4e584f49f38e0f31fae1",
+            "from_size": 1902239,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.65.jar",
+            "from_hash": "feb008ebbac20e195c3513e0933e70d50714ccc8316b7af05007329d9f9c8926",
+            "from_size": 1505214,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.66.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f497e63c1235b201d1309261e3fd18f12d18e67f07037b9d47c547474165be43",
+            "to_size": 1505975,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.66/cropsnh-2.0.66.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c2096793ee42818e9323e70a1292cc810d795c68/.minecraft/mods/cropsnh-2.0.66.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.88-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f90b90762a44a063650dc4365539b5f65a01b58cddef95cf96b63dc1ee653be6",
+            "to_size": 5581165,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.88-GTNH/TConstruct-1.14.88-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c2096793ee42818e9323e70a1292cc810d795c68/.minecraft/mods/TConstruct-1.14.88-GTNH.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.87-GTNH.jar",
+            "from_hash": "de8cf635fcb4a6bc8004a7bbdab23b0e5973e6231ec3873f117fe291044927b4",
+            "from_size": 5581166,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
