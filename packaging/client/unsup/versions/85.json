@@ -1,0 +1,93 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.69-GTNH.jar",
+            "from_hash": "32975396341a160e7834ce699af3b16227360ae7062c48e2f11bd89fae74dc71",
+            "from_size": 32266503,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/CodeChickenCore-1.4.14.jar",
+            "from_hash": "6d63f8848f96706395df9efa05d73c7a5f87df40de469cf21a80db68cc369995",
+            "from_size": 30725887,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/CodeChickenCore-1.4.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7276782f902288209998c686551bcde0828d1d5e45f3ee2a7bd9f2682797e2da",
+            "to_size": 450153,
+            "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.15/CodeChickenCore-1.4.15.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/92e5847cfc7a91cd7bec795496a69405fc7d995e/.minecraft/mods/CodeChickenCore-1.4.15.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.592.jar",
+            "from_hash": "960bfeb142cdf601744b08c1e7ea5412855c691dfe4d21e1259a2126e7fcd644",
+            "from_size": 67715910,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.593.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "bb9d5f2befc66e9b44fce25e2908193c8087764ff43fff4a9043b71b0cc7f814",
+            "to_size": 67716046,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.593/gregtech-5.09.52.593.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/92e5847cfc7a91cd7bec795496a69405fc7d995e/.minecraft/mods/gregtech-5.09.52.593.jar"
+        },
+        {
+            "path": ".minecraft/mods/mobsinfo-0.5.16-GTNH.jar",
+            "from_hash": "c91c6327c1293e89c3723af47642a5ccd386e9127d35feb6b1b46d8928620baa",
+            "from_size": 30794603,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.69.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a71dda6e43660ff7bdfeb5949dbdcaf04b89ea6accc31e7be2cdbbc8df522c6a",
+            "to_size": 1509122,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.69/cropsnh-2.0.69.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/92e5847cfc7a91cd7bec795496a69405fc7d995e/.minecraft/mods/cropsnh-2.0.69.jar"
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.68.jar",
+            "from_hash": "868d1418fd34dca73d78f9bc9c96788c2433244d967b0f7786fe8fdedd01dbe0",
+            "from_size": 1508441,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.70-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a65801a7ca1230881e66299cfa52eef8ec0ef4660fa67ed06eff472f1c947e04",
+            "to_size": 1964509,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.70-GTNH/BetterQuesting-3.8.70-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/92e5847cfc7a91cd7bec795496a69405fc7d995e/.minecraft/mods/BetterQuesting-3.8.70-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/mobsinfo-0.5.17-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2b7d0e1dce8e78887c06617ecc5b771d9edeff11e1bdca15e0b4a59a33fd1861",
+            "to_size": 433490,
+            "url": "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.17-GTNH/mobsinfo-0.5.17-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/92e5847cfc7a91cd7bec795496a69405fc7d995e/.minecraft/mods/mobsinfo-0.5.17-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
