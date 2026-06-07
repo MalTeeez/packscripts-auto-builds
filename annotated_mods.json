@@ -3081,11 +3081,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.1.31.jar",
+        "file_path": "./.minecraft/mods/angelica-2.1.32.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.31/angelica-2.1.31.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.32/angelica-2.1.32.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3098,14 +3098,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.1.31",
+            "version": "2.1.32",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "ecaf9596cdf7496b330444704ce5922ed03411bd27e5dada152e8c0016a813a6"
+            "sha256_sum": "27f60a590a14d6ba40fa2a2dab23100b87f3dc9ffedc1b07b00b0a18f3dd8513"
         }
     },
     "angermod": {
@@ -3136,12 +3136,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-973-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-974-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-973-GTNH/appliedenergistics2-rv3-beta-973-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-974-GTNH/appliedenergistics2-rv3-beta-974-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3158,14 +3158,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-973-GTNH",
+            "version": "rv3-beta-974-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "2584c2029ed68452a768b57d37e1f211448841ac706822b133f856f733cd48a4"
+            "sha256_sum": "6276bd681998ac63b5c1838b9cc0b4cd643d81dc3c2c590c65a5ba8cc328b49e"
         }
     },
     "archaicfix": {
@@ -4515,12 +4515,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.583.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.584.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.583/gregtech-5.09.52.583.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.584/gregtech-5.09.52.584.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4588,14 +4588,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.52.583",
+            "version": "5.09.52.584",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "2cf3b0521cfc9c422f84846b1ed5e72381fbaa2d95844a14c348c6dd48670f9e"
+            "sha256_sum": "767e82ec28f1ae97757bf064d16085e4f8f554779ac3ef0766f812a7874c063b"
         }
     },
     "gtnhcredits": {
@@ -5014,12 +5014,12 @@
         }
     },
     "littletiles": {
-        "file_path": "./.minecraft/mods/littletiles-1.6.26.jar",
+        "file_path": "./.minecraft/mods/littletiles-1.6.27.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.26/littletiles-1.6.26.jar",
+        "source": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.27/littletiles-1.6.27.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -5030,14 +5030,14 @@
             "creativecore"
         ],
         "update_state": {
-            "version": "1.6.26",
+            "version": "1.6.27",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "234218de6e5d368240e55f34a13567fbe1c19c678ca94dc1c10ba672a158493b"
+            "sha256_sum": "44949af3974d85f77f11437d1a3e5a9e6ea46d25b5460268748e6b141bbb1f13"
         }
     },
     "lootgames": {
@@ -5113,26 +5113,26 @@
         }
     },
     "matter-manipulator": {
-        "file_path": "./.minecraft/mods/matter-manipulator-0.1.36-GTNH.jar",
+        "file_path": "./.minecraft/mods/matter-manipulator-0.1.37-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.36-GTNH/matter-manipulator-0.1.36-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.37-GTNH/matter-manipulator-0.1.37-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.1.36-GTNH",
+            "version": "0.1.37-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4819b4a4091d4c50f0421af1f4686c46c64572f4848c330e09160dc918970d43"
+            "sha256_sum": "baf7a269e59a9b87233cf13b94984af091589f990a38fa9382299826ca53c6ee"
         }
     },
     "mobsinfo": {
@@ -5707,12 +5707,12 @@
         }
     },
     "serverutilities": {
-        "file_path": "./.minecraft/mods/ServerUtilities-2.2.39.jar",
+        "file_path": "./.minecraft/mods/ServerUtilities-2.2.40.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.39/ServerUtilities-2.2.39.jar",
+        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.40/ServerUtilities-2.2.40.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -5723,14 +5723,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.2.39",
+            "version": "2.2.40",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "19de3ddd4ad06c4824bf9d3dc64fdde363a0ba38bee55a59604f3488101279ba"
+            "sha256_sum": "9922bc3b9b6ccb6e62fe8c6ad9e43cbb438f8f14be0a3ad0fed884956e646663"
         }
     },
     "sharewhereiam": {
@@ -5830,12 +5830,12 @@
         }
     },
     "structurelib": {
-        "file_path": "./.minecraft/mods/structurelib-1.4.37.jar",
+        "file_path": "./.minecraft/mods/structurelib-1.4.38.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.37/structurelib-1.4.37.jar",
+        "source": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.38/structurelib-1.4.38.jar",
         "notes": "",
         "wanted_by": [
             "blockrenderer6343",
@@ -5846,14 +5846,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.4.37",
+            "version": "1.4.38",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "5bfb9fbc2b0fcc06076c1bade82ac40d5680547bdf26795dc4b6cc0d6d9f95c4"
+            "sha256_sum": "a8315edd14ec0a4085a46b7260f19dc1d5bf290c7530cd281cffbe1989d33971"
         }
     },
     "supersolarpanel": {
@@ -6129,7 +6129,7 @@
         }
     },
     "unimixins": {
-        "file_path": "./.minecraft/mods/%2Bunimixins-all-1.7.10-0.3.1.jar",
+        "file_path": "./.minecraft/mods/+unimixins-all-1.7.10-0.3.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -6221,12 +6221,12 @@
         }
     },
     "visualprospecting": {
-        "file_path": "./.minecraft/mods/visualprospecting-1.5.26.jar",
+        "file_path": "./.minecraft/mods/visualprospecting-1.5.27.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.26/visualprospecting-1.5.26.jar",
+        "source": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.27/visualprospecting-1.5.27.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -6239,14 +6239,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.5.26",
+            "version": "1.5.27",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "6112f85e5f39d175312b6defa3260c0bd880dd36cdaafa488a701128b0cd0c54"
+            "sha256_sum": "32606087a88dd3753d420450af0ed86b590f67e11c7df31b8f551b19f18ee44d"
         }
     },
     "wailaplugins": {
