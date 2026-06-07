@@ -1,0 +1,149 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/GTNewHorizons/CustomToolTips.xml",
+            "from_hash": "7bac9ff8072f451d1225a9e236655933cf6a12b39b60e9ce0d29759e3eba8960",
+            "from_size": 21020,
+            "to_hash": "b6e08059f8645fe8e0a8a74c46bc7606962f493fbfb15d16d9cce4f42c6b81f9",
+            "to_size": 21023,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/config/GTNewHorizons/CustomToolTips.xml"
+        },
+        {
+            "path": "mods/ServerUtilities-2.2.39.jar",
+            "from_hash": "19de3ddd4ad06c4824bf9d3dc64fdde363a0ba38bee55a59604f3488101279ba",
+            "from_size": 1902365,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ServerUtilities-2.2.40.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9922bc3b9b6ccb6e62fe8c6ad9e43cbb438f8f14be0a3ad0fed884956e646663",
+            "to_size": 1902562,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.40/ServerUtilities-2.2.40.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/ServerUtilities-2.2.40.jar"
+        },
+        {
+            "path": "mods/%2Bunimixins-all-1.7.10-0.3.1.jar",
+            "from_hash": "ad0ea4f92daf7bf7ec5c10e16258425e47929126954aea5d80df69ce26cd7318",
+            "from_size": 5519796,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.583.jar",
+            "from_hash": "2cf3b0521cfc9c422f84846b1ed5e72381fbaa2d95844a14c348c6dd48670f9e",
+            "from_size": 67717700,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.584.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "767e82ec28f1ae97757bf064d16085e4f8f554779ac3ef0766f812a7874c063b",
+            "to_size": 67713143,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.584/gregtech-5.09.52.584.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/gregtech-5.09.52.584.jar"
+        },
+        {
+            "path": "mods/+unimixins-all-1.7.10-0.3.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ad0ea4f92daf7bf7ec5c10e16258425e47929126954aea5d80df69ce26cd7318",
+            "to_size": 5519796,
+            "url": "https://github.com/LegacyModdingMC/UniMixins/releases/download/0.3.1/%2Bunimixins-all-1.7.10-0.3.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/+unimixins-all-1.7.10-0.3.1.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.26.jar",
+            "from_hash": "234218de6e5d368240e55f34a13567fbe1c19c678ca94dc1c10ba672a158493b",
+            "from_size": 650744,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-973-GTNH.jar",
+            "from_hash": "2584c2029ed68452a768b57d37e1f211448841ac706822b133f856f733cd48a4",
+            "from_size": 4600985,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.6.27.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "44949af3974d85f77f11437d1a3e5a9e6ea46d25b5460268748e6b141bbb1f13",
+            "to_size": 650835,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.27/littletiles-1.6.27.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/littletiles-1.6.27.jar"
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.36-GTNH.jar",
+            "from_hash": "4819b4a4091d4c50f0421af1f4686c46c64572f4848c330e09160dc918970d43",
+            "from_size": 680772,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-974-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6276bd681998ac63b5c1838b9cc0b4cd643d81dc3c2c590c65a5ba8cc328b49e",
+            "to_size": 4600611,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-974-GTNH/appliedenergistics2-rv3-beta-974-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/appliedenergistics2-rv3-beta-974-GTNH.jar"
+        },
+        {
+            "path": "mods/structurelib-1.4.37.jar",
+            "from_hash": "5bfb9fbc2b0fcc06076c1bade82ac40d5680547bdf26795dc4b6cc0d6d9f95c4",
+            "from_size": 349728,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.37-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "baf7a269e59a9b87233cf13b94984af091589f990a38fa9382299826ca53c6ee",
+            "to_size": 680862,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.37-GTNH/matter-manipulator-0.1.37-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/matter-manipulator-0.1.37-GTNH.jar"
+        },
+        {
+            "path": "mods/visualprospecting-1.5.26.jar",
+            "from_hash": "6112f85e5f39d175312b6defa3260c0bd880dd36cdaafa488a701128b0cd0c54",
+            "from_size": 211604,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/structurelib-1.4.38.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a8315edd14ec0a4085a46b7260f19dc1d5bf290c7530cd281cffbe1989d33971",
+            "to_size": 349952,
+            "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.38/structurelib-1.4.38.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/structurelib-1.4.38.jar"
+        },
+        {
+            "path": "mods/visualprospecting-1.5.27.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "32606087a88dd3753d420450af0ed86b590f67e11c7df31b8f551b19f18ee44d",
+            "to_size": 212606,
+            "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.27/visualprospecting-1.5.27.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46e3c6658bb220f261900a33d1d8900424bc906c/.minecraft/mods/visualprospecting-1.5.27.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.23",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.23"
+    }
+}
