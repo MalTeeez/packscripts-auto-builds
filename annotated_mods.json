@@ -3082,11 +3082,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.1.32.jar",
+        "file_path": "./.minecraft/mods/angelica-2.1.33.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.32/angelica-2.1.32.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.33/angelica-2.1.33.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3099,14 +3099,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.1.32",
+            "version": "2.1.33",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "27f60a590a14d6ba40fa2a2dab23100b87f3dc9ffedc1b07b00b0a18f3dd8513"
+            "sha256_sum": "f44c4ac9488735b81fec8ef84b9c4772aa3756326edb22314b74de93b5295044"
         }
     },
     "angermod": {
@@ -3973,12 +3973,12 @@
         }
     },
     "cropsnh": {
-        "file_path": "./.minecraft/mods/cropsnh-2.0.69.jar",
+        "file_path": "./.minecraft/mods/cropsnh-2.0.70.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.69/cropsnh-2.0.69.jar",
+        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.70/cropsnh-2.0.70.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3987,14 +3987,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.0.69",
+            "version": "2.0.70",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "a71dda6e43660ff7bdfeb5949dbdcaf04b89ea6accc31e7be2cdbbc8df522c6a"
+            "sha256_sum": "2e4ce020b9c623b8396e741049a763b9c566f71773fc1011c35633fc826149ab"
         }
     },
     "custommainmenu": {
@@ -4068,25 +4068,25 @@
         }
     },
     "defaultserverlist": {
-        "file_path": "./.minecraft/mods/defaultserverlist-1.7.3.jar",
+        "file_path": "./.minecraft/mods/defaultserverlist-1.7.4.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.7.3/defaultserverlist-1.7.3.jar",
+        "source": "https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.7.4/defaultserverlist-1.7.4.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.7.3",
+            "version": "1.7.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "20e124ce91a03e09cff73eade51b0338d6e4fb846f0a9b916829364610d6b7bf"
+            "sha256_sum": "e5006d437b784b4c8308f82a88601bddae44ddf29db23988f31cdc327a72c4f9"
         }
     },
     "defaultworldgenerator": {
@@ -4516,12 +4516,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.52.593.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.52.594.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.593/gregtech-5.09.52.593.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.594/gregtech-5.09.52.594.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4589,14 +4589,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.52.593",
+            "version": "5.09.52.594",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "bb9d5f2befc66e9b44fce25e2908193c8087764ff43fff4a9043b71b0cc7f814"
+            "sha256_sum": "08ff758e377c926d76e39b018340fd639408cbd7e2f5fffd2538a46df945c1fa"
         }
     },
     "gtnhcredits": {
@@ -4622,35 +4622,35 @@
         }
     },
     "gtnhextlib": {
-        "file_path": "./.minecraft/mods/gtnhextlib-1.0.1.jar",
+        "file_path": "./.minecraft/mods/gtnhextlib-1.0.2.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.1/gtnhextlib-1.0.1.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.2/gtnhextlib-1.0.2.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "278d1f1612aa3d1d1e132719ca41b972f45cfe2267806af71fd83135ea5cd46f"
+            "sha256_sum": "e28cff15b9e30c47e3273b02e960c3b2693096e2ae342c4e93c99d581dc6449c"
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.11.9.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.11.11.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.9/gtnhlib-0.11.9.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.11/gtnhlib-0.11.11.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4704,14 +4704,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.11.9",
+            "version": "0.11.11",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "b30fa08446586ea8e34625cc5f6dfe1cae6a4b1575cc3c7d85c27b830ec87397"
+            "sha256_sum": "f8ac26436118385a78080ebc8a4a2f4473c0643b8f5657d100b6a056bbe78c6c"
         }
     },
     "gtnhtcwands": {
