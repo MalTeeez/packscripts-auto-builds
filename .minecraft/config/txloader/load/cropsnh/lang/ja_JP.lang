@@ -166,8 +166,8 @@ cropsnh_tooltip.cropBreeder.1=作物の§cTier§7 1段階ごとに§8《§d濃�
 cropsnh_tooltip.cropBreeder.2=子株の§cｽﾃｰﾀｽ値§7 1ﾎﾟｲﾝﾄごとに§8《§a濃縮肥料§8／Enriched Fertilizer》§7の必要量が %1$s 増加
 cropsnh_tooltip.cropBreeder.3=子株のステータスは親株の平均をとる
 cropsnh_tooltip.cropBreeder.4=成功率 %1$s%%
-cropsnh_tooltip.cropBreeder.5=Stores %1$s of fluid
-cropsnh_tooltip.cropBreeder.mv_warn=§cCannot breed high-stat seeds§7
+cropsnh_tooltip.cropBreeder.5=%1$sの流体を保持可能
+cropsnh_tooltip.cropBreeder.mv_warn=§c高ステータスの種は交配できません§7
 cropsnh_nei.cropBreeder.tooltip.fluidCost=コスト = 子株のTier * %1$s  + (成長値 + 収量値 + 耐性値) * %2$s
 cropsnh_nei.cropBreeder.tooltip.outputStats=子株のステータスは親株の平均をとります
 cropsnh_nei.cropBreeder.tooltip.successChance=成功率は機械のTierに依存します
@@ -226,8 +226,8 @@ cropsnh.recipes.seedGenerator=種子増殖機
 cropsnh_tooltip.seedGenerator.0=既存の種からさらに種を増殖させる
 cropsnh_tooltip.seedGenerator.1=作物の§cｽﾃｰﾀｽ値§7 1ﾎﾟｲﾝﾄ ごとに§8《§a濃縮肥料§8／Enriched Fertilizer》§7の必要量が %1$s 増加
 cropsnh_tooltip.seedGenerator.2=この機械では複製できない作物もある
-cropsnh_tooltip.seedGenerator.3=Stores %1$s of fluid
-cropsnh_tooltip.seedGenerator.mv_warn=§cCannot replicate high-stat seeds§7
+cropsnh_tooltip.seedGenerator.3=%1$sの流体を保持可能
+cropsnh_tooltip.seedGenerator.mv_warn=§c高ステータスの種は増殖できません§7
 cropsnh_nei.seedGenerator.tooltip.fluidCost=コスト = %1$s * (成長値 + 収量値 + 耐性値)
 cropsnh_tooltip.seedGenerator.name.1=基本型種子増殖機
 cropsnh_tooltip.seedGenerator.name.2=発展型種子増殖機
@@ -318,15 +318,15 @@ cropsnh_tooltip.industrialFarm.environmentalModule.disabled=無効
 cropsnh_tooltip.industrialFarm.mode.input=入力
 cropsnh_tooltip.industrialFarm.mode.farm=栽培
 cropsnh_tooltip.industrialFarm.mode.output=出力
-GT5U.gui.text.cropsnh.industrialFarm.blockUnderNotFound=土壌の下に設置するブロックが不足しているため、新たな種の搬入に失敗しました
-GT5U.gui.text.cropsnh.industrialFarm.blockUnderMismatch.input=機械内に存在するブロックと競合するため、新たな種の搬入に失敗しました
-GT5U.gui.text.cropsnh.industrialFarm.blockUnderMismatch.farm=現在のブロックはこの種の生育に必要なブロックと一致していません
-GT5U.gui.text.cropsnh.industrialFarm.seedBedTierTooLow=この種を栽培するには苗床のTierが足りません
-GT5U.gui.text.cropsnh.industrialFarm.seedsFull=種の容量が上限に達しました
-GT5U.gui.text.cropsnh.industrialFarm.seedOverflow=種の保有数が現在の容量を超過しています
-GT5U.gui.text.cropsnh.industrialFarm.cannotGrow=この種は現在の環境では育ちません
-GT5U.gui.text.cropsnh.industrialFarm.notEnoughWater=水が足りません
-GT5U.gui.text.cropsnh.industrialFarm.notEnoughEnrichedFertilizer=濃縮肥料が足りません
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderNotFound=土壌の下に設置するブロックがないため、種の搬入に失敗しました
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderMismatch.input=機械内部のブロックが種に対応していないため、種の搬入に失敗しました
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.blockUnderMismatch.farm=現在のブロックはこの種に必要なブロックと一致していません
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedBedTierTooLow=この種を生育させるには苗床のTierが足りません
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedsFull=容量の上限に達しました
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.seedOverflow=種の保持数が容量を超過しています
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.cannotGrow=この種は現在の環境では育ちません
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughWater=水が足りません
+GT5U.gui.text.recipe_result.cropsnh.industrialFarm.notEnoughEnrichedFertilizer=濃縮肥料が足りません
 
 # Industrial Farm Scanner Tooltips
 cropsnh_tooltip.industrialFarm.scanner.0=Tier: §e%1$s§r

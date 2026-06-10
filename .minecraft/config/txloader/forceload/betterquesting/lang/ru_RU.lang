@@ -129,6 +129,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.desc=Майнкрафт раздел
 betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=§9§lВторая рука!
 betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=В GTNH мы сделали возможность пользоваться второй рукой, как в современных версиях игры.%n%nЭтой рукой также можно пользоваться предметами которые открывают свой интерфейс - например рюкзаками. Это упрощает менеджмент инвентаря и помогает решать некоторые утомительные задачи.%n%nПо умолчанию, переключение между основной и второй рукой назначено на клавишу §9F§r%n%n[note]Ты также можешь настроить поведение факелов во второй руке, через Torch Tweaks в настройках мода. По умолчанию, там не включено никакого специального поведения, но ты можешь его включить и настроить под себя, если любишь бегать с факелами во второй руке.[/note]
 
+# Quest: In-game Guide
+betterquesting.quest.pcDIaSYHTkuVTBkdRwWWJw.name=In-game Guide
+betterquesting.quest.pcDIaSYHTkuVTBkdRwWWJw.desc=Check out the in-game guide! It'll tell you what's new in each version and has in-depth tutorials, visualizations, and more details than you'll find anywhere else in the pack!%n%nTo open it, use this Guide item and/or bind the §aOpen Guide Home§r hotkey.%n%n[img height=200]midnight:textures/gui/guide-nh-pictures/guide-nh-image.png[/img]
+
 
 ## Quest Line: Tips and Tricks
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAALA.name=Советы и хитрости
@@ -542,7 +546,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.desc=Два основных мат�
 
 # Quest: Your First Electronic Circuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=§c§lТвоя первая электросхема
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=Паровые машины довольно глупы - они просто делают одну задачу снова и снова. Ты решил, что у твоих будущих электрических механизмов должно быть больше возможностей - например автоматическая выгрузка, чтобы наладить некоторую автоматизацию производства. Для этого тебе потребуются электросхемы.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=Паровые механизмы довольно глупы - они просто делают одну задачу снова и снова. Ты решил, что у твоих будущих электрических механизмов должно быть больше возможностей - например автоматическая выгрузка, чтобы наладить некоторую автоматизацию производства. Для этого тебе потребуются электросхемы.
 
 # Quest: Wire-Wrap
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=§c§lИзоляция для проводов
@@ -4621,7 +4625,7 @@ betterquesting.quest.Qjg1J4kuS-6937dCEUqHUw.desc=As additional rings are placed 
 
 # Quest: Magnetic Monopole Matter
 betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.name=§c§l§nMagnetic Monopole Matter
-betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=With total mastery of the Forge of the Gods achieved, it is possible to begin a new universe-spanning initiative. It is now possible to quantize and extract graviton shards for use outside the Forge in powerful new technological endeavors; produce the most exotic plasmas beyond merely periodic elements; and most importantly, begin to understand the immense power of magmatter, a form of matter made entirely of magnetic monopoles with density and stability billions of times that of conventional bosonic matter. It is with this development you realize that the completion of the Forge was not the end goal, but merely a stepping stone to universal transcendence.%n%n[note]Required for UXV components, Magmatter is the second material the Heliofusion Exoticizer can create, and will require a second module. Read the Godforge Information in the UI for more information on how to automate this.[/note]%n%n[note]The creation of Magmatter requires the END upgrade.[/note]%n%n[note]Congrats! You can now move on to the UXV tier![/note]
+betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=With total mastery of the Forge of the Gods achieved, it is possible to begin a new universe-spanning initiative. It is now possible to quantize and extract graviton shards for use outside the Forge in powerful new technological endeavors; produce the most exotic plasmas beyond merely periodic elements; and most importantly, begin to understand the immense power of magmatter, a form of matter made entirely of magnetic monopoles with density and stability billions of times that of conventional bosonic matter. It is with this development you realize that the completion of the Forge was not the end goal, but merely a stepping stone to universal transcendence.%n%n[note]Required for UXV components, Magmatter is the second material the Heliofusion Exoticizer can create, and will require a second module. Read the Godforge Information in the UI for more information on how to automate this.[/note]%n%n[note]The creation of Magmatter requires the EE upgrade.[/note]%n%n[note]Congrats! You can now move on to the UXV tier![/note]
 
 # Quest: Convergence
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.name=§c§l§nConvergence
@@ -4793,7 +4797,7 @@ betterquesting.quest.Uj0PvsNCQw-aWaEOvlFpow.desc=At last... salvation from the e
 
 # Quest: Rule of Threes
 betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.name=§4§l§nRule of Threes
-betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.desc=The final external structural upgrade to the Forge requires the most advanced understanding of graviton shards and their applications in extreme environments. With this, the last 4 module slots of the Forge of the Gods are available to construct, ascending your operation to unseen heights of technological mastery.%n%n[note]Adding a third and final ring to your Godforge allows for 4 additional modules, as well as allowing you to pick all three paths in the split paths part of the upgrade tree, allowing for a fully upgraded Godforge.[/note]%n%n[note]Usage of a third ring requires the EE upgrade.[/note]
+betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.desc=The final external structural upgrade to the Forge requires the most advanced understanding of graviton shards and their applications in extreme environments. With this, the last 4 module slots of the Forge of the Gods are available to construct, ascending your operation to unseen heights of technological mastery.%n%n[note]Adding a third and final ring to your Godforge allows for 4 additional modules, as well as allowing you to pick all three paths in the split paths part of the upgrade tree, allowing for a fully upgraded Godforge.[/note]%n%n[note]Usage of a third ring requires the END upgrade.[/note]
 
 # Quest: Simulating a Solar System
 betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.name=§4§l§nSimulating a Solar System
@@ -5919,6 +5923,10 @@ betterquesting.quest.vv296Z3mSUqkQEaiJqQcOw.desc=The Electric Jetpack may be use
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=...без смерти
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=Чтобы не умирать постоянно, тебе понадобятся оружие и броня. Также есть полезные вещи - приключенческие рюкзаки и статические защитные сооружения для твоей базы.
 
+# Quest: More Augmentation
+betterquesting.quest.3Hob-CoJQ-CK3jmp4EHyqQ.name=More Augmentation
+betterquesting.quest.3Hob-CoJQ-CK3jmp4EHyqQ.desc=A new energy core means more powerful augments. This quest lists all Tier 2 augments.%n%nSome standouts:%n%n-Milk Infusion (§dUtility§r, Helmet): Constantly clear negative status effects.%n-Astronaut's Equipment (§6Protection§r, Any): Gain space suit capability.%n-Adaptive Jetpack Stabilizers (§aMovement§r, Chestplate): Allow your jetpack to hover perfectly without descending.
+
 # Quest: Protect Your Base: Tier 4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=§a§lЗащити свою базу: Уровень 4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Небольшие части больших пушек.
@@ -6259,9 +6267,41 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAw.desc=Зачем использова
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.name=Квантовая кираса
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.desc=Квантовая кираса, как и её предшественник, позволяет летать, но когда ты нажимаешь Shift+пробел, то вместо снижения, ты поднимаешься.%nНа следующем уровне брони - гравитационном жителе, мы избавимся от этого недостатка.
 
+# Quest: Supreme Mechanical Armor
+betterquesting.quest.BFkQt-DcRhmReOUsVWtrqA.name=Supreme Mechanical Armor
+betterquesting.quest.BFkQt-DcRhmReOUsVWtrqA.desc=At ZPM, you've almost reached the peak of personal defense technology. New augments await!%n%nThe living energy core will allow your armor to charge at ZPM voltage and equip tier 3 augments.%n%nThe frames in this tier provide 7 augment slots. Pushing the limits of modularity, every frame now has at least one prismatic slot.
+
+# Quest: Modular Meddling
+betterquesting.quest.CQnbvvAiRY2e7CsShsCe1A.name=Modular Meddling
+betterquesting.quest.CQnbvvAiRY2e7CsShsCe1A.desc=Interested in powerful, customizable armor that you can modify as you advance? Look no further than §6§r§l&z&zMechanical Armor§r!%n%nIn order to begin tinkering, you'll need a workspace for modifying modular equipment along with a set of Mechanical Armor. The armor is essentially useless on its own, but gains additional features through modification. Each piece of armor is composed of three parts:%n%n§nAugments: §rAugments add a wide variety of useful features to the armor. Augments are categorized into one of three types: §6Protection§r, §aMovement§r, and §dUtility§r. Augments can only be inserted into slots corresponding to their category.%n%n§nFrames:§r The armor's frame determines the protection value of the armor along with how many slots it contains for augments.%n%n§nEnergy Cores:§r The energy core determines how much energy the armor stores, its charging tier, and which augments can be equipped.
+
+# Quest: Even More Augmentation
+betterquesting.quest.HrZv5S5MRLS38lNV93yEnQ.name=Even More Augmentation
+betterquesting.quest.HrZv5S5MRLS38lNV93yEnQ.desc=There are currently only three new augments available in Tier 3, but they are very powerful.%n%n-Energy Grid Defense (§6Protection§r, Chestplate): Gain a forcefield that can completely block most damage at the cost of a huge amount of EU.%n-Gravitational Control Module (§aMovement§r, Chestplate): Creative flight.%n-Inertial Dampeners (§aMovement§r, Chestplate): Enable inertia canceling, allowing you to stop instantly while flying.
+
+# Quest: Basic Mechanical Armor
+betterquesting.quest.Ta-VKcQFSpejtRIkB650qg.name=Basic Mechanical Armor
+betterquesting.quest.Ta-VKcQFSpejtRIkB650qg.desc=To turn your mechanical exoskeleton from a hunk of useless metal into a power suit, you'll need a core and a frame.%n%nThe basic energy core will allow your armor to charge at HV voltage and equip tier 1 augments.%n%nThe first three frames all give 3 augment slots spread among the categories. Choose based on what augments you need to equip!
+
+# Quest: Perfected Energy Core
+betterquesting.quest.YXYbS-DuTuK7ISAjGV874A.name=Perfected Energy Core
+betterquesting.quest.YXYbS-DuTuK7ISAjGV874A.desc=Sick of your Mechanical Armor running out of batteries? Try strapping a miniaturized singularity to your chest! It's entirely safe.%n%nThis final energy core will provide infinite energy to the Mechanical Armor and allow any augment to be equipped.
+
+# Quest: Augmentation
+betterquesting.quest.hwvNowyHS7WJOK4xDcUw0A.name=Augmentation
+betterquesting.quest.hwvNowyHS7WJOK4xDcUw0A.desc=Now that you have a frame and a core, you can get to work adding new features to your Mechanical Armor. This quest lists all Tier 1 augments.%n%nSome standouts:%n%n-Optical Brightness Adjuster (§dUtility§r, Helmet): Enable toggleable night vision.%n-Protective Lining (§6Protection§r, Any): Gain full hazmat protection.%n-Electric Jetpack (§aMovement§r, Chestplate): Jetpack!
+
 # Quest: Mob Repellators
 betterquesting.quest.tgH86mIERWKIh8OAleKrSw.name=Отпугиватели монстров
 betterquesting.quest.tgH86mIERWKIh8OAleKrSw.desc=Доступные начиная с LV этапа, отпугиватели монстров блокируют спавн монстров в пределах своего радиуса действия. Они работают и без энергии, но если их запитать, то радиус действия значительно возрастет.%n%n[note]Для завершения квеста достаточно любого из них.[/note]
+
+# Quest: Advanced Mechanical Armor
+betterquesting.quest.z7sXK-B1SSyRD9ukAs1JEw.name=Advanced Mechanical Armor
+betterquesting.quest.z7sXK-B1SSyRD9ukAs1JEw.desc=Now that you're in IV, you can unlock the next set of upgrades for Mechanical Armor, gaining more slots and new augments.%n%nThe quantum energy core will allow your armor to charge at IV voltage and equip tier 2 augments.%n%nThe frames in this tier provide 5 augment slots. The adaptive frame uniquely has a §6Pri§asma§dtic§r slot that will accept an augment of any category!
+
+# Quest: Perfected Armor Frame
+betterquesting.quest.zWyFqJfWTGKjw63-EG7DDw.name=Perfected Armor Frame
+betterquesting.quest.zWyFqJfWTGKjw63-EG7DDw.desc=Tired of being constrained by augment slots? The constantly shifting properties of Infinity make it an ideal material for a modular frame.%n%nThis final frame provides 5 slots of every category, including prismatic.
 
 
 ## Quest Line: Building Better Bases
@@ -7371,6 +7411,10 @@ betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=С её помощью ты м�
 betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.name=§9§lThis Kinda Burns...
 betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.desc=The §5§lIndustrial Chemical Bath§r will significantly increase the efficiency of your ore processing. It grants a §2§l5x§r speed boost and §6§l4§r parallels per voltage tier compared to its singleblock counterpart.
 
+# Quest: Mass Processing at UV and Beyond!
+betterquesting.quest.5L2m9tcsRgyf9aCp10E0eg.name=§2§l§nMass Processing at UV and Beyond!
+betterquesting.quest.5L2m9tcsRgyf9aCp10E0eg.desc=Now that you've reached UV, you're going to start unlocking some extremely powerful processing multis. You'll want to create them as soon as possible because things are about to start getting very expensive...
+
 # Quest: Fits The Mold
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.name=§9§lОтливаем в формы
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.desc=Делать по отвердителю на каждую форму довольно утомительно...к счастью, теперь мы можем сделать Промышленный отвердитель, в который можно загрузить кучу форм, поставив кучу §lШлюзов отвердителя§r.%n%n[note]Также, Промышленный отвердитель ускоряется по мере работы, так что лучше делать предметы не по одному, а сразу большими пачками.[/note]
@@ -7503,7 +7547,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1Q.desc=Данный порочный �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMig.name=§6§lОчередной мультиблок для химии?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMig.desc=Ты скорее всего уже построил множество химических реакторов. С постоянным идеальным 4/4 разгоном, они являются одними из крутейших мультиблоков. Но что если даже их недостаточно, чтобы закрыть твои потребности по осуществлению химических процессов? Ведь ты не можешь ускорить их ещё больше, чем установив самые крутые из доступных тебе энерговводов.%n%nНо не бойся, у нас есть решение - Мега Химический реактор позволит тебе обрабатывать до 256 рецептов параллельно! И ты также сможешь разогнать его по вольтажу, если хватит энергии.%n%nПравда он доступен только начиная с LuV, т.к. требует 7 блоков катушек термоядерного реактора. Посмотри по голографической проекции мультиблока в NEI как его построить и какие материалы потребуются.%n%nТир используемого стекла ограничивает максимальный тир используемого энерговвода. Ты даже можешь воспользоваться энерговводами на несколько ампер из TecTech! Однако, если ты захочешь воспользоваться приёмниками лазера для запитки, то тебе потребуется минимум UV стекло.
 
-# Quest: Mass Processing in LuV and Beyond
+# Quest: Mass Processing in LuV
 betterquesting.quest.ECDllKcSQ4SONHHfkfO0yw.name=§d§lМассовая переработка на LuV этапе и далее
 betterquesting.quest.ECDllKcSQ4SONHHfkfO0yw.desc=По мере перехода на LuV и далее, всё меньшее количество мультиблоков можно будет поставить на замену твоих уже имеющихся - однако, всё ещё есть несколько важных новинок на высоких тирах.%n%nТебе определённо стоит заценить Сборочную линию электросхем - или позже ты будешь корить себя.%n%nКак настоящий GT-инженер, ты должен построить и собрать полную коллекцию!
 
@@ -7554,6 +7598,10 @@ betterquesting.quest.ZIotzqvnRiKu1_1Hb9i1dg.desc=Это продвинутая �
 # Quest: Advanced Autoclaving
 betterquesting.quest._dFgSThoQTWgM696ykr2Gw.name=§d§lПромышленный автоклав
 betterquesting.quest._dFgSThoQTWgM696ykr2Gw.desc=На LuV этапе тебе открывается возможность постройки Промышленного автоклава. Этот здоровенный мультиблок невероятно мощный - благодаря множеству возможностей для улучшения. Тебе определённо стоит им обзавестись , чтобы ускорить производство кристаллических чипов для серии кристальных электросхем.%n%n[note]Катушки, Полые корпуса, Предметные полые корпуса - все они очень важны для увеличения производительности этого мультиблока. Используй лучшие из доступных![/note]
+
+# Quest: Megalomania
+betterquesting.quest.a6S75xGeQ4uu1qR1deuOfQ.name=§b§lMegalomania
+betterquesting.quest.a6S75xGeQ4uu1qR1deuOfQ.desc=In ZPM, you now have the ability to construct very powerful mega machines. These absolute titans will boost your production to levels never-before-seen, at a price.%n%n[note]To get real benefit from these multis, you will want to use lots of power and take advantage of their extreme parallelization.[/note]
 
 # Quest: ...With The Power of Science!
 betterquesting.quest.bLAFkZX-RHGRFAz-C93aeQ.name=§b§l...силой науки!
@@ -7606,10 +7654,6 @@ betterquesting.quest.uP_FwHb_QTyAPaoZ80u74A.desc=Надоело постоянн
 # Quest: Extreme Voltage Multiblocks
 betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.name=§8§lEV Мультиблоки
 betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.desc=Возможно, у тебя уже есть какой-то из паровых мультиблоков или даже Большой просеиватель. Но на EV и IV, а также на последующих этапах у тебя появится возможность постройки мультиблочной версии (почти) любого GT механизма. И не только!%n%nБольшинство из них делают тоже самое, что и их одноблочные версии, но гораздо быстрее. У мультиблоков есть несколько преимуществ: меньшие затраты энергии, скорость работы и возможность обрабатывать несколько рецептов параллельно - это означает, что за один цикл работы они могут обработать несколько предметов за раз, если хватает энергии.%n%nРазнообразие структур и сложность их постройки будет гораздо выше, чем как у таких простых построек как EBF, LCR или VF. В то время как некоторые мультиблоки представляют собой простые параллелепипеды, некоторые новые мультиблоки могут быть гораздо более комплексными и при этом они добавляют новые механики и условия их работы. Зато, они могут быть чертовски мощными, так что не забывай про них!
-
-# Quest: Megalomania
-betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.name=§6§lМегаломания
-betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.desc=На HV, ты уже технически способен создавать МЕГА версии некоторых механизмов. Данные титанические механизмы ускорят твоё производство до невиданных высот, ценой некоторых затрат. У данных мультиблоков есть 2 важных преимущества:%n-У них сразу есть 256 параллелей.%n-Их можно запитывать с помощью экзотических энерговводов из TecTech, что позволяет подавать в них немыслимое количество энергии.%n%n[note]Чтобы действительно начать получать выгоду от их использования, тебе нужно затратить большое количество энергии и загрузить их множество параллелей - подумай, под силу ли тебе это, пока не начал строить MEBF уже на HV...[/note]
 
 # Quest: Pressure Washing!
 betterquesting.quest.zorY0c3BQuqLJp7ThOLG-g.name=§c§lПаровая мойка!
@@ -10665,6 +10709,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=МЭ люки и шлюзы э�
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=Начало твоего пути в AE2
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 - неотъемлемая часть игрового процесса GTNH.§r%n%nAE2 - это основной мод для управления сетями и логистикой в GTNH: предметами, жидкостями и крафтом. Ты начнёшь использовать его с этапа EV и дальше для большинства автоматизаций. С учётом высокой сложности этого модпака в игру добавлены различные уникальные инструменты и функции, специально призванные помочь в твоём приключении. Большинство из них рассмотрено в этой вкладке квестов.%n%nИзучать придётся многое, но не перегружай себя! Чем больше времени ты проведёшь с модом, тем сильнее будут расти твои навыки. Помимо этой книги, есть множество полезных ресурсов, которыми можно воспользоваться при обучении:%n%n§21. Вики: §r[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n- На вики есть много отличной начальной информации о том, как работают разные системы. Там также собраны руководства по автоматизации для конкретных механизмов, так что обязательно загляни на вики, если испытываешь трудности или нужен ориентир.%n%n§22. Discord: §r[url]https://discord.gg/gtnh[/url]%n%n- В Discord полно опытных игроков AE2, загляни в #ae2-help - там много людей, которые готовы помочь тебе разобраться.%n%n§23. Видеоруководства: §r[url]https://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n- У GTNH есть множество отличных авторов, которые делают качественные видеоруководства по этому моду. Вот ссылка на "AE2 Fundamentals" от IX. Есть и продвинутая версия.
 
+# Quest: Co-Processing x256
+betterquesting.quest.CpZ8AYZzT5uEPFIOJQJELg.name=Co-Processing x256
+betterquesting.quest.CpZ8AYZzT5uEPFIOJQJELg.desc=These are starting to get a little pricey...
+
 # Quest: 4096k Essentia Storage Cell
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.name=4096К ячейка хранения эссенции
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.desc=Эти вмещают 8 388 608 единиц эссенции.%n%nА ещё они могут хранить до 48 типов эссенции.
@@ -10713,6 +10761,10 @@ betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.desc=Хотел заказать с�
 betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.name=Карты для задротов AE2!
 betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.desc=[quest]Карты равного распределения, поддельного создания, запирания и продвинутая карта блокировки![/quest]%n%n§6Карта равномерного распределения:§r%n%nКарта равного распределения будет делить вместимость ячейки поровну между типами или разделами.%n%n§6Карта поддельного создания:§r%n%nКарта поддельного создания заставит твою МЭ систему завершить крафт, не ожидая получения конечного предмета.%n%nЭто может быть полезно для создания фиктивных шаблонов для целых мультиблоков или установок, собирая отдельные предметы, необходимые для одного крафта.%n%nКарту можно вставить только в:%n%n§cМЭ двойной интерфейс%nМЭ интерфейс%nP2P туннель - МЭ двойной интерфейс§r%n%n§6Карта запирания:§r%n%nКарта запирания позволяет интерфейсу при желании блокировать запуск новых крафтов при одном из следующих условий:%n%n§cКогда сигнал красного камня низкий%nКогда сигнал красного камня высокий%nПосле отправки крафта, пока не будет получен импульс красного камня%nПосле отправки крафта, пока результаты не вернутся в тот же интерфейс§r%n%n§6Продвинутая карта блокировки:§r%n%nПродвинутая карта блокировки может игнорировать непотребляемые предметы в подсети для более сложных автоматизаций.%n%nВ стандартной подсети, где два интерфейса смотрят друг на друга, продвинутую карту блокировки нужно §9поместить в §lинтерфейс подсети.§f
 
+# Quest: Co-Processing x1024
+betterquesting.quest.W4TwVdR1RIqmcYrC2eD2Fg.name=Co-Processing x1024
+betterquesting.quest.W4TwVdR1RIqmcYrC2eD2Fg.desc=No Description
+
 # Quest: 256k Essentia Component
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.name=256К компонент эссенции
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.desc=То же самое, что и 1k.
@@ -10749,6 +10801,10 @@ betterquesting.quest.krGyRorETXqDuJdbU3K5tA.desc=[warn]Внимание! Исп�
 betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.name=Block Container
 betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.desc=Block Container Cells are a special variant of cell. They are unique because, despite using a 1k storage component, each one can hold up to 520k items rather than just 8.13k!%n%nOf course, all of that power comes with the limitation that they can only store one type of item, so they aren’t quite as flexible. They are great for bulk storage or for scenarios where you might want only one item per drive- Assembly Line automation for example.
 
+# Quest: Co-Processing x64
+betterquesting.quest.mfxi51PzS32KbV7utFWqxg.name=Co-Processing x64
+betterquesting.quest.mfxi51PzS32KbV7utFWqxg.desc=It gets even more compact??
+
 # Quest: ...with Fluid Support!
 betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.name=§6§l...с поддержкой жидкостей!
 betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.desc=Теперь и жидкости тоже!
@@ -10784,6 +10840,10 @@ betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.desc=Беспроводной сое
 # Quest: 1024k Essentia Storage Cell
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.name=1024К ячейка хранения эссенции
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.desc=Эти вмещают 2 097 152 единиц эссенции.%n%nА ещё они могут хранить до 36 типов эссенции.
+
+# Quest: Co-Processing x4096
+betterquesting.quest.ugaI2UIOTHiplk6JSlxBKQ.name=Co-Processing x4096
+betterquesting.quest.ugaI2UIOTHiplk6JSlxBKQ.desc=No Description
 
 # Quest: Essentia Quantum Storage
 betterquesting.quest.y9mYyyz4Qg6iGOYILdKA1A.name=Квантовая ячейка хранения эссенции
@@ -10852,7 +10912,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.desc=Также известна к�
 
 # Quest: Genetic Imprinter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.name=Генетический импринтер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=With this powerful machine, you can inject gene samples, which allows you to alter any aspect of your bee, tree or butterfly. The gene sample (or pattern) will not be destroyed.%n%nThe machine has a 20%% chance to downgrade pristine bees into ignoble bees and a 40%% chance to kill ignoble bees.%n%nOne labware is consumed per operation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=With this powerful machine, you can inject gene samples, which allows you to alter any aspect of your bee, tree or butterfly. The gene sample (or pattern) will not be destroyed.%n%nThe machine has a 40%% chance to kill ignoble bees.%n%nOne labware is consumed per operation.
 
 # Quest: Genetic Transposer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.name=Генетический транспозер
@@ -14648,7 +14708,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqw.name=§b§lПреобразуйся 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqw.desc=Активные трансформаторы преобразуют энергию вверх или вниз всего с 0.004%% потерь, так что использовать несколько подряд становится бессмысленно - если ты можешь себе это позволить. К сожалению, они довольно дороги. С другой стороны, их можно использовать для перенаправления лазеров от лазерных источников, что, пожалуй, даже полезнее.%n%nИм не нужен люк техобслуживания, только только энерговвод/вывод.
 
 # Quest: What Even is This?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.name=§6§lWhat Even is This?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.name=§d§lWhat Even is This?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.desc=In addition to being a dehydrator multi, it's also a Vacuum Furnace, for which no singleblock exists. It's supposed to be used with the IsaMill Grinding Machine multi and the Flotation Cell Regulator multi for the purposes of ore milling, an advanced method of ore processing that needs a lot of infrastructure, but which gives many new outputs for each ore it supports.%n%n[note]This multi is LuV now![/note]
 
 # Quest: Dyson Swarm Ground Unit

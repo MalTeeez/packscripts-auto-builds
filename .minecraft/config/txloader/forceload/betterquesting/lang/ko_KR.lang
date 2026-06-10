@@ -59,7 +59,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.desc=베리를 그냥 먹으면 배�
 
 # Quest: Food Variants
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.name=§9§l한잔해
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=Maybe you noticed already that eating the same food too often is very boring and not as healthy. Some food like Grapes can be cooked into other unique foods. You can also smelt Fresh Water into Boiling Water and combine that with a Tea Leaf for a delicious cup of tea.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=한 음식만 먹는다면, 점점 배고픔이 덜 회복됨과 동시에 결국에는 아예 회복이 안되는 상황까지 올 수 있습니다. 그렇기에, 여러가지 음식을 먹는게 매우 중요합니다. 화로를 이용하면 찻잎으로 차도 만들 수 있고, 모두가 사람하는 건포도도 만들 수 있습니다.
 
 # Quest: Can You Hear the Carrots Grow?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=§9§l작물의 소리
@@ -71,7 +71,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=GTNH는 3000개 이상의 퀘�
 
 # Quest: Even more challenges needed?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=§9§l무지하게 어려운 도전이 필요하신가요?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=You have played through most of the pack a few times already? Maybe you even made a Stargate? Or are you just looking for something a bit different? Don't worry, we have a few options for you:%n%n- Play in Hardcore. Either Minecraft Hardcore, or BetterQuesting Hardcore. The latter is a bit more forgiving. Maybe this seems impossible, but people have indeed reached UEV+ in Minecraft Hardcore. Better be prepared to restart a few times. This is obviously not for everybody.%n%n- Never make a rocket. The so called §ono-rocket run§r is somewhat supported by now, you will be able to do almost everything in the pack. Use bees, crops, and blood magic meteors as your main resource production. Be warned though that such a challenge is grindy and slow. For instance, you might need to collect large amounts of andradite ore or via the aluminium bauxite slag route to get your first titanium. Or have to start breeding bees early without much technology to help.%n%n- Skyblock. Yes, really. It is also known as Garden of Grind and it is absolutely brutal. There is no actually supported skyblock version of the pack but some players have figured out the minimal amount of changes needed to make it work. Ask around or search on the official discord channel for all the details. But don't expect any fun down this road.%n%n- Speedrunning. A few players have designed some basic rules and have started to record speedruns to early game goals like the Coke Oven. Ask around or search on the official discord channel for all the details. Maybe you just want to watch how they do it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=뉴호 몇회차이신가요? 스타게이트는 만드셨나요? 아니면 뭔가 다른게 필요하신가요? 걱정마세요! 여러분들에게 약간의 더 도전적인 조건을 추천해드리겠습니다.%n%n- 하드코어로 플레이하기. 엄청나게 도전적이고 바닐라적인 방법이죠! 뉴호를 하드코어로 하는겁니다! 한번 죽으면 여러분이 만든 모든 것이 사라지는겁니다!%n%n- 노 로켓 런. 로켓 없이 하는 미친 방법으로, 벌이나 메테오, 작물을 이용해서 모든 자원을 지구에서 박혀 살면서 모으는 어려운 방법입니다. 예를 들어, 알루미늄은 로켓을 이용해서 달로 가는 방법이 아닌 알루미늄 자갈을 이용한다던가, 벌을 이용해서 얻는다던가, 뭐 그런거요. 당연하게도 자원 수급이 매우 어려워지므로, 처음 하시는 분들에게는 전혀 추천드리지 않습니다.
 
 # Quest: Oak Trees Are Not Apple Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=§9§l내일 지구가 종말이 와도 사과나무를 심겠다
@@ -126,8 +126,12 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.name=§9§l청크 로딩
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALOg.desc=마인크래프트는 청크로 작동합니다. 한 청크는 베드락부터 하늘까지 16x16의 블록으로 이루어져 있으며, 블록이 구현된것을 "청크 로딩 되었다" 라고 표현합니다. 청크가 로딩되지 않는다면, 그곳은 아무일도 일어나지 않게됩니다. 작물이 자라지않고, 기계도 그냥 멍때립니다. 여행을 떠나게 되면 집 구역은 청크가 로딩되지 않습니다. %n%n이러한 문제를 해결하기 위해선, 한 모드를 사용해 청크 로딩을 시킬 수 있습니다. 바로 ServerUtilities라는 모드입니다. 이 모드가 있다고 해서 그냥 청크로딩이 되진 않습니다. 인벤토리를 열어, 왼쪽에 있는 청크 버튼을 눌러 로딩하고 싶은 청크를 Shift + 좌클릭으로 배정하게 되면, 청크로딩이 됩니다. 로딩할 수 있는 청크의 수는 config에서 바꿀 수 있습니다. 이렇게 되면 여러분이 여행을 떠나도, 로딩이 된 청크는 계속해서 시간이 가게 되므로 기계가 바보같이 여러분이 집에 있을때만 굴러가는 그런 불상사는 막을 수 있죠. 청크로딩을 하는 다른 방법으로는 레일크래프트(RailCraft)모드의 청크로더를 사용하는 방법이 있지만, 매우 불편하고 유지보수가 필요하니, 그냥 위에 있는 방법을 사용하는걸 추천드립니다.
 
 # Quest: Permanent Offhand!
-betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=§9§lPermanent Offhand!
+betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.name=§9§l왼손!
 betterquesting.quest.U7JoxM0mRaWx0MYriD2LtQ.desc=현대적인 왼손 슬롯 기능이 백포트되었습니다.%n%n이 기능은 배낭처럼 GUI를 여는 모든 아이템에도 적용됩니다. 덕분에 인벤토리 관리가 더 쉬워지고 번거로운 특정 작업들을 처리하는 데 도움이 됩니다.%n%n오른손과 왼손 사이의 아이템을 전환하는 기본 단축키:§9F§r%n%n[note]Backhand 모드의 클라이언트 설정에서 다양한 Torch Tweaks을 켜고 끌 수도 있습니다. 이 기능들은 기본적으로 비활성화되어 있지만, 왼손에 횃불을 들고 다니는 것을 좋아하신다면 유용하게 쓰실 수 있을 것입니다.[/note]
+
+# Quest: In-game Guide
+betterquesting.quest.pcDIaSYHTkuVTBkdRwWWJw.name=In-game Guide
+betterquesting.quest.pcDIaSYHTkuVTBkdRwWWJw.desc=Check out the in-game guide! It'll tell you what's new in each version and has in-depth tutorials, visualizations, and more details than you'll find anywhere else in the pack!%n%nTo open it, use this Guide item and/or bind the §aOpen Guide Home§r hotkey.%n%n[img height=200]midnight:textures/gui/guide-nh-pictures/guide-nh-image.png[/img]
 
 
 ## Quest Line: Tips and Tricks
@@ -136,7 +140,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAALA.desc=우리가 모은 수 많은
 
 # Quest: Automating Power On/Off
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdg.name=§6§l전원 켜고 끄기 자동화
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdg.desc=Once you have a GT boiler or Large Combustion Engine with a long startup time, you may wish to automate turning it on/off to save fuel, since extra power or Steam will just be voided. Additionally, the bigger your Steam/EU buffer is, the less time your generators will spend heating up, which makes them more efficient.%n%nUse a Machine Controller Cover on the controller for that. You can put it on top, bottom, or sides next to a casing - casings will transmit the redstone signal. You can use a Soldering Iron and Fine Soldering Alloy Wire to set the Redstone Output of a controller block to strong. When set to Strong it can go through a casing, but not hatches, buses, or other blocks. Use it with an activity detector if you want to receive a signal from the controller rather than turning it on/off with one.%n%nWith a Machine Controller Cover, you can use redstone to turn the machine on and off. This is handy if you don't want to use a Soft Hammer to disable a machine yourself constantly.%n%nThe best way to do that is with an RS latch. One input will turn the machine on, and one input will turn the machine off. Use a comparator attached to a valve to measure the steam level in your multiblock Iron or Steel Tank. Invert the signal to turn on your boiler when the steam level is low. When the steam level signal is high, turn your boiler off. Use a trail of redstone to lower the signal strength. Because of boiler/turbine warmup, try to set the ON strength to 30 percent of capacity and OFF strength to about 90 percent.%n%nRed alloy wire will hold a redstone signal for a longer distance than normal redstone, while redstone conduits will go indefinitely. You can also use amplified redcrystal to improve the strength of the signal for a long distance, repeating as necessary.%n%nYou can use an Energy Detector Cover in Normal Electrical Storage (including batteries) mode to monitor the power in a battery buffer and use it to enable/disable generators in a similar way. Change mode using a screwdriver. If you use a dense redcrystal, it will only allow signal through at a certain level, perfect for automating this kind of thing.%n%nFor a video version, check out this video: [url]https://www.youtube.com/watch?v=jPfnifJEO64[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGdg.desc=긴 가동 시간이 있는 GT 보일러나 대형 연소 엔진을 보유하게 되면 연료를 절약하기 위해 켜짐/꺼짐을 자동화하고자 할 수 있습니다. 여분의 전력이나 증기는 방출될 뿐이기 때문입니다. 또한, Steam/EU 버퍼가 클수록 발전기가 예열하는 데 드는 시간이 줄어들어 효율성이 향상됩니다.%n%n이를 위해 컨트롤러에 기계 컨트롤러 커버를 사용하세요. 케이싱 옆의 상단, 하단 또는 측면에 둘 수 있으며, 케이싱은 레드스톤 신호를 전달합니다. 납땜 인두와 가는 납땜 합금 와이어를 사용하여 컨트롤러 블록의 레드스톤 출력을 강하게 설정할 수 있습니다. 강하게 설정하면 케이싱을 통과할 수 있지만 해치, 버스 또는 다른 블록을 통과할 수는 없습니다. 기계를 켜거나 끄는 대신 컨트롤러에서 신호를 받고 싶다면 액티비티 감지기와 함께 사용하세요.%r%n%n기계 컨트롤러 커버를 사용하면 레드스톤을 사용하여 기계를 켜고 끌 수 있습니다. 부드러운 망치를 사용하여 직접 기계를 비활성화하고 싶지 않은 경우에 편리합니다.%n%n가장 좋은 방법은 RS 래치를 사용하는 것입니다. 하나의 입력은 기계를 켜고, 하나의 입력은 기계를 끕니다. 밸브에 부착된 비교기를 사용하여 멀티블록 철 또는 강철 탱크의 증기 수준을 측정하세요. 증기 수준이 낮을 때 보일러를 켜려면 신호를 반전하세요. 증기 수준 신호가 높으면 보일러를 끄세요. 레드스톤 트레일을 사용하여 신호 강도를 낮추세요. 보일러/터빈 예열로 인해 ON 강도를 용량의 30%, OFF 강도를 약 90%로 설정해보세요.%n%n레드 합금 와이어는 일반 레드스톤보다 더 긴 거리에서 레드스톤 신호를 유지하는 반면, 레드스톤 컨듀잇은 무기한 유지합니다. 또한, 증폭된 레드 크리스털을 사용하여 필요에 따라 반복하면서 장거리에 걸쳐 신호 강도를 개선할 수도 있습니다.%n%n정상 전기 저장(배터리를 포함) 모드에서 에너지 감지기 커버를 사용하여 배터리 버퍼의 전력을 모니터링하고 이를 사용하여 유사한 방식으로 발전기를 활성화/비활성화할 수 있습니다. 스크루드라이버를 사용하여 모드를 변경하세요. 농축 레드 크리스털을 사용하면 특정 수준에서만 신호를 허용하여 이러한 종류의 자동화에 완벽합니다.%n%nMCC를 발전기 외에도 멀티블록 과 대부분의 단일 블록에서 사용할 수 있습니다. 이는 재료의 낭비를 방지하는 데 유용합니다. 가득 차면 중단되는 GT++ 멀티블록과 달리, 비 GT++ 멀티블록은 아이템이나 액체를 낭비하고 계속 작동하며, 엄청난 양의 재료를 낭비할 수 있습니다. 출력 해치 또는 버스에 유체 또는 아이템 감지 커버와 함께 사용해야 합니다.%n%n비디오 버전은 이 비디오를 확인하세요: §9§n[url]https://www.youtube.com/watch?v=jPfnifJEO64§r[/url]§r
 
 # Quest: Underground Fluids
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-w.name=지하 유체
@@ -144,147 +148,147 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAJ-w.desc=지하 유체가 뭔지 궁금�
 
 # Quest: Covering Up
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALDw.name=덮어 씌우기
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALDw.desc=This quest goes over all of the covers, just in case you forgot or they weren't mentioned. If they have their own quest, look at it for more info. You can put them on basically any GT block, pipe, machine, tank, etc. Though that doesn't consider whether it will work right or be useful. Shift-right-click will open a GUI for many of them. For covers that you can adjust the amount of, clicking the left side with a screwdriver goes down, and right goes up. All covers block rain on the side they're attached to. Generally you can adjust covers with a screwdriver, whether they have a GUI or not. You can remove them with a crowbar if you forgot.%n%n§lFluid-Related Covers:§r%nPump: Transfers fluids at the speed specified on the tooltip.%n%nFluid Regulator: Regulates the rate that fluid can go through it, as well as pumping it. Can work x/s or x/t.%n%nSteam Valve: Moves more, but is only for steam. Only goes to IV. Does not work on SH steam.%n%nOverflow: Voids anything over the specified amount in the tank.%n%nFluid Detector: Will emit a redstone signal (RS) based on fluid fill rate of the tank it's on. By default, empty=15, full=0. Use inverted mode to swap. Useful on tanks and hatches.%n%nEnder Fluid Link: Cover version of ender tanks to TP fluid around. Doesn't connect to ender tanks though.%n%nDrain Module: Protects from rain on that side, and will fill the tank with water from rain if it can. Useless.%n%nFluid Filter: Filters fluid going through it. Click with a cell to set it.%n%nShutter: Blocks items/fluids when active. Use it with a machine controller and RS. Does not visually disconnect/block. You place it between the pipes, and put the MC on the same pipe.%n%n§lItem-Related Covers:§r%nConveyor: Sends items. Use an item pipe in import mode or on a GT block/machine.%n%nRobot Arm: Sends from a specific slot in the machine it's on (internal) to another specific slot in a block next to it (adjacent). Keep going through numbers until you get it right, it seems to change per machine. If the output slot is full, it won't output. There needs to be a valid block with slots to send to, or the settings won't save.%n%nItem Detector: Will emit RS based on item fill rate of the block it's on. By default, empty=0, full=15. Detects by filled slots, so doesn't work right with the super/quantum chests. Probably better for buses.%n%nFiltered Conveyor: Filters up to one type of item (whitelist/blacklist) and acts as a conveyor module. Locked to either export or import.%n%n§lEU-Related Covers:§r%nEnergy Detector: Will emit RS based on EU fill rate of the batbuff/tank it's on. By default, empty=0, full=15. Make sure to set it to include batteries. Can also detect steam for some reason.%n%nPower Pass Upgrade: Read the tooltip, then ask Bart how it works, he didn't bother telling anyone. He'll probably just tell you the code is the best documentation, just like the Tectech guys. May not actually be finished/work, either.%n%nTesla Coil/Tesla Coil Rich Edition: Use with the Tesla Tower to send EU wirelessly or something.%n%n§lOther Covers:§r%nPlayer Detector: Detects players. About 10 block range. [warn]Currently owner/other is inverted on non-pipes due to some bug or another.[/warn]%n%nActivity Detector: Detects either recipe progress or idleness. 0%%=0 RS, ~95%%=14 by default. In idle mode, idleness is 15, and is 0 when running by default.%n%nMachine Controller: Turns machine on/off based on RS. Disable machine will keep it off regardless of RS state. Safe Mode only works on MBs. If a MB runs out of power, it will normally turn off, but a MC will turn it back on, continuing to void stuff. This will set it to the disable machine state instead. You will also get a notification. [warn]Safe mode is currently broken?[/warn]%n%nNeeds Maintenance: Emits RS if it meets the condition specified. Rotor=turbine?%n%nRedstone Transmitter/Receiver (In/Out): OK, these things are confusing, so listen closely. First, set a frequency, either by using the GUI, or using the original way: right-clicking it with an item. Empty hand = 0, other items = their item ID. Be careful not to reset it to 0 by accident. Honestly, just use the GUI. You can set it to private or not, it's the same kind of thing as EnderStorage, so you don't blare RS across the server. Channel state = RS level.%n%nRT(O) sets the channel state based on the redstone level sent from outside to the specific side. You can TP an RS from this to the RR(O).%nRT(I) sets the channel state based on redstone level that would be emitted from the machine itself. [warn]Always sends 15, so it's useless.[/warn]%nRR(O) outputs redstone level based on channel state. You can TP RS from the RT(O) to here.%nRR(I) controls whether a machine can work based on channel state, just like a machine controller cover does. If it has 0 RS, it stays off. At least 1, and it turns on. You send the signal from elsewhere with the RT(O).%nRR(I) can also be used in conjunction with other covers whose states talk about conditional.%n%nIC2 Heat vents: Speeds up machines a tiny amount? Also looks neat. TODO: someone please look at the code to see what it actually does.%n%nCrafting Table: Adds a crafting table to the block you can use. Mostly cosmetic.%n%nPlanks/Plates/Foils: Blocks I/O on that side. Use a screwdriver to set allowed types of stuff through. Blocks everything by default. Set the output to another side first to avoid changing its settings too. You'll probably 'use' this by accident at least once.%n%nComputer Monitor: Adds a visual look. Cosmetic-only cover.%n%nLens: Cosmetic-only cover.%n%nYou can also use AE2 facades as cosmetic covers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALDw.desc=이 퀘스트는 모든 커버를 확인하게 해주며, 이 과정에서 놓친 것이나 언급되지 않은 부분이 있다면 다시 한번 확인할 수 있습니다. 각 커버에 대한 자체적인 퀘스트가 있다면 그것을 참고하면 상세한 정보를 얻을 수 있습니다. 기본적으로 거의 모든 GT 블록, 파이프, 기계, 탱크 등에 커버를 사용할 수 있습니다. 하지만 그것이 제대로 작동할 것인지, 유용한지는 따로 고려되지 않습니다. Shift-오른쪽 클릭을 하면 많은 커버에 대해 GUI가 열립니다. 스크루드라이버로 왼쪽을 클릭하면 조절량이 줄어들고, 오른쪽을 클릭하면 증가합니다. 모든 커버는 연결된 측면에 대해 비를 막아줍니다. 일반적으로 커버는 GUI 여부와 상관없이 스크루드라이버로 조작이 가능하며, 잊어버렸다면 손잡이가 달린 바로 제거할 수 있습니다.%n%n§l유체 관련 커버:§r%n펌프: 툴팁에 명시된 속도로 유체를 이송합니다.%n%n유체 조절기: 유체가 통과할 수 있는 속도를 조절하며, 이를 통해 펌핑도 가능합니다. x/초 또는 x/틱의 방식으로 작동할 수 있습니다.%n%n스팀 밸브: 더 많은 것을 이동시키지만, 스팀에만 해당됩니다. IV까지만 가능합니다. SH 스팀에는 동작하지 않습니다.%n%n오버플로우: 탱크 내에서 지정된 양을 초과하는 어떤 것도 무효화합니다.%n%n유체 감지기: 탱크의 유체 채우기 속도에 따라 레드스톤 신호(RS)를 발산합니다. 기본적으로, 빈 상태 = 15, 가득찬 상태 = 0. 반전 모드를 사용하여 변경할 수 있습니다. 탱크와 해치에 유용하게 쓸 수 있습니다.%n%nEnder Fluid Link: 유체를 TP하는 Ender 탱크의 커버 버전입니다. 그러나 Ender 탱크와는 연결되지 않습니다.%n%nDrain Module: 해당 측면에 대해 비를 보호하며, 가능하다면 비로부터 물을 채워 탱크를 채웁니다. 쓸모 없습니다.%n%n유체 필터: 그것을 통과하는 유체를 필터링합니다. 셀을 클릭하여 설정하세요.%n%n셔터: 활성화되면 아이템/유체를 차단합니다. 기계 컨트롤러와 RS와 함께 사용하세요. 시각적으로는 연결이 끊기지 않으며 차단되지 않습니다. 파이프 사이에 배치하고, MC를 같은 파이프에 배치하세요.%n%n§l아이템 관련 커버:§r%n컨베이어: 아이템을 보냅니다. 가져오기 모드의 아이템 파이프 또는 GT 블록/기계에서 사용하세요.%n%n로봇 팔: 기계에 있는 특정 슬롯(내부)에서 다른 특정 슬롯(인접한)으로 전송합니다. 번호를 계속 누
 
 # Quest: Lootbag Uptiering
-betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.name=Lootbag Uptiering
-betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.desc=In GTNH, the lootbags are quite useful tools for boosting your resources. There are a wide variety of lootbag types, and those types all have upgrade paths to get better resources.%n%nThere are two paths you can take when it comes to upgrading your lootbags, you can either enchant it with fortune, or you can upgrade the bag itself. Enchanting the lootbag with fortune will increase the chances of more rare drops being given to you on opening, while upgrading the bag itself will change the item pool to that of the upgraded bag. Notably, if you uptier the bag itself, it will cost 3 of the previous bag tier, so make sure it's worthwhile to upgrade before you do so!%n%n§2If you're looking to maximize your advantage it's recommended you both uptier your lootbag AND apply the fortune upgrade. %n§r%n[note]Be sure to use NEI to see all of this information. Use 'U' on your lootbag and you will be able to see the potential drops, the drop chances based on fortune levels, and you will be able to see recipes for uptiering the bag.[/note]
+betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.name=전리품 가방 업그레이드
+betterquesting.quest.ZM4oSqeWQRW1Y-zoE01ivg.desc=GTNH에서 전리품 가방은 자원을 확보하는 데 매우 유용한 도구입니다. 전리품 가방은 종류가 다양하며, 더 좋은 자원을 얻기 위해 각각의 가방을 업그레이드할 수 있는 경로가 존재합니다.%n%n가방을 업그레이드할 때는 두 가지 방법을 선택할 수 있습니다. 행운(Fortune) 인챈트를 바르거나 가방 자체의 티어를 올리는 것이죠. 행운 인챈트를 바르면 가방을 열 때 희귀한 아이템이 나올 확률이 높아지고, 가방 자체를 업그레이드하면 아이템 목록(풀) 자체가 상위 등급으로 바뀝니다. 특히, 가방 티어를 올리려면 이전 단계 가방 3개가 소모되므로, 업그레이드 전에 가성비를 꼭 확인하세요!%n%n§2이득을 극대화하고 싶다면 가방 티어를 올리는 동시에 행운 업그레이드까지 적용하는 것을 추천합니다.%n§r%n[note] 이 모든 정보는 NEI를 통해 확인하세요. 가방 위에서 'U'키를 누르면 획득 가능한 아이템, 행운 레벨에 따른 드롭 확률, 그리고 티어 업그레이드 조합법을 볼 수 있습니다.[/note]
 
 
 ## Quest Line: Tier 0 - Stone Age
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.name=Tier 0 - Stone Age
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.desc=This tab continues the basics until you make your first steam machine, and are ready for the real GT stuff
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.name=티어 0 - 석기 시대
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.desc=여기에서는 여러분이 첫 증기 기계를 만들 수 있게 가이드를 해주면서, 본격적인 그레그테크의 시작이라고도 볼 수 있습니다.
 
 # Quest: Do You Really Need Them All?
-betterquesting.quest.4g20EVdxSWyOUMhZXkcIWQ.name=§a§lDo You Really Need Them All?
-betterquesting.quest.4g20EVdxSWyOUMhZXkcIWQ.desc=There are many more backpacks: Coiners, thaumaturges, trackmanns...%n%n[note]Hint: Scroll to the Bottom[/note]
+betterquesting.quest.4g20EVdxSWyOUMhZXkcIWQ.name=§2§l다 필요해요! -2-
+betterquesting.quest.4g20EVdxSWyOUMhZXkcIWQ.desc=더 많은 배낭이 있습니다: 코인 수집가, 사움 마법사, 트랙맨...
 
 # Quest: A Better Furnace!
-betterquesting.quest.5EdKBIyDTYa7xhnSCUZmiQ.name=§a§lA Better Furnace!
-betterquesting.quest.5EdKBIyDTYa7xhnSCUZmiQ.desc=Build a Blast Furnace!%n%nEnjoy faster smelting for your metals!%n%n[warn]Will not process all items that a regular furnace will. Check NEI for more detail.[/warn]
+betterquesting.quest.5EdKBIyDTYa7xhnSCUZmiQ.name=§a§lA 더 나은 화로!
+betterquesting.quest.5EdKBIyDTYa7xhnSCUZmiQ.desc=용광로를 만드세요!%n%n금속을 더 빠르게 제련할 수 있습니다!%n%n[warn]일반 화로가 처리할 수 있는 모든 아이템을 처리하진 않습니다. 세부 사항은 NEI를 참조하십시오.[/warn]
 
 # Quest: Ready, Set, Go!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=§a§lReady, Set, Go!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=You probably should have a home by now. A steady supply of food is a fundamental requirement at all times. Take this journal to keep track of the things you've eaten. You will have to travel far in this tier, better be prepared!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=§a§l준비하고, 시작하세요!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=아마 지금쯤이면 여러분들은 집 한채정도는 있을겁니다. 항상 안정적인 식량 공급은 필수입니다. 이 일기를 가지고 여러분이 먹은 것들을 확인해 보세요. 이 티어에서는 평소보다 더 멀리 여행해야 합니다. 준비를 더 잘 하세요!
 
 # Quest: Sand: The Gathering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§a§lSand: The Gathering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=In a strange vision you saw a big structure which would allow you to make charcoal. Finally some torches! According to your calculations, you will need a lot of sand for that.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§a§l모래: 수집하기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=이상한 환상 속에서 목탄을 만드는 데 필요한 커다란 구조물을 보게 되었습니다. 마참내 횃불을 만들 수 있다! 계산에 따르면, 많은 모래가 필요할 것으로 보입니다.
 
 # Quest: Basic Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=§a§lBasic Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=Most things are unavailable at the moment, so let's begin with something simple. Take some of your cobblestone and smelt it into regular stone. Since this modpack is evil, you'll need to use wood for that. How much fun is that?!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=§a§l기본 가공
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=지금은 할 수 없는 것이 많으므로 간단한 것부터 시작해 보겠습니다. 조약돌을 몇 개 가져다가 돌로 구워보세요. 이 모드팩은 더럽게 사악하기 때문에, 석탄이 없다면 나무를 장작으로 써야합니다. 재밌죠?!?!
 
 # Quest: Macerator v0.1 Alpha
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=§a§lMacerator v0.1 Alpha
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=This fancy little device works (almost...) like a macerator. Some people say it's even better, since it does not require power, yay! You only need to craft one for this quest, but you probably should make some more if you can...%n%n[note]The mortar lets you make flint much, much more efficiently - you only need one gravel instead of three. Many tools and stations you'll make in the future will also open up better crafting recipes for things you can already make as well. If you need something but are hard up on resources, use NEI to check the recipes for that item - you may have options you didn't before.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=§a§l분쇄기 v0.1 알파
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=이 멋진 작은 장치는 (거의 ...) 분쇄기처럼 작동합니다. 어떤 사람들은 전력이 필요 없기 때문에 (앗싸!) 더 좋다고 말하기도 합니다. 이 퀘스트를 위해서는 하나만 제작하면 되지만, 가능하다면 몇 개 더 만드는 것이 좋을 것입니다...%n%n[note]절구는 부싯돌을 훨씬, 훨씬 더 효율적으로 만들 수 있게 해주는데, 세 개 대신에 하나의 자갈만 필요로 합니다. 앞으로 만들게 될 많은 도구들과 스테이션들도 마찬가지로 원래의 제작 레시피보다 더 효율 좋은 제작 레시피를 열어줄 것입니다. 어떤 아이템을 만들려할 때 만약 자원이 부족하다면, NEI를 사용해서 그 아이템의 레시피를 확인해보세요. 이전에는 없던 방법이 생겼을 수도 있습니다.[/note]
 
 # Quest: Gravel: The Gathering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=§a§lGravel: The Gathering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=You think it would be a good idea to collect more gravel in order to provide yourself with flint for the journey ahead. Try searching near water.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=§a§l자갈: 수집하기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=앞으로의 여정을 위한 부싯돌을 확보하기 위해 더 많은 자갈을 수집하는 것이 좋을 것 같습니다. 물가 근처에서 찾아보세요.
 
 # Quest: Clay: The Gathering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFQ.name=§a§lClay: The Gathering
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFQ.desc=While bored, you thought that it might be a good idea to take up pottery. You should go and find some clay, the riverbanks should have some.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFQ.name=§a§l점토: 수집하기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFQ.desc=멍 때리다가 갑자기 점토로 도자기를 만드는 아주 기발한 생각이 떠올랐습니다! 점토는 물가 근처에 있습니다.
 
 # Quest: Finite Water!?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=§a§lFinite Water!?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=Finite water is a problem, that's for sure. Last night, you had an idea. If you can drink cacti, you should also be able to make water out of 8 cacti and use that for most recipes that require water. How cool is that? So what about another trade? 10 wood for... 3 cacti so you can set up a farm. Deal?%n%nTo automate the farm, place a string next to the cactus and a sand on top of the string. Now when the cactus grows, it will automatically break! You can stack this horizontally and vertically to make a very efficient cactus farm. Use water to redirect the cactus to a convenient pickup location or to above a hopper.%n%nFirst player to make a base running off of only cactus water gets a cape!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=§a§l무한물이 아냐!?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=항상 당연하다고 여겼던 무한물이 없습니다. 엄청난 문제죠. 하지만, 좋은 생각이 떠올랐습니다. 선인장을 조합대에 올려놓으면 선인장 주스가 나오며, 이 주스 8개와 양동이로 물 한 버킷을 얻을 수 있습니다. 멋지죠? 근데 선인장이 근처에 없나요? 그럼.. 이건 어떤가요. 아무거나 나무 10개를 준다면 선인장과 바꿔드리겠습니다.%n%n선인장 농장을 자동화하려면 선인장 옆에 실을, 실 위에 모래를 놓으세요. 이제 선인장이 자라면 자동으로 부서집니다! 이를 수평 및 수직으로 쌓아 보다 효율적인 선인장 농장을 만들 수 있습니다. 물을 사용하여 선인장을 편리한 수집 위치로 또는 호퍼 위로 보내세요.%n%n선인장 물만으로 기지를 운영하는 첫 번째 플레이어에게는 망토를 드립니다! 
 
 # Quest: Something to Carry Liquids
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.name=§a§lSomething to Carry Liquids
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.desc=You tried to move water with your bare hands, which didn't work at all. Luckily, you remember how to make a bucket out of clay dust.%n%nPut it in a mortar to get small clay dust which can be crafted to clay dust.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.name=§a§l액체를 운반하는 무언가
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.desc=맨손으로 물을 옮기려 했지만.. 그게 상식적으로 가능합니까..? 다행히 점토 가루로 양동이를 만드는 법을 알고 있었습니다.%n%n절구에 점토를 넣으면 작은 점토 가루를 만들 수 있고, 그 작은 점토 가루로 점토 가루를 만들 수 있습니다.
 
 # Quest: Getting (Char)coal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=§a§lGetting (Char)coal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=Now you can make the bricks for your first multiblock structure. 108 bricks to be exact. Good that you just collected a lot of resources! What a coincidence...%n%nThe bricks you'll need are somewhat special. Make sure to craft the correct ones. With that done, let's build a coke oven to get some charcoal or coal coke! It may be useful to note that the oven doesn't automatically output its fluid contents. Later you will unlock a special hatch to change that.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=§a§l(목)탄 얻기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=이제 첫 번째 멀티블록을 위한 벽돌을 만들 수 있습니다. 정확히는 108개의 벽돌이죠. 열심히 자원은 잘 모으셨나요? 그랬다면 쉽게 이 퀘스트를 깰 수 있습니다.%n%n오븐이 자동으로 오븐 속의 액체를 꺼내주지는 않는다는 점을 유의해주세요. 멀지 않은 미래에 특별한 해치로 해결할수 있을 겁니다.
 
 # Quest: Forming Press v0.1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=§a§lForming Press v0.1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=As you may have noticed, you cannot turn clay into bricks directly. Well, to be fair, it wasn't a good recipe anyway. You'll probably end up with something bread-shaped.%n%nIn order to make bricks, you need a form. Get yourself a knife by putting flint above a stick on the crafting grid. With a knife, you can cut a brick sized piece out and craft a blank pattern. It's as easy as that.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=§a§l성형 프레스 v0.1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=아마 눈치 챘겠지만, 점토를 벽돌로 바로 바꿀 수 없습니다. 솔직히 말해서 너무 현실성 없잖아요? 벽돌을 만들려면 뭔가 틀.. 같은게 필요할지도 모릅니다. %n%n벽돌을 만들기 위해서, 틀이 필요합니다. 조합창에 막대기 위에 부싯돌을 올려놔서 칼을 만드세요. 칼로 빈 패턴을 벽돌 크기로 자르세요. 아주 쉽습니다.
 
 # Quest: Finally, Some Powerful Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=§a§lFinally, Some Powerful Fuel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=Now that you have a coke oven, you can start producing charcoal. The more, the better. Creosote is produced at the same time, and the Coke Oven will stop when it's full of either one, which means you can't just leave the Creosote there. Refer to the Creosote quest from before to learn what to do with it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=§a§l마침내, 강력한 연료를 얻다
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=코크스 오븐이 생겼으니, 목탄 생산을 시작할 수 있습니다. 많으면 많을수록 좋습니다. 크레오소트도 동시에 생성됩니다. 코크스 오븐은 크레오소트나 아이템 슬롯, 두 가지 중 하나가 가득 차면 멈추므로, 크레오소트를 그냥 방치할 수는 없습니다. 크레오소트를 처리하는 방법은 크레오소트 퀘스트를 참조해주세요.
 
 # Quest: Copper Sky, Iron Curtain
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=§a§lCopper Sky, Iron Curtain
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=With your newly acquired fuel source, you are now ready to process more advanced materials than stone or clay; Iron or Copper, for example. Just in case you don't know, they spawn in rather large veins. Use the following quests to locate the most important veins.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=§a§l구리 하늘, 철 커텐
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=새로 획득한 연료를 사용하면, 이제 돌이나 점토보다 더 고급 재료인 철이나 구리와 같은 것들을 가공할 준비가 되었습니다. 설명을 드리자면, 이것들은 큰 광맥에서 생성됩니다. 가장 중요한 광맥을 찾기 위해 다음 퀘스트를 참조해주세요.
 
 # Quest: Another Fuel Source
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=§a§lAnother Fuel Source
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=Lignite and regular coal are the fuel sources you'll definitely need. The latter can be turned into coal coke, which is a superior fuel source to smelt your first large batch of ore.%n%nLignite you can toss in a boiler once you have one.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=§a§l또다른 연료 원천
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=갈탄과 일반 석탄은 꼭 필요한 연료원입니다. 후자는 코크스로 만들 수 있으며, 이는 광물을 제련하는 데 뛰어난 연료원입니다.%n%n갈탄은 보일러가 생긴다면 거기에 넣을 수도 있겠네요.
 
 # Quest: Copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.name=§a§lCopper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.desc=Copper ingots can be created by smelting copper, chalcopyrite, or malachite ore.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.name=§a§l구리
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.desc=구리 주괴는 구리, 황동석, 또는 공작석 광석을 제련하여 얻을 수 있습니다.
 
 # Quest: Tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=§a§lTin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=Tin ingots can be created by smelting Tin, Cassiterite, or Cassiterite Sand ore. Tin and Cassiterite ores are only found at high altitudes, but Cassiterite Sand ore is plentiful near the surface.%n%nIf you get lucky and find a high altitude Tin/Cassiterite vein, save one of the Cassiterite ore to find a Mica vein later on using the ore finder wand.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=§a§l주석
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=주석 주괴는 주석, 원주석, 또는 원주석 모래 광석을 제련하여 만들 수 있습니다. 주석과 원주석 광석은 높은 지형에서만 발견할 수 있지만, 원주석 모래 광석은 지표면 근처에서 풍부하게 발견됩니다.%n%n운이 좋아서 높은 지형에서 주석/원주석 광맥을 발견했다면, 나중에 오어 파인더 완드를 이용하여 운모 광석 맥을 찾을 수 있도록 원주석 광석 하나를 남겨 두세요.
 
 # Quest: Book Parts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.name=§a§lBook Parts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=After you found a way to move water around, you had another brilliant idea: Paper! Paper is no longer made with sugarcane, you'll need wood pulp instead. You'll need a lot of wood to craft wood pulp, so better grab your axe and go chop some trees.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.name=§a§l책의 부품
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=물을 옮기는 방법을 찾은 후, 또 다른 개쩌는 아이디어를 떠올렸습니다, 종이를 만들어보는건 어떨까?! 종이는 이제 사탕수수로 만들어지지 않고, 대신에 나무 펄프가 필요합니다. 나무 펄프를 만들기 위해선 많은 양의 나무가 필요하므로, 도끼를 들고 나무를 베러 가세요.
 
 # Quest: Tinker-Time
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=§a§lTinker-Time
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=While using your wooden tools is fun in terms of killing pigs and cows, they are not long-lasting and can't be repaired. Plus Infernals laugh at your attempts to kill them. You discovered how to craft tools that can be repaired and upgraded, but for that you definitely need a more advanced crafting technique.%n%n[note]If you don't have access to oak wood for creating your Part Builder, you can shapelessly craft yours into the oak variant for purposes of completing this quest[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=§a§lTinker-타임
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=돼지와 소를 죽이는 재미로는 부싯돌 도구가 재미 1티어지만, 고치지도 못하고 내구도도 약합니다. 게다가 인퍼널 몹들은 부싯돌 도구를 보고 비웃기까지 하네요... 여러분은 수리하고 업그레이드할 수 있는 도구를 만드는 방법을 발견했지만, 더 정교한 제작 기술이 필요합니다.%n%n[note]만약 참나무 외의 나무를 사용해 부품 조합대를 만들어야 한다면, 퀘스트를 완료하기 위해 조합창에 부품 조합대를 두면, 참나무 부품 조합대로 바꿔드립니다.[/note]
 
 # Quest: Making Bronze
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=§a§lMaking Bronze
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=Now that you've found copper and tin, you should make yourself some bronze. Use your macer... mortar to grind up some copper and tin ingots, and mix them together!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=§a§l청동 만들기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=이제 구리와 주석을 찾았으니, 청동을 만들어보세요. 분쇄기를 사용해ㅅ.... 가 아니라 절구를 사용해 주괴를 갈고, 그것들을 함께 섞어보세요!
 
 # Quest: Important Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=§a§lImportant Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=In order to craft even basic machines, you'll need new tools. Most of them can be replaced by machines later. For now, you should become familiar with each of their recipes, as you will need a lot of these tools, starting today.%n%nYour new tools can also be used to make Railcraft water tanks, a very useful multiblock considering the finite water feature.%n%nThere are also electric versions of the tools, you can upgrade later if you want. Also, there are many versions of the tools, they generally follow the same rules as tinkers parts in terms of how good they are, similarly to turbines. You can look at the spreadsheet for more info on GT tool stats.%n%nFor this quest, you can use whatever materials you want. The gem version of the saw is crafted differently to metal versions. Higher tier tools need steel or tungstensteel rods instead of sticks.%n%n[note]If you want to know the recipe for a tool using your specific material, be sure to take advantage of the magnifying glass icon at the top of the list of tools seen from viewing the recipe in NEI so you can search for the material easily. (Try it out using Iron for these quests!)[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=§a§l중요한 도구들
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=기초적인 기계를 제작하려면 새로운 도구들이 필요할 것입니다. 이들 대부분은 나중에 기계로 대체될 수 있습니다. 일단 오늘부터 이 도구들이 많이 필요하게 될 것이므로, 각 도구들의 조합법을 익혀두는 것이 좋습니다.%n%n새로운 도구들은 또한 Railcraft 물 탱크를 만드는 데에도 사용될 수 있는데, 이는 유한 물 요소를 고려해본다면 매우 유용한 멀티 블록입니다.%n%n또한, 이 도구들은 전기 버전도 있으므로, 원한다면 나중에 업그레이드할 수 있습니다. 도구 별로 많은 버전이 있으며, 얼마나 좋은 지에 대한 건 Tinkers 부품의 규칙과 같은 규칙을 따르며, 이는 터빈도 비슷합니다. 그레그테크 도구 통계에 대한 좀 더 자세한 정보를 원하면 스프레드시트를 확인할 수 있습니다.%n%n이 퀘스트에서는 어떤 재료든지 사용할 수 있습니다. 보석 재질의 톱은 금속 재질과는 다르게 제작됩니다. 상위 티어의 도구들은 막대 대신에 강철 또는 텅스텐 스틸 막대를 필요로 합니다.%n%n[note]특정 재료를 사용하는 도구의 레시피를 알고 싶다면 도구 목록 상단의 돋보기 아이콘을 활용하여 검색하세요. (이 퀘스트를 클리어하기 위해 철 도구를 검색해보세요!)[/note]
 
 # Quest: Getting Iron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=§a§lGetting Iron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=Iron can be found in multiple veins, and there are many types of ores that will smelt down into iron ingots such as magnetite, brown / yellow limonite, banded iron, roasted iron, and granitic / basaltic mineral sand.%n%n§lIron-Rich Veins:%n§rMagnetite veins (Y 60-180)%nChalcopyrite veins (Y 5-60) %nGold veins (Y 30-60)%nLimonite veins (Y 10-40)%n%n[note]You can use NEI to see information for all of the ore veins in the game![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=§a§l철 얻기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=철은 여러 광맥에서 발견되며, 자철석, 갈철석, 그리고 노란 갈철석, 호상철광석, 구운 철,  마지막으로 화강암/현무암질 광물 모래 모두 제련하면 철 주괴를 얻을 수 있습니다.%n%n§l철이 풍부한 광맥:%n§r자철석 광맥 (Y 60–180)%n황동석 광맥 (Y 5–60)%n금 광맥 (Y 30–60)%n갈철석 광맥 (Y 10–40)%n%n[note]NEI를 사용하면 게임에 등장하는 모든 광맥의 정보를 확인할 수 있습니다![/note]
 
 # Quest: Making Better Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=§a§lMaking Better Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=With zinc and copper, you can create a material with a higher melting temperature - Brass - which can be used to cast better tools.%n%nFor that, you need a smeltery. See the Multiblock Goals tab for details. You can also grab some extra blocks from some villages, but they don't count towards the quest.%n%nAlternatively, there are also one-time-use clay casts available.%n%nYou can then use your fancy bronze to make better tools with a higher mining level.%n%nRemember, you need to use the pickaxe a bit to gather mining XP if you want the full mining level on your bronze pickaxe. Certain tool upgrades can give that directly if you have an upgrade slot available.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=§a§l더 나은 도구 만들기
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=아연과 구리를 높은 온도에서 녹이면, 황동을 만들 수 있습니다. 황동은 더 좋은 도구를 주조하는 데에 사용될 수 있습니다.%n%n그러기 위해서는 용광로가 필요합니다. 자세한 사항은 멀티블록 목표 탭을 참조하세요. 몇몇 마을에서 용광로 관련 블록을 얻을 수도 있지만, 퀘스트에서는 "조합" 조건을 보기 때문에 퀘스트를 완료할 수 없습니다.%n%n또한, 일회성 점토 주형도 사용할 수 있습니다.%n%n청동을 사용하여 더 나은 도구를 만들면, 더 높은 마이닝 레벨을 가진 도구를 만들 수 있습니다.%n%n청동 곡괭이의 한계치의 마이닝 레벨을 원한다면, 마이닝 XP를 얻기 위해 조금은 곡괭이를 사용해야 합니다. 업그레이드 슬롯이 있다면, 특정 도구 업그레이드가 레벨을 단번에 올릴 수 있습니다.
 
 # Quest: You Shall Proceed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=§a§lYou Shall Proceed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=As you've gathered and crafted all materials and tools you need for your basic steam machinery, you may now proceed to the next tier. Keep in mind that you'll need mountains of resources in order to craft even the simplest things, so you probably should stock up on all ores in this tier. But that's up to you.%n%nAs a special reward, you get a pair of Holo Glasses to look inside your inventories. Place it into the mask slot, and use the keybind to turn it on.%n%n[note]Tip: If you double-click the NEI search field the resulting highlighted search also applies to what you can see with your Holo Glasses![/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=§a§l지나가도 좋다
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=기본 증기 기계 제작에 필요한 모든 재료와 도구를 수집하고 제작하셨다면, 이제 다음 단계로 진행하실 수 있습니다. 가장 간단한 물건을 제작하는 데에도 엄청난 양의 자원이 필요하다는 점을 기억해 주세요. 따라서 이 단계에서 모든 광물을 충분히 확보해 두는 것이 좋습니다. 하지만 이는 전적으로 당신의 선택에 달려 있습니다.%n%n특별 보상으로, 인벤토리 내부를 확인할 수 있는 홀로그램 안경을 드리겠습니다. 마스크 슬롯에 장착하고 키 바인딩을 사용하여 활성화하세요.%n%n[note]팁: NEI 검색창을 더블클릭하면 강조 표시된 검색 결과가 홀로그램 안경으로 볼 수 있게 됩니다![/note]
 
 # Quest: Don't Burn Your Fingers!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=§a§lDon't Burn Your Fingers!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=You have decided it's time to make some tasty pizza, but your fingers got burned badly. Reading an ancient cookbook you discovered a pair of magical items that would allow you to carry anything hot, even lava in a bucket.%n%n§5The gloves have to be placed in the Baubles ring slots. Order does not matter.%n%n§rFor the protection effect, the hot item has to be in your active slot. I wonder if there is some way to carry more than a few buckets at a time?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=§a§l손가락을 태우지 마세요!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=당신은 맛있는 피자를 만들기로 결정했지만, 당신의 손가락은 매우 심하게 화상을 입었습니다. 고대의 요리책을 읽은 당신은 뜨거운 것, 심지어 용암이 든 양동이까지도 들 수 있을 만한 마법의 아이템을 발견했습니다.%n%n§6§5장갑을 Baubles 반지 슬롯에 넣어야 합니다. 장갑의 순서는 중요하지 않습니다.%n%n§r화상을 입지 않으려면, 뜨거운 물건을 손에 꼭 들고 있어야 합니다. 한번에 양동이 여러 개를 들 만한 뭔가 다른 수는 없을려나요..?
 
 # Quest: Cow Tipper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=§a§lCow Tipper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=Before you had to kill some pigs and sheep to complete quests. Now it's time to kill some cows and hopefully get some leather. If you are lucky and get a cow trophy you may never need to kill another cow in the future.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=§a§l소 학살자
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=이전에는 퀘스트를 완료하기 위해 돼지와 양을 죽여야 했습니다. 이제는 소를 죽여 가죽을 얻을 차례입니다. 운이 좋다면 소 트로피를 얻게 되어 향후 다시는 소를 죽일 필요가 없을지도 모릅니다. 소 트로피는 일정 시간마다 우클릭하면 가죽 1개를 줍니다. 
 
 # Quest: Cotton, Cotton and More Cotton
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.name=§a§lCotton, Cotton and More Cotton
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=You've found out that cotton is very useful, it can be used to make string, wool, and some other useful items too. Make a small cotton plantation to get tons of it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.name=§a§l목화, 더 많은 목화, 매우 많은 목화
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=당신은 목화가 매우 유용하다는 것을 알게 되었습니다. 목화는 실, 양털, 그리고 다른 유용한 아이템들을 만드는 데 사용될 수 있습니다. 큰 목화밭을 가꾼다면 추후에 진짜로 큰 도움이 될겁니다.
 
 # Quest: Your First Tool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=§a§lYour First Tool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=When your tinkers tables are ready, you can craft your first §oreal§r tool. If you didn't find a village yet to grab some parts from the chest, you can only craft flint tools.%n%nLet's start with a pickaxe, an axe, and a shovel.%n%nKeep in mind that most of the original tool parts from Tinker's Construct are not shown in NEI. That doesn't mean that you can't craft them - use the tooltips on patterns and molds as guidance.%n%nYour new tools are weak at first, but the more you use them the better they will get. You get a modifier slot after some levels, needing more as you level it up. They will level up to level 99 if you play long enough, with 20 modifier slots. Tool parts can be replaced for a bit of level XP, however the tool must be fully repaired first.%n%nYou need to level up the mining level each time you replace the parts to unleash the full power of the pickaxe. Stone->Copper for this pickaxe. If you manage to get a Zombie, Skeleton, or Creeper head, you can use it to skip the level-up process. This doesn't use up a modifier level, but does change the look until you change the pickaxe part out.%n%nItem=Usable when mining level is X or less%nZombie=1%nSkeleton=2%nCreeper=4%nWither Skeleton=7%nNether Star=8%n%nYou could use a paper binding to add an extra modifier, but you will also get modifiers with tool levels.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=§a§l당신의 첫 도구
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=도구 조립대가 준비되면 §o진정한§r 첫 번째 도구를 제작할 수 있습니다. 아직 마을을 찾아서 상자에서 부품을 얻을 수 없다면, 부싯돌 도구만 제작할 수 있습니다.%n%n먼저 곡괭이, 도끼, 삽부터 시작해 보세요.%n%n팅커스 컨스트럭트의 원본 도구 부품 대부분은 NEI에 표시되지 않는다는 점을 기억하세요. 이것은 해당 도구를 제작할 수 없다는 의미는 아닙니다 - 문양과 주형의 툴팁을 참고하세요.%n%n새로운 도구는 처음에는 약하지만, 사용할수록 더 강해집니다. 일정 레벨에 도달하면 모디파이어 슬롯을 얻을 수 있으며, 레벨을 올릴수록 더 많은 슬롯이 필요합니다. 충분히 오래 플레이 하면 레벨 99까지 올라갈 수 있으며, 20개의 모디파이어 슬롯을 갖게 됩니다. 도구 부품을 교체하려면 일부 레벨 경험치가 필요하지만, 먼저 도구를 완전히 수리해야 합니다.%n%n부품을 교체할 때마다 채굴 레벨을 업그레이드해야 곡괭이의 완전한 힘을 발휘할 수 있습니다. 이 곡괭이의 경우 돌에서 구리로 업그레이드합니다. 좀비, 스켈레톤, 크리퍼 머리를 얻으면 레벨 업그레이드 과정을 건너뛸 수 있습니다. 이것은 모디파이어 레벨을 소모하지 않지만, 곡괭이 부품을 교체할 때까지 외관을 변경합니다. %n%n아이템=채굴 레벨이 X 이하일 때 사용 가능%n좀비=1%n스켈레톤=2%n크리퍼=4%n위더 스켈레톤=7%n네더 스타=8%n%n종이 묶음을 사용해 추가 모디파이어를 추가할 수 있지만, 도구 레벨업을 통해 모디파이어를 얻을 수도 있습니다.
 
 # Quest: Upgrade 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=§a§lUpgrade 2.0
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.desc=Find iron, copper and tin ore. Very funny... How can you mine these with just a flint pickaxe?%n%nI have an idea; bring me some of the stone you mined with your flint pickaxe and I will give you a better tool head in exchange.%n%nRemember to level it up again either with monster heads or by mining.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=§a§l업그레이드 2.0
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.desc=철, 구리, 주석 광석을 찾아봅시다. 정말 재밌겠네요... 근데 웃기게도 부싯돌 곡괭이로는 이걸 캘 수 없습니다.%n%n하나 제안을 하죠. 부싯돌 곡괭이로 캔 돌을 좀 가져오세요. 대신 부싯돌 보다 더 좋은 도구 머리를 드리죠.%n%n몬스터의 머리나 광질을 통해 다시 레벨업하는 것을 잊지 마세요.
 
 # Quest: Malachite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.name=§a§lMalachite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.desc=Another copper source is "malachite" which can be found between Y 10-40. This vein contains more iron ore variants like "brown limonite", "yellow limonite" and "banded iron ore".%n%nTo see where an ore can be found, click the raw ore in NEI, and it will show you more details. Works with small ores too.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.name=§2§l공작석
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.desc=또 다른 구리 원천인 "공작석"은 Y 10-40 사이에서 발견할 수 있습니다. 이 광맥에는 "갈색 갈철석", "노랑 갈철석", "호상철광석"과 같은 더 다양한 철 광석이 포함되어 있습니다.%n%n어떤 광석이 어디에서 찾을 수 있는지 알아보려면, NEI에서 광석을 클릭하시면 더 자세한 정보를 확인할 수 있습니다. 작은 광석들에 대해서도 이 기능이 적용됩니다.
 
 # Quest: Creosote
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.name=§a§lCreosote
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=I guess you already turned some wood into charcoal and wonder what to do with all this creosote? Well, you can burn it in a normal Furnace to cook your food or anything else, or you can make some torches with it. You can save up on the Coal variants, while at the same time keeping the Coke Oven running for the items you really need.%n%nYou can use an Iron or Clay Bucket to pick up the Creosote, either through the icon in the machine's interface, or by right-clicking the Coke Oven with an empty bucket in hand.%n%nYou will eventually want to automate Coke Ovens, and that's when you can use it to generate power. This is mostly LV content, but the singleblock option is the GT++ Semifluid Generator, whereas the multiblock option is the Railcraft Liquid Fueled Boiler. You'll unlock the quests for these when the time comes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.name=§a§l크레오소트
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=여러분들은 아마 나무를 목탄으로 만드는 과정에서 나오는 이 크레오소트를 어떻게 활용해야 할지 궁금해 할 것 같네요..크레오소트는 화로에서 음식이나 다른 것들을 굽는데 사용하거나 횃불를 만드는 데 사용할 수 있습니다. 석탄이나 목탄을 아이템을 굽는거에 낭비하지마세요!%n%n크레오소트는 철 혹은 점토 양동이를 이용해 코크스 오븐의 GUI 오른쪽에서 푸거나 양동이를 코크스 오븐에 우클릭을 해서 얻을 수 있습니다.%n%n또한, 코크스 오븐을 자동화하게 된다면, 크레오소트로 전기를 만드는 데에 활용할 수 있습니다. 전기를 만드는 것은 LV 티어부터 가능합니다. 싱글 블록 발전기로는 GT++의 반유동체 발전기, 멀티 블록 발전기로는 Railcraft의 액체 연료 보일러를 활용할 수 있습니다. 각각의 퀘스트는 그 때가 되면 열립니다.
 
 # Quest: Animal Farms
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.name=§a§lAnimal Farms
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=Trying to get some leather or wool? You'd probably need to spend a lot of time hunting animals and traveling around, or you could simply make a farm to get a decent amount of leather, wool, and meat close to home. Make sure you don't put too many animals in the pen or they will overcrowd and kill each other. This happens to villagers as well.%n%nAnimals will prioritize moving towards grass blocks over any other blocks, and if there's no grass blocks around, they prefer lit blocks over dark blocks. You can encourage animals to stay in pens, or at least not crowd the edges, by removing grass from around both sides of the fence and under it, and by placing a torch in the center of the pen. For sheep that need the grass to eat, which reduces time to mature and replaces sheared wool instantly, place it in the center of a cleared out area with a border of non-grass.%n%nAlso, large quantities can cause server lag, especially if they are bumping into each other a lot. So if you are in multiplayer, make sure you limit animals to no more than roughly one per block for small entities like chickens and one per two blocks for large entities like cows.%n%nAs an alternative, most animal and mob drops can be obtained from less laggy CropsNH farms.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.name=§a§l동물 농장
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=가죽이나 양털을 구하려고 하시나요? 아마 많은 시간을 동물들을 사냥하고 주변을 돌아다니는데 썼을겁니다. 이제는 간단하게 농장을 만들어 집 주변에서 상당량의 가죽, 털, 그리고 고기를 얻을 시간입니다. 동물들이 서로를 밀치면서 죽지 않도록 우리에 너무 많은 동물을 넣지 않도록 주의하세요. 이 사항은 마을 주민에게도 동일하게 적용됩니다.%n%n동물들은 다른 블록보다 풀 블록으로 이동하는 것을 우선시 하며, 주변에 풀 블록이 없을 경우에는 어두운 블록보다 밝은 블록에 가는 것을 선호합니다. 우리 주변과 아래의 풀을 제거하고, 우리 중앙에 횃불을 설치하여 동물들이 우리에 머무르도록 하거나 적어도 가장자리에 모이지 않게 할 수 있습니다. 양은 풀을 먹어야 하므로, 성장하는데 걸리는 시간을 줄이고 양털이 다시 자라게 할 수 있는, 풀이 없는 영역 중앙에 양을 놓는 것이 좋습니다.%n%n또한, 대량의 동물들은 서버의 지연을 초래할 수 있으며, 특히 서로 부딪히는 경우에는 더욱 그렇습니다. 그러므로 멀티 플레이에서는 닭 같은 작은 생물에 대해서는 블록당 대략 하나, 소와 같은 큰 생물에 대해서는 두 블록당 한 마리 정도로 동물을 제한하도록 확실히 해야 합니다.%n%n대안으로, 다수의 동물과 몹 드롭 아이템을 IC2 작물 농장에서 서버의 지연을 덜하면서 획득할 수 있습니다.
 
 # Quest: Gardener
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.name=§a§lGardener
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.name=§a§l정원사
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.desc=If you were wondering: Why do I never get seeds when destroying grass? Because.%n%nUse your new mattock on the grass blocks that do not have water anywhere nearby to find some seeds.
 
 # Quest: You Need MOOOOOOORE Wood
@@ -353,7 +357,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADsw.desc=An early game protection moat c
 
 # Quest: Redstone? Haste!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaQ.name=§a§lRedstone? Haste!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaQ.desc=Mining and digging can be soooo slow. Get some redstone on your pick, shovel or axe to make it faster. You can use the Crafting Station to upgrade your tool 8 dust at a time. Later when you get a compressor you can use blocks to do 9 per block.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEaQ.desc=Mining and digging can be soooo slow. Get some redstone on your pick, shovel, or axe to make it faster. You can use a Tool Station or a Crafting Station to upgrade your tools.
 
 # Quest: Divine Rod of the Gods?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4A.name=§a§lDivine Rod of the Gods?
@@ -1808,7 +1812,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAG0A.desc=More advanced recipes need an M
 
 # Quest: Fish Oil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCA.name=§6§lFish Oil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCA.desc=Got Fish?%n%n[note]There are rumors of a weird crop in the shape of a fish...%n%nOtherwise look under Fishing Farming Cooking tab for fish catching options.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCA.desc=Got Fish?%n%n[note]There are rumors of a weird crop in the shape of a fish...%n%nOtherwise, look under the Feeding Yourself tab for fish catching options.[/note]
 
 # Quest: Press All the Things in MV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAGCw.name=§6§lPress All the Things in MV
@@ -2767,7 +2771,7 @@ betterquesting.quest.6ENNFc4RS3u2sQFL5fnz1A.desc=Oh look, the latest and greates
 
 # Quest: Tier 5 (IV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=§9§lTier 5 (IV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=IV-Level. You will need Tungstensteel for machines. Suggested planets and moons to visit: Mars, Phobos, Deimos.%n%nMake sure to get a set of TPV coils for your EBF.%n%nYou should've learned "how to GregTech" by now. If not, go clean up the machine craters in your base...%n%nMany multiblock machines unlock at this tier. Make sure you have an Alloy Blast Smelter ready to go and check the Multiblock Madness tab.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=IV-Level. You will need Tungstensteel for machines. Suggested planets and moons to visit: Mars, Phobos, Deimos.%n%nMake sure to get a set of TPV coils for your EBF.%n%nYou should've learned "how to GregTech" by now. If not, go clean up the machine craters in your base...%n%nMany multiblock machines unlock at this tier. Make sure you have an Alloy Blast Smelter ready to go and check the Mass Processing tab.
 
 # Quest: On Your Way to Asteroids and Other Rocket Tier 3 DIMs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=§9§lOn Your Way to Asteroids and Other Rocket Tier 3 DIMs
@@ -4621,7 +4625,7 @@ betterquesting.quest.Qjg1J4kuS-6937dCEUqHUw.desc=As additional rings are placed 
 
 # Quest: Magnetic Monopole Matter
 betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.name=§c§l§nMagnetic Monopole Matter
-betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=With total mastery of the Forge of the Gods achieved, it is possible to begin a new universe-spanning initiative. It is now possible to quantize and extract graviton shards for use outside the Forge in powerful new technological endeavors; produce the most exotic plasmas beyond merely periodic elements; and most importantly, begin to understand the immense power of magmatter, a form of matter made entirely of magnetic monopoles with density and stability billions of times that of conventional bosonic matter. It is with this development you realize that the completion of the Forge was not the end goal, but merely a stepping stone to universal transcendence.%n%n[note]Required for UXV components, Magmatter is the second material the Heliofusion Exoticizer can create, and will require a second module. Read the Godforge Information in the UI for more information on how to automate this.[/note]%n%n[note]The creation of Magmatter requires the END upgrade.[/note]%n%n[note]Congrats! You can now move on to the UXV tier![/note]
+betterquesting.quest.U7Ta5d7PSii76sbIPbltlw.desc=With total mastery of the Forge of the Gods achieved, it is possible to begin a new universe-spanning initiative. It is now possible to quantize and extract graviton shards for use outside the Forge in powerful new technological endeavors; produce the most exotic plasmas beyond merely periodic elements; and most importantly, begin to understand the immense power of magmatter, a form of matter made entirely of magnetic monopoles with density and stability billions of times that of conventional bosonic matter. It is with this development you realize that the completion of the Forge was not the end goal, but merely a stepping stone to universal transcendence.%n%n[note]Required for UXV components, Magmatter is the second material the Heliofusion Exoticizer can create, and will require a second module. Read the Godforge Information in the UI for more information on how to automate this.[/note]%n%n[note]The creation of Magmatter requires the EE upgrade.[/note]%n%n[note]Congrats! You can now move on to the UXV tier![/note]
 
 # Quest: Convergence
 betterquesting.quest.XoEzTtuPQjyeHTyqp9eY8Q.name=§c§l§nConvergence
@@ -4793,7 +4797,7 @@ betterquesting.quest.Uj0PvsNCQw-aWaEOvlFpow.desc=At last... salvation from the e
 
 # Quest: Rule of Threes
 betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.name=§4§l§nRule of Threes
-betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.desc=The final external structural upgrade to the Forge requires the most advanced understanding of graviton shards and their applications in extreme environments. With this, the last 4 module slots of the Forge of the Gods are available to construct, ascending your operation to unseen heights of technological mastery.%n%n[note]Adding a third and final ring to your Godforge allows for 4 additional modules, as well as allowing you to pick all three paths in the split paths part of the upgrade tree, allowing for a fully upgraded Godforge.[/note]%n%n[note]Usage of a third ring requires the EE upgrade.[/note]
+betterquesting.quest.bHFEDKAiTwGxaiyZEsmdjg.desc=The final external structural upgrade to the Forge requires the most advanced understanding of graviton shards and their applications in extreme environments. With this, the last 4 module slots of the Forge of the Gods are available to construct, ascending your operation to unseen heights of technological mastery.%n%n[note]Adding a third and final ring to your Godforge allows for 4 additional modules, as well as allowing you to pick all three paths in the split paths part of the upgrade tree, allowing for a fully upgraded Godforge.[/note]%n%n[note]Usage of a third ring requires the END upgrade.[/note]
 
 # Quest: Simulating a Solar System
 betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.name=§4§l§nSimulating a Solar System
@@ -5919,6 +5923,10 @@ betterquesting.quest.vv296Z3mSUqkQEaiJqQcOw.desc=The Electric Jetpack may be use
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=...Without Dying
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=In order to not die constantly, you'll need weapons and armor. There's also utility stuff adventure backpacks and static defenses for your base.
 
+# Quest: More Augmentation
+betterquesting.quest.3Hob-CoJQ-CK3jmp4EHyqQ.name=More Augmentation
+betterquesting.quest.3Hob-CoJQ-CK3jmp4EHyqQ.desc=A new energy core means more powerful augments. This quest lists all Tier 2 augments.%n%nSome standouts:%n%n-Milk Infusion (§dUtility§r, Helmet): Constantly clear negative status effects.%n-Astronaut's Equipment (§6Protection§r, Any): Gain space suit capability.%n-Adaptive Jetpack Stabilizers (§aMovement§r, Chestplate): Allow your jetpack to hover perfectly without descending.
+
 # Quest: Protect Your Base: Tier 4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=§a§lProtect Your Base: Tier 4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=The small parts for the powerful turrets.
@@ -6101,7 +6109,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAD5Q.desc=Your Dark Steel armor can be up
 
 # Quest: Carbon Parts
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.name=Carbon Parts
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=These are the first parts you will need for your beloved nano armor.%n%n[note]To actually complete the nano armor you will need EV circuits and nano crystals (see Storing and Transforming EU).[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBw.desc=These are the first parts you will need for your beloved nano armor.%n%n[note]To actually complete the nano armor, you will need EV circuits and nano crystals (see Storing and Transforming EU).[/note]%n%n[warn]IC2 is slowly being removed from the modpack! Check out the nearby quest "Modular Meddling" for the replacement.[/warn]
 
 # Quest: Seeing Things Brighter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCA.name=Seeing Things Brighter
@@ -6259,9 +6267,41 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAw.desc=Why use plates when you can mak
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.name=Quantum Chestplate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMRw.desc=QuantumSuit Bodyarmor allows for flight just like its predecessor, but when you hold shift+space instead of going down you will go slightly up.%nThe next tier - GraviChestPlate - will get rid of this problem altogether.
 
+# Quest: Supreme Mechanical Armor
+betterquesting.quest.BFkQt-DcRhmReOUsVWtrqA.name=Supreme Mechanical Armor
+betterquesting.quest.BFkQt-DcRhmReOUsVWtrqA.desc=At ZPM, you've almost reached the peak of personal defense technology. New augments await!%n%nThe living energy core will allow your armor to charge at ZPM voltage and equip tier 3 augments.%n%nThe frames in this tier provide 7 augment slots. Pushing the limits of modularity, every frame now has at least one prismatic slot.
+
+# Quest: Modular Meddling
+betterquesting.quest.CQnbvvAiRY2e7CsShsCe1A.name=Modular Meddling
+betterquesting.quest.CQnbvvAiRY2e7CsShsCe1A.desc=Interested in powerful, customizable armor that you can modify as you advance? Look no further than §6§r§l&z&zMechanical Armor§r!%n%nIn order to begin tinkering, you'll need a workspace for modifying modular equipment along with a set of Mechanical Armor. The armor is essentially useless on its own, but gains additional features through modification. Each piece of armor is composed of three parts:%n%n§nAugments: §rAugments add a wide variety of useful features to the armor. Augments are categorized into one of three types: §6Protection§r, §aMovement§r, and §dUtility§r. Augments can only be inserted into slots corresponding to their category.%n%n§nFrames:§r The armor's frame determines the protection value of the armor along with how many slots it contains for augments.%n%n§nEnergy Cores:§r The energy core determines how much energy the armor stores, its charging tier, and which augments can be equipped.
+
+# Quest: Even More Augmentation
+betterquesting.quest.HrZv5S5MRLS38lNV93yEnQ.name=Even More Augmentation
+betterquesting.quest.HrZv5S5MRLS38lNV93yEnQ.desc=There are currently only three new augments available in Tier 3, but they are very powerful.%n%n-Energy Grid Defense (§6Protection§r, Chestplate): Gain a forcefield that can completely block most damage at the cost of a huge amount of EU.%n-Gravitational Control Module (§aMovement§r, Chestplate): Creative flight.%n-Inertial Dampeners (§aMovement§r, Chestplate): Enable inertia canceling, allowing you to stop instantly while flying.
+
+# Quest: Basic Mechanical Armor
+betterquesting.quest.Ta-VKcQFSpejtRIkB650qg.name=Basic Mechanical Armor
+betterquesting.quest.Ta-VKcQFSpejtRIkB650qg.desc=To turn your mechanical exoskeleton from a hunk of useless metal into a power suit, you'll need a core and a frame.%n%nThe basic energy core will allow your armor to charge at HV voltage and equip tier 1 augments.%n%nThe first three frames all give 3 augment slots spread among the categories. Choose based on what augments you need to equip!
+
+# Quest: Perfected Energy Core
+betterquesting.quest.YXYbS-DuTuK7ISAjGV874A.name=Perfected Energy Core
+betterquesting.quest.YXYbS-DuTuK7ISAjGV874A.desc=Sick of your Mechanical Armor running out of batteries? Try strapping a miniaturized singularity to your chest! It's entirely safe.%n%nThis final energy core will provide infinite energy to the Mechanical Armor and allow any augment to be equipped.
+
+# Quest: Augmentation
+betterquesting.quest.hwvNowyHS7WJOK4xDcUw0A.name=Augmentation
+betterquesting.quest.hwvNowyHS7WJOK4xDcUw0A.desc=Now that you have a frame and a core, you can get to work adding new features to your Mechanical Armor. This quest lists all Tier 1 augments.%n%nSome standouts:%n%n-Optical Brightness Adjuster (§dUtility§r, Helmet): Enable toggleable night vision.%n-Protective Lining (§6Protection§r, Any): Gain full hazmat protection.%n-Electric Jetpack (§aMovement§r, Chestplate): Jetpack!
+
 # Quest: Mob Repellators
 betterquesting.quest.tgH86mIERWKIh8OAleKrSw.name=Mob Repellators
 betterquesting.quest.tgH86mIERWKIh8OAleKrSw.desc=First available in LV, the Mob Repellator prevents mobs from spawning in its radius. It works without power, but with it has a higher range.%n%n[note]You only need one to complete the quest.[/note]
+
+# Quest: Advanced Mechanical Armor
+betterquesting.quest.z7sXK-B1SSyRD9ukAs1JEw.name=Advanced Mechanical Armor
+betterquesting.quest.z7sXK-B1SSyRD9ukAs1JEw.desc=Now that you're in IV, you can unlock the next set of upgrades for Mechanical Armor, gaining more slots and new augments.%n%nThe quantum energy core will allow your armor to charge at IV voltage and equip tier 2 augments.%n%nThe frames in this tier provide 5 augment slots. The adaptive frame uniquely has a §6Pri§asma§dtic§r slot that will accept an augment of any category!
+
+# Quest: Perfected Armor Frame
+betterquesting.quest.zWyFqJfWTGKjw63-EG7DDw.name=Perfected Armor Frame
+betterquesting.quest.zWyFqJfWTGKjw63-EG7DDw.desc=Tired of being constrained by augment slots? The constantly shifting properties of Infinity make it an ideal material for a modular frame.%n%nThis final frame provides 5 slots of every category, including prismatic.
 
 
 ## Quest Line: Building Better Bases
@@ -7371,6 +7411,10 @@ betterquesting.quest.3SzKMSj0StOAOzVmInDjZQ.desc=Start your own local brewery wi
 betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.name=§9§lThis Kinda Burns...
 betterquesting.quest.4-HZ9i5AQ4qLN7cgSDaL3Q.desc=The §5§lIndustrial Chemical Bath§r will significantly increase the efficiency of your ore processing. It grants a §2§l5x§r speed boost and §6§l4§r parallels per voltage tier compared to its singleblock counterpart.
 
+# Quest: Mass Processing at UV and Beyond!
+betterquesting.quest.5L2m9tcsRgyf9aCp10E0eg.name=§2§l§nMass Processing at UV and Beyond!
+betterquesting.quest.5L2m9tcsRgyf9aCp10E0eg.desc=Now that you've reached UV, you're going to start unlocking some extremely powerful processing multis. You'll want to create them as soon as possible because things are about to start getting very expensive...
+
 # Quest: Fits The Mold
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.name=§9§lFits The Mold
 betterquesting.quest.6glle46JSyuwR6O4x7mLYA.desc=Making machines for every mold sounds tiring... fortunately, the Mass Solidifier multiblock can handle any number of molds by using §lSolidifier Hatches§r.%n%n[note]The Mass Solidifier also speeds up as it is running, making it more efficient to do large batches.[/note]
@@ -7456,12 +7500,12 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9w.name=§9§lBezos Would Be Proud
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH9w.desc=The §5§lAmazon Warehousing Depot§r is the ultimate multiblock for all your packing needs. Got tiny and small dusts coming out of your ears? This is the machine for you.%n%nThe AWD offers a very generous §6§l16§r parallels per voltage tier, as well as a §2§l2-8x§r speed bonus (depending on item pipe casing tier) and a §3§l25%%§r EU discount on all recipes.%n%n[note]Glass tier is irrelevant; use what works best for you![/note]
 
 # Quest: Mega is Betta
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_A.name=§6§lMega is Betta
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_A.desc=For someone who needs to blast a truly §lridiculous§r amount of stuff, the §5§lExothermic Hearth§r is the machine for you. This monster machine can handle up to §6§l256§r parallel recipes at a time.%n%nThe glass tier limits the energy hatch tier that you can use. You can even use multiamp hatches from TecTech! If you want to use laser hatches, however, you need at least §2§nUV§r glass.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_A.name=§b§lMega is Betta
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_A.desc=For someone who needs to blast a truly §lridiculous§r amount of stuff, the §5§lExothermic Hearth§r is the machine for you. This monster machine can handle up to §6§l256§r parallel recipes at a time.%n%nIf allowed to heat up fully, the machine will run with §6§l2x§r as many parallels (though that takes around 30 minutes). You can optionally provide it §c§l250L/s§r of Pyrotheum to speed up this process by §2§l6x§r.%n%nThe glass tier limits the energy hatch tier that you can use. You can even use multiamp hatches from TecTech! If you want to use laser hatches, however, you need at least §2§nUV§r glass.
 
 # Quest: Frostbite!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_Q.name=§6§lFrostbite!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_Q.desc=The §5§lEndothermic Fridge§r can process up to §6§l256§r parallels!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_Q.name=§b§lFrostbite!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH_Q.desc=The §5§lEndothermic Fridge§r can process up to §6§l256§r parallels! You can also optionally provide §9§l250L/s§r of Cryotheum to the machine to give it a §2§l5x§r speed boost.%n%n[note]Eventually, you will be able to upgrade this to its T2 variant.[/note]
 
 # Quest: Empty The Oceans
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIBQ.name=§9§lEmpty The Oceans
@@ -7472,8 +7516,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAIBg.name=§b§lPutting All Those Workers
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAIBg.desc=The large scale auto-assembler will put things together for you, in volume. This multi is available in ZPM.%n%n[note]While it unlocks much later, has much fewer parallels, and has no TT energy hatch support in contrast to the Precise Assembler, it has one upside: If you use two energy hatches you can craft items of the next tier.[/note]
 
 # Quest: Tower of Babylon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJEA.name=§6§lTower of Babylon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAJEA.desc=Well what might happen if you combine 64 Distillation Towers in one...? You know... you get a 61 Block tall Multiblock.%n%nThis can handle up to 256 Recipes at once.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJEA.name=§d§lTower of Babylon
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAJEA.desc=Well what might happen if you combine 64 Distillation Towers in one...? You know... you get a 61 Block tall Multiblock.%n%nThis can handle up to §6§l256§r Recipes at once and provides a different set of bonuses depending on which distillation mode is active.
 
 # Quest: Circuit Assembly Line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKKQ.name=§d§lCircuit Assembly Line
@@ -7496,16 +7540,16 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKzA.name=§c§lSteamy Mincer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKzA.desc=This is an upgraded version of your trusty ol' Steam Macerator. As a 3x3 Multiblock, it might seem expensive if you're in the Steam Age. However, the processing time per ore is so low that you can sustain your beginner's ore processing system with it!%n%nThe main reason to switch from this is the HV Macerator, which unlocks a slot for additional byproducts gained from the macerating step of ore processing. The Steam Grinder, in comparison, will only return the first item shown in the recipe output. However, this will do just fine until HV!%n%n§3The Steam Grinder can only process recipes up to LV Tier.
 
 # Quest: MABS
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1Q.name=§6§lMABS
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1Q.name=§2§l§nMABS
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAM1Q.desc=This unholy union between Mega and GT++ must be the work of some madman. It is the ultimate metallurgical furnace to make your alloys with up to 256 parallels. Using better coils and glass also boosts its speed and reduces energy costs!%n%nThe glass tier limits both the energy hatch tier and the recipe tier. As with other multis, UEV glass unlocks all tiers and UV glass is needed for lasers.%n%nGlass tiers gate recipe tiers, for example UHV recipes need UHV glass.
 
 # Quest: Another Chemical Multiblock?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMig.name=§6§lAnother Chemical Multiblock?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMig.name=§d§lAnother Chemical Multiblock?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMig.desc=You probably have built a lot of Large Chemical Reactors by now. With the powerful 4/4 overclocking it is one of the strongest multiblocks there is. But what if even that is not enough to satisfy your chemical needs? You can't make it faster after using your best energy hatches available.%n%nFear not, we have a solution for you: The Mega Chemical Reactor. It lets you do 256 parallels for your LCR recipes! And you can still overclock after that if you provide enough power.%n%nIt only unlocks in LuV as it needs 7 Fusion Coil Blocks. Check with your hologram projector to see how it is built and what you need.%n%nThe glass tier limits the energy hatch tier that you can use. You can even use multiamp hatches from TecTech! If you want to use laser hatches however you need at least UV glass.
 
-# Quest: Mass Processing in LuV and Beyond
-betterquesting.quest.ECDllKcSQ4SONHHfkfO0yw.name=§d§lMass Processing in LuV and Beyond
-betterquesting.quest.ECDllKcSQ4SONHHfkfO0yw.desc=As you enter LuV and beyond, fewer mass processing multiblocks are available as you replace old setups with new systems and scale up the multiblocks you've already built - there are still some important upgrades in these higher tiers, though.%n%nDefinitely don't miss out on the Circuit Assembly Line or you'll be kicking yourself later.%n%nBe a true GT engineer and finish out your collection!
+# Quest: Mass Processing in LuV
+betterquesting.quest.ECDllKcSQ4SONHHfkfO0yw.name=§d§lMass Processing in LuV
+betterquesting.quest.ECDllKcSQ4SONHHfkfO0yw.desc=As you enter LuV, fewer mass processing multiblocks are available as you replace old setups with new systems and scale up the multiblocks you've already built - there are still some important upgrades in these higher tiers, though.%n%nDefinitely don't miss out on the Circuit Assembly Line or you'll be kicking yourself later.
 
 # Quest: Clean Implosions?!
 betterquesting.quest.IlCOpa8bR9WbOjSOPxZIlA.name=§4§l§nClean Implosions?!
@@ -7555,6 +7599,10 @@ betterquesting.quest.ZIotzqvnRiKu1_1Hb9i1dg.desc=This is the advanced assembly l
 betterquesting.quest._dFgSThoQTWgM696ykr2Gw.name=§d§lAdvanced Autoclaving
 betterquesting.quest._dFgSThoQTWgM696ykr2Gw.desc=In LuV, you can make the Industrial Autoclave. This is a huge multiblock with many scaling factors - it is also extremely powerful. You'll definitely want to pick one of these up to process crystal chips quickly for the crystal circuit line.%n%n[note]Coils, pipe casings, and item pipe casings are all extremely important to this multi's scaling. Use the best ones you have![/note]
 
+# Quest: Megalomania
+betterquesting.quest.a6S75xGeQ4uu1qR1deuOfQ.name=§b§lMegalomania
+betterquesting.quest.a6S75xGeQ4uu1qR1deuOfQ.desc=In ZPM, you now have the ability to construct very powerful mega machines. These absolute titans will boost your production to levels never-before-seen, at a price.%n%n[note]To get real benefit from these multis, you will want to use lots of power and take advantage of their extreme parallelization.[/note]
+
 # Quest: ...With The Power of Science!
 betterquesting.quest.bLAFkZX-RHGRFAz-C93aeQ.name=§b§l...With The Power of Science!
 betterquesting.quest.bLAFkZX-RHGRFAz-C93aeQ.desc=This multiblock will allow you to use all that UU-Matter that your Matter Fabricator makes, not that you don't have anything else to do with it...%n%n[note]This multi is traditionally UV, but can technically be made in ZPM.[/note]
@@ -7565,7 +7613,7 @@ betterquesting.quest.bkEol9zuRiiCMwMUopFHhg.desc=When you need to polarize magne
 
 # Quest: Cracking the World
 betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.name=§6§lCracking the World
-betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.desc=How much oil do you need? Or maybe it's Naquadah Fuel you're after, or Radox... either way, this massive structure can handle it, boasting 256 parallels.
+betterquesting.quest.d5Fxz8ClQQCXy9GN_m9BrA.desc=How much oil do you need? Maybe you're after Naquadah Fuel or Radox. Either way, this massive structure can handle it, boasting §6§l256§r parallels.
 
 # Quest: An End To Deforestation
 betterquesting.quest.fLH_QDPRR6mgCK0PL5iWmA.name=§9§lAn End To Deforestation
@@ -7606,10 +7654,6 @@ betterquesting.quest.uP_FwHb_QTyAPaoZ80u74A.desc=Sick of having to swap out lens
 # Quest: Extreme Voltage Multiblocks
 betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.name=§8§lExtreme Voltage Multiblocks
 betterquesting.quest.w5O5rPL_Q_GDp8lxWMd0DQ.desc=You might already have a Steam Multiblock or the Large Sifter. But in EV, IV, and the following tiers you unlock multiblocks for (almost) every GT machine. And some more on top of that!%n%nMost of them are made to do the same GT processing as the singleblock machines you've been using, but much faster. The multis can have up to three bonuses: energy savings, faster recipe time and parallels, which mean that a single recipe cycle can craft multiple items at once, if the power provided is enough to sustain it.%n%nThe variety of structures and intricacies of these new multis can go far beyond simpler multis like the EBF, LCR or VF. While some are simple cuboids, others come with more diverse mechanics and conditions to work properly. In return, they can be extremely powerful, so keep an eye out for them!
-
-# Quest: Megalomania
-betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.name=§6§lMegalomania
-betterquesting.quest.wGINqtSuSQKLI_Yk7hAdcA.desc=In HV, you now technically have the ability to construct Megas for some machines. These absolute titans will boost your production to levels never-before-seen, at a price. These multiblocks have two major benefits:%n-They innately have 256 parallels.%n-They can use TecTech exotic hatches, allowing you to empty out tremendous amounts of power into them.%n%n[note]To get real benefit from these multis, you will want to use lots of power and take advantage of their extreme parallelization.[/note]
 
 # Quest: Pressure Washing!
 betterquesting.quest.zorY0c3BQuqLJp7ThOLG-g.name=§c§lPressure Washing!
@@ -10659,11 +10703,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKww.desc=This is the main purpose of AE2
 
 # Quest: Applied Greg?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.name=Applied Greg?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=ME Buses are combination of technology and...other technology. Don't give me that look, it is, OK? With these, you can now directly I/O items between GregTech multiblock and ME network. They have §osignificantly§r less lag, so please start using them as soon as possible on servers.%n%nYou just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.%n%nThe output bus and hatch have limited output space. If you need more, you can upgrade them either by crafting them with storage components or putting a cell inside. A digital singularity cell will make the cache near infinite.%n%nNote that the output bus must eject each item from its cache §oin order§r. If it cannot eject the topmost item, it will be stuck and cannot eject any other items.%n%nIf voiding is turned off, the multiblock will not void when the ME Outputs are full.%n%n[note]For usage in some machines, i.e. the advanced assembly line, the configured item must be in the first slot in order for the multi to work.[/note]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALPQ.desc=ME Buses are combination of technology and...other technology. Don't give me that look, it is, OK? With these, you can now directly I/O items between GregTech multiblock and ME network. They have §osignificantly§r less lag, so please start using them as soon as possible on servers.%n%nYou just pop off your GT bus + ME bus or ME interface combination, and replace both with the new bus and connect a ME cable directly to it. It uses 1 channel, same as the other options.%n%nThe output bus and hatch have limited output space. If you need more, you can upgrade them either by crafting them with storage components or putting a cell inside. A digital singularity cell will make the cache near infinite.%n%nNote that the output bus must eject each item from its cache §oin order§r. If it cannot eject the topmost item, it will be stuck and cannot eject any other items.%n%nIf voiding is turned off, the multiblock will not void when the ME Outputs are full.%n%nInside of the ME Output bus you have the option to enable §2Cache Mode§r which will fill the storage cell rather than sending the items to the ME network. §9Checking Mode§r will verify the inserted storage cell can accept the output before the machine starts.%n%n[note]For usage in some machines, i.e. the advanced assembly line, the configured item must be in the first slot in order for the multi to work.[/note]
 
 # Quest: Starting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.name=Starting Your AE2 Journey
 betterquesting.quest.BKJ_IdnHR6ideLC6NnyyPg.desc=§nApplied Energistics 2 is an integral part of GTNH gameplay. %n§r%nAE2 is the primary networking and logistics management mod in GTNH for Items, Fluids, and Crafting. You will use it starting from EV and onward for most automations you perform. Given the sheer density of this modpack there are a variety of unique tools and features added specifically to aid in your adventure. Most of these tools are covered in this quest tab.%n%nThere is a lot to learn, but don't feel overburdened! Your abilities will continue to grow the more time you spend with it. There are a wide variety of helpful resources to take advantage of in addition to this book when it comes to learning:%n%n§21. The Wiki: §r[url]https://wiki.gtnewhorizons.com/wiki/Applied_Energistics_2[/url]%n%n- The Wiki has a lot of great starter information on what various systems do. They also have a lot of machine specific automation tutorials so be sure to check the Wiki if you're struggling or want a point of reference.%n%n§22. The Discord: §r[url]https://discord.gg/gtnh[/url]%n%n- The Discord is full of experienced AE2ers', check out #ae2-help to find plenty of people who will take time to help you figure something out.%n%n§23. Video Tutorials: §r[url]https://www.youtube.com/watch?v=LUYVmIAEC-I[/url]%n%n- There are a lot of great GTNH content creators who make high quality video tutorials for this. Here is a link to AE2 Fundamentals by IX. There's an advanced version as well.
+
+# Quest: Co-Processing x256
+betterquesting.quest.CpZ8AYZzT5uEPFIOJQJELg.name=Co-Processing x256
+betterquesting.quest.CpZ8AYZzT5uEPFIOJQJELg.desc=These are starting to get a little pricey...
 
 # Quest: 4096k Essentia Storage Cell
 betterquesting.quest.G5g_5_24RS6sqhmjFEbf8A.name=4096k Essentia Storage Cell
@@ -10713,6 +10761,10 @@ betterquesting.quest.SDGKHP7fQx-c3gUBv4DwuQ.desc=Ever wanted to order 10 million
 betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.name=Cards for AE2 Nerds!
 betterquesting.quest.TP2PEGHQRnGKgKYFziEjrg.desc=[quest]Equal Distribution, Fake Crafting, Locking, and Advanced Blocking Cards![/quest]%n%n§6Equal Distribution Card:§r%n%nThe Equal Distribution Card will evenly divide a cell's capacity between types or partitions.%n%n§6Fake Crafting Card:§r %n%nThe Fake Crafting Card will tell your ME System to complete a craft without expecting the final resulting item. %n%nThis can be handy for creating fake patterns for entire multiblocks or setups by collecting the individual items needed in one craft.%n%nThe card can only be inserted into:%n%n§cME Dual Interface%nME Interface%nP2P Tunnel - ME Dual Interface§r %n%n§6Locking Card:§r %n%nThe Locking Card allows an interface to optionally block new crafts from being started for one of the following conditions:%n%n§cWhile Redstone is low%nWhile Redstone is high%nAfter a craft has been pushed, until a redstone pulse is received%nAfter a craft has been pushed, until the results have returned to the same interface§r%n%n§6Advanced Blocking Card:§r%n%nThe Advanced Blocking Card is able to ignore non-consumables in a subnet for more complicated automations. %n%nIn a standard subnet, where two interfaces are facing each other, the Advanced Blocking Card is to be §9placed on the §lsubnet interface.§f
 
+# Quest: Co-Processing x1024
+betterquesting.quest.W4TwVdR1RIqmcYrC2eD2Fg.name=Co-Processing x1024
+betterquesting.quest.W4TwVdR1RIqmcYrC2eD2Fg.desc=No Description
+
 # Quest: 256k Essentia Component
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.name=256k Essentia Component
 betterquesting.quest.Wh0yn2MOQhS-X_8NiPiZJw.desc=Same as 1k.
@@ -10749,6 +10801,10 @@ betterquesting.quest.krGyRorETXqDuJdbU3K5tA.desc=[warn]Caution! Use with utmost 
 betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.name=Block Container
 betterquesting.quest.lLjNj5KXT2WLn_r7E_Ctsw.desc=Block Container Cells are a special variant of cell. They are unique because, despite using a 1k storage component, each one can hold up to 520k items rather than just 8.13k!%n%nOf course, all of that power comes with the limitation that they can only store one type of item, so they aren’t quite as flexible. They are great for bulk storage or for scenarios where you might want only one item per drive- Assembly Line automation for example.
 
+# Quest: Co-Processing x64
+betterquesting.quest.mfxi51PzS32KbV7utFWqxg.name=Co-Processing x64
+betterquesting.quest.mfxi51PzS32KbV7utFWqxg.desc=It gets even more compact??
+
 # Quest: ...with Fluid Support!
 betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.name=§6§l...with Fluid Support!
 betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.desc=Now with fluid support!
@@ -10784,6 +10840,10 @@ betterquesting.quest.tM8pT_W3RCqZNDAovERxFg.desc=The Wireless Connector also has
 # Quest: 1024k Essentia Storage Cell
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.name=1024k Essentia Storage Cell
 betterquesting.quest.tUJaqz9uSwajByFi4gNHzQ.desc=These hold 2,097,152 units of essentia.%n%nAnd can hold 36 types.
+
+# Quest: Co-Processing x4096
+betterquesting.quest.ugaI2UIOTHiplk6JSlxBKQ.name=Co-Processing x4096
+betterquesting.quest.ugaI2UIOTHiplk6JSlxBKQ.desc=No Description
 
 # Quest: Essentia Quantum Storage
 betterquesting.quest.y9mYyyz4Qg6iGOYILdKA1A.name=Essentia Quantum Storage
@@ -10852,7 +10912,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.desc=Also known as labware. Be prepa
 
 # Quest: Genetic Imprinter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.name=Genetic Imprinter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=With this powerful machine, you can inject gene samples, which allows you to alter any aspect of your bee, tree or butterfly. The gene sample (or pattern) will not be destroyed.%n%nThe machine has a 20%% chance to downgrade pristine bees into ignoble bees and a 40%% chance to kill ignoble bees.%n%nOne labware is consumed per operation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=With this powerful machine, you can inject gene samples, which allows you to alter any aspect of your bee, tree or butterfly. The gene sample (or pattern) will not be destroyed.%n%nThe machine has a 40%% chance to kill ignoble bees.%n%nOne labware is consumed per operation.
 
 # Quest: Genetic Transposer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.name=Genetic Transposer
@@ -14393,7 +14453,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAERw.desc=If you found enough gold, you c
 
 # Quest: Moron's Guide to Better Trees
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEWw.name=Moron's Guide to Better Trees
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAEWw.desc=Forestry trees have a variety of attributes. Once you get a tree with a useful attribute, you can breed that attribute into other tree species. This way you can get an ultimate tree that combines all the attributes you want - including the type of fruit! You can also extract the genes with Gendustry if you can make the machines.%n%n[warn]Please do your Forestry tree-breeding indoors or underground because butterflies cause lag.[/warn]%n%nKeep in mind that for quests, you will need to breed the species "pure", not a hybrid. You should probably save the crossbreeding until after you get all the good ones.%n%nFor faster tree breeding, enclose your trees so that butterflies cannot escape, and breed bees with better traits for area and pollination speed. There's also frames too if you can afford it. The sieve may also help if you want to do it more exactly if you can make an alveary. You need either bees or butterflies, trees won't pollinate each other.%n%nTrees have the following characteristics:%n§eSaplings/Fertility§r: chance of getting a sapling from a destroyed leaf. Good for making into biomass or other uses. Balsa, Gooseberry and Sweetgum are what you want.%n%nAllele     Drop Chance%nLowest   1%%%nLower    2.5%%%nLow       3.5%%%nAverage 5%%%nHigh      10%%%n%n[warn]Maturation/Matures[/warn]: the growth speed of a sapling into a tree. Important if you plan to cut it down right away for logs. Golden Raspberry is the fastest.%n%nAllele    Time%nSlowest  10%nSlower   7%nSlow      5%nAverage 4%nFast      3%nFaster   2%nFastest  ?%n%n§dHeight§r: controls how high the tree grows. Giant Sequoia is the best, though it may be a little §otoo§r large.%n%nAllele    Value%nSmallest  25%%%nSmaller   50%%%nSmall      75%%%nAverage 100%%%nLarge    125%%%nLarger   150%%%nLargest  175%%%nGigantic  BIG%n%n§bGirth§r: the width of your tree. Wider trees have more leaves and logs, but will also need more saplings to begin growing. All saplings must be the same species and girth. The sapling in the NW corner determines the stats of the new tree, and is where bone meal must be applied to mature the tree. The Giant Sequoia is best here too.%n%nAllele/Size%n1x1%n2x2%n3x3%n4x4%n%nYield: chances of getting a fruit from a destroyed leaf. Orchard Apple and Chili Pepper are the best here.%n%nAllele     Drop Chance%nLowest   2.5%%%nLower    5%%%nLow       10%%%nAverage 20%%%nHigh       30%%%nHigher    ?%%%n%n§6Sappiness§r: controls two things: (1) the rate at which fruit ripens on leaves, and (2) the amount of biomass a sapling produces in the Forestry Fermenter. Each game tick, a leaf block with fruit has a probability of ripening by one step, and higher sappiness values correspond to a higher ripening chance. You can boost the Fermenter's output by using honey or fruit juice. Blue Mahoe and Red Maple are the best. NEI doesn't show recipes for analyzed saplings, and probably hybrids too, in the fermenter.%n%nAllele     Sappiness  Ripening Speed%nLowest    0.10          1x%nLower     0.20          2x%nLow        0.30          3x%nAverage  0.40          4x%nHigh        0.60          6x%nHigher    0.80          8x%nHighest   1.00         10x%n%nAllele     Fermenter Biomass (water)%nLowest    50mB%nLower     100mB%nLow        150mB%nAverage  200mB%nHigh        300mB%n%n[warn]Fireproof[/warn]: applies to the wood. Only the Coast and Giant Sequoia have this.%n%n§7Effect§r: not used in trees, so it's None for any.%n%nBelow is more information on some other parameters:%n%n§2Growth§r: Sipiri trees have Tropical instead of Light, can only be bred in a Biome with temperature 90%%-190%% and humidity 90%%-200%%, and can only grow in 120%%-190%% temp and 90%%-200%% humidity. All other trees just need light to grow.%n%n[note]Territory/Soil[/note]: all trees have Average, whatever that means. Probably something related to the below that never really got used.%n%n§eTolerates§r: if it can be planted on sand or not. Only Desert Acacia and Grandidier's Baobab have this. The trait is either Plains or Plains, Desert.%n%n§5Supports§r: what kind of fruits it can theoretically have. Determined by Species. Only fruits from families listed under this trait can be produced by the tree, regardless of what appears under the tree's Fruits trait. There are a number of trees from the Extra Trees mod that support all 4 types, but none from Forestry itself.%n%n§aFruit§r: determines what fruit or nut it produces. Each fruit/nut provides different advantages:%nPlum and Cherry Plum only produces 100L Fruit Juice, but have a 60%% chance of producing Mulch in the Fluid Extractor or Squeezer.%nPapaya produces 600L Fruit Juice, but only has a 10%% chance to produce Mulch.%nCoconuts produce 300L Seed Oil, but only have a 25%% chance to produce Mulch.%nUse a Forestry Multifarm so you don't have to break the leaf block to get the fruit/nut. Set it to Manual Orchard, and place everything first.%n%n§bFamily§r: Tells you what family of the fruit listed under the Fruits trait is: Pomes, Prunes, Nuts or Jungle.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAEWw.desc=Forestry trees have a variety of attributes. Once you get a tree with a useful attribute, you can breed that attribute into other tree species. This way you can get an ultimate tree that combines all the attributes you want - including the type of fruit! You can also extract the genes with Gendustry if you can make the machines.%n%n[warn]Please do your Forestry tree-breeding indoors or underground because butterflies cause lag.[/warn]%n%nKeep in mind that for quests, you will need to breed the species "pure", not a hybrid. You should probably save the crossbreeding until after you get all the good ones.%n%nFor faster tree breeding, enclose your trees so that butterflies cannot escape, and breed bees with better traits for area and pollination speed. There's also frames too if you can afford it. The sieve may also help if you want to do it more exactly if you can make an alveary. You need either bees or butterflies, trees won't pollinate each other.%n%nTrees have the following characteristics:%n§2Saplings/Fertility§r: chance of getting a sapling from a destroyed leaf. Good for making into biomass or other uses. Balsa, Gooseberry and Sweetgum are what you want.%n%nAllele     Drop Chance%nLowest   1%%%nLower    2.5%%%nLow       3.5%%%nAverage 5%%%nHigh      10%%%n%n[warn]Maturation/Matures[/warn]: the growth speed of a sapling into a tree. Important if you plan to cut it down right away for logs. Golden Raspberry is the fastest.%n%nAllele    Time%nSlowest  10%nSlower   7%nSlow      5%nAverage 4%nFast      3%nFaster   2%nFastest  ?%n%n§dHeight§r: controls how high the tree grows. Giant Sequoia is the best, though it may be a little §otoo§r large.%n%nAllele    Value%nSmallest  25%%%nSmaller   50%%%nSmall      75%%%nAverage 100%%%nLarge    125%%%nLarger   150%%%nLargest  175%%%nGigantic  BIG%n%n§bGirth§r: the width of your tree. Wider trees have more leaves and logs, but will also need more saplings to begin growing. All saplings must be the same species and girth. The sapling in the NW corner determines the stats of the new tree, and is where bone meal must be applied to mature the tree. The Giant Sequoia is best here too.%n%nAllele/Size%n1x1%n2x2%n3x3%n4x4%n%nYield: chances of getting a fruit from a destroyed leaf. Orchard Apple and Chili Pepper are the best here.%n%nAllele     Drop Chance%nLowest   2.5%%%nLower    5%%%nLow       10%%%nAverage 20%%%nHigh       30%%%nHigher    ?%%%n%n§6Sappiness§r: controls two things: (1) the rate at which fruit ripens on leaves, and (2) the amount of biomass a sapling produces in the Forestry Fermenter. Each game tick, a leaf block with fruit has a probability of ripening by one step, and higher sappiness values correspond to a higher ripening chance. You can boost the Fermenter's output by using honey or fruit juice. Blue Mahoe and Red Maple are the best. NEI doesn't show recipes for analyzed saplings, and probably hybrids too, in the fermenter.%n%nAllele     Sappiness  Ripening Speed%nLowest    0.10          1x%nLower     0.20          2x%nLow        0.30          3x%nAverage  0.40          4x%nHigh        0.60          6x%nHigher    0.80          8x%nHighest   1.00         10x%n%nAllele     Fermenter Biomass (water)%nLowest    50mB%nLower     100mB%nLow        150mB%nAverage  200mB%nHigh        300mB%n%n[warn]Fireproof[/warn]: applies to the wood. Only the Coast and Giant Sequoia have this.%n%n§7Effect§r: not used in trees, so it's None for any.%n%nBelow is more information on some other parameters:%n%n§2Growth§r: Sipiri trees have Tropical instead of Light, can only be bred in a Biome with temperature 90%%-190%% and humidity 90%%-200%%, and can only grow in 120%%-190%% temp and 90%%-200%% humidity. All other trees just need light to grow.%n%n[note]Territory/Soil[/note]: all trees have Average, whatever that means. Probably something related to the below that never really got used.%n%n§3Tolerates§r: if it can be planted on sand or not. Only Desert Acacia and Grandidier's Baobab have this. The trait is either Plains or Plains, Desert.%n%n§5Supports§r: what kind of fruits it can theoretically have. Determined by Species. Only fruits from families listed under this trait can be produced by the tree, regardless of what appears under the tree's Fruits trait. There are a number of trees from the Extra Trees mod that support all 4 types, but none from Forestry itself.%n%n§aFruit§r: determines what fruit or nut it produces. Each fruit/nut provides different advantages:%nPlum and Cherry Plum only produces 100L Fruit Juice, but have a 60%% chance of producing Mulch in the Fluid Extractor or Squeezer.%nPapaya produces 600L Fruit Juice, but only has a 10%% chance to produce Mulch.%nCoconuts produce 300L Seed Oil, but only have a 25%% chance to produce Mulch.%nUse a Forestry Multifarm so you don't have to break the leaf block to get the fruit/nut. Set it to Manual Orchard, and place everything first.%n%n§bFamily§r: Tells you what family of the fruit listed under the Fruits trait is: Pomes, Prunes, Nuts or Jungle.
 
 # Quest: Kinetic Power HV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAEcQ.name=§5§lKinetic Power HV
@@ -14648,7 +14708,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqw.name=§b§lTransform and...Stay Put 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKqw.desc=Active Transformers will transform power up or down at only a 0.004%% power loss, making using several in a row obsolete, if you can afford it. Unfortunately, it's kinda expensive. On the other hand, you can use it to turn your lasers from your laser hatches, which is probably a better use.%n%nIt doesn't need a Maintenance Hatch, just the I/O Hatches.
 
 # Quest: What Even is This?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.name=§6§lWhat Even is This?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.name=§d§lWhat Even is This?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAKyA.desc=In addition to being a dehydrator multi, it's also a Vacuum Furnace, for which no singleblock exists. It's supposed to be used with the IsaMill Grinding Machine multi and the Flotation Cell Regulator multi for the purposes of ore milling, an advanced method of ore processing that needs a lot of infrastructure, but which gives many new outputs for each ore it supports.%n%n[note]This multi is LuV now![/note]
 
 # Quest: Dyson Swarm Ground Unit
