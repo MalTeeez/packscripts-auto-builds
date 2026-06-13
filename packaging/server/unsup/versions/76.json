@@ -1,0 +1,548 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/GregTech/MachineStats.cfg",
+            "from_hash": "5af8cbe7f25071862464e4c623ff54188f3fdfc9f46ffee534198624132917b5",
+            "from_size": 6635,
+            "to_hash": "43ee896bb398b25945c87ea80ef35833c7a1eb2c87ec1e45679fd183a94c4cea",
+            "to_size": 6680,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/GregTech/MachineStats.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/HVBender-AAAAAAAAAAAAAAAAAAAFCQ==.json",
+            "from_hash": "9da75c9914005eb4a1664e910973a32c327bdd923f2cbe4f89cd24458a596068",
+            "from_size": 110,
+            "to_hash": "32f49b973625498ce60c4280cb093825ca105d4d2bd5116f435c0d508e3c5b8d",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/HVBender-AAAAAAAAAAAAAAAAAAAFCQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/Fluorowhonow-EnwtQDaiQEWhwc7G6oJHWQ==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2782e81a9cb78f0c806bdd53c22404512542c945c898c4d63b140d01b320cadf",
+            "to_size": 144,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/Fluorowhonow-EnwtQDaiQEWhwc7G6oJHWQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/HVExtruder-AAAAAAAAAAAAAAAAAAAE9w==.json",
+            "from_hash": "8d9f1034be80c4f5b3fc134aa789176455ec0114afd5f9944d0989f4b7d5fc51",
+            "from_size": 110,
+            "to_hash": "beaa0befd959c282bbc2513a2ffaa375d96ac867872dc98d947ce6cbadb25e9b",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/HVExtruder-AAAAAAAAAAAAAAAAAAAE9w==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/MeltingandRefree-RSeerR8bQ6advk1NkOU8NQ==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dab0e5828fa77a58749a2617bb054474ed2496064b4ef27be0761d194768c9db",
+            "to_size": 144,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/MeltingandRefree-RSeerR8bQ6advk1NkOU8NQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/AdvancedAssembly-ZIotzqvnRiKu1_1Hb9i1dg==.json",
+            "from_hash": "b7f895340ad5b2cfc3996e4af16360292f026f5b298ad03d0d320cfee234dd38",
+            "from_size": 4435,
+            "to_hash": "533e0f84350498507e3c68ecf5bd317561cdef9a6ee1c292c66dcdb9cd06c1e8",
+            "to_size": 4404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/AdvancedAssembly-ZIotzqvnRiKu1_1Hb9i1dg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/AnotherChemicalM-AAAAAAAAAAAAAAAAAAAMig==.json",
+            "from_hash": "4ce7e319852c303ff4c7fb2873d353a6772b85afa838f52eff01b74d49f5219c",
+            "from_size": 4218,
+            "to_hash": "671a257c05b46aeb7fdae2be370bbdf02028d870636f26d2984228fb873c48e4",
+            "to_size": 4208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/AnotherChemicalM-AAAAAAAAAAAAAAAAAAAMig==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/CircuitAssemblyL-AAAAAAAAAAAAAAAAAAAKKQ==.json",
+            "from_hash": "c11a18b92fc92b3846351b8edab9886c1865c8ba575639df973211d08a8f125b",
+            "from_size": 5449,
+            "to_hash": "32cce103d4aa6124e801ea7af7562ca617878dd67ac6901373469fdc17ca921a",
+            "to_size": 5439,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/CircuitAssemblyL-AAAAAAAAAAAAAAAAAAAKKQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MultiblockGoals-AAAAAAAAAAAAAAAAAAAADA==/MoreHeatKanthalC-AAAAAAAAAAAAAAAAAAAATg==.json",
+            "from_hash": "475585e6832fcf98c23afcaa74df4413f6199cce9b51f3ffdf08890546bf5243",
+            "from_size": 3451,
+            "to_hash": "56ac282b08949cf2abc57416a0a542bb5789b772f39e214938922217cf7f645d",
+            "to_size": 3519,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/MultiblockGoals-AAAAAAAAAAAAAAAAAAAADA==/MoreHeatKanthalC-AAAAAAAAAAAAAAAAAAAATg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/MultiblockRevolu-hEsmeH74S4aOOrROI1AHxQ==.json",
+            "from_hash": "7ce7aebef6f5c247012ef74efb182bb479663c10ecd4e2faf9c92e9810b98a1e",
+            "from_size": 4192,
+            "to_hash": "9c5a01e84d5e7ab129e8fd0999e124b05be3f0d4dbbbaf8e9783ba552e578eb2",
+            "to_size": 4332,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/MultiblockRevolu-hEsmeH74S4aOOrROI1AHxQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/UniversalCollaps-ZUdnzN4GSxmaxY7xZIgNTg==.json",
+            "from_hash": "880e802e06f0f06d4a5fb60469c5f3d8dde0ebca4ac81e6052dcf55b35bec168",
+            "from_size": 4941,
+            "to_hash": "e6559587d8ae5bf1e59da293fdd635606fea81e1203663987e4c7fc035286f1e",
+            "to_size": 4808,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/UniversalCollaps-ZUdnzN4GSxmaxY7xZIgNTg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/PowerfulNuclearP-AAAAAAAAAAAAAAAAAAAAGg==/TheOverclockingo-AAAAAAAAAAAAAAAAAAAMdA==.json",
+            "from_hash": "f419b4bb5ea913c648e823e36fc7c68d19a61288ecf48c81acc8d75195cbc8c8",
+            "from_size": 3326,
+            "to_hash": "3a48025439313f6c789e567d441a47d9933fc222d727282a834565548c242552",
+            "to_size": 3335,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/PowerfulNuclearP-AAAAAAAAAAAAAAAAAAAAGg==/TheOverclockingo-AAAAAAAAAAAAAAAAAAAMdA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier10UEV-D_aFb1hFQH2PDkN0_KvAEQ==/GalaxyinaBottle-AAAAAAAAAAAAAAAAAAAKFw==.json",
+            "from_hash": "305f0460f1d78a3e90bc3c012fcaf2f700d5680ef3cc50545559499ceb194d05",
+            "from_size": 3780,
+            "to_hash": "9aaad83a61e1e94fc61b1040dd62c3890579a253ba11d2ebf7ada67b465ddab3",
+            "to_size": 3750,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier10UEV-D_aFb1hFQH2PDkN0_KvAEQ==/GalaxyinaBottle-AAAAAAAAAAAAAAAAAAAKFw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/FuwusionMK5-vLnSpTweSki3BaorBNQhxQ==.json",
+            "from_hash": "2930f99b1ee3efd95250500536e3fa2e09be54c1de73a7df3c2da2ce7af6ff36",
+            "from_size": 3233,
+            "to_hash": "6fdbc5e594eadf2b5fad2f02d6c83044cb2479571bb5c8cdfa4c9557c25f5af5",
+            "to_size": 3217,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/FuwusionMK5-vLnSpTweSki3BaorBNQhxQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/Fluorowhonow-EnwtQDaiQEWhwc7G6oJHWQ==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e6f2e8ddd4e3415387c2b63c02419747ca3b2b622df67f8ab64029bf75120bf7",
+            "to_size": 7192,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/Fluorowhonow-EnwtQDaiQEWhwc7G6oJHWQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/MeltingandRefree-RSeerR8bQ6advk1NkOU8NQ==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "23f5d86a30cac43b653763bbd6696463238b73ae2a1e433be364da170b8bc5ba",
+            "to_size": 3829,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/MeltingandRefree-RSeerR8bQ6advk1NkOU8NQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/UUMatter-AAAAAAAAAAAAAAAAAAAHVQ==.json",
+            "from_hash": "b96f0e5e1decdbba85743d4047c5a7b0b33b7a79b9e929de1e1757d9950241a2",
+            "from_size": 4854,
+            "to_hash": "2b5b3d9b9d084f228bfeb82deb300ad160acf14c56b9b5fc5051892f2cd2892c",
+            "to_size": 4838,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier3HV-AAAAAAAAAAAAAAAAAAAABQ==/UUMatter-AAAAAAAAAAAAAAAAAAAHVQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier4EV-AAAAAAAAAAAAAAAAAAAABg==/RadonLoop-AAAAAAAAAAAAAAAAAAAE2Q==.json",
+            "from_hash": "15c5b33809e63555aad77bdbddb52417822dfe17cb2a4f5bc4066dbb2685ddb4",
+            "from_size": 4108,
+            "to_hash": "ab6d75acc8bb7f40568a5f3053847d0f468d22251400f904f93ac7282da21261",
+            "to_size": 4096,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier4EV-AAAAAAAAAAAAAAAAAAAABg==/RadonLoop-AAAAAAAAAAAAAAAAAAAE2Q==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier7ZPM-AAAAAAAAAAAAAAAAAAAAHg==/FusionReactorMKI-AAAAAAAAAAAAAAAAAAAErQ==.json",
+            "from_hash": "941a7db460e39bd32de87de8f5298aea99c2a873abc97fd67c2884174844d988",
+            "from_size": 5211,
+            "to_hash": "0d0419338011d51e7b78eece5101976d3bfaa59354395162dd27b3409646c9c6",
+            "to_size": 5194,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier7ZPM-AAAAAAAAAAAAAAAAAAAAHg==/FusionReactorMKI-AAAAAAAAAAAAAAAAAAAErQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier7ZPM-AAAAAAAAAAAAAAAAAAAAHg==/PrismaticNaquada-zIDk7MniRMGE9u_1Slo2qg==.json",
+            "from_hash": "98690db2a412228f4db8a6042ec5f8f8eceaf8957efd1e01172186b8ea952a52",
+            "from_size": 4262,
+            "to_hash": "b110c0b690e125d2d3ddee2e3d846133ab4ed5a878fb31f00b187e916325d245",
+            "to_size": 4262,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier7ZPM-AAAAAAAAAAAAAAAAAAAAHg==/PrismaticNaquada-zIDk7MniRMGE9u_1Slo2qg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier8UV-AAAAAAAAAAAAAAAAAAAALQ==/UpgradingtheReac-AAAAAAAAAAAAAAAAAAAErg==.json",
+            "from_hash": "c02b7637f06a5380c9c494ccde982d548c6751f0274de2e7c819db3e39cbc06b",
+            "from_size": 4833,
+            "to_hash": "e8b695687f0810b3c20520ba533bf1cebd215ba0e4bb50b955cd1402a6cd9507",
+            "to_size": 4816,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier8UV-AAAAAAAAAAAAAAAAAAAALQ==/UpgradingtheReac-AAAAAAAAAAAAAAAAAAAErg==.json"
+        },
+        {
+            "path": "mods/BotanicHorizons-1.12.9-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a56f27fa6b379652ff892a72cd72bd9fbf05fcfe31470fa482744cf0d943cc66",
+            "to_size": 1740575,
+            "url": "https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.12.9-GTNH/BotanicHorizons-1.12.9-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/BotanicHorizons-1.12.9-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.285.jar",
+            "from_hash": "8933934a08be3d45db260dc7977d7caa752fb1e4d1c9d4ea1a54e440c30a76b0",
+            "from_size": 48404487,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.8.286.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4be4e04c8be293183d0adeb4f1194113cd850eb6f75bcdd4f7cca08817910e8b",
+            "to_size": 48404486,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/GTNewHorizonsCoreMod-2.8.286.jar"
+        },
+        {
+            "path": "mods/BotanicHorizons-1.12.8-GTNH.jar",
+            "from_hash": "aee236355b2dd78c264c8778709e93509b514c9d477a3e479373cd295fde1a30",
+            "from_size": 1739700,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenBlocks-1.12.14-GTNH.jar",
+            "from_hash": "b3749dd6895e8f5d69e8e6d0674a9770c509e2105eda7b8920f56b51f8316249",
+            "from_size": 2763222,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.44-GTNH.jar",
+            "from_hash": "00a1b32d7969e475d9ba37b981b2efb5442600eca3f98c68cf5e9c22bb3db994",
+            "from_size": 16775572,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.45-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8b53c8ee3d4f9c4f25cecad179d43c46a4fd9d8bed0327ca4477489e4e87b3ed",
+            "to_size": 16775796,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.45-GTNH/OpenComputers-1.12.45-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/OpenComputers-1.12.45-GTNH.jar"
+        },
+        {
+            "path": "mods/OpenBlocks-1.12.15-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "22425ef4a0d37f7a9c27e859bb6d40dce50e598ccc21829c91b5d335ed89af82",
+            "to_size": 2764468,
+            "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.15-GTNH/OpenBlocks-1.12.15-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/OpenBlocks-1.12.15-GTNH.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.30.jar",
+            "from_hash": "b8555a2a4187bcc3d2beac28d1017790489726cf95ad4d2ea9d5398b4769c090",
+            "from_size": 4896626,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/EnderIO-2.10.31.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5a2682d1569c9b034adcae5c8d209f9804b8eb1e83ff4ae02426b4ddf23f0c5c",
+            "to_size": 4899718,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.31/EnderIO-2.10.31.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/EnderIO-2.10.31.jar"
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.23.jar",
+            "from_hash": "66d47383569d95c6c7915215548fee258594392480feb2b1995d5566ccc17b2c",
+            "from_size": 1970573,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.24.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f5de7c8c194566e26ca09b39b1e8c76e65b086621c7f44e87ae4e0013bb03d9d",
+            "to_size": 1970976,
+            "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.24/ThaumicTinkerer-2.12.24.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/ThaumicTinkerer-2.12.24.jar"
+        },
+        {
+            "path": "mods/VillageNames-4.5.15-GTNH.jar",
+            "from_hash": "1b71a27287b4c0b77aba15e7a01fa205c4e6d9a37aaec036860ab0c33fe506ef",
+            "from_size": 3482430,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ProjRed-4.12.39-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "57432c5a52e76b71ff1681fb5f4db465965523cd7c62a82a3f506ec804068555",
+            "to_size": 10231681,
+            "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.39-GTNH/ProjRed-4.12.39-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/ProjRed-4.12.39-GTNH.jar"
+        },
+        {
+            "path": "mods/WitcheryExtras-1.4.15.jar",
+            "from_hash": "85258d362f7a9a575ec0af47ae543a207014056db72648bda7fd9b3c5e37b502",
+            "from_size": 118243,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ProjRed-4.12.38-GTNH.jar",
+            "from_hash": "245f87b177bdb015855f8018145f37d3baa0f9c9d1987c2ddeee3be3101f1139",
+            "from_size": 10231677,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/VillageNames-4.5.17-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c8c9f153faab7e52b094add907754e98a53e0a4785cbcabaff746d6900dc7d75",
+            "to_size": 3481050,
+            "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.17-GTNH/VillageNames-4.5.17-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/VillageNames-4.5.17-GTNH.jar"
+        },
+        {
+            "path": "mods/WitcheryExtras-1.4.16.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3d773cd175ea52d478f6f62ef3570749bb4f0b28d23b5d6d7323e544df4cd561",
+            "to_size": 119155,
+            "url": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.4.16/WitcheryExtras-1.4.16.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/WitcheryExtras-1.4.16.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.91-gtnh.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ed09eb78cf8ab2406421cae76a4d814076db48adff486fb751edf6669b9d710d",
+            "to_size": 806668,
+            "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.91-gtnh/ae2fc-1.5.91-gtnh.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/ae2fc-1.5.91-gtnh.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.90-gtnh.jar",
+            "from_hash": "3d7213b7749d26c081b1c574cc0da86871b4f03be6f8fd7df3cfb40d2ece7f04",
+            "from_size": 806469,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/coretweaks-0.3.4.6-GTNH.jar",
+            "from_hash": "67e3970a38c671fad5775bf0c373998c397bdab2b1cee810ae81cc3c94b49595",
+            "from_size": 1247566,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/coretweaks-0.3.4.7-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "89c117aeee723df3a31d8d341626e7d080b78e50e23564c889e59b198f9bde9b",
+            "to_size": 786937,
+            "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.4.7-GTNH/coretweaks-0.3.4.7-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/coretweaks-0.3.4.7-GTNH.jar"
+        },
+        {
+            "path": "mods/cosmeticarmorreworked-1.0.5-GTNH.jar",
+            "from_hash": "74b8bfc0f217d62fce28374dae270bf654a23096791bbab8c9c997eef0567e4c",
+            "from_size": 41352,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-982-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e43ee2df5a9d2e427f2fd5eed96858195f43a8ca3d66a556cc5939b86b936bab",
+            "to_size": 4620319,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-982-GTNH/appliedenergistics2-rv3-beta-982-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/appliedenergistics2-rv3-beta-982-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-980-GTNH.jar",
+            "from_hash": "5b8e9e3ab1ec3b359090a63f05615f98fe895eea3140162f212419dfdc1d0920",
+            "from_size": 4619988,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cosmeticarmorreworked-1.0.6-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "902d529a7e0ce82efee3e7ac03c6f90efc14f2f9c78e67dac79b9a1f13789b60",
+            "to_size": 43189,
+            "url": "https://github.com/GTNewHorizons/CosmeticArmorReworked/releases/download/1.0.6-GTNH/cosmeticarmorreworked-1.0.6-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/cosmeticarmorreworked-1.0.6-GTNH.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.75.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "96ddb83b6f5eac68734bbf7fc40d03225eaedc896a5ab20d59fefb9cd60fa89a",
+            "to_size": 1509573,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.75/cropsnh-2.0.75.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/cropsnh-2.0.75.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.52.600.jar",
+            "from_hash": "a68fb7be58b082b4526a7c740e8033048293c81b267d8f23470ad298a67df73c",
+            "from_size": 68128406,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.52.603.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "14f853a5e1a523ccb7280b7eb082f9bb636b818a7a77fa4ea88bd533048adf2e",
+            "to_size": 68173039,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.603/gregtech-5.09.52.603.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/gregtech-5.09.52.603.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.72.jar",
+            "from_hash": "9639687eaf99360fdf07d78554aafbd6913f71b034fb1f72d8d3985186311e49",
+            "from_size": 1509386,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.14.jar",
+            "from_hash": "69ae58210a85c8b346165a7d8e77c868020c3fbe259e8d4b2814b442c4789479",
+            "from_size": 1279323,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "76fcc8ad67d09f70b0444cd5dfe840c86231d4acfae9d75278325a9208cf988c",
+            "to_size": 1279323,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.15/gtnhlib-0.11.15.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/gtnhlib-0.11.15.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.161.jar",
+            "from_hash": "2bf3114b2f85fa493691ed8e5cc23e7d4e46f46004fe819ef9556443247ad8ea",
+            "from_size": 1050297,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/etfuturum-2.6.42-GTNH.jar",
+            "from_hash": "18b391d1011de631f1c34245c99ca29360e0a709921edd530ea6f59cbabb9802",
+            "from_size": 5280781,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/etfuturum-2.6.43-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ade0b54022933ebe9c9dc78105b1327c8c72cd03408d0c1b9ccac558433d2af7",
+            "to_size": 5281916,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.43-GTNH/etfuturum-2.6.43-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/etfuturum-2.6.43-GTNH.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.162.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a17b4d6903955b4f8092d17a9a77c4ef46d65792d13bbf74de77ad3d7397499a",
+            "to_size": 1054828,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.162/hodgepodge-2.7.162.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/hodgepodge-2.7.162.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.29.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fb3ce8c838a321c2d90674496a34cc93c5228643c9cf01b4de482b82b4c71204",
+            "to_size": 650955,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.29/littletiles-1.6.29.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/littletiles-1.6.29.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.28.jar",
+            "from_hash": "edc2d312e9540401bda5d6361c56e980af770f1b9e126568c3f6e360e04abbec",
+            "from_size": 650913,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lootgames-2.2.12.jar",
+            "from_hash": "7c008dc8b7090ff9135d3fa5fad339344c671751940372131db2ace7986cd335",
+            "from_size": 1724831,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lootgames-2.2.13.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "da6f940f821593954c7b6c6e1a145faabb236f0872c6c0e96494e1f5a10503dc",
+            "to_size": 1765246,
+            "url": "https://github.com/GTNewHorizons/LootGames/releases/download/2.2.13/lootgames-2.2.13.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/lootgames-2.2.13.jar"
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.38-GTNH.jar",
+            "from_hash": "2b1eca089b5fd88cf79d044e9eb696b4042a6aaaea4f167d92fec5a2cc548988",
+            "from_size": 680954,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.39-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "aabaa194e81d1f81b77c267abf7446adeeed6db0c61040035bcfaf2c02418e52",
+            "to_size": 679252,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.39-GTNH/matter-manipulator-0.1.39-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/matter-manipulator-0.1.39-GTNH.jar"
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.53-GTNH.jar",
+            "from_hash": "9e8e8315ba808433e01b3aa4b0627dc12c2edea7467adcff52ffc5cbebe598a0",
+            "from_size": 1429890,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/visualprospecting-1.5.28.jar",
+            "from_hash": "bf4064d8b507fdec7077ded9a48cca5ce7d76797b0f3a1e02f9b3c358d068966",
+            "from_size": 221586,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.54-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "52d6667106bd10af1208491b5ef3a790d1eb54b0353cfe3e3bbe8baa58d954fb",
+            "to_size": 1430000,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.54-GTNH/thaumicenergistics-1.7.54-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/thaumicenergistics-1.7.54-GTNH.jar"
+        },
+        {
+            "path": "mods/visualprospecting-1.5.29.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e45f4f9556be5e7e35db7b62c407a355015ea62234cf398d505e0c7de9d9b323",
+            "to_size": 229605,
+            "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.29/visualprospecting-1.5.29.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/3feb2c7c837d41bbc91a51e6cafa21cb6c63175c/.minecraft/mods/visualprospecting-1.5.29.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.24",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.24"
+    }
+}
