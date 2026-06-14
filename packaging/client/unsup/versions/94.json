@@ -1,0 +1,45 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.607.jar",
+            "from_hash": "7c47aaf54557199184ff09a638f5cb25ba66179700cbcc4302b91c70c3c59cf1",
+            "from_size": 68196712,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.52.608.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "432e329721114b48ee02531ef6c18b0901968cb738d2458bcf6fb2f1a51cce28",
+            "to_size": 68197464,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.52.608/gregtech-5.09.52.608.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/0ffd11c9bc3c13259306740dab69df1a41c36c88/.minecraft/mods/gregtech-5.09.52.608.jar"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/SpaceRace-AAAAAAAAAAAAAAAAAAAAIg==/SpaceStation-AAAAAAAAAAAAAAAAAAAEKw==.json",
+            "from_hash": "585c33c65d02148847ccd899b4ee1a60ad7a8fd667432f748461c40517e22656",
+            "from_size": 9939,
+            "to_hash": "c0a0eb3b0836d64a0cb75b437a7a4ff88139523cb7a07bfa9f3e8088c6071124",
+            "to_size": 9938,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0ffd11c9bc3c13259306740dab69df1a41c36c88/.minecraft/config/betterquesting/DefaultQuests/Quests/SpaceRace-AAAAAAAAAAAAAAAAAAAAIg==/SpaceStation-AAAAAAAAAAAAAAAAAAAEKw==.json"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/template.lang",
+            "from_hash": "5f8e63374fd218c8a0023726fa5fdc68fffbc871dad7f05e3616c4d6b1068e68",
+            "from_size": 2078999,
+            "to_hash": "477028bc58168965e09fa3920c6b6746228a1c118fb20ebd9e5fe419ce2a6dfc",
+            "to_size": 2078998,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0ffd11c9bc3c13259306740dab69df1a41c36c88/.minecraft/config/txloader/forceload/betterquesting/lang/template.lang"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.25",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.25"
+    }
+}
