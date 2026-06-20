@@ -1,0 +1,77 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/bogosorter-1.3.32-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a84d8f9bc72d3c7f9f592fc12b09b63951df439d5bcd7313598f493f9fb2faf1",
+            "to_size": 405785,
+            "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.32-GTNH/bogosorter-1.3.32-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/16e1ff513bf2050af3b14a49174011fc0a7c06ec/.minecraft/mods/bogosorter-1.3.32-GTNH.jar"
+        },
+        {
+            "path": "mods/bogosorter-1.3.31-GTNH.jar",
+            "from_hash": "2ee1a3fca182af3cdac98e17def7fd7c0f64b9693958fa9d2f8d42eb32decc48",
+            "from_size": 405750,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-987-GTNH.jar",
+            "from_hash": "9dbc293eaf94dc67bb71da292880753b6340e89c1924b8b74699fee68f801974",
+            "from_size": 4620462,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-988-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1691c79d002cf02878e3ea4cd28074fab506d625eaaa6f3f59c9ccb70b65cfad",
+            "to_size": 4620294,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-988-GTNH/appliedenergistics2-rv3-beta-988-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/16e1ff513bf2050af3b14a49174011fc0a7c06ec/.minecraft/mods/appliedenergistics2-rv3-beta-988-GTNH.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.163.jar",
+            "from_hash": "7ff1c228a58138f4579c0c9b5339fb87426e49519ae9d1f15b53664f1c349a02",
+            "from_size": 1055240,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.164.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "69a5e84b651a3c0b6accdf3d800d1b7fc1f3ac087cda2e0e36d9c9aaa49392a2",
+            "to_size": 1056632,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.164/hodgepodge-2.7.164.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/16e1ff513bf2050af3b14a49174011fc0a7c06ec/.minecraft/mods/hodgepodge-2.7.164.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.91.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "770558abd13ef092d68dae4462788e602ee5fe72629d408283caccac0d7da44a",
+            "to_size": 2185069,
+            "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.91/vendingmachine-0.4.91.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/16e1ff513bf2050af3b14a49174011fc0a7c06ec/.minecraft/mods/vendingmachine-0.4.91.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.90.jar",
+            "from_hash": "49e355710b509cc8b7ce14b47b4d4e1f44181e59760f361ab9a2d1c8da9db4bc",
+            "from_size": 2184696,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.25",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.25"
+    }
+}
