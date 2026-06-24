@@ -351,12 +351,12 @@
         }
     },
     "BinnieCore": {
-        "file_path": "./.minecraft/mods/binnie-mods-2.6.32.jar",
+        "file_path": "./.minecraft/mods/binnie-mods-2.6.33.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.32/binnie-mods-2.6.32.jar",
+        "source": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.33/binnie-mods-2.6.33.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -371,14 +371,14 @@
             "Genetics"
         ],
         "update_state": {
-            "version": "2.6.32",
+            "version": "2.6.33",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "5eb7ec5500ca846944f0e547706eb3735d5fe9996176fca57f97c178a872325b"
+            "sha256_sum": "1ccf4c596f8cf43b6304ca73e7f9e82e62acadf191626f9f8b65e08cd191e997"
         }
     },
     "BiomesOPlenty": {
@@ -728,26 +728,26 @@
         }
     },
     "EnderZoo": {
-        "file_path": "./.minecraft/mods/EnderZoo-1.3.4.jar",
+        "file_path": "./.minecraft/mods/EnderZoo-1.3.5.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/EnderZoo/releases/download/1.3.4/EnderZoo-1.3.4.jar",
+        "source": "https://github.com/GTNewHorizons/EnderZoo/releases/download/1.3.5/EnderZoo-1.3.5.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.3.4",
+            "version": "1.3.5",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "c5efcd6cf24f2b837ad0373fad38a087b9010b315345a43f1799b27aae01ebff"
+            "sha256_sum": "9cc2c94f077b6d11c2f8e298185bea27a5dd6539159d127763a5b58fa99264be"
         }
     },
     "ExtraUtilities": {
@@ -3082,11 +3082,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.1.42.jar",
+        "file_path": "./.minecraft/mods/angelica-2.1.43.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.42/angelica-2.1.42.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.43/angelica-2.1.43.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3099,14 +3099,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.1.42",
+            "version": "2.1.43",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "68513f90d0865a0e6e43533c57f4de9e29b42e6e8f564e504c105a57695e8c85"
+            "sha256_sum": "4328342018284dea0afc71a18f24f71e9215f12f33deb6201c3e5c89636aad26"
         }
     },
     "angermod": {
@@ -4516,12 +4516,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.53.06.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.53.10.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.53.06/gregtech-5.09.53.06.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.53.10/gregtech-5.09.53.10.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4589,14 +4589,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.53.06",
+            "version": "5.09.53.10",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "c383b1bb825d51e9696bc3f82435331f7dff1fc284e9b59942e8154a42102ee1"
+            "sha256_sum": "5becd708b1ca06726a8eb8c9961cb693fdcd605e15f14c637d72bbad5af9d380"
         }
     },
     "gtnhcredits": {
@@ -4819,12 +4819,12 @@
         }
     },
     "holoinventory": {
-        "file_path": "./.minecraft/mods/holoinventory-2.5.14-GTNH.jar",
+        "file_path": "./.minecraft/mods/holoinventory-2.5.15-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.5.14-GTNH/holoinventory-2.5.14-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.5.15-GTNH/holoinventory-2.5.15-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -4833,14 +4833,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.5.14-GTNH",
+            "version": "2.5.15-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "5e69d116514b368a85cc934dfc70b02ea09cf2d9f990d776595a30d24f76506a"
+            "sha256_sum": "cde118cb5a59dfd5bf302f9ff5adedc779529379969564d801779776d87a40d6"
         }
     },
     "hydroenergy": {
@@ -5241,12 +5241,12 @@
         }
     },
     "modularui2": {
-        "file_path": "./.minecraft/mods/modularui2-2.3.77-1.7.10.jar",
+        "file_path": "./.minecraft/mods/modularui2-2.3.78-1.7.10.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.77-1.7.10/modularui2-2.3.77-1.7.10.jar",
+        "source": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.78-1.7.10/modularui2-2.3.78-1.7.10.jar",
         "notes": "",
         "wanted_by": [
             "bogosorter",
@@ -5261,14 +5261,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.3.77-1.7.10",
+            "version": "2.3.78-1.7.10",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "8e891673e1f5022a0c6d20c2333885abd785c990ad27c1ad91314210cae93179"
+            "sha256_sum": "c1c51af3862aee8f956e607b01ed28627c48e1cb7ee07874a2366037e7910356"
         }
     },
     "naturescompass": {
@@ -5709,12 +5709,12 @@
         }
     },
     "serverutilities": {
-        "file_path": "./.minecraft/mods/ServerUtilities-2.3.2.jar",
+        "file_path": "./.minecraft/mods/ServerUtilities-2.4.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.3.2/ServerUtilities-2.3.2.jar",
+        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.1/ServerUtilities-2.4.1.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -5725,14 +5725,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.3.2",
+            "version": "2.4.1",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "86e5398ca04001bcb41837ef994e09821974fbd78e2f5451afce677d48d01106"
+            "sha256_sum": "d939ee7d166d9bc6c546c628b74ed31dcf2a715eaa29f52645392e10bdd59cb0"
         }
     },
     "sharewhereiam": {
