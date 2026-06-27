@@ -1,0 +1,61 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/NotEnoughItems-2.8.105-GTNH.jar",
+            "from_hash": "e7d3c678701ce0fe400c1c638628fb716d7f0e83ea2dacc9d1be6007ce3e4d4d",
+            "from_size": 1584422,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.53.17.jar",
+            "from_hash": "7dbc3139c7532d0f2ab52a18c7d17cb07f0358d245ac40f8058601d2cbd09286",
+            "from_size": 68256190,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.53.18.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4a75a6712734877a8008b50c4ca252f1a59cf6a1ffe8369f2e0e62eed67095f7",
+            "to_size": 68326053,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.53.18/gregtech-5.09.53.18.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/0722f0975c68ecf48368c97223f329b9d54346b3/.minecraft/mods/gregtech-5.09.53.18.jar"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.106-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d800b420a955e71da2e50369848621b5402d5342c84eb45c5f9f5505cd435dcb",
+            "to_size": 1588689,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.106-GTNH/NotEnoughItems-2.8.106-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0722f0975c68ecf48368c97223f329b9d54346b3/.minecraft/mods/NotEnoughItems-2.8.106-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-994-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c6a62b0d2cbd29180984a2483338641360a0ba51c372b88ef71a2b42a7e4ae26",
+            "to_size": 4657723,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-994-GTNH/appliedenergistics2-rv3-beta-994-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0722f0975c68ecf48368c97223f329b9d54346b3/.minecraft/mods/appliedenergistics2-rv3-beta-994-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-993-GTNH.jar",
+            "from_hash": "f9c89bb521f3c38cc99b6b3d7d1a5575e706ddbf45cbab8ae1654a52a11e600a",
+            "from_size": 4654188,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.25",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.25"
+    }
+}
