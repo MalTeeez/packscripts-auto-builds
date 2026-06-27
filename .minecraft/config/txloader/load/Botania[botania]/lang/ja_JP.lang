@@ -3399,12 +3399,12 @@ botania.page.manaGear8=&1マナスチールのレギンス&0
 botania.page.manaGear9=&1マナスチールのブーツ&0
 
 # -- HORN OF THE WILD
-botania.entry.grassHorn=Horn of the Wild
-botania.tagline.grassHorn=Reap all grass and crops around you
-botania.page.grassHorn0=Clearing out &1Tall Grass&0 by hand can definitely be a nuisance.<br>Simply blowing the &1Horn of the Wild&0 will quickly cause any nearby vegetation to uproot, leaving behind drops as if it had been broken by hand.<br>With some modifications, the horn can be modified to break leaves or snow instead.
-botania.page.grassHorn1=Crafting the horn
-botania.page.grassHorn2=Modifying to break &1Leaves&0
-botania.page.grassHorn3=Modifying to break &1Snow&0
+botania.entry.grassHorn=野生の角笛
+botania.tagline.grassHorn=周囲の草と作物を刈り取る
+botania.page.grassHorn0=手作業で&7《&1背の高い草&7／Tall Grass》&0を取り除くのは、確かに面倒ですよね。<br>&7《&1野生の角笛&7／Horn of the Wild》&0を吹くだけで周囲の植物が根こそぎ破壊され、手で破壊したのと同じドロップアイテムが残ります。<br>少し改造することで、葉や雪も破壊できるようになります。
+botania.page.grassHorn1=角笛のクラフト
+botania.page.grassHorn2=&7《&1葉&7／Leaves》&0を破壊するための改造
+botania.page.grassHorn3=&7《&1雪&7／Snow》&0を破壊するための改造
 
 # -- TERRASTEEL ARMOR
 botania.entry.terrasteelArmor=テラスチール防具
@@ -3422,14 +3422,14 @@ botania.page.terraSword0=&7《&1テラブレード&7／Terra Blade》&0は、&7�
 botania.page.terraSword1=壊れた英雄の剣はない
 
 # -- TERRA SHATTERER
-botania.entry.terraPick=Terra Shatterer
-botania.tagline.terraPick=Upgradable pickaxe with large area of effect powers
-botania.page.terraPick0=The &1Terra Shatterer&0 is a tool that can amass insane quantities of mana on itself, due to the amount of &1Terrasteel&0 required for its creation.<br>The tool functions very much like a &1Mana Tablet&0, in that it can amass &4Mana&0 by being tossed on a &1Mana Pool&0. It can't give the &4Mana&0 back, though, so it doesn't function as a storage method.
-botania.page.terraPick1=The amount of &4Mana&0 stored on the tool defines its &4Rank&0. Ranks go as follows: &4D&0, &4C&0, &4B&0, &4A&0, &4S&0, &4SS&0, with &4D&0 being the default rank.<br>The amount of &4Mana&0 required to advance from rank to rank increases as the rank does. To advance from &4D&0 to &4C&0, for example, it requires just a few seconds of exposition to a &1Mana Pool&0.
-botania.page.terraPick2=To advance from rank &4C&0 to rank &4B&0, a full &1Mana Pool&0 is required, and the cost increases by a tenfold per rank from there on in, all the way to &4SS&0.<br>The rank of the tool does not change its speed, but instead, it increases the power of its &4Active Ability&0.<br>Toggling the tool's ability can be done via right click.
-botania.page.terraPick3=While the tool is active, it enables it to break blocks in an extended area. At rank &4C&0 it's a small column, which increases to a square at rank &4B&0, that gets larger through the ranks. It's to note that the rank &4D&0 tool does not have the active ability.<br>Having the tool active consumes &4Mana&0 from its storage passively, even if not being used to mine.
-botania.page.terraPick4=Lastly, the tool takes damage for every single block broken, so a good supply of &4Mana&0 in the wielder's inventory is a must for the higher ranks, as the tool does function like normal &1Manasteel Tools&0, in that it'll use &4Mana&0 instead of actually taking damage, given it's made of &1Terrasteel&0.<br>It also won't despawn like regular dropped items.
-botania.page.terraPick5=WE'RE MINING IN THE DATABASE WOW WOW
+botania.entry.terraPick=テラシャッタラー
+botania.tagline.terraPick=範囲採掘ができるアップグレード可能ツルハシ
+botania.page.terraPick0=&7《&1テラシャッタラー&7／Terra Shatterer》&0は、その製作に必要な大量の&7《&1テラスチール&7／Terrasteel》&0により、膨大な量のマナを蓄積できる道具です。<br>この道具は&7《&1マナタブレット&7／Mana Tablet》&0に似た振る舞いをし、&7《&1マナプール&7／Mana Pool》&0に投げ込むことで&4マナ&0を蓄積できます。ただし、&4マナ&0を取り出すことはできないので貯蔵手段としては使用できません。
+botania.page.terraPick1=蓄積された&4マナ&0の量によって道具の&4ランク&0が決定されます。初期状態のランクは&4D&0であり、そこから&4C&0、&4B&0、&4A&0、&4S&0、&4SS&0と上がっていきます。<br>ランクを上げるのに必要な&4マナ&0の量は、上のランクになるほど増えていきます。例えば、&4D&0から&4C&0に上げるには、&7《&1マナプール&7／Mana Pool》&0に数秒入れるだけです。
+botania.page.terraPick2=ランク&4C&0から&4B&0に上げるには満杯の&7《&1マナプール&7／Mana Pool》&0が必要になり、それ以降はランクごとにコストが10倍になり、最終的に&4SS&0に辿り着きます。<br>このランクは採掘速度には影響せず、&4アクティブ能力&0の効果を上昇させます。<br>この能力は右クリックで切り替えることができます。
+botania.page.terraPick3=能力が有効の間、採掘範囲が拡張された範囲のブロックを破壊できるようになります。ランク&4C&0では小さな列ですが、&4B&0になると正方形になり、それ以降は範囲が広がっていきます。ランク&4D&0にはこの能力はありません。<br>この能力が有効になっている間、採掘に使用していなかったとしても自動的にストレージから&4マナ&0を消費します。
+botania.page.terraPick4=最後に、この道具は1ブロック破壊するごとに耐久値を消費するので、高ランクで使用するならインベントリに&4マナ&0の供給源を持っていることをおすすめします。なぜなら、&7《&1テラスチール&7／Terrasteel》&0で作られているので&7《&1マナスチールの道具&7／Manasteel Tools》&0と同様に耐久値の代わりに&4マナ&0を消費できます。<br>通常のドロップアイテムのようにデスポーンすることもありません。
+botania.page.terraPick5=We're mining in the Database Wow Wow
 
 # -- ROD OF THE SEAS
 botania.entry.waterRod=海の杖
@@ -3586,10 +3586,10 @@ botania.page.worldSeed0=&7《&1世界の種&7／World Seed》&0は、使用者�
 botania.page.worldSeed1=心があるところ
 
 # -- SPELLBINDING CLOTH
-botania.entry.spellCloth=Spellbinding Cloth
-botania.tagline.spellCloth=Cloth that can be combined to with items to remove enchants
-botania.page.spellCloth0=Combining &1Wool&0 with some &4Mana&0 in the form of a &1Mana Pearl&0 allows for one to create a type of cloth that will absorb any &4Enchantments&0 it comes in contact with.<br>Combining the &1Spellbinding Cloth&0 with any enchanted item in a crafting table will remove all enchants from that item at the cost of some of the cloth's durability.
-botania.page.spellCloth1=Oldest item in the book
+botania.entry.spellCloth=呪文が織られた布
+botania.tagline.spellCloth=エンチャントを拭い取るための布
+botania.page.spellCloth0=&7《&1羊毛&7／Wool》&0と&7《&1マナパール&7／Mana Pearl》&0の形にした&4マナ&0を組み合わせることで、触れた&4エンチャント&0を吸収する布を作ることができます。<br>エンチャントされたアイテムを&7《&1呪文が織られた布&7／Spellbinding Cloth》&0と一緒にクラフトすると、布の耐久値を消費する代わりに、すべてのエンチャントが削除されます。
+botania.page.spellCloth1=この本で最古の項目
 
 # -- THORN CHAKRAM
 botania.entry.thornChakram=Thorn Chakram

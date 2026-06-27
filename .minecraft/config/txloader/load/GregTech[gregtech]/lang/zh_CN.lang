@@ -228,7 +228,7 @@ gt.blockmachines.output_hatch_me.desc=为多方块机器输出流体\n直接存�
 gt.blockmachines.output_hatch_void.desc=销毁来自多方块结构的流体\n必须配置才能工作\n模仿容量有限仓室的行为
 gt.blockmachines.input_bus.desc=为多方块机器输入物品\n使用螺丝刀Shift+右键点击开启/关闭自动整理\n容量：%s组
 gt.blockmachines.input_bus.singular.desc=为多方块机器输入物品\n使用螺丝刀Shift+右键点击开启/关闭自动整理\n容量：%s组
-gt.blockmachines.input_bus_chisel.desc=§e工业3D打印机§7的输入总线\n%s + %s 槽位
+gt.blockmachines.input_bus_chisel.desc=§e工业3D复印机§7的输入总线\n%s + %s 槽位
 gt.blockmachines.input_bus_crafting_me.desc=机器类型：§e样板输入仓室§r，§eCRIB§r\n为多方块机器输入物品（进阶）\n仓室等级：%s\n直接对接ME网络处理其中的样板，为每个样板提供输入隔离\n%s手持剪线钳右键以改变仓室与ME网络的连接模式\n忽略其他输入仓与输入总线中的物品与流体\n忽略同一样板输入仓室中的其他样板
 gt.blockmachines.input_bus_crafting_me.support_fluid.desc=支持包含流体的样板
 gt.blockmachines.input_bus_crafting_me.not_support_fluid.desc=不支持包含流体的样板
@@ -1507,7 +1507,7 @@ GTPP.algae.brown_algae.name=褐藻
 GTPP.algae.yellow-green_algae.name=黄藻
 
 # Power Goggles
-GT5U.power_goggles.open_config_gui=打开能量护目镜配置
+GT5U.power_goggles.open_config_gui=打开能源护目镜配置
 GT5U.power_goggles.toggle_power_chart=切换护目镜功率图表
 GT5U.power_goggles.toggle_measurements_section=切换能源护目镜测量图
 GT5U.power_goggles.link_lsc=护目镜已连接至位于%d,%d,%d的兰波顿超级电容库。
@@ -1544,11 +1544,11 @@ GT5U.power_goggles_config.sub_text_scale=副文本比例
 GT5U.power_goggles_config.hud_scale=HUD比例
 
 GT5U.power_goggles_config.gradient_bad=减少时渐变颜色
-GT5U.power_goggles_config.gradient_bad_tooltip=改变当随着EU电量越来越低时，矩形的渐变色趋向于的颜色。
+GT5U.power_goggles_config.gradient_bad_tooltip=改变当随着电量越来越低时，矩形的渐变色趋向的颜色。
 GT5U.power_goggles_config.gradient_ok=一般时渐变颜色
-GT5U.power_goggles_config.gradient_ok_tooltip=改变当EU电量变化率接近0时，矩形的渐变色趋向于的颜色。
+GT5U.power_goggles_config.gradient_ok_tooltip=改变当电量变化率接近0时，矩形的渐变色趋向的颜色。
 GT5U.power_goggles_config.gradient_good=增长时渐变颜色
-GT5U.power_goggles_config.gradient_good_tooltip=改变当随着EU电量越来越高时，矩形的渐变色趋向于的颜色。
+GT5U.power_goggles_config.gradient_good_tooltip=改变当随着电量越来越高时，矩形的渐变色趋向的颜色。
 
 GT5U.power_goggles_config.background_color=图表背景颜色
 GT5U.power_goggles_config.background_color_tooltip=影响电力图表的背景颜色
@@ -1564,11 +1564,11 @@ GT5U.power_goggles_config.background_lines_color=测量面板背景颜色
 GT5U.power_goggles_config.background_lines_color_tooltip=影响测量面板的背景颜色
 
 GT5U.power_goggles_config.text_bad=糟糕的文字颜色
-GT5U.power_goggles_config.text_bad_tooltip=改变当EU为减少时，文本和功率图的颜色
+GT5U.power_goggles_config.text_bad_tooltip=改变当电量减少时，文本和功率图的颜色
 GT5U.power_goggles_config.text_ok=还行的文字颜色
-GT5U.power_goggles_config.text_ok_tooltip=改变当EU不改变时，文本和功率图的颜色
+GT5U.power_goggles_config.text_ok_tooltip=改变当电量不变时，文本和功率图的颜色
 GT5U.power_goggles_config.text_good=良好的文字颜色
-GT5U.power_goggles_config.text_good_tooltip=改变当EU为增加时，文本和功率图的颜色
+GT5U.power_goggles_config.text_good_tooltip=改变当电量增加时，文本和功率图的颜色
 
 GT5U.maglevHarness.tooltip=在能量塔范围内时获得创造飞行
 GT5U.maglevHarness.pylons=§9您必须建造更多的能量塔！
@@ -6168,7 +6168,7 @@ gt.blockmachines.magical.maintenance.desc.2=§eAer§7，§aTerra§7，§cIgnis§
 gt.blockmachines.multimachine.foundry.basemodule=安装在异星铸造塔上时：
 gt.blockmachines.multimachine.foundry.modulelimit=- 每台§6铸造塔§7限§f1§7个
 gt.blockmachines.multimachine.foundry.tier=- 阶段：%s
-gt.blockmachines.multimachine.foundry.chassis1.flavor=撕裂无尽
+gt.blockmachines.multimachine.foundry.chassis1.flavor=打破无限
 gt.blockmachines.multimachine.foundry.chassis2.flavor=成为永恒
 gt.blockmachines.multimachine.foundry.chassis3.flavor=飞升现实
 
@@ -6878,8 +6878,8 @@ gt.cover.info.button.tick_rate.3=按住Ctrl点击一次调整更大幅度
 gt.cover.info.button.bounds_notification.minimum=§7（最小）§r
 gt.cover.info.button.bounds_notification.maximum=§7（最大）§r
 gt.cover.wirelessdetector.redstone.tooltip=更改这些覆盖版的红石输出行为
-gt.cover.wirelessdetector.redstone.0=§8只有一个无线信号
-gt.cover.wirelessdetector.redstone.1=§8无线信号 & 直接红石
+gt.cover.wirelessdetector.redstone.0=§8Only a wireless signal
+gt.cover.wirelessdetector.redstone.1=§8Wireless signal & direct Redstone
 gt.time.tick.singular=t
 gt.time.tick.plural=t
 gt.time.second.singular=秒
@@ -8211,9 +8211,9 @@ gt.blockcasingsNH.14.name=MAX机械方块
 
 gt.foundrycasings.name=铸造机械方块
 gt.foundrycasings.0.name=异星铸造塔基础机械方块
-gt.foundrycasings.1.name=无尽磁力塔架
+gt.foundrycasings.1.name=无限磁力塔架
 gt.foundrycasings.2.name=永恒磁力塔架
-gt.foundrycasings.3.name=天体磁力塔架
+gt.foundrycasings.3.name=天神磁力塔架
 gt.foundrycasings.4.name=宇宙坍缩者机械方块
 gt.foundrycasings.5.name=感知超频机械方块
 gt.foundrycasings.6.name=原型电压稳定机械方块

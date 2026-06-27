@@ -556,6 +556,21 @@ guidenh.mediawiki.special.searchtranslations=Поиск страниц по яз
 guidenh.mediawiki.special.translationstatistics=Прогресс перевода
 guidenh.mediawiki.special.contribute=Авторы
 
+# Site export
+guidenh.siteexport.search.label=Поиск
+guidenh.siteexport.search.placeholder=Search pages
+guidenh.siteexport.search.emptyTemplate=No matches for "{{query}}"
+guidenh.siteexport.languages.label=Языки
+guidenh.siteexport.languages.fallbackBadge=Отступ
+guidenh.siteexport.languages.fallbackPrefix=Fallback from
+guidenh.siteexport.languages.sharedPage=Shared page
+guidenh.siteexport.language.en_us=Английский
+guidenh.siteexport.language.zh_cn=Упрощённый китайский
+guidenh.siteexport.language.zh_tw=Традиционный китайский
+guidenh.siteexport.language.ja_jp=Японский
+guidenh.siteexport.language.ko_kr=Корейский
+guidenh.siteexport.language.ru_ru=Русский
+
 # BetterQuesting compatibility
 guidenh.compat.bq.hidden=[Скрытый квест]
 guidenh.compat.bq.locked=[Заблокированный квест]

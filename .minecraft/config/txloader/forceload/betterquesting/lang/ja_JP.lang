@@ -2750,7 +2750,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMAg.desc=古き良き Advanced Solar Pan
 
 # Quest: Niobium-Titanium
 betterquesting.quest.EYcEN-yhRDyXfOGtQjWyLg.name=§8§lNiobium-Titanium
-betterquesting.quest.EYcEN-yhRDyXfOGtQjWyLg.desc=Niobium-Titanium isn't used for much, but it does make a decent LuV-capable cable. It can also be used to make an HV Field Generator... let's make enough for one right now!
+betterquesting.quest.EYcEN-yhRDyXfOGtQjWyLg.desc=Niobium-Titanium isn't used for much, but it can be used to make a decent LuV-capable cable. You'll also need it later to craft the IV Superconductor, the HV Field Generator, and a variety of other components.
 
 # Quest: Four fluids in the one Hatch!
 betterquesting.quest.JkWQZxq_TECWjHhjywrZZA.name=§8§n四種類の流体が一つのハッチに！
@@ -2784,10 +2784,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=IV-Level. You will need Tungste
 # Quest: On Your Way to Asteroids and Other Rocket Tier 3 DIMs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=§9§lOn Your Way to Asteroids and Other Rocket Tier 3 DIMs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.desc=There's some good stuff in the asteroids, so you should stop by. Especially for the naquadah.
-
-# Quest: Niobium-Titanium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8g.name=§9§nニオブチタン
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF8g.desc=Niobium-Titanium becomes more important in LuV Tier. It needs an EV Mixer to mix and an Electric Blast Furnace with TPV heating coils.
 
 # Quest: Callisto Trip
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF_Q.name=§9§nカリスト旅行
@@ -7083,7 +7079,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADDQ.name=§6§lStill Not Enough Charcoal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADDQ.desc=This oven is the best way to get charcoal and creosote (x50 faster than the Coke Oven) and other byproducts. You will need tons of bronze, iron and steel to build it, but it's worth it. Finally, it will be possible to dismantle the charcoal pit.%n%nWith Cupronickel coils the oven is a bit slower. Each coil tier speeds up the charcoal production.
 
 # Quest: It's Time to Get More Steam
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.name=§6§lIt's Time to Get More Steam
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.name=§6§nもっと蒸気が必要だ
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEA.desc=As soon as you have the ability to store energy in large quantities, it would be necessary to have a way to generate energy in large quantities. You need a large bronze boiler. But in order to make this boiler, you will need a mountain of bronze. This boiler produces 800L of steam per tick. This is enough to run 10 basic steam turbines.%n%nThe large boiler can use either water or distilled water. Water is consumed at a rate of 1L of water per 160L of steam.%n%nTo make a large boiler you must make a 3x3x5 structure with Bronze Pipe Casings in the center of the middle 3 levels. The lowest level must contain at least 1 or 2 input hatches, 1 or 2 input buses, 3 or 4 fireboxes, 1 muffler, and one maintenance hatch. The lowest level can not contain any plated bricks. All hatches, buses, and mufflers must have their back side touching a firebox. The output hatch can be placed on any of the upper 4 levels.%n%n§cWarning: Different from other boilers, Large Boilers must contain water at all times while active. If at any point the Boiler runs out of water while it is active, it will explode.
 
 # Quest: Steam is Never Enough
@@ -8520,7 +8516,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAALqw.desc=MVでは、石油の効率が�
 
 # Quest: Distillation Tower
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALrA.name=蒸留塔
-betterquesting.quest.AAAAAAAAAAAAAAAAAAALrA.desc=In HV, your oil processing options soar to new levels of complexity, and efficiency. Many of the processing multis that can be used are unlocked in this tier, and one of the most iconic is the Distillation Tower, the direct upgrade of the Distillery.%n%nThis tower can do actual fractional distillation, a process used in real life petrochemistry to separate oil into many different parts, based on their boiling points. The tall structure is required for the process, because the condensation of the vapors occurs in different temperatures. And since heating is only applied at the bottom, temperature drops the higher the vapor travels. This means that compounds with higher boiling points will condense sooner and will end up lower in the column, the opposite is also applicable for compounds with low boiling points.%n%nThat said, the Distillation Tower replaces Distilleries by allowing you to collect all fractions at once, from the same amount of input. This means that the tower is both more efficient, and also allows automation of all the outputs at the same time, but this comes at a cost: the controller needs EV circuits, which require a built Cleanroom, and the structure blocks are mostly made of Stainless Steel. Not only that, but the tower's height depends on the recipe, since each output needs its own height level to successfully be extracted. A max-height, 12-block tall DT can cost almost a dozen stacks of stainless to build, a very expensive multi for the tier.%n%nInstead of doing that, the first DT you should build is a 5-block tall one, to distill the Oil you're pumping out of reservoirs. Doing this, you can get all the fractions at once, for a reasonably cheap multi, compared to its maximum size.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAALrA.desc=HVになると、石油処理の効率、そして複雑さは急上昇します。%nこのTierでは様々な処理に使えるマルチブロック機械が大量に解放されます。その象徴が、蒸留機のアップグレード版である§7《§r蒸留塔§7／Distillation Tower》§rです。%n%n蒸留塔は、沸点の違いを利用して石油の成分を分ける、分留というプロセスを担います。これは現実の石油化学でも用いられる方法です。%n高さが高くなっているのは、異なる温度で気体を凝縮させるためです。加熱されるのは最下段のみであるため、気体が上昇するにつれて温度が低下していきます。すなわち、沸点の高い成分は下方の段で早期に凝縮し、沸点の低い成分は上方の段で凝縮するということです。%n%n蒸留塔は蒸留機と同じ入力量ですべての分画の成果物を同時に回収できるため、蒸留機の上位互換といえます。蒸留塔を使えばより効率的に、すべての出力物を自動化することが可能になるのです。%nしかし、利便性にはコストがつきものです。本体のクラフトには§7《§rクリーンルーム§7／Cleanroom》§rの運用が必須となるEV回路が要求され、構成ブロックはほとんど§7《§rステンレススチール§7／Stainless Steel》§r製です。それだけでなく、分画ごとに構造を1段高くしなければならないため、レシピによってはかなりの高さが必要になります。最大サイズである高さ12ブロックの蒸留塔には、およそ10スタックものステンレスが必要になります。これは現在のTierにおいては非常に高価です。%n%nそんなに高く作るのではなく、油田から汲み上げた石油を蒸留するために必要最低限となる、高さ5ブロックの蒸留塔を建造しましょう。これですべての分画を一度に得られることを考えれば、それなりに安いマルチブロックといえるでしょう。
 
 # Quest: The Era of Multis
 betterquesting.quest.AAAAAAAAAAAAAAAAAAALrQ.name=マルチブロック時代
@@ -8697,7 +8693,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGg.desc=MVの電圧Tierへ進んだ今�
 
 # Quest: Biodiesel Alternative
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGw.name=Biodiesel Alternative
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGw.desc=Trees are not the only source of power for the renewable enjoyer, though. You can continue to expand your wood production to sustain yourself, but you can also avoid the Charcoal business altogether! There are some naturally-sourced, energetic oils that can be processed into a greener alternative of what oil pumping can lead you to, in this tier. While crude oil turns into Diesel, this oil turns into Biodiesel!%n%nIn general, Biodiesel has less power per bucket than Diesel, which is its main drawback, to compensate for the renewable sources. You could source both of them from plants, but Oilberries are slow compared to the option you might use, Canola flowers or Goldfish. They are an excellent source of Seed Oil or Fish Oil, and their output scales with their stats!%n%nBetween the two, Goldfish have a faster fluid extraction recipe, so they are often recommended for that reason, although it's not a dealbreaker. It's recommended that you get high-statted crops if you want to follow this route, although it is not a necessity, because there are other options that never go into these crops.%n%nHow many options are there, really? There are many, but they can be divided into 3 categories, and that's what the quest tasks focus on: CropsNH with a Crop Manager, regular crops in a Multifarm or automatic fishing in a fish trap. All of them are sources of a biological oil, either Seed Oil or Fish Oil, which can then be processed into Biodiesel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAMGw.desc=Trees are not the only source of power for the renewable enjoyer. You can continue expanding your wood production, but you can also skip the Charcoal business entirely. Instead of refining crude oil into Diesel, you can produce Biodiesel from renewable biological oils.%n%nBiodiesel generally provides less energy per bucket than Diesel, which is the tradeoff for using renewable resources.%n%nThere are several ways to produce the required Seed Oil or Fish Oil:%n%nCropsNH: Grow high-stat Canola or Oilberries. Canola is generally preferred due to its higher throughput than most other seeds.%n%nRegular farming: Automate crops such as Peanuts or other seed-producing crops to obtain Seed Oil without using CropsNH.%n%nFishing: Catch Cod or other fish to obtain Fish Oil.%n%nAnother good option is to farm Goldfish with CropsNH, which yields at least twice as much oil per extraction operation.%n%n[note]Crop stats improve the output of CropsNH plants, making them worthwhile if you choose that route, but they are by no means required. Whether you use CropsNH, conventional farming, or automated fishing, all three paths ultimately produce biological oil that can be refined into Biodiesel.[/note]
 
 # Quest: The Two Alcohols
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAMHA.name=The Two Alcohols
@@ -14553,7 +14549,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3Q.desc=このModpackに入っている
 
 # Quest: Nobody Wants an Explosion...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3w.name=§6§n誰も爆発なんか望んじゃいない...
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3w.desc=...ですよね？%n%nなのでマルチブロック設備を設置する際は、§n電気§r機械が雨や雪を嫌うという仕様を思い出すようにしてください。%n%n機械は悪天候をそのまま受けると、燃えだしてしまい、そしてその火で爆発を引き起こす可能性があります。機械は誘爆するという仕様も持つため、あなたの拠点全体が穴ぼこだらけになってしまうでしょう。%n%nこれは、このModpackにバックアップModがデフォルトで導入されている理由の一つです。設置場所の検討は慎重に行うように！%n%nもし、最悪の事態が発生した場合...%n爆発した原因を追跡するため、logs/Explosion.logを参照するという手があります。しかし、このファイルはワールド読み込み時にリセットされてしまうため、注意が必要です。%n%nより詳細な仕様については、 §7《§rヒントとコツ§7／Tips and Tricks》§r の §7《§c安全第一§7／Safety First》§r クエストを参照してください。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF3w.desc=...ですよね？%n%nなのでマルチブロック設備を設置する際は、§n電気§r機械が雨や雪を嫌うという仕様を心に留めておいてください。%n%n機械は悪天候をそのまま受けると、燃えだしてしまい、そしてその火で爆発を引き起こす可能性があります。機械は誘爆するという仕様も持つため、あなたの拠点全体が穴ぼこだらけになってしまうでしょう。%n%nこれは、このModpackにバックアップModがデフォルトで導入されている理由の一つです。設置場所の検討は慎重に行うように！%n%nもし、最悪の事態が発生した場合...%n爆発した原因を追跡するため、logs/Explosion.logを参照するという手があります。しかし、このファイルはワールド読み込み時にリセットされてしまうため、注意が必要です。%n%nより詳細な仕様については、 §7《§rヒントとコツ§7／Tips and Tricks》§r の §7《§c安全第一§7／Safety First》§r クエストを参照してください。
 
 # Quest: Not Enough Items - Now with Bookmarks and Recent History!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF4Q.name=§a§nNot Enough Items - ブックマーク追加と最近の更新履歴！

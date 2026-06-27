@@ -1071,7 +1071,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACaA.desc=要得到汞，可以离心红�
 
 # Quest: Sulfuric Acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACag.name=§2§l硫酸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACag.desc=用化学反应釜搅拌硫化氢跟水，可以得到用于一次性电池的硫酸。 不过现在你得先造点二氧化硫。%n%n不过要是你之前制作过一些轻燃油的话，你也许有剩下些硫化氢，而它也可以转化为硫酸（只需经过一点点步骤）。如果你把它自动化了，那肯定多得没地方放。 而当你有了大型化学反应釜之后，就可以直接将硫化氢制成硫酸了。 请注意别只把硫酸用于一次性电池，它还有许多其他用途。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACag.desc=在化学反应釜中混合三氧化硫和水，可以得到用于一次性酸性电池的硫酸。不过你得先制作二氧化硫。%n%n要是你之前制作过轻燃油的话，你会有一些能用于制取硫酸（需要若干步骤）的硫化氢——特别是如果你造了自动化产线，大概会有很多很多。当你有了大型化学反应釜，就可以直接将硫化氢制成硫酸了。记住，到那时硫酸将会用于制作其他东西，而不是用于制作酸性电池。
 
 # Quest: IC2 Battery
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.name=§2§lIC2电池
@@ -1274,7 +1274,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2w.name=§2§l化学浸洗机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF2w.desc=等等，什么？你想从矿石中获得更多副产物吗？或者用更便宜的方式造纸？那么，化学浸洗机是你的不二之选！%n%n只需提供汞等流体，就能从矿石中提取不同的产物，如镍，银，铜和铂（以铂金属粉的形式）。%n%n至于生产纸张，你只需要一些水和木浆。也许你还会发现它的更多用途！
 
 # Quest: Biomes Everywhere, But Not the One You Want?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5g.name=§2§l生物群系无处不在，但不是你想要的那个？
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5g.name=§2§l生物群系无处不在，却偏偏找不到你想要的那个？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAF5g.desc=厌倦了在地图上到处找竹林或热带雨林？急需黏土粉，需要找到峡谷或平顶山生物群系？生物群系指南针将引导你找到其搜索范围内你所需的生物群系。%n%n译者注：服务器慎用！%n%n指南针菜单栏有以下功能：%n* 当模式为“排序方式： 名字”时，你可以用名字或者部分名字来筛选列表。搜索是不分大小写的。%n* 你可以按关键词以及其组合搜索。例如：“名字： bamboo, 气候： 温暖， 基础高度： -1.8, 标签： forest”。%n所有可用的关键词：%n名字，%n气候 ［地狱/炎热/温暖/正常/寒冷/酷寒］，%n基础高度 | bh （小数，可以是负的），%n高度偏差 | hv （小数），%n降水量 | rain （小数），%n温度 | temp （小数），%n湿度 ［湿润/正常/干燥］，%n标签。%n%n需要注意的几点：%n* 其他维度的生物群系也会显示在列表里，但只需要注意本维度的生物群系即可。%n* 通常，整个列表包括了不会被“真实世界生成模组”生成的生物群系，比如Sunflower Plains。%n* 半径（Radius）10000意思是在范围内找不到该生物群系。这种情况下，在初始搜索后，其菜单将仅显示半径为10k的生物群落。使用 Shift+右键 再次查看整个列表。 %n* 你可以换个地方重新尝试搜索 - 搜索范围是半径10k。%n* 各种mod添加的人造生物群系也会在列表中显示，如果你只想找Natural自己的群系，可以移除它们。%n* 在同一类别下有许多不同“版本”的生物群系，所以如果你想要为热带蜂寻找热带生物群系，实际上有许多选择。%n* 对于那些不介意搜索时界面卡住的人，可以在配置中修改半径。HUD显示位置也可以在配置中修改。
 
 # Quest: Portable Tanks Too Small?
@@ -4473,7 +4473,7 @@ betterquesting.quest.RAH2M4DoTTaX5a2Sj4hRcQ.desc=经过数小时的折磨、血�
 
 # Quest: Atto Power ICs
 betterquesting.quest.S1s9Qw2yQgGm0cKw-W1yvQ.name=§9§l§n阿米功率IC
-betterquesting.quest.S1s9Qw2yQgGm0cKw-W1yvQ.desc=§5§f你需要阿米级功率IC来制造戴森球、UMV到UXV变压器、UIV级能量/动力仓以及皮米级电路。%n%n[note]你需要一台UIV级切割机——等一下，什么？[/note]%n%n从现在开始，你的切割机将无法胜任这一工作，§l§o无论如何也不行。§r那些巨大的锯片无法切割如此精密的晶圆。%n%n使用你的高强度激光蚀刻机是下一个最佳选择，但这似乎会将晶圆上大部分生物元件烧毁，导致你获得的芯片数量减少。%n%n[note]也许我们可以用一种更好的透镜来聚焦这些激光。[/note]
+betterquesting.quest.S1s9Qw2yQgGm0cKw-W1yvQ.desc=§5§f你需要阿米功率IC来制造戴森球、UMV到UXV变压器、UIV级能量/动力仓以及皮米级电路。%n%n[note]你需要一台UIV级切割机——等一下，什么？[/note]%n%n从现在开始，你的切割机将无法胜任这一工作，§l§o无论如何也不行。§r那些巨大的锯片无法切割如此精密的晶圆。%n%n使用你的高强度激光蚀刻机是下一个最佳选择，但这似乎会将晶圆上大部分生物元件烧毁，导致你获得的芯片数量减少。%n%n[note]也许我们可以用一种更好的透镜来聚焦这些激光。[/note]
 
 # Quest: Getting More Out of Your Hypogen
 betterquesting.quest.SoOmxNJvRcqY-ofFsWbyoQ.name=§9§l§n从你的第一块海珀珍中增殖更多
@@ -4715,7 +4715,7 @@ betterquesting.quest.2rrP1wt_Qt2LlOqDppdjLQ.desc=普朗克尺度电路，本整�
 
 # Quest: Strings Upon Strings Upon Strings Upon-
 betterquesting.quest.3jUq4tkmRty9x5vvnqtD9w.name=§4§l§n线缠着弦，弦缠着线……
-betterquesting.quest.3jUq4tkmRty9x5vvnqtD9w.desc=算力发展得太快了！我们已经到达了极其微观的尺度！它看起来怎么能这么炫酷！人类大脑根本理解不了普朗克制程流形的机理！%n好在我们有GREGOS替我们理解它！%n%n[note]普朗克尺度流形在纳米芯片组装复合体中制造，与电路具有类似的特征。[/note]%n%n[warn]严禁入口。[/warn]
+betterquesting.quest.3jUq4tkmRty9x5vvnqtD9w.desc=算力发展得太快了！我们已经到达了极其微观的尺度！它看起来怎么能这么炫酷！人类大脑根本理解不了普朗克尺度流形的机理！%n好在我们有GREGOS替我们理解它！%n%n[note]普朗克尺度流形在纳米芯片组装复合体中制造，与电路具有类似的特征。[/note]%n%n[warn]严禁入口。[/warn]
 
 # Quest: Tier 13 (UXV)
 betterquesting.quest.7wI7VuLKRe6lqAJpuYKKJg.name=§4§l§n第13阶段（UXV）
@@ -4795,7 +4795,7 @@ betterquesting.quest.hNdNrT_aSKaYi_TnT7cowA.desc=几乎和真的一样昂贵，�
 
 # Quest: T3 Exo-Foundry
 betterquesting.quest.iLn_-6-LSk-wEOfi9muW3w.name=§4§l§nT3 异星铸造塔
-betterquesting.quest.iLn_-6-LSk-wEOfi9muW3w.desc=既然你搞到了永恒，那么终于能把§n异星铸造塔§r升到最终阶段了！%n%n这些§6§l天体磁力塔架§r能让你的铸造塔最多安装四个模块，解锁最强组合。%n%n[note]不知道选哪些模块？可以去 Wiki 找找灵感：[url]https://gtnh.huijiwiki.com/p/93395[/url][/note]
+betterquesting.quest.iLn_-6-LSk-wEOfi9muW3w.desc=既然你搞到了永恒，那么终于能把§n异星铸造塔§r升到最终阶段了！%n%n这些§6§l天神磁力塔架§r能让你的铸造塔最多安装四个模块，解锁最强组合。%n%n[note]不知道选哪些模块？可以去 Wiki 找找灵感：[url]https://gtnh.huijiwiki.com/p/93395[/url][/note]
 
 # Quest: A Minor Roadblock
 betterquesting.quest.itcSYyc3Tdq9Q1qrP5RoEg.name=§4§l§n只是个小小的路障
@@ -6271,7 +6271,7 @@ betterquesting.quest.HrZv5S5MRLS38lNV93yEnQ.desc=目前3级仅新增了三种强
 
 # Quest: Basic Mechanical Armor
 betterquesting.quest.Ta-VKcQFSpejtRIkB650qg.name=基础机械装甲
-betterquesting.quest.Ta-VKcQFSpejtRIkB650qg.desc=要把你的机械外骨骼从一堆废铁变成动力装甲，你需要核心和框架。%n%n基础能量核心能让你的装甲以HV电压充电，并装备1级强化模块。%n%n三种骨架各自提供3个不同类别的强化模块插槽。根据你需要装备的强化模块来挑选！
+betterquesting.quest.Ta-VKcQFSpejtRIkB650qg.desc=要把你的机械外骨骼从一堆废铁变成动力装甲，你需要核心和框架。%n%n基础能量核心能让你的装甲以HV电压充电，并且能装备1级强化模块。%n%n三种骨架各自提供3个不同类别的强化模块插槽。根据你需要装备的强化模块来挑选！
 
 # Quest: Perfected Energy Core
 betterquesting.quest.YXYbS-DuTuK7ISAjGV874A.name=完美的能量核心
@@ -6287,7 +6287,7 @@ betterquesting.quest.tgH86mIERWKIh8OAleKrSw.desc=LV就能制作，怪物驱逐�
 
 # Quest: Advanced Mechanical Armor
 betterquesting.quest.z7sXK-B1SSyRD9ukAs1JEw.name=进阶机械装甲
-betterquesting.quest.z7sXK-B1SSyRD9ukAs1JEw.desc=既然来到了IV阶段，你就可以解锁机械装甲的下一套升级，获得更多插槽和新的强化模块。%n%n量子能量核心将使你的装甲能够以IV电压充电，并装备2级强化模块。%n%n此阶段的骨架提供5个强化模块插槽。自适应框架拥有独特的§6通§a配§d符§r插槽，可接受任何类别的强化模块！
+betterquesting.quest.z7sXK-B1SSyRD9ukAs1JEw.desc=既然来到了IV阶段，你就可以解锁机械装甲的下一套升级，获得更多插槽和新的强化模块。%n%n量子能量核心使你的装甲能以IV电压充电，并且能装备2级强化模块。%n%n此阶段的骨架提供5个强化模块插槽。自适应框架拥有独特的§6通§a配§d符§r插槽，可接受任何类别的强化模块！
 
 # Quest: Perfected Armor Frame
 betterquesting.quest.zWyFqJfWTGKjw63-EG7DDw.name=完美的装甲骨架
@@ -7415,7 +7415,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjQ.desc=大规模的破坏！或者最�
 
 # Quest: The Rocks In The Washer...
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjg.name=§8§l洗矿厂里的矿石……
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjg.desc=……转啊转，转了一整天。一个大型的洗矿厂可以将你的矿石变得干净又整洁。%n%n§5§l工业洗矿厂§r有着§2§l5倍§r的速度加成，比起它的单方块机器来说，每提升一个电压，都会增加§6§l4§r次并行。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjg.desc=……转啊转，转了一整天。一个大型的洗矿厂可以将你的矿石变得干净又整洁。%n%n§5§l工业洗矿厂§r相比其单方块版本有着§2§l5倍§r的速度加成和每电压等级§6§l4§r并行。
 
 # Quest: Dancing In Circles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAFjw.name=§8§l旋转，跳跃
@@ -7435,7 +7435,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7g.desc=奶奶，你能教我们巧克�
 
 # Quest: Play-Doh For Big Girls and Boys
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.name=§9§l大男孩大女孩的大玩具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.desc=我不想长大，我想跟§5§l大压模机玩§r。它提供§2§l3.5倍§r的工作速度，电压每提升一级，增加§6§l6§r次并行。%n%n你可以安装多个输入总线，然后每个输入总线放一个不同的模头，之后就可以把物品放进压制对应物品的总线里。%n%n你也可以使用[[Extrusion Bus]]。这种输入总线更贵，但预置了所有的模头可供手动设置，因此你无需自己制作。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAH7w.desc=我不想长大，我想跟§5§l大压模机玩§r。它提供§2§l3.5倍§r的工作速度，电压每提升一级，增加§6§l6§r次并行。%n%n你可以安装多个输入总线，然后每个输入总线放一个不同的模头，之后就可以把物品放进压制对应物品的总线里。%n%n你也可以使用压模总线。这种输入总线更贵，但预置了所有的模头可供手动设置，因此你无需自己制作。
 
 # Quest: Best Thing Since Sliced Bread
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAH8A.name=§9§l最好的切面包机
@@ -14295,7 +14295,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=如果你的快捷栏中有绑�
 
 # Quest: Industrial 3D Copying Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.name=§8§l工业3D复印机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=需要大量的凿制方块？%n%n§5§l工业3D打印机§r将是你的不二之选。它每个电压等级提供多达§6§l16§r个并行数，以§2§l3倍§r速度运行，且仅消耗§3§l75%%§r的EU能量。%n%n建议使用凿子总线来自动化，因为这种输入总线能让你处理多种不同方块的配方，而无需像使用普通输入总线时一样手动更换控制器中的方块。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=需要大量的凿制方块？%n%n§5§l工业3D复印机§r将是你的不二之选。它每个电压等级提供多达§6§l16§r个并行数，以§2§l3倍§r速度运行，且仅消耗§3§l75%%§r的EU能量。%n%n建议使用凿子总线来自动化，因为这种输入总线能让你处理多种不同方块的配方，而无需像使用普通输入总线时一样手动更换控制器中的方块。
 
 # Quest: Draconic Evolution
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=§4§l§n§6§l龙之进化
@@ -14839,7 +14839,7 @@ betterquesting.quest.Rg0l66VnRsKlUZ0VTO3ilA.desc=§5§l感知超频器§r（SO�
 
 # Quest: Large Hadron Collider
 betterquesting.quest.TL8RVz_HTBO5LvkI6SQi6A.name=§2§l§n大型强子对撞机
-betterquesting.quest.TL8RVz_HTBO5LvkI6SQi6A.desc=要获得比简单的质子、中子和电子更奇异的粒子？那你就得用上大型强子对撞机。它可以把任何带电粒子当作输入——来自其他能产出高能粒子的多方块结构，比如高能粒子辐射激发源室。%n%n大型强子对撞机的四个模块，每个都能产出不同的粒子。要让某种特定粒子出现在输出里，§b碰撞能量§r必须大于该粒子的§d静止质量§r（可以在 NEI 中查看 tooltip）。%n%n%n大型强子对撞机有两种模式：§l加速器§r模式和§l对撞机§r模式。%n%n§l加速器§r模式下，它会把你输入的束流加速到更高能量。这个过程以 1 秒为一个周期，每完成一个周期，束流能量就会增加一个固定数值。这个数值取决于该周期消耗了多少 EU。能量消耗会随着§9已完成周期数§r的平方而增长，同时也会随着束流中的粒子§c数量§r线性增长。%n%n你可以在 GUI 里设定目标§6束流能量§r和最大§9周期数§r。如果束流在达到最大周期数之前就达到了目标§6束流能量§r，那么后续每个完成的周期都会把束流中当前的粒子§c数量§r乘以 1.1，这样也会增加能量消耗。一旦达到最大§9周期数§r，大型强子对撞机就会自动切换到§l对撞机§r模式。%n%n§l对撞机§r模式下，束流会跟自己撞个满怀，产生各种粒子。每个大型强子对撞机模块只能检测并捕获某一类粒子——具体看这个粒子能和哪种基本力相互作用。所以有的粒子可能会出现在多个模块里。你可以用“过滤式束流输出仓”把不想看到的粒子加入黑名单，不让它们出来。%n%n§l[note]§l§b§l碰撞能量§r§l = 加速后的§6§l束流能量§r§l × 2§l[/note]
+betterquesting.quest.TL8RVz_HTBO5LvkI6SQi6A.desc=要获得比简单的质子、中子和电子更奇异的粒子？那你就得用上大型强子对撞机。它可以把任何带电粒子当作输入——来自其他能产出高能粒子的多方块结构，比如高能粒子辐射激发源室。%n%n大型强子对撞机的四个模块，每个都能产出不同的粒子。要让某种特定粒子出现在输出里，§b碰撞能量§r必须大于该粒子的§d静止质量§r（可以在 NEI 中查看 tooltip）。%n%n%n大型强子对撞机有两种模式：§l加速器§r模式和§l对撞机§r模式。%n%n§l加速器§r模式下，它会把你输入的束流加速到更高能量。这个过程以 1 秒为一个周期，每完成一个周期，束流能量就会增加一个固定数值。这个数值取决于该周期消耗了多少 EU。能量消耗会随着§9已完成周期数§r的平方而增长，同时也会随着束流中的粒子§c数量§r线性增长。%n%n你可以在 GUI 里设定目标§6束流能量§r和最大§9周期数§r。如果束流在达到最大周期数之前就达到了目标§6束流能量§r，那么后续每个完成的周期都会把束流中当前的粒子§c数量§r乘以 1.1，这样也会增加能量消耗。一旦达到最大§9周期数§r，大型强子对撞机就会自动切换到§l对撞机§r模式。%n%n§l对撞机§r模式下，束流会跟自己撞个满怀，并产生出全部类型的粒子。每个大型强子对撞机模块只能检测并捕获某一类粒子——具体看这个粒子能和哪种基本力相互作用。所以有的粒子可能会出现在多个模块里。你可以用“过滤式束流输出仓”把不想看到的粒子加入黑名单，以屏蔽这些粒子。%n%n§l[note]§l§b§l碰撞能量§r§l = 加速后的§6§l束流能量§r§l × 2§l[/note]%n%n%n
 
 # Quest: Steel Chest?
 betterquesting.quest.V4jinTYRSueIrEqn90dRzQ.name=§c§l钢箱子？
