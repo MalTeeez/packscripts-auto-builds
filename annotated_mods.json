@@ -1713,12 +1713,12 @@
         }
     },
     "OpenBlocks": {
-        "file_path": "./.minecraft/mods/OpenBlocks-1.12.17-GTNH.jar",
+        "file_path": "./.minecraft/mods/OpenBlocks-1.12.18-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.17-GTNH/OpenBlocks-1.12.17-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.18-GTNH/OpenBlocks-1.12.18-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "gregtech"
@@ -1729,14 +1729,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.12.17-GTNH",
+            "version": "1.12.18-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "f3e4684ee832ea72adf49af27675905c1453bc83dd296eb935fbd3dfa1a7b27e"
+            "sha256_sum": "56f8eee92359fa29a2f7ee5bc2ef18a7baa757fd80b9a81e1b66c3b0b4d5b6f4"
         }
     },
     "OpenComputers": {
@@ -3082,11 +3082,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.1.43.jar",
+        "file_path": "./.minecraft/mods/angelica-2.1.46.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.43/angelica-2.1.43.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.46/angelica-2.1.46.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3099,14 +3099,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.1.43",
+            "version": "2.1.46",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4328342018284dea0afc71a18f24f71e9215f12f33deb6201c3e5c89636aad26"
+            "sha256_sum": "6dd2e5d2250f2542e7f4de71ff9fc90fd95fccf3b7b0368688e88c1abe1a8f2a"
         }
     },
     "angermod": {
@@ -4143,25 +4143,25 @@
         }
     },
     "duradisplay": {
-        "file_path": "./.minecraft/mods/duradisplay-1.4.2.jar",
+        "file_path": "./.minecraft/mods/duradisplay-1.4.3.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.2/duradisplay-1.4.2.jar",
+        "source": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.3/duradisplay-1.4.3.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.4.2",
+            "version": "1.4.3",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "bde10c33c8a1bd21b0f37fba99a37bda58dd1307e9ad9b567fb19977a5484570"
+            "sha256_sum": "ed290fd246025f6fcc4c82140f8bd95fcd53f1a92502a711befda12fb6a44ed8"
         }
     },
     "endercore": {
