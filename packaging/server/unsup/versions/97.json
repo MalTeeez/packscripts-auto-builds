@@ -1,0 +1,77 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/backhand-1.8.10.jar",
+            "from_hash": "b34a88769a4ba61cb4cee6f6a20d279e069c1ae500dc2957ff2eba85aa44fb22",
+            "from_size": 148148,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.00.jar",
+            "from_hash": "c113936642a88d257dc7a1d7051ee35edd57795b0ab3d9dbf3941326f3be5e10",
+            "from_size": 68283416,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.01.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "69f8b1cb993e16625f4f68d7fdfc2f5a95bbfa7c2beefd578e127f7e2a229c28",
+            "to_size": 68284697,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.01/gregtech-5.09.54.01.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/0e8a4b0c2db3b8abd3bd7c2f84ec20dd110371bd/.minecraft/mods/gregtech-5.09.54.01.jar"
+        },
+        {
+            "path": "mods/backhand-1.8.11.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "73653e38003139ad4f38e877a6e8316d294c842e9350ddc712a0df5831b1a354",
+            "to_size": 150277,
+            "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.11/backhand-1.8.11.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0e8a4b0c2db3b8abd3bd7c2f84ec20dd110371bd/.minecraft/mods/backhand-1.8.11.jar"
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.27.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "48b404e515051162ce97917be707beb787abf6fe0f42c8c73648b2ce97595ee8",
+            "to_size": 1981274,
+            "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.27/ThaumicTinkerer-2.12.27.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0e8a4b0c2db3b8abd3bd7c2f84ec20dd110371bd/.minecraft/mods/ThaumicTinkerer-2.12.27.jar"
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.26.jar",
+            "from_hash": "ff61b7f881bcdc10f21c5ca66e3ac574f809c434523f8130a12215be4f8ae28a",
+            "from_size": 1980259,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/vendingmachine-0.4.92.jar",
+            "from_hash": "d76ce6b1c9abdd6a461bed7b4481575c0c396ed374ec897ef5fc0f4dd1dc9d86",
+            "from_size": 2186318,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/vendingmachine-0.4.93.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d9270cd3a2585dbbb47f5353702190f7cd5533297a85ac0f9e46b0cd3ee64325",
+            "to_size": 2186315,
+            "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.93/vendingmachine-0.4.93.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0e8a4b0c2db3b8abd3bd7c2f84ec20dd110371bd/.minecraft/mods/vendingmachine-0.4.93.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.25",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.25"
+    }
+}
