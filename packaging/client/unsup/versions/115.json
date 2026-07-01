@@ -1,0 +1,820 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/GregTech_es_ES.lang",
+            "from_hash": "a896aa1b3ddc4a81f761b308acb2bf71373fc3ba45de4a21c440c5b48a9eca03",
+            "from_size": 822958,
+            "to_hash": "861efcb95e2870aa9cab74fb6b639e721c3e276c0eeb2fedcc584d1e33562fe2",
+            "to_size": 822961,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/GregTech_es_ES.lang"
+        },
+        {
+            "path": ".minecraft/GregTech_ko_KR.lang",
+            "from_hash": "3ab01682848404c3cba5125a1945a87bf1191ea0c641414a8975ef143a4c784c",
+            "from_size": 831050,
+            "to_hash": "a49770a7a39dbbaeba0f09b57edd562e507b965b358a1e967b0e9580e8a497c7",
+            "to_size": 831957,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/GregTech_ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/GregTech_zh_CN.lang",
+            "from_hash": "433ef25df7ca4b40035cc8a3c998e66e030897843b498e1a9f29abd85b1cf57b",
+            "from_size": 827381,
+            "to_hash": "b5e7f71a41fc8ddda86ae6c8de61a7080c2a7a796e2316ff01584603f519a4d7",
+            "to_size": 827387,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/GregTech_zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/de_DE.lang",
+            "from_hash": "365e26bb9d2bfdc2f418373022fa7da51b7b3daf56122706b5c2b7083f1711a9",
+            "from_size": 2080643,
+            "to_hash": "d08c56d851277687d10ac00077454dd3036efd8d5de4470de8c417974c5db8a9",
+            "to_size": 2081234,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/de_DE.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/es_ES.lang",
+            "from_hash": "ce03aa7cc41bba8675fc31e7a37142159242ab716c98b1502730ea55062438f8",
+            "from_size": 2080694,
+            "to_hash": "0ae52a032ccd9f69423f974c12c19ef3a72bf8b65be1e5d416e67274dae8148e",
+            "to_size": 2081285,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/es_ES.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/fr_FR.lang",
+            "from_hash": "365e26bb9d2bfdc2f418373022fa7da51b7b3daf56122706b5c2b7083f1711a9",
+            "from_size": 2080643,
+            "to_hash": "d08c56d851277687d10ac00077454dd3036efd8d5de4470de8c417974c5db8a9",
+            "to_size": 2081234,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/fr_FR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/ko_KR.lang",
+            "from_hash": "ec67df0e3f82191c040affe2461d268672234c4569966f77c25f34d47eacabac",
+            "from_size": 2122032,
+            "to_hash": "f86359fb1a7ee65f75717f928a8c493f51782bc3f71cce2ba20ab4d1b96b7334",
+            "to_size": 2132583,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/ja_JP.lang",
+            "from_hash": "a6eae37f2a89d39927cad10471cc603e340fb2ee74fb9771bcde9780fbb6e6b9",
+            "from_size": 2745893,
+            "to_hash": "40b136500b5169e37933f354344b5b04bf425ee652eb7b4b02ab59cd0d74c089",
+            "to_size": 2745960,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/pl_PL.lang",
+            "from_hash": "7beda91562d823ad1dac9d39f7f72ccbd69cee4aecf1f4eb13270d39cf781fa2",
+            "from_size": 2088269,
+            "to_hash": "56bae3d3b3385301753716f2fdab244143c7832a7201d5a30eaf8acde191f92d",
+            "to_size": 2088860,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/pl_PL.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/pt_BR.lang",
+            "from_hash": "e3814e3ec6cfeccac613efa6defd4f4bcb4d753878d12e825160d9f21cf1728e",
+            "from_size": 2113383,
+            "to_hash": "4865b6e1592b97a6498c2bc266169517cbba9866e28515816989a8a4762b9691",
+            "to_size": 2113974,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/pt_BR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/de_DE.lang",
+            "from_hash": "0b9eb9454b35f01a9c0edfb694e4416cd2c141d5677ba63c4af7d778dc46c761",
+            "from_size": 25062,
+            "to_hash": "1d8d45ea610d39fa98180ca46de601f6b035cc38a7efdaf7002a0e3700d6d568",
+            "to_size": 25242,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/de_DE.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/ru_RU.lang",
+            "from_hash": "1649cf8e5c9f5c3ce3dd0dbd4dbaf6665d82ea3796d504dc1f074d23914b6772",
+            "from_size": 3000095,
+            "to_hash": "7dc3533056cfc0e40a4eca0a59964df3a872fb6e28b20e8c3e080057c6564d12",
+            "to_size": 3000789,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/tr_TR.lang",
+            "from_hash": "365e26bb9d2bfdc2f418373022fa7da51b7b3daf56122706b5c2b7083f1711a9",
+            "from_size": 2080643,
+            "to_hash": "d08c56d851277687d10ac00077454dd3036efd8d5de4470de8c417974c5db8a9",
+            "to_size": 2081234,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/tr_TR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/zh_CN.lang",
+            "from_hash": "9fe98c216e77e62c28fdd6a96b00d564c82b2221fc4506bdb2acdb9ce242d614",
+            "from_size": 2057411,
+            "to_hash": "68863e6b308cbefccfd4e773de77121a34cf025cbc22525d031f3250b8502892",
+            "to_size": 2057017,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/forceload/betterquesting/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/es_ES.lang",
+            "from_hash": "0b9eb9454b35f01a9c0edfb694e4416cd2c141d5677ba63c4af7d778dc46c761",
+            "from_size": 25062,
+            "to_hash": "1d8d45ea610d39fa98180ca46de601f6b035cc38a7efdaf7002a0e3700d6d568",
+            "to_size": 25242,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/es_ES.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/fr_FR.lang",
+            "from_hash": "0b9eb9454b35f01a9c0edfb694e4416cd2c141d5677ba63c4af7d778dc46c761",
+            "from_size": 25062,
+            "to_hash": "1d8d45ea610d39fa98180ca46de601f6b035cc38a7efdaf7002a0e3700d6d568",
+            "to_size": 25242,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/fr_FR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/ja_JP.lang",
+            "from_hash": "bc9961374c4a9a75777e446a47ef74c611f368202004a2c5869a68a7d208efc6",
+            "from_size": 32767,
+            "to_hash": "bbd5662f9e5130d87e20ee0d4842f543f7261ad2f93ab14f7ce9d4c47171ee85",
+            "to_size": 32947,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/ko_KR.lang",
+            "from_hash": "5c9338aa48192f603f315e1084d99a29dc6a37af416282214ec44a4745eb493d",
+            "from_size": 25711,
+            "to_hash": "d897a1ac115637bce539dd77e83a34a74ad1d99bc7c1c3277678b89fa907836d",
+            "to_size": 25891,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/pl_PL.lang",
+            "from_hash": "7e30bc3fc86623f5230c56007b681361c10802eabe0107fdcd46c69a17bf9ea0",
+            "from_size": 25850,
+            "to_hash": "053ea690b67298be5b87874dd01d7ae5ef51a7c53271cfa991ef5242fa88f061",
+            "to_size": 26030,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/pl_PL.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/pt_BR.lang",
+            "from_hash": "0b9eb9454b35f01a9c0edfb694e4416cd2c141d5677ba63c4af7d778dc46c761",
+            "from_size": 25062,
+            "to_hash": "1d8d45ea610d39fa98180ca46de601f6b035cc38a7efdaf7002a0e3700d6d568",
+            "to_size": 25242,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/pt_BR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/ru_RU.lang",
+            "from_hash": "30c640eaaf7817246f5cb363a24ab651b06cb788446537d0a00eebc4fb829005",
+            "from_size": 40328,
+            "to_hash": "29991929d71c9567731a149e7e2b974135190cd8b62764c88e389692e0c41358",
+            "to_size": 40508,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[angelica]/lang/tr_TR.lang",
+            "from_hash": "0b9eb9454b35f01a9c0edfb694e4416cd2c141d5677ba63c4af7d778dc46c761",
+            "from_size": 25062,
+            "to_hash": "1d8d45ea610d39fa98180ca46de601f6b035cc38a7efdaf7002a0e3700d6d568",
+            "to_size": 25242,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bangelica%5D/lang/tr_TR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[notfine]/lang/fr_FR.lang",
+            "from_hash": "fb3cb55b95c799a15122df8c38a6ab8e290d870ae2c2f1e97e484618be263459",
+            "from_size": 3351,
+            "to_hash": "e5ff1f9bb0326c7c769586c70935280ab7535f801d1ede9b0cc8e52a32462d0b",
+            "to_size": 3700,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bnotfine%5D/lang/fr_FR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Angelica[notfine]/lang/ja_JP.lang",
+            "from_hash": "71f35b68b21fe264ab132413ab068fd43cb38b96db739d0c2a1a2d7a76b6919b",
+            "from_size": 4199,
+            "to_hash": "71347e6d58efad91abc063a48639a716b969b425ff1a7fec0b81b9a5b2569f49",
+            "to_size": 4331,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Angelica%5Bnotfine%5D/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Applied Energistics 2[appliedenergistics2]/lang/ko_KR.lang",
+            "from_hash": "d96b9d1baf6ec607e230da0c6196a6130d7192625bd07d10c46ed7fc4c014883",
+            "from_size": 83350,
+            "to_hash": "db910a625f6ebd033b306be1cc67149107207d2d4ce9a981f4c38e5b6c5111e0",
+            "to_size": 83353,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Applied%20Energistics%202%5Bappliedenergistics2%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/BetterQuesting[bq_standard]/lang/ko_KR.lang",
+            "from_hash": "2fc1ea8ebe60370a2271575ba30be4f922e34a6aec16a9d92ce9649f55c37678",
+            "from_size": 3000,
+            "to_hash": "c1f320d871a44374ca8fc73ab24e666117577dfe36662499aff27d00d6737d74",
+            "to_size": 2990,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/BetterQuesting%5Bbq_standard%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Binnie Core[binniecore]/lang/ko_KR.lang",
+            "from_hash": "6a7490ccac3e4b85bceb55faff7448358363f44aaed29f67080274c58470ba0f",
+            "from_size": 22961,
+            "to_hash": "cb493bde4623228da14d551002bac2402d03b4313bf8aa592f5b41bd694369b1",
+            "to_size": 22979,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Binnie%20Core%5Bbinniecore%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Binnie Core[extratrees]/lang/zh_CN.lang",
+            "from_hash": "50067a642d88c13e7f06262e6e48f2435953ed875adcdac51cfe5264e320b81f",
+            "from_size": 21848,
+            "to_hash": "f2eebd2ce4b1a238882450ac8226499d3e1cd27a5c4ddb5a48926a36f8c6ca05",
+            "to_size": 21851,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Binnie%20Core%5Bextratrees%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Binnie Core[genetics]/lang/ko_KR.lang",
+            "from_hash": "7f05ce852644e45f6bcb6cd1e6b27571f3db3bb997998dee9a99af31c509f60d",
+            "from_size": 16123,
+            "to_hash": "cfd73b01bf9d7d8a4e5d9a6db4281b17fd7d0268eb91c4b699690f096e4e6392",
+            "to_size": 16173,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Binnie%20Core%5Bgenetics%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Biomes O' Plenty[biomesoplenty]/lang/zh_CN.lang",
+            "from_hash": "fa4a54ab42089fea211e44bdab11a63b512c45d40c7b13276193fc65171828dd",
+            "from_size": 18848,
+            "to_hash": "88678c7c92cb2e6db57a7b1836adc0d2dfc203dd92e562e18676765ff193067c",
+            "to_size": 18848,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Biomes%20O'%20Plenty%5Bbiomesoplenty%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Blood Magic_ Alchemical Wizardry[alchemicalwizardry]/lang/ko_KR.lang",
+            "from_hash": "8ed7e6d546b4596d39a0bea32a6b21a1f58d5e6dbc9d0a955a4259bee4fbd9d7",
+            "from_size": 49748,
+            "to_hash": "ff2b37180d37e788ec1aab441b88b2c0794bd4bd5933ac30fa801cd70a62c6cb",
+            "to_size": 49763,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Blood%20Magic_%20Alchemical%20Wizardry%5Balchemicalwizardry%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Botania[botania]/lang/ko_KR.lang",
+            "from_hash": "398add5abeb24c6e062de14ce6f88d6c26a613a25f83ef562cb7129812b560a3",
+            "from_size": 351899,
+            "to_hash": "4ce71c674ba821f69bdd152dad340f5d23086ab313e34effbf8efc52c8c5e998",
+            "to_size": 351909,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Botania%5Bbotania%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Botania[botania]/lang/ru_RU.lang",
+            "from_hash": "0acbfce3e7ff25889e591f5e511e77468467dd30e1ddbea1b7cf66aa3d0b0592",
+            "from_size": 530712,
+            "to_hash": "3702211e9af5350287277e92f3b6d6bd790af5afa7d8265a01807b63f5d50cec",
+            "to_size": 530703,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Botania%5Bbotania%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/BuildCraft[buildcraft]/lang/ko_KR.lang",
+            "from_hash": "06d4d8b2d241842f08cc9a099a19f583a47dc5e0efebce7027b10b32a7c47046",
+            "from_size": 26924,
+            "to_hash": "e0cf16224079640260d96f2f828a8e8bc7ddc7addd92103f03303b0683927741",
+            "to_size": 26931,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/BuildCraft%5Bbuildcraft%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Crops NH[cropsnh]/lang/ko_KR.lang",
+            "from_hash": "4c90491fdf627195f48d457ab967a5d397f5a14a3b05c57435dde419db1940dd",
+            "from_size": 46467,
+            "to_hash": "0ad25c6ec994d3d47d7f234d9afc0650bf8934367782e2301ebaa982f2e558cf",
+            "to_size": 46527,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Crops%20NH%5Bcropsnh%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Crops NH[cropsnh]/lang/ru_RU.lang",
+            "from_hash": "0d982dc0c95f7e1c009ba11a326142718e57ebbaa2de62434e547b833a0998f4",
+            "from_size": 57325,
+            "to_hash": "897f3aa9506fa09ed9f68c242061c3be2813cfb78a9b4299eb360f4d63b3646b",
+            "to_size": 57335,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Crops%20NH%5Bcropsnh%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Crops NH[cropsnh]/lang/zh_CN.lang",
+            "from_hash": "6fc991479058b82d6345278d9259a5cd3d18f054a2f0891d45ce1ba55c04571e",
+            "from_size": 44820,
+            "to_hash": "6349621d46d656c58a65153d06fbdd7f577973680e5e558f97e4227a6aba40ca",
+            "to_size": 44839,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Crops%20NH%5Bcropsnh%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Extra Utilities[extrautils]/lang/zh_CN.lang",
+            "from_hash": "e852ba0226cbb01cca822f6015ffe80a844410d860f76f7b2f87fb6355226c37",
+            "from_size": 46045,
+            "to_hash": "1f8e99bf2e9e8cd5b21639f2249892f4b1561ea6edfa087d46a36fa6cad87bdf",
+            "to_size": 46005,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Extra%20Utilities%5Bextrautils%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Extreme Sound Muffler Legacy[extremesoundmuffler]/lang/ja_JP.lang",
+            "from_hash": "c8cf70b56a9e335d0b8d48bd523118b4cdbe478df9c222b93f99639925c6a544",
+            "from_size": 4204,
+            "to_hash": "0725c7af8ef75f828aa76e0cae8cd26b35f9029f42939b78d8d55bf51ae99c1d",
+            "to_size": 4334,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Extreme%20Sound%20Muffler%20Legacy%5Bextremesoundmuffler%5D/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/FalsePatternLib[falsepatternlib]/lang/ja_JP.lang",
+            "from_hash": "770e53ad94d27888a0cd531e3425a645a07c83292952a6d8e2e22f09cbf3251f",
+            "from_size": 1722,
+            "to_hash": "fc3f8f588d4515c469649f793c5f24e59654a683c071c838afe6de0508507084",
+            "to_size": 1845,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/FalsePatternLib%5Bfalsepatternlib%5D/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GTNH-Intergalactic[gtnhintergalactic]/lang/ko_KR.lang",
+            "from_hash": "6eb6e441e58b3dc964e60f9fda51cf3c8b72214fe45cfbcf18065f727d2c62f1",
+            "from_size": 28188,
+            "to_hash": "7d9ad69515abbc7294be23742aa8f2aa4c67a8b2b8b3a67cdf4129b88eb234e7",
+            "to_size": 28202,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GTNH-Intergalactic%5Bgtnhintergalactic%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GT_ New Horizons[dreamcraft]/lang/fr_FR.lang",
+            "from_hash": "aae2c7ba2916f964bd0f05754fa48391dab0c86b26a04d60fddb6e6ec69d91aa",
+            "from_size": 243052,
+            "to_hash": "8bded058d38a5fbedf73329703922f17eae8f21ecc7b33bfc415b9d0630a0f96",
+            "to_size": 245581,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GT_%20New%20Horizons%5Bdreamcraft%5D/lang/fr_FR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GT_ New Horizons[dreamcraft]/lang/ru_RU.lang",
+            "from_hash": "88cab8744f0d4d5bfbc18b93b4e308e7164872c17bfeb6daa2b4e05b61a6609c",
+            "from_size": 400056,
+            "to_hash": "32300048ac2d1c7a0d3f44b114f62245b071a707debf2d03c541806a245704ab",
+            "to_size": 400054,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GT_%20New%20Horizons%5Bdreamcraft%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GT_ New Horizons[dreamcraft]/lang/zh_CN.lang",
+            "from_hash": "2cc692f10ecd0772607f5eb3a42131dab8d6101fc9f15ce227f5a7090e545735",
+            "from_size": 213854,
+            "to_hash": "674c76bba064a3c5eb6cdcef9f397573927941007ada3f3cb69c884ea45b2f67",
+            "to_size": 213851,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GT_%20New%20Horizons%5Bdreamcraft%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Galacticraft Core[galacticraftcore]/lang/ko_KR.lang",
+            "from_hash": "ff01c905dba16d78acd6b4a4c9dec0f148d2aa7e2aef23d904fdf55ef690806f",
+            "from_size": 40186,
+            "to_hash": "b4a45251b6491a841225d8ed555143701254eecfa6735dc65aa691bbca08a356",
+            "to_size": 40202,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Galacticraft%20Core%5Bgalacticraftcore%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GalaxySpace[galaxyspace]/lang/ko_KR.lang",
+            "from_hash": "fcd05a546d7b7b9e8b2c881880751a14fc6d5a301d602c61bafb596b81183f70",
+            "from_size": 26216,
+            "to_hash": "c113e759763a4f448f634d06c0127f70ad86155ddc215af1cabc40016cd16eea",
+            "to_size": 26222,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GalaxySpace%5Bgalaxyspace%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Gendustry[gendustry]/lang/ja_JP.lang",
+            "from_hash": "6d4c9e777514feaeefb9318a2e658e8d898831595019a2a675add594d9491801",
+            "from_size": 25746,
+            "to_hash": "90544193f06812e4cea93dd92c8d93c4d3f35d8d2aaad5de78055ddaa28a42cd",
+            "to_size": 25817,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Gendustry%5Bgendustry%5D/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Gendustry[gendustry]/lang/zh_CN.lang",
+            "from_hash": "137565543af09f1868690e6ea16d54e4275158e1db006b1402d85c8b2b76978c",
+            "from_size": 22557,
+            "to_hash": "6b58f727fc6d0ec35e895e21a9127350ebf5af3de4450370994ba34cdacd0758",
+            "to_size": 22563,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Gendustry%5Bgendustry%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Graviation Suite[gravisuite]/lang/ko_KR.lang",
+            "from_hash": "82e1cbee17ef832a718ca95ec2909657593eb927f4cf7f00d5b26fa6bc914028",
+            "from_size": 3105,
+            "to_hash": "4ab95f01498df5c1da9f8d9dae4d4e1567522590305e938f0b21945ca0d6b856",
+            "to_size": 3154,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Graviation%20Suite%5Bgravisuite%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[bartworks]/lang/ru_RU.lang",
+            "from_hash": "bcf6eec8c3875d213e21dd0547e19ca9726c0e28110be5254508b09b96821427",
+            "from_size": 23141,
+            "to_hash": "a2e04d8667b4720edabc30cf170f4a7dc4ec3eebc9fcdc6b20f08748f7a4258e",
+            "to_size": 23166,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bbartworks%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/de_DE.lang",
+            "from_hash": "1bec206b9a57b7854757da555a4866187106b0c44c108ac4cc56644a8d2db7d6",
+            "from_size": 533003,
+            "to_hash": "5f4d2d0a7ef3b0ae1fd81a2800744c616246c1198ce1410f9e3d3f88a7185f5c",
+            "to_size": 533320,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/de_DE.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/es_ES.lang",
+            "from_hash": "4577964cd7488b8222dd154ee169704b1eba27034ad0b1c32f8608e354864ef9",
+            "from_size": 533194,
+            "to_hash": "804e02be32e1bf5cb8faf16cba71fbeca3dfb6aa563aa2a88da09df3358e9131",
+            "to_size": 533511,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/es_ES.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/fr_FR.lang",
+            "from_hash": "dbcb4a86ffeb6fea7257621374e3a90975f9cca1785067e98087e8f068628a97",
+            "from_size": 533366,
+            "to_hash": "a9c5bf07bf941bc375733655ef86fcf2aba21453fd29ab3c0f651fb78692966f",
+            "to_size": 533680,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/fr_FR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/ja_JP.lang",
+            "from_hash": "ee56c2704cbadaae3c6d996f692635a1e84e50a462366393e6b65c47c8144ef2",
+            "from_size": 601098,
+            "to_hash": "9a524cd8186b61fbde7a9fad8705183551a3feb4397988da85eb05d903ce086d",
+            "to_size": 601340,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/ko_KR.lang",
+            "from_hash": "40b643a9ad2047944eba1eae497ac89bd41a5c4b086c035cda0a156b74a75b10",
+            "from_size": 534503,
+            "to_hash": "b542d05316ddd08dcc068fbcf608bce79db4a72f5aada20430af3b51b04802ce",
+            "to_size": 535027,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/pl_PL.lang",
+            "from_hash": "3440cda20836dd93b59185176d0bb29e168a306c3bd1d3bb69d005f33e5e5745",
+            "from_size": 533132,
+            "to_hash": "8fb1aabb64fc0ff6aeb2a6d7571af8dc7514173bca29113ee26658828ae4d00c",
+            "to_size": 533449,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/pl_PL.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/pt_BR.lang",
+            "from_hash": "4636e7bca1d08692338d90ea34e9f589e78e805b4d74da4afa6e4d2d6b763270",
+            "from_size": 533675,
+            "to_hash": "e3eba3ed3f82858e47e485d21b507721eac6248f699ab97bef2aacd7967faab7",
+            "to_size": 533992,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/pt_BR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/ru_RU.lang",
+            "from_hash": "d996bcda390c18faa52b4a69bb0dd0086ac1b6e416da55cd0d0f4f7f390a61f9",
+            "from_size": 713047,
+            "to_hash": "9fb134e19d13c4e7788f911537268b5f5fcfb7f85c62b80c152f916072b5fe15",
+            "to_size": 713751,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/tr_TR.lang",
+            "from_hash": "e100dfca3a9c6819f8b8a3c920460292c1e5b3be106c5d5040a5910ada64fd98",
+            "from_size": 533876,
+            "to_hash": "eac9b77f9b726dd06ce1a55cc5ce128a31e780af7a3ebf0805440c00d988da0d",
+            "to_size": 534193,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/tr_TR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gregtech]/lang/zh_CN.lang",
+            "from_hash": "1150a898627f47cfe902a9d75c0ff10d457f29e9ee5bde200f79c4fb47f302af",
+            "from_size": 498975,
+            "to_hash": "fc44b080bcdc0bbca7e24bda1fa765b23e4dc6585e1ccf7c1f87b7897a5f5271",
+            "to_size": 498955,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgregtech%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gtnhintergalactic]/lang/fr_FR.lang",
+            "from_hash": "3ce2a17e9470d2de127a041f5d58d7b483d94935fe0f8f79028e5ec3789720c5",
+            "from_size": 29692,
+            "to_hash": "85f011186b1f575f14a9237e705f99aab29f0a18938933d0672f6f8efa083bec",
+            "to_size": 29732,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgtnhintergalactic%5D/lang/fr_FR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gtnhintergalactic]/lang/ja_JP.lang",
+            "from_hash": "fa0b8428648349e436ab76e70c4110bd6790a679dd8e88ed6f6a2345f7591e55",
+            "from_size": 34442,
+            "to_hash": "5d97b8c384bea001bda465b0f26eeadffd55c57e130e89ce019837eb630d5181",
+            "to_size": 34516,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgtnhintergalactic%5D/lang/ja_JP.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gtnhintergalactic]/lang/ko_KR.lang",
+            "from_hash": "85f011186b1f575f14a9237e705f99aab29f0a18938933d0672f6f8efa083bec",
+            "from_size": 29732,
+            "to_hash": "b36e1c9778f188fa021be96f65aef8d311a4ce38a4ef2ef28aa37286a258b42d",
+            "to_size": 29746,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgtnhintergalactic%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[gtnhlanth]/lang/ru_RU.lang",
+            "from_hash": "bffaafa783c9141ddd27bb8beabb3d0ea98d7ec78f8b13af1f67e758bebddcc6",
+            "from_size": 20589,
+            "to_hash": "656ce13dd37cc9804ba9d16be4cc131a40ceb2f3574555efb05ca973e013dd58",
+            "to_size": 20631,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Bgtnhlanth%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[tectech]/lang/ko_KR.lang",
+            "from_hash": "5179fbd0b17419880863d00de80c45d92aada09a11ec06153902c420dbe406e7",
+            "from_size": 137729,
+            "to_hash": "6b9f8d43fee1edea139e6ef740404b872b0a6e33608a1f179ed5866f49194afb",
+            "to_size": 137772,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Btectech%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/GregTech[tectech]/lang/ru_RU.lang",
+            "from_hash": "e71e778739aeb1ccf88d82bdb15b5a6dbc01eb4505016a3b9dc21d750b52fa85",
+            "from_size": 198399,
+            "to_hash": "5f78924f361d1db2abe66916643c83cd737abb20dc054c0d7c0e2d5b4cf66d13",
+            "to_size": 198426,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/GregTech%5Btectech%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Inventory Bogo Sorter[bogosorter]/lang/ko_KR.lang",
+            "from_hash": "9419a66696b7dd3f1a0c73f0b286a112c93e7cd163ca6203e0e75d9add2d27ac",
+            "from_size": 9144,
+            "to_hash": "48926f98351684b4ca757d1d8071b226b3cd0eb00dc33c4a32d575f9c7d005b9",
+            "to_size": 9142,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Inventory%20Bogo%20Sorter%5Bbogosorter%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/JABBA[jabba]/lang/ko_KR.lang",
+            "from_hash": "9f5cb7cebf4d284d0a400bf48db598117e86e1c06d5a197c44790570c179443d",
+            "from_size": 4918,
+            "to_hash": "5f15d41914ce4405ccb065d0a288edf4118e64264c129e0c6f30f0ed49305fb2",
+            "to_size": 4973,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/JABBA%5Bjabba%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/NEI Custom Diagram[neicustomdiagram]/lang/ko_KR.lang",
+            "from_hash": "392853167669e1e60478dd5ab0ad4235536a96c41e539b1ce0f9789f61cdfeab",
+            "from_size": 25155,
+            "to_hash": "7d92fad15878e89c1db70699847bb49874f3074bf7fa6111456ec650d0b6fb15",
+            "to_size": 25162,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/NEI%20Custom%20Diagram%5Bneicustomdiagram%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Natura[natura]/lang/zh_CN.lang",
+            "from_hash": "0c2b47d4ce693fd2cbf261f936a7957216f4d19f22e0838bd0cb8ef272841fe1",
+            "from_size": 14948,
+            "to_hash": "f73fd515435f46363f280cc0a9dd73b359558daa81ffa9945919ae8514c862fe",
+            "to_size": 14948,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Natura%5Bnatura%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/NotEnoughItems[nei]/lang/zh_CN.lang",
+            "from_hash": "a1e164b757de11fb9c3f38b21b536c3ebe8ba3c19e68beb08e46caeabbe93e52",
+            "from_size": 32971,
+            "to_hash": "45d6328791986c8edeca9f4bbfb6f1fe5c5b70f0eaee64b761d0f9da537fef87",
+            "to_size": 32976,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/NotEnoughItems%5Bnei%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Nuclear Control 2[nuclearcontrol]/lang/ko_KR.lang",
+            "from_hash": "53f27c80737fc995efec9798a67dd90b88a24937a8746b8af5521b3e88e99a55",
+            "from_size": 9861,
+            "to_hash": "23acc0bd788f08c4000e94c27dcdb3a324ff5264ca7157441a0feabee36f3309",
+            "to_size": 9842,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Nuclear%20Control%202%5Bnuclearcontrol%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/OpenBlocks[openblocks]/lang/ko_KR.lang",
+            "from_hash": "4b2c7011c2a03ad7c3df125fb90fbf8fc67f957602744abdac3d1270656665a0",
+            "from_size": 26782,
+            "to_hash": "76ccb4327658a3974ca948bf7e9abce59ee690438054be87b8fe2992223ece0d",
+            "to_size": 26782,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/OpenBlocks%5Bopenblocks%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/OpenComputers[opencomputers]/lang/ko_KR.lang",
+            "from_hash": "4d0113513f3860f5d42a420c255b1d1ebdc58fb5809de8a55eb40538fcfb82ec",
+            "from_size": 35418,
+            "to_hash": "405a9ff2723c203a1ab377205daa614a4a61979cfc44ae4c05c14f46aed133b2",
+            "to_size": 35429,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/OpenComputers%5Bopencomputers%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/OpenMods[openmodslib]/lang/ko_KR.lang",
+            "from_hash": "9a4c2053fa0dbca9bb01aaaf1ce0d6a6b823cb4e4baa415ecc6f047e1d421699",
+            "from_size": 4027,
+            "to_hash": "669e88d2a7e7507fffb78f7ebf90ec521a22f84a1fabe757f979f55554fcb3a4",
+            "to_size": 4057,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/OpenMods%5Bopenmodslib%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Pam's HarvestCraft[harvestcraft]/lang/ru_RU.lang",
+            "from_hash": "9691115c10134e128cba8d6b5f44d6925f272f1b06b676859631a1ee3ed858e6",
+            "from_size": 57080,
+            "to_hash": "d29420ff37310ff57e29ad8e6a6205e43889f4e14d8e6b95c1bc2079afa150cc",
+            "to_size": 57084,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Pam's%20HarvestCraft%5Bharvestcraft%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Storage Drawers[storagedrawersbop]/lang/zh_CN.lang",
+            "from_hash": "e32fb537970516ef683d266384c1876b677ce7d7458f5ea4cfc6ae89b057e2e1",
+            "from_size": 6814,
+            "to_hash": "987e992503114c2381f4342c484b1173603df3be4cba60f2084ec08022832062",
+            "to_size": 6832,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Storage%20Drawers%5Bstoragedrawersbop%5D/lang/zh_CN.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/TecTech - Tec Technology![tectech]/lang/ko_KR.lang",
+            "from_hash": "7caf3faf37cd43a1b5288e6d6b5e74162a4cfb5276ec5be1af17e4d9100a4544",
+            "from_size": 111085,
+            "to_hash": "49dfcef95ecc16b13fa7e54c240708636e2aedab7219cff83acb14f18948c6cf",
+            "to_size": 111128,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/TecTech%20-%20Tec%20Technology!%5Btectech%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Thaumic Bases[thaumicbases]/lang/ru_RU.lang",
+            "from_hash": "4888639a44936d49e3fdbaf867b051d2f9e4dda731c62a39110b04c8e2803a66",
+            "from_size": 131296,
+            "to_hash": "7ea2504e606b80336498605d4063651e62e855ff2fa66d38b7fece4f13694e58",
+            "to_size": 131296,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Thaumic%20Bases%5Bthaumicbases%5D/lang/ru_RU.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/Vending Machine[vendingmachine]/lang/ko_KR.lang",
+            "from_hash": "8f36cbe497f013e058d9dd67898c43a09196579b7ec5d9bf635b02f3954df5d8",
+            "from_size": 7391,
+            "to_hash": "2a6fbbddb735f7cf52df2801dcf436b91271624b63f1d38fab9bf7ffa25d6dbd",
+            "to_size": 7368,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/Vending%20Machine%5Bvendingmachine%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.0.jar",
+            "from_hash": "ad51ad0701f908a0b5b3eff2dfcff52bb83536e326db92e938155d5870959089",
+            "from_size": 48458251,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "71c13841b1705db94162add25ca53da95e6dc53994a972bf122870446888f738",
+            "to_size": 48458220,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/GTNewHorizonsCoreMod-2.9.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/OpenComputers-1.12.47-GTNH.jar",
+            "from_hash": "0114001dd3989a6c89479dde5a7953f53afa22b8190a4bbc2a1620a742e1bd0f",
+            "from_size": 16793199,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/OpenComputers-1.12.48-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "bc433a245bd1d3f85e18d6048af37a6216ecde56f8d2aec2881d58910e2589c1",
+            "to_size": 16787462,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.48-GTNH/OpenComputers-1.12.48-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/OpenComputers-1.12.48-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/betterquesting/lang/es_ES.lang",
+            "from_hash": "07cf32a40b0753fa234b49bd34547f1b596743e62008234c7ada1a39310e74c0",
+            "from_size": 2109233,
+            "to_hash": "63769b93dcc2a3d070dcc2c7e909f4097a3e00752bed35268653e32cbbdf55b6",
+            "to_size": 2118246,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/betterquesting/lang/es_ES.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/botanichorizons[botanichorizons]/lang/ko_KR.lang",
+            "from_hash": "b2e2e65c80cf312f13d65127c0ddce2a49a3c6cfb127b266fca79a0d4df8dd6a",
+            "from_size": 19250,
+            "to_hash": "8513ac2d345e8955a617ba8393bfbca4373f00f4550709eb88b40d4e08470578",
+            "to_size": 19256,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/botanichorizons%5Bbotanichorizons%5D/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/betterquesting/lang/ko_KR.lang",
+            "from_hash": "759f86d3fb8a8b8e7605b23c30e79673be98f91bfb8f81ac21ac1d5d1e678ed1",
+            "from_size": 2405862,
+            "to_hash": "b50043ebb1225c0d1a2ed04a1cc114fefe601d429654c3d4792be4fbc6d40f46",
+            "to_size": 2406774,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/config/txloader/load/betterquesting/lang/ko_KR.lang"
+        },
+        {
+            "path": ".minecraft/mods/bogosorter-1.3.34-GTNH.jar",
+            "from_hash": "fbdf695943af89b1560e9369220d474f1f1b3a756eedfd63f5f8e18e7d2c4bcb",
+            "from_size": 435565,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/bogosorter-1.3.35-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "54164cdd54284d7bfd28416d24c893fb6f994a71254ca46b33679322481a0737",
+            "to_size": 435553,
+            "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.35-GTNH/bogosorter-1.3.35-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/bogosorter-1.3.35-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-994-GTNH.jar",
+            "from_hash": "c6a62b0d2cbd29180984a2483338641360a0ba51c372b88ef71a2b42a7e4ae26",
+            "from_size": 4657723,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.84.jar",
+            "from_hash": "b7e5ee8190a042f375a9a4a8ca17b617c2627603a41f9afc71845c49ba8569e2",
+            "from_size": 1518751,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.85.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ed0cd1ead9fd7075d79257de4058103441a916aae8c4732730ec3cad60798c53",
+            "to_size": 1518776,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.85/cropsnh-2.0.85.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/cropsnh-2.0.85.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.04.jar",
+            "from_hash": "4998617d97e1498688d1385d20ed098beef6adad4049935d670b1ff06772b8cb",
+            "from_size": 68308082,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.07.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "242139e2c6c8ea92ebe17b516dfe2fe12e0971ef22aefd82be43e6d21baf5f45",
+            "to_size": 68316857,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.07/gregtech-5.09.54.07.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/gregtech-5.09.54.07.jar"
+        },
+        {
+            "path": ".minecraft/mods/duradisplay-1.4.3.jar",
+            "from_hash": "ed290fd246025f6fcc4c82140f8bd95fcd53f1a92502a711befda12fb6a44ed8",
+            "from_size": 64119,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-995-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "111b026423eabd83c74a0edc1dd6042f85175f4225060bce138427d4dd96c8bd",
+            "to_size": 4648608,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-995-GTNH/appliedenergistics2-rv3-beta-995-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/appliedenergistics2-rv3-beta-995-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/duradisplay-1.4.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "56f4f657b43d8786c4a917b7fd7c6c91fb3586872d152c78f824cb10fce15125",
+            "to_size": 64464,
+            "url": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.4/duradisplay-1.4.4.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/duradisplay-1.4.4.jar"
+        },
+        {
+            "path": ".minecraft/mods/ifu-1.12.1.jar",
+            "from_hash": "7aa458f57c6f7b1c7d56bcfa135dc91653d9c16ec5f9c84c594dfb34e58d2268",
+            "from_size": 61411,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ifu-1.12.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0a15d11793c79de59829d9fd464c8e0a7036be4654fd3375bb45b9f82b5bc5c5",
+            "to_size": 61546,
+            "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.2/ifu-1.12.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/ifu-1.12.2.jar"
+        },
+        {
+            "path": ".minecraft/mods/gtnhlib-0.11.20.jar",
+            "from_hash": "f3377f37317b96e993bfc3b51070b125060fb4e42c7a45d246365fbbaadc65fa",
+            "from_size": 1279641,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gtnhlib-0.11.21.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "166e497cb4280a4f6d81c6cd3c548f4f52fb74b70f5e13919a0a632b4822a8ff",
+            "to_size": 1294386,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.21/gtnhlib-0.11.21.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c26fdebd7cde823d88822acd4d4a458819b57b92/.minecraft/mods/gtnhlib-0.11.21.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.25",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.25"
+    }
+}
