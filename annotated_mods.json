@@ -1740,12 +1740,12 @@
         }
     },
     "OpenComputers": {
-        "file_path": "./.minecraft/mods/OpenComputers-1.12.47-GTNH.jar",
+        "file_path": "./.minecraft/mods/OpenComputers-1.12.48-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.47-GTNH/OpenComputers-1.12.47-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.48-GTNH/OpenComputers-1.12.48-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "openglasses",
@@ -1758,14 +1758,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.12.47-GTNH",
+            "version": "1.12.48-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0114001dd3989a6c89479dde5a7953f53afa22b8190a4bbc2a1620a742e1bd0f"
+            "sha256_sum": "bc433a245bd1d3f85e18d6048af37a6216ecde56f8d2aec2881d58910e2589c1"
         }
     },
     "OpenMods": {
@@ -3137,12 +3137,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-994-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-995-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-994-GTNH/appliedenergistics2-rv3-beta-994-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-995-GTNH/appliedenergistics2-rv3-beta-995-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3159,14 +3159,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-994-GTNH",
+            "version": "rv3-beta-995-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "c6a62b0d2cbd29180984a2483338641360a0ba51c372b88ef71a2b42a7e4ae26"
+            "sha256_sum": "111b026423eabd83c74a0edc1dd6042f85175f4225060bce138427d4dd96c8bd"
         }
     },
     "archaicfix": {
@@ -3547,12 +3547,12 @@
         }
     },
     "bogosorter": {
-        "file_path": "./.minecraft/mods/bogosorter-1.3.34-GTNH.jar",
+        "file_path": "./.minecraft/mods/bogosorter-1.3.35-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.34-GTNH/bogosorter-1.3.34-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.35-GTNH/bogosorter-1.3.35-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3563,14 +3563,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.3.34-GTNH",
+            "version": "1.3.35-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "fbdf695943af89b1560e9369220d474f1f1b3a756eedfd63f5f8e18e7d2c4bcb"
+            "sha256_sum": "54164cdd54284d7bfd28416d24c893fb6f994a71254ca46b33679322481a0737"
         }
     },
     "botanichorizons": {
@@ -3973,12 +3973,12 @@
         }
     },
     "cropsnh": {
-        "file_path": "./.minecraft/mods/cropsnh-2.0.84.jar",
+        "file_path": "./.minecraft/mods/cropsnh-2.0.85.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.84/cropsnh-2.0.84.jar",
+        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.85/cropsnh-2.0.85.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3987,14 +3987,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.0.84",
+            "version": "2.0.85",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "b7e5ee8190a042f375a9a4a8ca17b617c2627603a41f9afc71845c49ba8569e2"
+            "sha256_sum": "ed0cd1ead9fd7075d79257de4058103441a916aae8c4732730ec3cad60798c53"
         }
     },
     "custommainmenu": {
@@ -4112,7 +4112,7 @@
         }
     },
     "dreamcraft": {
-        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.0.jar",
+        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4132,36 +4132,36 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.9.0",
+            "version": "2.9.1",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "ad51ad0701f908a0b5b3eff2dfcff52bb83536e326db92e938155d5870959089"
+            "sha256_sum": "71c13841b1705db94162add25ca53da95e6dc53994a972bf122870446888f738"
         }
     },
     "duradisplay": {
-        "file_path": "./.minecraft/mods/duradisplay-1.4.3.jar",
+        "file_path": "./.minecraft/mods/duradisplay-1.4.4.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.3/duradisplay-1.4.3.jar",
+        "source": "https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.4.4/duradisplay-1.4.4.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.4.3",
+            "version": "1.4.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "ed290fd246025f6fcc4c82140f8bd95fcd53f1a92502a711befda12fb6a44ed8"
+            "sha256_sum": "56f4f657b43d8786c4a917b7fd7c6c91fb3586872d152c78f824cb10fce15125"
         }
     },
     "endercore": {
@@ -4516,12 +4516,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.04.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.07.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.04/gregtech-5.09.54.04.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.07/gregtech-5.09.54.07.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4589,14 +4589,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.04",
+            "version": "5.09.54.07",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4998617d97e1498688d1385d20ed098beef6adad4049935d670b1ff06772b8cb"
+            "sha256_sum": "242139e2c6c8ea92ebe17b516dfe2fe12e0971ef22aefd82be43e6d21baf5f45"
         }
     },
     "gtnhcredits": {
@@ -4645,12 +4645,12 @@
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.11.20.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.11.21.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.20/gtnhlib-0.11.20.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.21/gtnhlib-0.11.21.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4704,14 +4704,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.11.20",
+            "version": "0.11.21",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "f3377f37317b96e993bfc3b51070b125060fb4e42c7a45d246365fbbaadc65fa"
+            "sha256_sum": "166e497cb4280a4f6d81c6cd3c548f4f52fb74b70f5e13919a0a632b4822a8ff"
         }
     },
     "gtnhtcwands": {
@@ -4870,26 +4870,26 @@
         }
     },
     "ifu": {
-        "file_path": "./.minecraft/mods/ifu-1.12.1.jar",
+        "file_path": "./.minecraft/mods/ifu-1.12.2.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.1/ifu-1.12.1.jar",
+        "source": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.2/ifu-1.12.2.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.12.1",
+            "version": "1.12.2",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "7aa458f57c6f7b1c7d56bcfa135dc91653d9c16ec5f9c84c594dfb34e58d2268"
+            "sha256_sum": "0a15d11793c79de59829d9fd464c8e0a7036be4654fd3375bb45b9f82b5bc5c5"
         }
     },
     "ironchestminecarts": {
