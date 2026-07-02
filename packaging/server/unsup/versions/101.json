@@ -1,0 +1,92 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.1.jar",
+            "from_hash": "71c13841b1705db94162add25ca53da95e6dc53994a972bf122870446888f738",
+            "from_size": 48458220,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4e432770139abc6640386784ca47832bd3e9c739ebbd98324d2ae7b7bea3656c",
+            "to_size": 48458279,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/83ffa7e1a62722a7afa7f50ccf95875541e81622/.minecraft/mods/GTNewHorizonsCoreMod-2.9.2.jar"
+        },
+        {
+            "path": "mods/Forestry-4.11.29.jar",
+            "from_hash": "94405670d28293af72551dc9b3e639e38dcae35c7cf059e0a225d5088b4988e6",
+            "from_size": 3395164,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Forestry-4.11.30.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "123ad3a88414f6cf0b9557627b5c465b031c21446d1caa51fc6dcbb71d7c41e2",
+            "to_size": 3395617,
+            "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.30/Forestry-4.11.30.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/83ffa7e1a62722a7afa7f50ccf95875541e81622/.minecraft/mods/Forestry-4.11.30.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-996-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a5d34aa2edb47fcc67ca43152695d89dfd8bb7b782ddf87fa3a118b4daf707c8",
+            "to_size": 4653258,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-996-GTNH/appliedenergistics2-rv3-beta-996-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/83ffa7e1a62722a7afa7f50ccf95875541e81622/.minecraft/mods/appliedenergistics2-rv3-beta-996-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.07.jar",
+            "from_hash": "242139e2c6c8ea92ebe17b516dfe2fe12e0971ef22aefd82be43e6d21baf5f45",
+            "from_size": 68316857,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.08.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "49182ca2b481b4d422a1f9584c58bc6ffb3e87a0ff78cd18457d9c6bd592006e",
+            "to_size": 68385666,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.08/gregtech-5.09.54.08.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/83ffa7e1a62722a7afa7f50ccf95875541e81622/.minecraft/mods/gregtech-5.09.54.08.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-995-GTNH.jar",
+            "from_hash": "111b026423eabd83c74a0edc1dd6042f85175f4225060bce138427d4dd96c8bd",
+            "from_size": 4648608,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.85.jar",
+            "from_hash": "ed0cd1ead9fd7075d79257de4058103441a916aae8c4732730ec3cad60798c53",
+            "from_size": 1518776,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.86.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d7995d682c79b5ac1f347111bb9b177f0f9e05aaee8492126c84a1a2754d3f55",
+            "to_size": 1518640,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.86/cropsnh-2.0.86.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/83ffa7e1a62722a7afa7f50ccf95875541e81622/.minecraft/mods/cropsnh-2.0.86.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.25",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.25"
+    }
+}
