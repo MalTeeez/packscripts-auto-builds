@@ -1,0 +1,45 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/guidenh-1.3.10.jar",
+            "from_hash": "956d36aa487c9089d7e4a24f980db705dffa52f4ac85bd045ae958a1cb0f9695",
+            "from_size": 18843333,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.11.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5d52afd82477b6eeee50ca5c29369066765bef28787956872065366161179abb",
+            "to_size": 19076979,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.11/guidenh-1.3.11.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/6bd78d88256447e71eae4c7628f6501d0ecfc6e2/.minecraft/mods/guidenh-1.3.11.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.88.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5b9cfc6be19f664a1d4cc16c219e17471e9863e2cca1f44c1d7e16460726cf3c",
+            "to_size": 1518688,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.88/cropsnh-2.0.88.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6bd78d88256447e71eae4c7628f6501d0ecfc6e2/.minecraft/mods/cropsnh-2.0.88.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.87.jar",
+            "from_hash": "41b23f89573bfd8b9707309bdcc93a854634d4cea7704cb2a106bf18773b7a63",
+            "from_size": 1518576,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.25",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.25"
+    }
+}
