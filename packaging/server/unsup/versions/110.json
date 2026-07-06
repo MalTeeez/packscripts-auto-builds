@@ -1,0 +1,45 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.54.20.jar",
+            "from_hash": "a0f9266aadf86d130ed890104b4e6119e3bd4dc5983044757b182e92cb8902cd",
+            "from_size": 69175318,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.21.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3b903124e268cb5e0df0ac6ae7423b5cfdd0b801c197700c30dd9aab43dce1a6",
+            "to_size": 69177657,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.21/gregtech-5.09.54.21.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/e17a31620af2b8a00bd819865c792320d9690d75/.minecraft/mods/gregtech-5.09.54.21.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1001-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "86abddd4498d17938bfbdcf45ea7113cb8b8608006ed5dcfa979ac952df19642",
+            "to_size": 4677350,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1001-GTNH/appliedenergistics2-rv3-beta-1001-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e17a31620af2b8a00bd819865c792320d9690d75/.minecraft/mods/appliedenergistics2-rv3-beta-1001-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1000-GTNH.jar",
+            "from_hash": "bdce6f77f2704b1f04790c5b8adcfaecba036e7392d5c6fed71638d55c0c4a01",
+            "from_size": 4677338,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.26",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.26"
+    }
+}
