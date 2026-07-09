@@ -1,0 +1,132 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.8.jar",
+            "from_hash": "43b0c84fc60deb0e43d6c3d7480bb0efc56380428cb5cbd998bf9280485d0b48",
+            "from_size": 48459338,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.9.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "612ede7d38b788a323474484b863f2e8145d6120a6f1fe7de7120ccb7c5d8862",
+            "to_size": 48460054,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/mods/GTNewHorizonsCoreMod-2.9.9.jar"
+        },
+        {
+            "path": "mods/OpenComputers-1.12.48-GTNH.jar",
+            "from_hash": "bc433a245bd1d3f85e18d6048af37a6216ecde56f8d2aec2881d58910e2589c1",
+            "from_size": 16787462,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.49-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e427e0241b7914b19fbbe889f2c14d70be5891c349357fedd243760ea46ce472",
+            "to_size": 16796902,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.49-GTNH/OpenComputers-1.12.49-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/mods/OpenComputers-1.12.49-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.25.jar",
+            "from_hash": "d0b742c802593f74a3b29c331ffbb14bc5089f748addd3118dcf29e5d814253a",
+            "from_size": 69173525,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.26.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "23dd841cf861901c46ec037a14e2a16250a3c71f41f0281e677f613999a53a46",
+            "to_size": 69178195,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.26/gregtech-5.09.54.26.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/mods/gregtech-5.09.54.26.jar"
+        },
+        {
+            "path": "config/Botania.cfg",
+            "from_hash": "def02391cdc52b6c66f33402be8c00e1830b80182f0998d00365a8ace9ecf98d",
+            "from_size": 107451,
+            "to_hash": "7691ba694df4207221ed667ca5d506ee4a578c78100b1d9fd1572f4d3eb30942",
+            "to_size": 107451,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/config/Botania.cfg"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.24.jar",
+            "from_hash": "73db91e6c9c5708dbfc0f7fc629193f1ed20c761739c24d7b17d41acd1f9b3d0",
+            "from_size": 1304161,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.25.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ebda7d5ab05916690722160ee567377646cf35817eba8e95e1634fe92237eed7",
+            "to_size": 1304326,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.25/gtnhlib-0.11.25.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/mods/gtnhlib-0.11.25.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.170.jar",
+            "from_hash": "3981ec486ab2f709175dbb99b1f2a78b589216be2d11696d252dfbd892780853",
+            "from_size": 1066414,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.171.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8eced0c1c1773109e7457c5690a191b408de2802c62e70cfa1c740a420e6db22",
+            "to_size": 1067584,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.171/hodgepodge-2.7.171.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/mods/hodgepodge-2.7.171.jar"
+        },
+        {
+            "path": "mods/chisel-2.17.30-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2a1d763153c119bbee97d40ef751c0304ab9b1754ca58349ea7d04b0156c03e1",
+            "to_size": 7606999,
+            "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.30-GTNH/chisel-2.17.30-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/mods/chisel-2.17.30-GTNH.jar"
+        },
+        {
+            "path": "mods/chisel-2.17.28-GTNH.jar",
+            "from_hash": "0c500f5bfaaa4bab2d817cfaa3694925afdd979317b8a498c1c0e29b362c6b43",
+            "from_size": 7607210,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lootgames-2.2.13.jar",
+            "from_hash": "da6f940f821593954c7b6c6e1a145faabb236f0872c6c0e96494e1f5a10503dc",
+            "from_size": 1765246,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lootgames-2.2.14.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1017cf76a14a333b53267862cb1a0004c013c622d939e52535530253d232cd8a",
+            "to_size": 1764801,
+            "url": "https://github.com/GTNewHorizons/LootGames/releases/download/2.2.14/lootgames-2.2.14.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6a2f29113df1bc1c4d062a73045c385a187440d6/.minecraft/mods/lootgames-2.2.14.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.26",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.26"
+    }
+}
