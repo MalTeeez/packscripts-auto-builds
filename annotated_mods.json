@@ -1718,12 +1718,12 @@
         }
     },
     "OpenComputers": {
-        "file_path": "./.minecraft/mods/OpenComputers-1.12.48-GTNH.jar",
+        "file_path": "./.minecraft/mods/OpenComputers-1.12.49-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.48-GTNH/OpenComputers-1.12.48-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.49-GTNH/OpenComputers-1.12.49-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "openglasses",
@@ -1736,14 +1736,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.12.48-GTNH",
+            "version": "1.12.49-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "bc433a245bd1d3f85e18d6048af37a6216ecde56f8d2aec2881d58910e2589c1"
+            "sha256_sum": "e427e0241b7914b19fbbe889f2c14d70be5891c349357fedd243760ea46ce472"
         }
     },
     "OpenMods": {
@@ -3634,12 +3634,12 @@
         }
     },
     "chisel": {
-        "file_path": "./.minecraft/mods/chisel-2.17.28-GTNH.jar",
+        "file_path": "./.minecraft/mods/chisel-2.17.30-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.28-GTNH/chisel-2.17.28-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.30-GTNH/chisel-2.17.30-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "chiseltones",
@@ -3649,14 +3649,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.17.28-GTNH",
+            "version": "2.17.30-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0c500f5bfaaa4bab2d817cfaa3694925afdd979317b8a498c1c0e29b362c6b43"
+            "sha256_sum": "2a1d763153c119bbee97d40ef751c0304ab9b1754ca58349ea7d04b0156c03e1"
         }
     },
     "chiseltones": {
@@ -4090,7 +4090,7 @@
         }
     },
     "dreamcraft": {
-        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.8.jar",
+        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.9.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -4110,14 +4110,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.9.8",
+            "version": "2.9.9",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "43b0c84fc60deb0e43d6c3d7480bb0efc56380428cb5cbd998bf9280485d0b48"
+            "sha256_sum": "612ede7d38b788a323474484b863f2e8145d6120a6f1fe7de7120ccb7c5d8862"
         }
     },
     "duradisplay": {
@@ -4494,12 +4494,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.25.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.26.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.25/gregtech-5.09.54.25.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.26/gregtech-5.09.54.26.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4567,14 +4567,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.25",
+            "version": "5.09.54.26",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "d0b742c802593f74a3b29c331ffbb14bc5089f748addd3118dcf29e5d814253a"
+            "sha256_sum": "23dd841cf861901c46ec037a14e2a16250a3c71f41f0281e677f613999a53a46"
         }
     },
     "gtnhcredits": {
@@ -4623,12 +4623,12 @@
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.11.24.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.11.25.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.24/gtnhlib-0.11.24.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.25/gtnhlib-0.11.25.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4683,14 +4683,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.11.24",
+            "version": "0.11.25",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "73db91e6c9c5708dbfc0f7fc629193f1ed20c761739c24d7b17d41acd1f9b3d0"
+            "sha256_sum": "ebda7d5ab05916690722160ee567377646cf35817eba8e95e1634fe92237eed7"
         }
     },
     "gtnhtcwands": {
@@ -4769,12 +4769,12 @@
         }
     },
     "hodgepodge": {
-        "file_path": "./.minecraft/mods/hodgepodge-2.7.170.jar",
+        "file_path": "./.minecraft/mods/hodgepodge-2.7.171.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.170/hodgepodge-2.7.170.jar",
+        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.171/hodgepodge-2.7.171.jar",
         "notes": "",
         "wanted_by": [
             "supernova"
@@ -4787,14 +4787,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.7.170",
+            "version": "2.7.171",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "3981ec486ab2f709175dbb99b1f2a78b589216be2d11696d252dfbd892780853"
+            "sha256_sum": "8eced0c1c1773109e7457c5690a191b408de2802c62e70cfa1c740a420e6db22"
         }
     },
     "holoinventory": {
@@ -5022,26 +5022,26 @@
         }
     },
     "lootgames": {
-        "file_path": "./.minecraft/mods/lootgames-2.2.13.jar",
+        "file_path": "./.minecraft/mods/lootgames-2.2.14.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/LootGames/releases/download/2.2.13/lootgames-2.2.13.jar",
+        "source": "https://github.com/GTNewHorizons/LootGames/releases/download/2.2.14/lootgames-2.2.14.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.2.13",
+            "version": "2.2.14",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "da6f940f821593954c7b6c6e1a145faabb236f0872c6c0e96494e1f5a10503dc"
+            "sha256_sum": "1017cf76a14a333b53267862cb1a0004c013c622d939e52535530253d232cd8a"
         }
     },
     "lwjgl3ify": {
