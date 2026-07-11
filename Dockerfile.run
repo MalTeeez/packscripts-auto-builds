@@ -1,8 +1,14 @@
 FROM eclipse-temurin:25-jre-alpine-3.23
 
-RUN apk add curl bash
+RUN apk add curl bash grep
 
-RUN mkdir -p /home/gtnh
+# add rcon
+RUN curl -sSL -o /tmp/rcon-cli.tar.gz https://github.com/itzg/rcon-cli/releases/download/1.7.5/rcon-cli_1.7.5_linux_amd64.tar.gz \
+    && echo "587f771ae5d4424eb6c15cdf76634049cb29c3ff2b2020500fe26c64c66aab62  /tmp/rcon-cli.tar.gz" | sha256sum -c - \
+    && tar -xz -C /usr/local/bin -f /tmp/rcon-cli.tar.gz rcon-cli \
+    && rm /tmp/rcon-cli.tar.gz
+
+RUN mkdir -p /home/gtnh 
 WORKDIR /home/gtnh
 
 # move in server files
