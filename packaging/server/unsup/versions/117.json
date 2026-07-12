@@ -1,0 +1,212 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "d6db5896018f6c9a690883a3b46ab098855e293df0a69e2205af9ebf0d4dc49f",
+            "from_size": 31337474,
+            "to_hash": "888818228766ee9f75098e707d8198aaef509d4e808850f14ae8859441c92fb5",
+            "to_size": 31394474,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.73-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ef9fa66b1d733cc479586d7e034722fdece9f7d90550065c86a7fddc986a7b04",
+            "to_size": 1965051,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.73-GTNH/BetterQuesting-3.8.73-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/BetterQuesting-3.8.73-GTNH.jar"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.72-GTNH.jar",
+            "from_hash": "dc25c329429a20acb9e8a23e006c14c45128178c1e9b8e5c6822a9eb97769bcd",
+            "from_size": 1964905,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/BloodMagic-1.9.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2947b02d84b65685c91186f430d5ad01a5f2ec5d65b2b77024f3d181df10229d",
+            "to_size": 9549885,
+            "url": "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.9.7/BloodMagic-1.9.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/BloodMagic-1.9.7.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.10.jar",
+            "from_hash": "8b31d6b43c55e70697751432ae39c4e2a82f11c9825c2834dbe79170d41e8cec",
+            "from_size": 48456329,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8d5ce3f2b036f4cc82df6cae9b396c23fe29df9618fc0b9c621bb16620979680",
+            "to_size": 48456427,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/GTNewHorizonsCoreMod-2.9.12.jar"
+        },
+        {
+            "path": "mods/InGameInfoXML-2.9.4.jar",
+            "from_hash": "fa3669690860a9077ab74223c22bfe91c619470e53348a3b0d66dfdb9efd7c94",
+            "from_size": 324646,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/BloodMagic-1.9.6.jar",
+            "from_hash": "a6a47d09729f3aca9c72b44fd254c7bbdcff7656bf2e429b3b3fcf8ff5c1a16a",
+            "from_size": 9549881,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.5.29-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0db0ea57e4c2fb11f437f052555b518aa2aceeeb910c793e10697e6f9274e3a3",
+            "to_size": 6748785,
+            "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.29-GTNH/Draconic-Evolution-1.5.29-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/Draconic-Evolution-1.5.29-GTNH.jar"
+        },
+        {
+            "path": "mods/InGameInfoXML-2.9.5.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2aa6a12e2bf1118cdd7be2b99a4ff37c0dc55fb23256e9ab3f1889a3a4d33e6f",
+            "to_size": 324455,
+            "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.9.5/InGameInfoXML-2.9.5.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/InGameInfoXML-2.9.5.jar"
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.5.28-GTNH.jar",
+            "from_hash": "8ba5a7bd97044b9f1c60ba576417ac1781fb24102e486bfbc12c0b8baa821b09",
+            "from_size": 6748757,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.112-GTNH.jar",
+            "from_hash": "a662cc0af9f53b129c7f6935002aeb7616a2daa9b73bb7daa3e6e45e518e067a",
+            "from_size": 1588850,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.114-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fe2c74485e47a337cb0899f14206370471397031418414294478e528c6720528",
+            "to_size": 1602938,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.114-GTNH/NotEnoughItems-2.8.114-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/NotEnoughItems-2.8.114-GTNH.jar"
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.20.jar",
+            "from_hash": "6549c197ceaf6f7cc462919f91462150e84406c88a84354e4b910e763329e6fe",
+            "from_size": 2737554,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.21.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "946cda75e5a17785507e2a5dcc6798d718900952545a812be32b7b34c11f60b8",
+            "to_size": 2736751,
+            "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.21/ThaumicHorizons-1.8.21.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/ThaumicHorizons-1.8.21.jar"
+        },
+        {
+            "path": "mods/backpack-2.6.13-GTNH.jar",
+            "from_hash": "8ff11e06e64f1f8f7e3c897ac9b17b5fd1a9228c4265666c16fcdedbd3de2470",
+            "from_size": 272073,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/backpack-2.6.14-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "83f8a2496113ea871bd8cb4fd95c19fdb005295cc275405442a4adabe5a18729",
+            "to_size": 281885,
+            "url": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.6.14-GTNH/backpack-2.6.14-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/backpack-2.6.14-GTNH.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.95.jar",
+            "from_hash": "9ea263b3e6c67aca3a7fe246345e4249fe57ece4c6b406bd45da0014ce550911",
+            "from_size": 1525215,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.28.jar",
+            "from_hash": "195b8f637f6c328a081963dffa9d98a96909f76eb1a1ac64f50e3f76a6edd955",
+            "from_size": 69219389,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.31.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "58e486f5580c026b9e45a27ee358ab072be50b72103a4ef96da62c3ecd93a0f4",
+            "to_size": 69226834,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.31/gregtech-5.09.54.31.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/gregtech-5.09.54.31.jar"
+        },
+        {
+            "path": "mods/guidenh-1.3.13.jar",
+            "from_hash": "4b6b5115834daaf72b6b1342c406d3028d4cf857db02fc4949a77a40ef94ac85",
+            "from_size": 19152238,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2e9cfd093882ef811079e3af0d979067560302b1ad0e1bc9191b46bf8af996a8",
+            "to_size": 29732372,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.15/guidenh-1.3.15.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/guidenh-1.3.15.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1005-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "34503c391d5e93501ac1ef1f828951f2efa1ac160a189ab23c6b5dc8d844d1b0",
+            "to_size": 4678199,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1005-GTNH/appliedenergistics2-rv3-beta-1005-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/appliedenergistics2-rv3-beta-1005-GTNH.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.96.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6d99d7e0de76525d4c019cfd97a4fd0e4f5d75de2f5491f4a5ee39047f4fb5db",
+            "to_size": 1810286,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.96/cropsnh-2.0.96.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a13548e9d8efe38e3875f925465ecf60bbe7a621/.minecraft/mods/cropsnh-2.0.96.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1003-GTNH.jar",
+            "from_hash": "12368989f5a242b1392a22408a467bb7cb0aab86b0456b5da2e6decd425f21d4",
+            "from_size": 4678047,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.26",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.26"
+    }
+}
