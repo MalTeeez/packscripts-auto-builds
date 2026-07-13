@@ -1,0 +1,156 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/EnderStorage-1.8.3.jar",
+            "from_hash": "620a9dacb0f47648b4c508de8300b6dfdd1b46defcbd1f0a6accf9420ac7dce9",
+            "from_size": 153950,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.12.jar",
+            "from_hash": "8d5ce3f2b036f4cc82df6cae9b396c23fe29df9618fc0b9c621bb16620979680",
+            "from_size": 48456427,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.14.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b561f656b219001f846fd305ff25dfa05ce74cd826caae2ccca5dafccbc2abde",
+            "to_size": 48457129,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/GTNewHorizonsCoreMod-2.9.14.jar"
+        },
+        {
+            "path": "mods/EnderStorage-1.8.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a71431f3eb972505fbb3093ae9d64d17f947173f4bc409f11a31737f4a4d98e3",
+            "to_size": 154926,
+            "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.8.4/EnderStorage-1.8.4.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/EnderStorage-1.8.4.jar"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.74-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "62aab8fbecdbb2424e6f420b3700f40f8b4a080bd4715bbc10595f0f14aefed3",
+            "to_size": 1969663,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.74-GTNH/BetterQuesting-3.8.74-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/BetterQuesting-3.8.74-GTNH.jar"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.73-GTNH.jar",
+            "from_hash": "ef9fa66b1d733cc479586d7e034722fdece9f7d90550065c86a7fddc986a7b04",
+            "from_size": 1965051,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1007-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "42e4ff54bd14ac8402b54412e54dc85036c005ed78de51612923fc5ab14ec70a",
+            "to_size": 4683760,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1007-GTNH/appliedenergistics2-rv3-beta-1007-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/appliedenergistics2-rv3-beta-1007-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.31.jar",
+            "from_hash": "58e486f5580c026b9e45a27ee358ab072be50b72103a4ef96da62c3ecd93a0f4",
+            "from_size": 69226834,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.34.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f54f5431736529a4e63be4790c1db1157753609ec999494135f9763723518c4f",
+            "to_size": 69256314,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.34/gregtech-5.09.54.34.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/gregtech-5.09.54.34.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1005-GTNH.jar",
+            "from_hash": "34503c391d5e93501ac1ef1f828951f2efa1ac160a189ab23c6b5dc8d844d1b0",
+            "from_size": 4678199,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/etfuturum-2.6.48-GTNH.jar",
+            "from_hash": "21cb788d13a360800a3a7f76823d7046ccb22ee8950d8348b424fbb64a6b1f55",
+            "from_size": 5278554,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.15.jar",
+            "from_hash": "2e9cfd093882ef811079e3af0d979067560302b1ad0e1bc9191b46bf8af996a8",
+            "from_size": 29732372,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.16.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d8d08c3fd91e738fc9c312b9cce5273001f8bf1ded98278fb7f29b8ee1efca75",
+            "to_size": 29732398,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.16/guidenh-1.3.16.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/guidenh-1.3.16.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.49-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d7886a74530192850674fb16be3ed44a90cd434d0b53ce0d2341cfc1f5545541",
+            "to_size": 5291919,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.49-GTNH/etfuturum-2.6.49-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/etfuturum-2.6.49-GTNH.jar"
+        },
+        {
+            "path": "mods/visualprospecting-1.5.34.jar",
+            "from_hash": "d56f3ce9358894f6d007b19090f396d1fa591643b2868c192c2a882cc58fb32d",
+            "from_size": 232855,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.28.jar",
+            "from_hash": "50f7e2cc8e12e3a7fe3957399c6f326daed67e2d33ec4ecc1a17d0181c47ef03",
+            "from_size": 1307787,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.29.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cdd2590147641a75a113d58bb3dc9bcab6baee1478b43d4020f9b94895aff455",
+            "to_size": 1307892,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.29/gtnhlib-0.11.29.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/gtnhlib-0.11.29.jar"
+        },
+        {
+            "path": "mods/visualprospecting-1.5.35.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e94cce946dd7ef4a046008b194aa2363376ee1e891aeb4f2e853a1dae5c2af60",
+            "to_size": 234103,
+            "url": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.35/visualprospecting-1.5.35.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b8482fa2cf2ccf8e5c044ee40f756da1081f33e1/.minecraft/mods/visualprospecting-1.5.35.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.26",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.26"
+    }
+}
