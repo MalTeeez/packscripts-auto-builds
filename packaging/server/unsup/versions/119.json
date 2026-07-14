@@ -1,0 +1,75 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.14.jar",
+            "from_hash": "b561f656b219001f846fd305ff25dfa05ce74cd826caae2ccca5dafccbc2abde",
+            "from_size": 48457129,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6d039cb8aa0d5c78d485b2d903da5248fa3e5b452051fdcdf926492c3fbbf0f4",
+            "to_size": 48456963,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/568a0b3db03149567d97663ee41aa09187232d4b/.minecraft/mods/GTNewHorizonsCoreMod-2.9.15.jar"
+        },
+        {
+            "path": "mods/GTTweaker-2.3.3.jar",
+            "from_hash": "7725705d921b1f737285f3ae8d9472c67d8102b89bb3b0b90f671cfe0a0c353e",
+            "from_size": 174790,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.34.jar",
+            "from_hash": "f54f5431736529a4e63be4790c1db1157753609ec999494135f9763723518c4f",
+            "from_size": 69256314,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.35.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3ef543387db4d21cf615bd2e57f02491b62f3799c4674979e68815e4778757b1",
+            "to_size": 69245587,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.35/gregtech-5.09.54.35.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/568a0b3db03149567d97663ee41aa09187232d4b/.minecraft/mods/gregtech-5.09.54.35.jar"
+        },
+        {
+            "path": "mods/GTTweaker-2.3.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c65f524ee75ff0b7e483214e9040d9bc32ae54adc64ce739a88b018d73c6f72c",
+            "to_size": 174673,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/568a0b3db03149567d97663ee41aa09187232d4b/.minecraft/mods/GTTweaker-2.3.4.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.98.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "edf558d67b16f75ebad1389e9cc70e1aae9e1a6bed2bf3293b5cd945654e169b",
+            "to_size": 1814601,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.98/cropsnh-2.0.98.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/568a0b3db03149567d97663ee41aa09187232d4b/.minecraft/mods/cropsnh-2.0.98.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.96.jar",
+            "from_hash": "6d99d7e0de76525d4c019cfd97a4fd0e4f5d75de2f5491f4a5ee39047f4fb5db",
+            "from_size": 1810286,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2-20260602.093430-9",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.26",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.26"
+    }
+}
