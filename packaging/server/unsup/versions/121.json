@@ -1,0 +1,157 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "6567b3a14a2e4d94fba002c40ab7024d2b6e4e682336c5fa5bf8bce86413031e",
+            "from_size": 403,
+            "to_hash": "ff53c08722cce0619d7df603cc49f2b7e6e26f4d51c023f67302a6eb77904c7e",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "mods/OpenBlocks-1.12.18-GTNH.jar",
+            "from_hash": "56f8eee92359fa29a2f7ee5bc2ef18a7baa757fd80b9a81e1b66c3b0b4d5b6f4",
+            "from_size": 3473587,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/EnderIO-2.10.33.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "44f1ae09d0f9a3b30db3f5569c5652cea65c9540df71a97f3b506242b0d913ca",
+            "to_size": 4901548,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.33/EnderIO-2.10.33.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/EnderIO-2.10.33.jar"
+        },
+        {
+            "path": "mods/OpenBlocks-1.12.19-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8c0536d13e53f1b2271b1b8f180050c9e69c6b989339f6d6e7f50bec51ff23e3",
+            "to_size": 3473947,
+            "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.12.19-GTNH/OpenBlocks-1.12.19-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/OpenBlocks-1.12.19-GTNH.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.32.jar",
+            "from_hash": "6ba8941a8a7a1b3d544ee72d528b563680e0b0eb6123b33061603214d3fc835b",
+            "from_size": 4900457,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/WR-CBE-1.7.6.jar",
+            "from_hash": "a194be422f50771e0694a9361f164a5243c5996a3f39febf33c85a08497cfd3e",
+            "from_size": 337197,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ServerUtilities-2.4.2.jar",
+            "from_hash": "ec02942c9c49ed6dcf29dd10dfc06e164b2c09c6c1384c8560e906bbded2bae3",
+            "from_size": 1920642,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ServerUtilities-2.4.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "15f5885e95ed11d500bc75cd648367f1da022f7be2b2da138c775622137e96f3",
+            "to_size": 1920797,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.3/ServerUtilities-2.4.3.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/ServerUtilities-2.4.3.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.37.jar",
+            "from_hash": "cd3b07c169fccf55331aab76ec24555991ecb0468bc9ea3f5542143f9f2f43a2",
+            "from_size": 69455327,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.38.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d385f6c7e8e1058574257a6e2b26c79a6e3c3b8b17d7053f275ba178aa5d055c",
+            "to_size": 69268635,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.38/gregtech-5.09.54.38.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/gregtech-5.09.54.38.jar"
+        },
+        {
+            "path": "mods/WR-CBE-1.7.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "de8fa44b608a438b80ce257e333370256e7921db5e470ae9e3bebf1201942339",
+            "to_size": 337243,
+            "url": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.7/WR-CBE-1.7.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/WR-CBE-1.7.7.jar"
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.27.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d40297dc02a4234a7b7be7a6a9a71ff43af8a0126f1311a6d5404c1a04d9cc1e",
+            "to_size": 8265054,
+            "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.27/lwjgl3ify-3.0.27.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/lwjgl3ify-3.0.27.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1010-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a29b47ee0b9b4c8b7df66671c7681d7071940efbc5e7b888896a65fb428966dc",
+            "to_size": 4683771,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1010-GTNH/appliedenergistics2-rv3-beta-1010-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/appliedenergistics2-rv3-beta-1010-GTNH.jar"
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.26.jar",
+            "from_hash": "05b7cd288c365312f8c29cd5ae421a3d29b845604c454179261bb12937f3bbd3",
+            "from_size": 8265156,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1008-GTNH.jar",
+            "from_hash": "282f546054f0d3ed6bb246e0394245d416feb458e39f7006acab457eab770ee3",
+            "from_size": 4683758,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/malisisdoors-1.19.8-GTNH.jar",
+            "from_hash": "93d8d72dd39bcc9702f94ea9ec59923f052a6a89b4f1d511a793a5da7b72ee56",
+            "from_size": 2029771,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/malisisdoors-1.19.9-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "93c2ed5d601105ccea84d48b286c6f21c2c1c6cce6d5b797de68ad4649194606",
+            "to_size": 2030034,
+            "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.9-GTNH/malisisdoors-1.19.9-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/.minecraft/mods/malisisdoors-1.19.9-GTNH.jar"
+        },
+        {
+            "path": "lwjgl3ify-forgePatches.jar",
+            "from_hash": "fefeaad04ca8c7793b6cbb59f325582f2a70a5effad609d8fa3338745b56de4d",
+            "from_size": 7906989,
+            "to_hash": "a37744a19d871ae061daec0c8a986cf62b2ac4cf60564c3a1bc7f4e54b8af75f",
+            "to_size": 7906989,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/72bf8a4637c76c9488120ac24ca242be5ceae982/packaging/server/lwjgl3ify-forgePatches.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.27",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.27"
+    }
+}
