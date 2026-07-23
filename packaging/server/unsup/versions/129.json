@@ -1,0 +1,53 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/matter-manipulator-0.1.47-GTNH.jar",
+            "from_hash": "060a7b65c15a4f642493951c811c7b07f51faf51bafd5a8a7905edd6f9cb4204",
+            "from_size": 680995,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.48-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6c7461f3b20f9ed6f5a9b3a49e4bd86964a5290832d943772c5de45d75cf6543",
+            "to_size": 689552,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.48-GTNH/matter-manipulator-0.1.48-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/7af3cfa52cf42161e668e86013f535c66d71fbe1/.minecraft/mods/matter-manipulator-0.1.48-GTNH.jar"
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.28.jar",
+            "from_hash": "3bde4010dfeecf4ba04526e31ef1def714b36539dd070fd0b48e205f99e675da",
+            "from_size": 8265146,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.29.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "111a8c6112c6a52c387f619a636ea935548123386819bfdc99d8662ef3cbc478",
+            "to_size": 8265216,
+            "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.29/lwjgl3ify-3.0.29.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/7af3cfa52cf42161e668e86013f535c66d71fbe1/.minecraft/mods/lwjgl3ify-3.0.29.jar"
+        },
+        {
+            "path": "lwjgl3ify-forgePatches.jar",
+            "from_hash": "573054b977581e227bfdb9cdd3b9baa3b8637723713b0e660d7da961fa1ad781",
+            "from_size": 7906990,
+            "to_hash": "f8dfd9838dfcb6642b6a95cdcfabd634121a83ad1404e6fea54f151253f3803d",
+            "to_size": 7906990,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/7af3cfa52cf42161e668e86013f535c66d71fbe1/packaging/server/lwjgl3ify-forgePatches.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.29",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.29"
+    }
+}
