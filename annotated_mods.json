@@ -676,12 +676,12 @@
         }
     },
     "EnderIO": {
-        "file_path": "./.minecraft/mods/EnderIO-2.10.34.jar",
+        "file_path": "./.minecraft/mods/EnderIO-2.10.35.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.34/EnderIO-2.10.34.jar",
+        "source": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.35/EnderIO-2.10.35.jar",
         "notes": "",
         "wanted_by": [
             "gregtech"
@@ -694,14 +694,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.10.34",
+            "version": "2.10.35",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "3ebf721e3a34ebcb806e7558a72dad7b58fe2ed110213741635d56568455dacf"
+            "sha256_sum": "08a518701ee42c797af4745b0ab53ac33ce9df152e1fb443f4192ae4c7b3811c"
         }
     },
     "EnderStorage": {
@@ -3062,11 +3062,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.1.55.jar",
+        "file_path": "./.minecraft/mods/angelica-2.1.56.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.55/angelica-2.1.55.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.56/angelica-2.1.56.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3079,14 +3079,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.1.55",
+            "version": "2.1.56",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "772982276de3df0024dfa16e7ac3baeef5cc81f95380f587eb1a09364f7e1864"
+            "sha256_sum": "739247a0a9132614759d75f6d7d50c3967715970a4e306b995906a45ca11f792"
         }
     },
     "angermod": {
@@ -3953,12 +3953,12 @@
         }
     },
     "cropsnh": {
-        "file_path": "./.minecraft/mods/cropsnh-2.0.100.jar",
+        "file_path": "./.minecraft/mods/cropsnh-2.0.101.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.100/cropsnh-2.0.100.jar",
+        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.101/cropsnh-2.0.101.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3968,14 +3968,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.0.100",
+            "version": "2.0.101",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "5bc4368c0224600e44e023c503bdd8ce7df8ae0ffaf98fb7f745b49272c0ee76"
+            "sha256_sum": "0e44955d017115687ef2fc7d1dec625087847bbf376e5c69815db80ce6faa8c9"
         }
     },
     "custommainmenu": {
@@ -4497,12 +4497,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.51.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.52.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.51/gregtech-5.09.54.51.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.52/gregtech-5.09.54.52.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4570,14 +4570,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.51",
+            "version": "5.09.54.52",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "1e388c6fd4d186c99c6e305e91f8087a267a6ec8a244b3e1a33dd4972e243ca8"
+            "sha256_sum": "352e05b070befbda9249e7e98fb6b3c31c2032fb2df1c32903a337ee056b27b8"
         }
     },
     "gtnhcredits": {
@@ -5053,26 +5053,26 @@
         }
     },
     "lwjgl3ify": {
-        "file_path": "./.minecraft/mods/lwjgl3ify-3.0.29.jar",
+        "file_path": "./.minecraft/mods/lwjgl3ify-3.0.30.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.29/lwjgl3ify-3.0.29.jar",
+        "source": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.30/lwjgl3ify-3.0.30.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "3.0.29",
+            "version": "3.0.30",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "111a8c6112c6a52c387f619a636ea935548123386819bfdc99d8662ef3cbc478"
+            "sha256_sum": "21594ebc751b7aa6283222a9e295a836077b5b22db23d0bee76ff3c1465536c5"
         }
     },
     "malisisdoors": {
@@ -5228,12 +5228,12 @@
         }
     },
     "modularui2": {
-        "file_path": "./.minecraft/mods/modularui2-2.3.81-1.7.10.jar",
+        "file_path": "./.minecraft/mods/modularui2-2.3.82-1.7.10.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.81-1.7.10/modularui2-2.3.81-1.7.10.jar",
+        "source": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.82-1.7.10/modularui2-2.3.82-1.7.10.jar",
         "notes": "",
         "wanted_by": [
             "bogosorter",
@@ -5248,14 +5248,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.3.81-1.7.10",
+            "version": "2.3.82-1.7.10",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "d7e0d751f273a092a72884e32d317987c81190829f8431a6ae82caba413390d4"
+            "sha256_sum": "025a8d1481a65870a1d6e1bf326b8d9532591056b5fe1ea79db99c1ce1f670eb"
         }
     },
     "naturescompass": {
