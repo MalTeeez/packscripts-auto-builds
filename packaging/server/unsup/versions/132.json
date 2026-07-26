@@ -1,0 +1,92 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.21.jar",
+            "from_hash": "921d0ea17856f8e26930138c0917f8a81f02808ddf00657f3e5e3251decc8c2d",
+            "from_size": 48459655,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.22.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "419740fc4640bddaa72b9b0f341b026e543e42db31c65ab745053f7f40cd440b",
+            "to_size": 48459657,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/945a4e815bf5929e8485c160bf733c217e94dad1/.minecraft/mods/GTNewHorizonsCoreMod-2.9.22.jar"
+        },
+        {
+            "path": "mods/OpenComputers-1.12.51-GTNH.jar",
+            "from_hash": "236240a096ec6530370bb7541a9dafcbf39f575c9c8af0d166f12d081e71335e",
+            "from_size": 16797255,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.52-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4aecc562742e84ba3adc563f0c357d6e075c232e0318e4e2f9e26d6d4b3347cb",
+            "to_size": 16805248,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.52-GTNH/OpenComputers-1.12.52-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/945a4e815bf5929e8485c160bf733c217e94dad1/.minecraft/mods/OpenComputers-1.12.52-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.53.jar",
+            "from_hash": "266d774962b56475a1ae322cd54882e7a475d5ab58db4601f186e5ca7da523ea",
+            "from_size": 69334584,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.55.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9719232ca76835c54bba22937494bc6ce3322c332db9d6e9763a0f2610e209eb",
+            "to_size": 69375875,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.55/gregtech-5.09.54.55.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/945a4e815bf5929e8485c160bf733c217e94dad1/.minecraft/mods/gregtech-5.09.54.55.jar"
+        },
+        {
+            "path": "mods/nohotbarneeded-0.0.5.jar",
+            "from_hash": "781c8e3c566a46119d2cd430b00aefa5685905a42908ded223459473da6755e5",
+            "from_size": 9805,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.175.jar",
+            "from_hash": "96e41d86ecb04ba9a267e2d63dfcff3cf74a75df344beabcc39b1123a4b1145c",
+            "from_size": 1080031,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/nohotbarneeded-0.0.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dc7a050014a7358f1f0950776eb28070b835005970395f2b1eeba37e4891c967",
+            "to_size": 9883,
+            "url": "https://github.com/GTNewHorizons/NoHotbarNeeded/releases/download/0.0.6/nohotbarneeded-0.0.6.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/945a4e815bf5929e8485c160bf733c217e94dad1/.minecraft/mods/nohotbarneeded-0.0.6.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.176.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "aa0c8d3286bb54efbfa75eaae91c5ef9e533382cd62afc4547d440f9f7a68af9",
+            "to_size": 1079907,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.176/hodgepodge-2.7.176.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/945a4e815bf5929e8485c160bf733c217e94dad1/.minecraft/mods/hodgepodge-2.7.176.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.30",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.30"
+    }
+}
