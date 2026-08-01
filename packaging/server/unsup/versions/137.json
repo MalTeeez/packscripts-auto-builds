@@ -1,0 +1,108 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b277a9077d81f9fad299a70272455b762f8554b498e2092a086c9be24a979542",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb203ea07e15da46409fb9c96548486e40e69bad/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "208e262ae830dc7269b2f3ff1a64a8cab8696fadbe86c88f9a77d5312e5eccc7",
+            "from_size": 6262,
+            "to_hash": "56de6d24422a661b446049692fc9634da25a42ce544720ddc616e2e0282ab68b",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb203ea07e15da46409fb9c96548486e40e69bad/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.25.jar",
+            "from_hash": "b54b95c6b5c34edfc1dd518d1da4af346b181cba868b0d1b4bfc98701a04308a",
+            "from_size": 48460911,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.26.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3c109d86cef5acb9eef8155e3d43227da9348d3adc8d72e78897d1a34dd43a8d",
+            "to_size": 48461059,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/bb203ea07e15da46409fb9c96548486e40e69bad/.minecraft/mods/GTNewHorizonsCoreMod-2.9.26.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.59.jar",
+            "from_hash": "2ac53658aa07c3e311dc336cdd0d50fd2c3eb3e9224cbde1789a6e4a6cb8c671",
+            "from_size": 69386904,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.60.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "52b272e9b687704d564541d4aa459e3a5d18ac69cde1fb5e0296e1f1d412b197",
+            "to_size": 69387822,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.60/gregtech-5.09.54.60.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/bb203ea07e15da46409fb9c96548486e40e69bad/.minecraft/mods/gregtech-5.09.54.60.jar"
+        },
+        {
+            "path": "config/localconfig.txt",
+            "from_hash": "3a68064eb5bb5ac0951531317de044783cc565d9356db8d538373014c9b65a21",
+            "from_size": 11463,
+            "to_hash": "0d3e1c15a37718935f56d46eb88c5dd1a8c0e9040b357abc1a6adbb33cac12ae",
+            "to_size": 12244,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb203ea07e15da46409fb9c96548486e40e69bad/.minecraft/config/localconfig.txt"
+        },
+        {
+            "path": "mods/navigator-1.1.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "967d3f0c3ff65f482dcb2b3f5e62194345e5f09319e377d063fc02deec808078",
+            "to_size": 153645,
+            "url": "https://github.com/GTNewHorizons/Navigator/releases/download/1.1.8/navigator-1.1.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb203ea07e15da46409fb9c96548486e40e69bad/.minecraft/mods/navigator-1.1.8.jar"
+        },
+        {
+            "path": "mods/navigator-1.1.7.jar",
+            "from_hash": "a247a30abde0174c82d9b406eba33fc22fd828b3b0d5faa076f3fe69d74e8fc6",
+            "from_size": 152681,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/BloodArsenal-1.5.11.jar",
+            "from_hash": "0630688f81e1926c31d61d5b17a860b3e30911becfbdba9fd7f41068475df4c3",
+            "from_size": 774194,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/BloodArsenal-1.5.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "39ada5128e5597d58af55ef9d03b1852de203058e22b6d649c9a4d133881157c",
+            "to_size": 774184,
+            "url": "https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.5.12/BloodArsenal-1.5.12.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb203ea07e15da46409fb9c96548486e40e69bad/.minecraft/mods/BloodArsenal-1.5.12.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "c0e364d0a9c25fbdb13ce8c74a57d4cbb5f9cceca46cb6c518e07aca40b994e0",
+            "from_size": 630,
+            "to_hash": "f05ef9c716e97f3278657429d10882be0a492d32f60acffe12277001a2397627",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb203ea07e15da46409fb9c96548486e40e69bad/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.30",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.30"
+    }
+}
