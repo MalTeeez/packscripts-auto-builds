@@ -831,12 +831,12 @@
         }
     },
     "Forestry": {
-        "file_path": "./.minecraft/mods/Forestry-4.11.31.jar",
+        "file_path": "./.minecraft/mods/Forestry-4.11.32.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.31/Forestry-4.11.31.jar",
+        "source": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.32/Forestry-4.11.32.jar",
         "notes": "",
         "wanted_by": [
             "beebetteratbees",
@@ -851,14 +851,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "4.11.31",
+            "version": "4.11.32",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "99a14b5a969e0b57fc8fb905743e7eed4e22f3f8201d5c3e9e41c40cdbac1a0a"
+            "sha256_sum": "fac8f1dcb14d9ef46b83cfc8e049f25bba7ad9819e1aad59f58c3f41c4d1d54e"
         }
     },
     "ForgeMultipart": {
@@ -1470,12 +1470,12 @@
         }
     },
     "MineTweaker3": {
-        "file_path": "./.minecraft/mods/CraftTweaker-3.4.7.jar",
+        "file_path": "./.minecraft/mods/CraftTweaker-3.4.8.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.7/CraftTweaker-3.4.7.jar",
+        "source": "https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.8/CraftTweaker-3.4.8.jar",
         "notes": "",
         "wanted_by": [
             "modtweaker2"
@@ -1484,14 +1484,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "3.4.7",
+            "version": "3.4.8",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "e322d6e1a017fd16fc3391ae78c801ed9d1cef38b80fd66c233a37d4eb7cbdc8"
+            "sha256_sum": "9895f0253e02f49d3870f5d2375227f7d1b782b895d595f74e7dfc7031435cd2"
         }
     },
     "MouseTweaks": {
@@ -3118,12 +3118,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1021-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1022-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1021-GTNH/appliedenergistics2-rv3-beta-1021-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1022-GTNH/appliedenergistics2-rv3-beta-1022-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3140,14 +3140,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-1021-GTNH",
+            "version": "rv3-beta-1022-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "1a74539f001cb653ebd42d300854b3516e1fd9db4919952f35d0c49addf369b8"
+            "sha256_sum": "d3e6e8f7b901cbf5484f2276f1365a46211e2384b44c5aaa2e955b47040fc26c"
         }
     },
     "archaicfix": {
@@ -5104,26 +5104,26 @@
         }
     },
     "matter-manipulator": {
-        "file_path": "./.minecraft/mods/matter-manipulator-0.1.49-GTNH.jar",
+        "file_path": "./.minecraft/mods/matter-manipulator-0.1.50-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.49-GTNH/matter-manipulator-0.1.49-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.50-GTNH/matter-manipulator-0.1.50-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.1.49-GTNH",
+            "version": "0.1.50-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "623a9d062b2230a33d75627579230c5eacc0b9354481250168d7381333009c4d"
+            "sha256_sum": "a830f769d44a62adc416e7800782c58bd973fd3bfa195bc822617cf01767544a"
         }
     },
     "mobsinfo": {
@@ -5175,12 +5175,12 @@
         }
     },
     "modtweaker2": {
-        "file_path": "./.minecraft/mods/ModTweaker2-0.13.0.jar",
+        "file_path": "./.minecraft/mods/ModTweaker2-0.14.0.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ModTweaker/releases/download/0.13.0/ModTweaker2-0.13.0.jar",
+        "source": "https://github.com/GTNewHorizons/ModTweaker/releases/download/0.14.0/ModTweaker2-0.14.0.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -5189,14 +5189,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.13.0",
+            "version": "0.14.0",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "8158e97431b98ad380fa2f76003063519c9ae07aaa63de73354fbaaec4fab474"
+            "sha256_sum": "35e85c7fcb0c1950ba6909ba01b3c443bc1cb832f24431aed38b0314a575963d"
         }
     },
     "modularui": {
@@ -5284,12 +5284,12 @@
         }
     },
     "navigator": {
-        "file_path": "./.minecraft/mods/navigator-1.1.6.jar",
+        "file_path": "./.minecraft/mods/navigator-1.1.7.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Navigator/releases/download/1.1.6/navigator-1.1.6.jar",
+        "source": "https://github.com/GTNewHorizons/Navigator/releases/download/1.1.7/navigator-1.1.7.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -5298,14 +5298,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.1.6",
+            "version": "1.1.7",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "628cc1aaabba00869e9ad13c614b488bd738ac4518573826b0bec3807e9f1b76"
+            "sha256_sum": "a247a30abde0174c82d9b406eba33fc22fd828b3b0d5faa076f3fe69d74e8fc6"
         }
     },
     "neenergistics": {
