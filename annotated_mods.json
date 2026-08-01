@@ -485,12 +485,12 @@
         }
     },
     "BuildCraft|Core": {
-        "file_path": "./.minecraft/mods/buildcraft-7.1.62.jar",
+        "file_path": "./.minecraft/mods/buildcraft-7.1.63.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.62/buildcraft-7.1.62.jar",
+        "source": "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.63/buildcraft-7.1.63.jar",
         "notes": "",
         "wanted_by": [
             "BuildCraft|Compat",
@@ -508,14 +508,14 @@
             "BuildCraft|Robotics"
         ],
         "update_state": {
-            "version": "7.1.62",
+            "version": "7.1.63",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "2c9b0096db0c8ba72d2c9cc22acd16ac2ed5b92c6888f32f59092b1c6ca614c7"
+            "sha256_sum": "dfb5b284dfc7b48ce407753bbc895cb520f0b7e9120f0184486652a97f58b108"
         }
     },
     "CarpentersBlocks": {
@@ -2075,26 +2075,26 @@
         }
     },
     "SpecialMobs": {
-        "file_path": "./.minecraft/mods/SpecialMobs-3.7.4.jar",
+        "file_path": "./.minecraft/mods/SpecialMobs-3.7.5.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.4/SpecialMobs-3.7.4.jar",
+        "source": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.5/SpecialMobs-3.7.5.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "3.7.4",
+            "version": "3.7.5",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "18bfc02a249436b1213927274a417d378698fffe726fb3d7e71bf1d7255392b9"
+            "sha256_sum": "d638be22cb7f92c53475c641ceb915a106783d7df96358d5fd42f11140b1e8fc"
         }
     },
     "SpiceOfLife": {
@@ -2500,12 +2500,12 @@
         }
     },
     "ThaumicExploration": {
-        "file_path": "./.minecraft/mods/Thaumic-Exploration-1.5.25-GTNH.jar",
+        "file_path": "./.minecraft/mods/Thaumic-Exploration-1.5.26-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.25-GTNH/Thaumic-Exploration-1.5.25-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.5.26-GTNH/Thaumic-Exploration-1.5.26-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -2514,14 +2514,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.5.25-GTNH",
+            "version": "1.5.26-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "b8c45bbf6f9fb50702243eb142a4e67f01cd2779a550eef64944f342e4a12382"
+            "sha256_sum": "c6825ac192c770bb92136ba8ef1240314eb49155be92e9f767796417ba5c8788"
         }
     },
     "ThaumicHorizons": {
@@ -2702,12 +2702,12 @@
         }
     },
     "WR-CBE|Core": {
-        "file_path": "./.minecraft/mods/WR-CBE-1.7.8.jar",
+        "file_path": "./.minecraft/mods/WR-CBE-1.7.9.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.8/WR-CBE-1.7.8.jar",
+        "source": "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.9/WR-CBE-1.7.9.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -2721,14 +2721,14 @@
             "WR-CBE|Logic"
         ],
         "update_state": {
-            "version": "1.7.8",
+            "version": "1.7.9",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4f1c517a73c8d401a8395b264e92c3dded926416867b02a5e1fdd4e6ddb98e4e"
+            "sha256_sum": "28142d65e96c13230b8243a31352c481d3f0fa2ba81a4e97a359127b072d07ab"
         }
     },
     "Waila": {
@@ -2939,12 +2939,12 @@
         }
     },
     "ae2fc": {
-        "file_path": "./.minecraft/mods/ae2fc-1.5.98-gtnh.jar",
+        "file_path": "./.minecraft/mods/ae2fc-1.5.99-gtnh.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.98-gtnh/ae2fc-1.5.98-gtnh.jar",
+        "source": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.99-gtnh/ae2fc-1.5.99-gtnh.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -2953,14 +2953,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.5.98-gtnh",
+            "version": "1.5.99-gtnh",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "8f0e774d85e876841cbcd1c195a939f9c13cac6e11ac607114d45a628dac9da2"
+            "sha256_sum": "232b154fe4e459baf0979cd83ed11ae6416403c78abda4700417fa27c217d018"
         }
     },
     "ae2wct": {
@@ -3449,12 +3449,12 @@
         }
     },
     "betterquesting": {
-        "file_path": "./.minecraft/mods/BetterQuesting-3.8.74-GTNH.jar",
+        "file_path": "./.minecraft/mods/BetterQuesting-3.8.75-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.74-GTNH/BetterQuesting-3.8.74-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.75-GTNH/BetterQuesting-3.8.75-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
@@ -3465,14 +3465,14 @@
             "cb4bq"
         ],
         "update_state": {
-            "version": "3.8.74-GTNH",
+            "version": "3.8.75-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "62aab8fbecdbb2424e6f420b3700f40f8b4a080bd4715bbc10595f0f14aefed3"
+            "sha256_sum": "64c0c80603c6e293a6aacd1814d08f489620f1d3dd9ea57886670cdd563dd395"
         }
     },
     "blocklimiter": {
@@ -4498,12 +4498,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.64.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.65.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.64/gregtech-5.09.54.64.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.65/gregtech-5.09.54.65.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4571,14 +4571,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.64",
+            "version": "5.09.54.65",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "69cb0ef37564e93939cc38990a92933ede82b53637612b2ff48ce178dff5f86a"
+            "sha256_sum": "619079713674e9b11272fffabfea65c84832134f591ec77ec861d371119bfdf4"
         }
     },
     "gtnhcredits": {
