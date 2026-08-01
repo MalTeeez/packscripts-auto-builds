@@ -105,26 +105,26 @@
         }
     },
     "ArchitectureCraft": {
-        "file_path": "./.minecraft/mods/ArchitectureCraft-1.12.14.jar",
+        "file_path": "./.minecraft/mods/ArchitectureCraft-1.12.15.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.14/ArchitectureCraft-1.12.14.jar",
+        "source": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.15/ArchitectureCraft-1.12.15.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.12.14",
+            "version": "1.12.15",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "7cacb1f46cfe92e189b28d8ec2c30e7ba313ebe323949ac39f2c53504c5eb25a"
+            "sha256_sum": "57a175d7572466df1791c1983ee0bc02b3ef338422c252249b5db74d1ad66f5a"
         }
     },
     "Automagy": {
@@ -352,12 +352,12 @@
         }
     },
     "BinnieCore": {
-        "file_path": "./.minecraft/mods/binnie-mods-2.6.36.jar",
+        "file_path": "./.minecraft/mods/binnie-mods-2.6.37.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.36/binnie-mods-2.6.36.jar",
+        "source": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.37/binnie-mods-2.6.37.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -372,14 +372,14 @@
             "Genetics"
         ],
         "update_state": {
-            "version": "2.6.36",
+            "version": "2.6.37",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0353d835023bc321db2cacc7f9b1cf88139a7f38ecfa682f3ffb79bdd01b00f1"
+            "sha256_sum": "5f3582e6b8a9dc685053c7b97ff985d6a4412c088deb3f041c363e62ae83b4b4"
         }
     },
     "BiomesOPlenty": {
@@ -3789,12 +3789,12 @@
         }
     },
     "computronics": {
-        "file_path": "./.minecraft/mods/Computronics-1.9.8-GTNH.jar",
+        "file_path": "./.minecraft/mods/Computronics-1.9.9-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Computronics/releases/download/1.9.8-GTNH/Computronics-1.9.8-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Computronics/releases/download/1.9.9-GTNH/Computronics-1.9.9-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3803,14 +3803,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.9.8-GTNH",
+            "version": "1.9.9-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "eb12c3dabe95af69b405de36b45f7033d757a2885f922cc5854d9ed2d1cf4c02"
+            "sha256_sum": "c13d4af2a61b61a8f76d11ad3566816b35c194128a3c60fb54ca9bcd640ac49c"
         }
     },
     "controlling": {
@@ -4498,12 +4498,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.61.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.62.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.61/gregtech-5.09.54.61.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.62/gregtech-5.09.54.62.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4571,14 +4571,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.61",
+            "version": "5.09.54.62",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "e310b33c665a3937f7902ad9fffdad01d862c6e8faa7ff121f032be6aa38c1bf"
+            "sha256_sum": "a6bbaf96e7faef9c08ab1302b73bd053c9c4e84b96b493c19a0ea1b39323064e"
         }
     },
     "gtnhcredits": {
@@ -4730,12 +4730,12 @@
         }
     },
     "guidenh": {
-        "file_path": "./.minecraft/mods/guidenh-1.3.17.jar",
+        "file_path": "./.minecraft/mods/guidenh-1.3.18.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.17/guidenh-1.3.17.jar",
+        "source": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.18/guidenh-1.3.18.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -4744,14 +4744,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.3.17",
+            "version": "1.3.18",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "821a002f8dad48eb82f1fa82c566fc3fd68ca33d4edad9712f92d2e930b0df64"
+            "sha256_sum": "e2e2c54faaa14812866b081de94e9e154475d1bd9dc760d15f977dff1693af35"
         }
     },
     "harvestcraft": {
@@ -5485,12 +5485,12 @@
         }
     },
     "openglasses": {
-        "file_path": "./.minecraft/mods/OpenGlasses-1.6.7-GTNH.jar",
+        "file_path": "./.minecraft/mods/OpenGlasses-1.6.8-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/OCGlasses/releases/download/1.6.7-GTNH/OpenGlasses-1.6.7-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/OCGlasses/releases/download/1.6.8-GTNH/OpenGlasses-1.6.8-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -5499,14 +5499,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.6.7-GTNH",
+            "version": "1.6.8-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "d2f6c05df5759c417a4882203538d27e39a1ce6567d246cbc6999b924e86cfe8"
+            "sha256_sum": "c9ce2488382101e220c30eed3fb7dbe732b6dcdde9346e8df7469432e778d5f9"
         }
     },
     "openmodularturrets": {
@@ -5655,26 +5655,26 @@
         }
     },
     "randomboubles": {
-        "file_path": "./.minecraft/mods/randomboubles-1.1.6.jar",
+        "file_path": "./.minecraft/mods/randomboubles-1.1.7.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.6/randomboubles-1.1.6.jar",
+        "source": "https://github.com/GTNewHorizons/RandomBoubles/releases/download/1.1.7/randomboubles-1.1.7.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.1.6",
+            "version": "1.1.7",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "678d5111fa8a506a2cfbeae4e32a2bc9601b0ec55e7050c17046e1e3c5695df0"
+            "sha256_sum": "3770773a3975ac8ae6fc062bf3f44dfd683cc8671712dce9efd02af1f832cdee"
         }
     },
     "salisarcana": {
@@ -5703,12 +5703,12 @@
         }
     },
     "serverutilities": {
-        "file_path": "./.minecraft/mods/ServerUtilities-2.4.4.jar",
+        "file_path": "./.minecraft/mods/ServerUtilities-2.4.5.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.4/ServerUtilities-2.4.4.jar",
+        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.5/ServerUtilities-2.4.5.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -5719,14 +5719,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.4.4",
+            "version": "2.4.5",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "7cbd1570c44a1fb6ec8a16e9bf9c051704dc38596133b6608a4565a4dc669e2d"
+            "sha256_sum": "5b2f6152565e52f25426fb73955165a200c8c7d8ff23cc3f16b8baeef09e2d55"
         }
     },
     "sharewhereiam": {
@@ -6218,12 +6218,12 @@
         }
     },
     "visualprospecting": {
-        "file_path": "./.minecraft/mods/visualprospecting-1.5.37.jar",
+        "file_path": "./.minecraft/mods/visualprospecting-1.5.38.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.37/visualprospecting-1.5.37.jar",
+        "source": "https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.5.38/visualprospecting-1.5.38.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -6236,14 +6236,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.5.37",
+            "version": "1.5.38",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "33a9b87e24afd757c78093e302cabb628322441b4c8e31c07737d3eb8e7fa378"
+            "sha256_sum": "689da2d8bed3d8052794ab399a7de38d13f79b3c96300d9208e6b34d2526745b"
         }
     },
     "wailaplugins": {
