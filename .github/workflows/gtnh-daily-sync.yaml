@@ -46,6 +46,65 @@ jobs:
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${server_id}/zip" \
             > /tmp/gtnh-server/artifact.zip
 
+      - name: Mirror artifacts to Cloudflare R2
+        continue-on-error: true
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required # R2 rejects the new default CRC64 checksums
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+          R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          R2_BUCKET: gtnh-daily-artifacts
+          RUN_NUMBER: ${{ inputs.run_number }}
+          RUN_ID: ${{ inputs.run_id }}
+        run: |
+          if [ -z "$AWS_ACCESS_KEY_ID" ]; then
+            echo "R2 secrets not configured, skipping mirror."
+            exit 0
+          fi
+
+          for side in client server; do
+            # daily number versioned variant
+            aws s3 cp "/tmp/gtnh-${side}/artifact.zip" \
+              "s3://${R2_BUCKET}/gtnh-daily/daily-${RUN_NUMBER}/${side}.zip" \
+              --endpoint-url "$R2_ENDPOINT" --no-progress
+
+            # latest variant
+            aws s3 cp \
+              "s3://${R2_BUCKET}/gtnh-daily/daily-${RUN_NUMBER}/${side}.zip" \
+              "s3://${R2_BUCKET}/gtnh-daily/latest/${side}.zip" \
+              --endpoint-url "$R2_ENDPOINT" --no-progress
+          done
+
+          # manifest
+          printf '{"run_number": %s, "daxxl_run_id": %s, "synced_at": "%s"}\n' \
+            "$RUN_NUMBER" "$RUN_ID" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > /tmp/latest.json
+          aws s3 cp /tmp/latest.json \
+            "s3://${R2_BUCKET}/gtnh-daily/latest/manifest.json" \
+            --endpoint-url "$R2_ENDPOINT" --no-progress \
+            --content-type application/json
+
+          # prune old dailies, keep only the newest 5
+          keep=5
+          prefixes=$(aws s3api list-objects-v2 \
+            --bucket "$R2_BUCKET" \
+            --prefix "gtnh-daily/daily-" \
+            --delimiter "/" \
+            --endpoint-url "$R2_ENDPOINT" \
+            --query "CommonPrefixes[].Prefix" --output text)
+          [ "$prefixes" = "None" ] && prefixes=""
+
+          echo "$prefixes" | tr '\t' '\n' \
+            | sed -nE 's|^gtnh-daily/daily-([0-9]+)/$|\1|p' \
+            | sort -n | head -n -"$keep" \
+            | while read -r old; do
+                [ -n "$old" ] || continue
+                echo "Pruning daily-${old} from R2"
+                aws s3 rm "s3://${R2_BUCKET}/gtnh-daily/daily-${old}/" \
+                  --recursive --endpoint-url "$R2_ENDPOINT"
+              done
+
       - name: Clear current state
         run: |
           rm -rf .minecraft libraries patches gtnh_icon.png instance.cfg mmc-pack.json
