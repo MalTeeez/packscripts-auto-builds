@@ -74,7 +74,7 @@ jobs:
             aws s3 cp \
               "s3://${R2_BUCKET}/gtnh-daily/daily-${RUN_NUMBER}/${side}.zip" \
               "s3://${R2_BUCKET}/gtnh-daily/latest/${side}.zip" \
-              --endpoint-url "$R2_ENDPOINT" --no-progress
+              --endpoint-url "$R2_ENDPOINT" --no-progress --copy-props none
           done
 
           # manifest
