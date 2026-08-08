@@ -1,0 +1,85 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "f62c0ee260de78ad0018bb7d1e89cc0905d5f7f8d620dda0d96bb42c9ccfdd7b",
+            "from_size": 208,
+            "to_hash": "61443cf0889ba0c3335460c3e169c71400db420459c8006b07b86c95307431c0",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ed66e129ccae6505631cf340919be207fa4687bf/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.76.jar",
+            "from_hash": "128c7c0105032f20fd768682e5659e3430cfd99384d9a1400505007d8a79bbb7",
+            "from_size": 65873302,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.77.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "92478fb250928661c32393f8f7426967b2e6ab41f16f528db5fa5bd7db28e3df",
+            "to_size": 65901806,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.77/gregtech-5.09.54.77.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/ed66e129ccae6505631cf340919be207fa4687bf/.minecraft/mods/gregtech-5.09.54.77.jar"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "5e7b9cfaae03d79b8dcf72775f0e35bc78112a8d790b77d2ff67c693607b85d4",
+            "from_size": 6287,
+            "to_hash": "854f6a19ad90dc2ce91f753f8371aada320003ad0e41697a035036279a478be0",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ed66e129ccae6505631cf340919be207fa4687bf/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/cropsnh-2.0.102.jar",
+            "from_hash": "24529c14685a976da7a7dbab32427d2609ad0b120c95da3b681c0ef5d853596c",
+            "from_size": 1814553,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.103.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a8fb670d952279729df721902ff5564c142e452ca96bafd805fd291e9473f7e9",
+            "to_size": 1814897,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.103/cropsnh-2.0.103.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ed66e129ccae6505631cf340919be207fa4687bf/.minecraft/mods/cropsnh-2.0.103.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.181.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "df1eac2a5748ff3c3bda8cdf270e7d60a62752c945c05f68791d66e02852c884",
+            "to_size": 1090897,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.181/hodgepodge-2.7.181.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ed66e129ccae6505631cf340919be207fa4687bf/.minecraft/mods/hodgepodge-2.7.181.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.180.jar",
+            "from_hash": "063ce19813e993be81781a9bf1ff4c20df5a8245ff4d473b9cecbfd382b0a08e",
+            "from_size": 1087044,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "9caab127125c71c86ba6421f0fa83932309830039395a91b077dbbb80cc77a78",
+            "from_size": 655,
+            "to_hash": "db8f6e1b0cab323c6907a7838a11b651dc082b225d542a8881c69067e3b742dd",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ed66e129ccae6505631cf340919be207fa4687bf/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
