@@ -431,12 +431,12 @@
         }
     },
     "Botania": {
-        "file_path": "./.minecraft/mods/Botania-1.13.32-GTNH.jar",
+        "file_path": "./.minecraft/mods/Botania-1.13.33-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.32-GTNH/Botania-1.13.32-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.33-GTNH/Botania-1.13.33-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons"
@@ -449,14 +449,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.13.32-GTNH",
+            "version": "1.13.33-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "aabe478ae37bdfc7d5fac3b73e6f4863d8cb60711d64ea4ea936158414196b2f"
+            "sha256_sum": "6f4ff4304cbcb494fe5f18db12b60e8cd4027f2bba466c3995b2833b0f9fd9c5"
         }
     },
     "BuildCraft|Compat": {
@@ -599,12 +599,12 @@
         }
     },
     "DraconicEvolution": {
-        "file_path": "./.minecraft/mods/Draconic-Evolution-1.5.30-GTNH.jar",
+        "file_path": "./.minecraft/mods/Draconic-Evolution-1.5.31-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.30-GTNH/Draconic-Evolution-1.5.30-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.31-GTNH/Draconic-Evolution-1.5.31-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -613,14 +613,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.5.30-GTNH",
+            "version": "1.5.31-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "a10d776bf7a1cf818c68044e2d280391100b837b7013b0e8a1a8c4c5a913f58c"
+            "sha256_sum": "7b5f2e51e3210feaeaff0ac8262e54fbbc701ae4d350dd8bd59320718fbb5d2a"
         }
     },
     "DummyCore": {
@@ -3063,11 +3063,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.1.60.jar",
+        "file_path": "./.minecraft/mods/angelica-2.2.2.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.1.60/angelica-2.1.60.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.2/angelica-2.2.2.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3080,14 +3080,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.1.60",
+            "version": "2.2.2",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "e052335245bc757a510f363f5ac0ad37abd08acf4575d833cc59443baadbf292"
+            "sha256_sum": "186e95dcbada855a0cc35268239a6ef887a64a1508ce34e6eb5bd80f6d07871c"
         }
     },
     "angermod": {
@@ -4604,35 +4604,35 @@
         }
     },
     "gtnhextlib": {
-        "file_path": "./.minecraft/mods/gtnhextlib-1.0.3.jar",
+        "file_path": "./.minecraft/mods/gtnhextlib-1.0.4.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.3/gtnhextlib-1.0.3.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.4/gtnhextlib-1.0.4.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0f72f945f2c44c356ef011b6c6b0c73c7f5624f632d37778ca0b71757d927475"
+            "sha256_sum": "6e045733f8c4ce89f8a3844470096cc800fd4b848d9e7e5c37e22866e5f61cb7"
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.11.36.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.11.37.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.36/gtnhlib-0.11.36.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.37/gtnhlib-0.11.37.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4692,14 +4692,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.11.36",
+            "version": "0.11.37",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0db56198caa3abe2752a74da5b1452d0dec14d564ee6d940583ed5c6b258444e"
+            "sha256_sum": "535b7d343b6cb0542e0d3d44636729a42ff7873ce1e5caa2f6de0b9da3d74153"
         }
     },
     "gtnhtcwands": {
@@ -4780,12 +4780,12 @@
         }
     },
     "hodgepodge": {
-        "file_path": "./.minecraft/mods/hodgepodge-2.7.181.jar",
+        "file_path": "./.minecraft/mods/hodgepodge-2.7.182.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.181/hodgepodge-2.7.181.jar",
+        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.182/hodgepodge-2.7.182.jar",
         "notes": "",
         "wanted_by": [
             "supernova"
@@ -4798,14 +4798,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.7.181",
+            "version": "2.7.182",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "df1eac2a5748ff3c3bda8cdf270e7d60a62752c945c05f68791d66e02852c884"
+            "sha256_sum": "8a6df078bbc5d107e35e674de650e6a5bf1230fde712bed0a321631d6545e135"
         }
     },
     "holoinventory": {
