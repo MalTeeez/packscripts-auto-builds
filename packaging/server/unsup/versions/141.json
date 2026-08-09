@@ -1,0 +1,117 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/Botania-1.13.32-GTNH.jar",
+            "from_hash": "aabe478ae37bdfc7d5fac3b73e6f4863d8cb60711d64ea4ea936158414196b2f",
+            "from_size": 16905585,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Botania-1.13.33-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6f4ff4304cbcb494fe5f18db12b60e8cd4027f2bba466c3995b2833b0f9fd9c5",
+            "to_size": 16905428,
+            "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.33-GTNH/Botania-1.13.33-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/.minecraft/mods/Botania-1.13.33-GTNH.jar"
+        },
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "61443cf0889ba0c3335460c3e169c71400db420459c8006b07b86c95307431c0",
+            "from_size": 208,
+            "to_hash": "dea75c96faf2330ded880c79dc492488908d3c28f9f145b80adc74406ef9dd77",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/gtnhextlib-1.0.3.jar",
+            "from_hash": "0f72f945f2c44c356ef011b6c6b0c73c7f5624f632d37778ca0b71757d927475",
+            "from_size": 25239333,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhextlib-1.0.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6e045733f8c4ce89f8a3844470096cc800fd4b848d9e7e5c37e22866e5f61cb7",
+            "to_size": 25359661,
+            "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.0.4/gtnhextlib-1.0.4.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/.minecraft/mods/gtnhextlib-1.0.4.jar"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "854f6a19ad90dc2ce91f753f8371aada320003ad0e41697a035036279a478be0",
+            "from_size": 6287,
+            "to_hash": "0791d04536fbbb30ed910608c88160077d2ab6bf05b2f25f9b3098ab1b836251",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.36.jar",
+            "from_hash": "0db56198caa3abe2752a74da5b1452d0dec14d564ee6d940583ed5c6b258444e",
+            "from_size": 1384832,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.37.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "535b7d343b6cb0542e0d3d44636729a42ff7873ce1e5caa2f6de0b9da3d74153",
+            "to_size": 1384832,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.37/gtnhlib-0.11.37.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/.minecraft/mods/gtnhlib-0.11.37.jar"
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.5.31-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7b5f2e51e3210feaeaff0ac8262e54fbbc701ae4d350dd8bd59320718fbb5d2a",
+            "to_size": 6755377,
+            "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.5.31-GTNH/Draconic-Evolution-1.5.31-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/.minecraft/mods/Draconic-Evolution-1.5.31-GTNH.jar"
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.5.30-GTNH.jar",
+            "from_hash": "a10d776bf7a1cf818c68044e2d280391100b837b7013b0e8a1a8c4c5a913f58c",
+            "from_size": 6748777,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.181.jar",
+            "from_hash": "df1eac2a5748ff3c3bda8cdf270e7d60a62752c945c05f68791d66e02852c884",
+            "from_size": 1090897,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "db8f6e1b0cab323c6907a7838a11b651dc082b225d542a8881c69067e3b742dd",
+            "from_size": 655,
+            "to_hash": "edcee58cbf049b2a049221d4352084b6bd6d985b6fec116d3fbef1763d4cd697",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.182.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8a6df078bbc5d107e35e674de650e6a5bf1230fde712bed0a321631d6545e135",
+            "to_size": 1092535,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.182/hodgepodge-2.7.182.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5ce393dcabb1b3ac09cc5e32ebed41cc45471cba/.minecraft/mods/hodgepodge-2.7.182.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
