@@ -1,0 +1,165 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "4af3e5a232bed256418de99f0d8c7833ae5dc46c5700984ff6ae3d22bed6bd46",
+            "from_size": 208,
+            "to_hash": "5c9055011b5909f06ad60d4cbfa0786749ffa669871f9be7f9b3c2894c86f7bd",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "8165eed151a19c291ba60244da51054012c9b7db3373b1a626aeff0756f6baaf",
+            "from_size": 6287,
+            "to_hash": "74c85068f8af8d020f3cf6406b6f0f270477eef8cec738047b10daf5eaab3b4c",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/JABBA-1.5.22.jar",
+            "from_hash": "6dd931f8bb46bf717358a4b07f30d4ca32d9f9f2f37d8a6724d91303402fba98",
+            "from_size": 476471,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/JABBA-1.5.23.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c2bdca9ef6a694c95f4814c6bee3f3b214c9677e4956df58fc765035b72353ec",
+            "to_size": 476488,
+            "url": "https://github.com/GTNewHorizons/Jabba/releases/download/1.5.23/JABBA-1.5.23.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/JABBA-1.5.23.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.39.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "06675e1ddacaec032e1d1832f1a1fcf2ee99cc1369d8f128d308a5f67422b5bd",
+            "to_size": 4903278,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.39/EnderIO-2.10.39.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/EnderIO-2.10.39.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.38.jar",
+            "from_hash": "c4a767b59ddb3f264138e5bb7bc899dfb9f566883df1f9d46e229c88b76298b2",
+            "from_size": 4903250,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/WitchingGadgets-1.8.48-GTNH.jar",
+            "from_hash": "4dfbadab1cd975d5e08c497c419787e7c78eddcc9d957d2acb9729d7e9d07153",
+            "from_size": 3983912,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/WitchingGadgets-1.8.49-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "eb3f865a1987534908aadc91f2ad79fb0233219bc7e95f7baff96547cd1f44b0",
+            "to_size": 3983928,
+            "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.8.49-GTNH/WitchingGadgets-1.8.49-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/WitchingGadgets-1.8.49-GTNH.jar"
+        },
+        {
+            "path": "mods/Opis-1.4.10-mapless.jar",
+            "from_hash": "6978db9bdd3c76b170419c847bba0df06c885ea9db897a316cc641e1ce767cc1",
+            "from_size": 7031680,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.19.jar",
+            "from_hash": "d59af73d57708a2c2cd7fe0c28e3901aa281ed10c9f971b40e9b1c53c1dd5ca6",
+            "from_size": 29808772,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.20.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e4513fbc7d4e727678550798662d2eb9f51394767eab352e27847d646466a672",
+            "to_size": 29809147,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.20/guidenh-1.3.20.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/guidenh-1.3.20.jar"
+        },
+        {
+            "path": "mods/Opis-1.4.11-mapless.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f6a9dd4134a099123dc8697de97e16b2d2177d59a3a51eb0abe0559d004e6a12",
+            "to_size": 7031718,
+            "url": "https://github.com/GTNewHorizons/Opis/releases/download/1.4.11-mapless/Opis-1.4.11-mapless.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/Opis-1.4.11-mapless.jar"
+        },
+        {
+            "path": "mods/binnie-mods-2.6.41.jar",
+            "from_hash": "75b997ee78ed07bd729063dee7a8a08e1773a5a5bfad098658f93a140f5a01ab",
+            "from_size": 4251590,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/binnie-mods-2.6.42.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6399153cb797a70c6aad9f8e37835238e3274a1b33dc6860bf9e02e4359115c2",
+            "to_size": 4254769,
+            "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.42/binnie-mods-2.6.42.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/binnie-mods-2.6.42.jar"
+        },
+        {
+            "path": "mods/logisticspipes-1.5.34-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c74c8c9b46eea9e6329b48319451ce71ce87664e572c7a68577baa5b33cf6fb2",
+            "to_size": 2902893,
+            "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.34-GTNH/logisticspipes-1.5.34-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/logisticspipes-1.5.34-GTNH.jar"
+        },
+        {
+            "path": "mods/logisticspipes-1.5.32-GTNH.jar",
+            "from_hash": "610a04bed41e3fdddd438a9f3ca0c3a5ce2bbeaeec7462f4fdb2b7866b1466aa",
+            "from_size": 2902855,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/magicbees-2.10.11-GTNH.jar",
+            "from_hash": "3b533ce85de3f8981e10bf5db1a1c702ad3b7af2b12780df36a308a0e7d46632",
+            "from_size": 1012684,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "861295014f8d8d6b5003891a61059684c7919fa9328755ecd0ca02b75172bd04",
+            "from_size": 655,
+            "to_hash": "73e20b562823995a68dda05030fecd301d8fc4c488afc562877380a6dc249b46",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/magicbees-2.10.12-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6da93fbe224dd30ec0cdb37478ff6eea711ef2908ee8b6466dc2f8c6547257ca",
+            "to_size": 1012704,
+            "url": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.10.12-GTNH/magicbees-2.10.12-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/eb07a79961a3d11b79117eeb9b5799a99c52535c/.minecraft/mods/magicbees-2.10.12-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
