@@ -1,0 +1,84 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "5c9055011b5909f06ad60d4cbfa0786749ffa669871f9be7f9b3c2894c86f7bd",
+            "from_size": 208,
+            "to_hash": "aa33d2fe4ba8794f7b215c0d23684f267f87d7642cf2e010dd92ff7b967c85e5",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb54db621201e51ffb998a8bb59c5219587bd863/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "74c85068f8af8d020f3cf6406b6f0f270477eef8cec738047b10daf5eaab3b4c",
+            "from_size": 6287,
+            "to_hash": "88fb40bc718410df20e48443856a3e1cbaff9e4060d97db08a19e849eca0cd0b",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb54db621201e51ffb998a8bb59c5219587bd863/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.34.jar",
+            "from_hash": "ef937783841b026852270a417f4054f52f7ee3ad87d4e783e4c753779ec3d6bf",
+            "from_size": 48460912,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.35.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8b0d8809d3183c357ec22f38d0bbd3da2fe792beb219953b7d5313341820f723",
+            "to_size": 48461082,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/bb54db621201e51ffb998a8bb59c5219587bd863/.minecraft/mods/GTNewHorizonsCoreMod-2.9.35.jar"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "a3363c11a93dd9f76ec3a0d75f7f5b1df0600296043afd0849d40b737eb933f7",
+            "from_size": 35,
+            "to_hash": "39950a302fd6e82be0c0a824a327076ca6c6a4be0797e50be9abd03e6a7461c0",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb54db621201e51ffb998a8bb59c5219587bd863/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.77-GTNH.jar",
+            "from_hash": "75e514b9d9275f5c0bb10be9b41fa3190dccafe368489104e040b7dfbc5cdf1e",
+            "from_size": 1970833,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/BetterQuesting-3.8.78-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e239e7f56911df835de49405bab9bce650ca81121d60e415821d67edf6a263bf",
+            "to_size": 1986791,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.78-GTNH/BetterQuesting-3.8.78-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb54db621201e51ffb998a8bb59c5219587bd863/.minecraft/mods/BetterQuesting-3.8.78-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.103.jar",
+            "from_hash": "a8fb670d952279729df721902ff5564c142e452ca96bafd805fd291e9473f7e9",
+            "from_size": 1814897,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.104.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8171b337f8adb0555724a0a7720e3c9ff456ea583adfe557780d29ac1b2c04b0",
+            "to_size": 1815140,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.104/cropsnh-2.0.104.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bb54db621201e51ffb998a8bb59c5219587bd863/.minecraft/mods/cropsnh-2.0.104.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
