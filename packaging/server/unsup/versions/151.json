@@ -1,0 +1,157 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "997be11d8c33388af8465e9ebbf34d260073b85d7160a319724d124f64c083be",
+            "from_size": 208,
+            "to_hash": "1f6843cf10d934e9fe0addd706d16f12226baf3d121766fc0d7355c09543b2df",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "fc375e8c6b4f12d8841442e5eac8bc17d7f6b32c01fa65b7dc6a6c075b4bc3ab",
+            "from_size": 6287,
+            "to_hash": "4b348c9d4e3570076389ae3b0f122eb1084830b32699f89261c9c88e22c0ece1",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/ProjectRed.cfg",
+            "from_hash": "b2ecf71d729ced41ae600283328937d6d057e23aefab8a1646573791e60fdfcd",
+            "from_size": 4732,
+            "to_hash": "ed05c0721fc06c387194afcc2ceeb1b828af58e6f0caf9c9a3825a1a5d2499a1",
+            "to_size": 4855,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/config/ProjectRed.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "edec99e4501e5b6213280bb10eb38ac0a2dc3e94b2853ee6e616079ed361e3b5",
+            "from_size": 404,
+            "to_hash": "23171420abaea4d5a9d6ab646e59db1e208f848e4cf0422a59b3188a69dd712a",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/BarleyTime-AAAAAAAAAAAAAAAAAAAKpQ==.json",
+            "from_hash": "1877b169528a1512992a79612accb4de317a4a04d357cc83eb91f261e9de017e",
+            "from_size": 2988,
+            "to_hash": "b5c37919f98865938082c551128bedf60e89b8b16161e3ad340a5f899db4f899",
+            "to_size": 2998,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/BarleyTime-AAAAAAAAAAAAAAAAAAAKpQ==.json"
+        },
+        {
+            "path": "mods/TConstruct-1.14.98-GTNH.jar",
+            "from_hash": "1ad41e26e585251be61df24883133788e8485e62f98b65a02a7bdc275a3cc9bc",
+            "from_size": 5581188,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.99-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "015a6d90cb6059e41f9d7c304d21e97711d57f02001449adcf79728804430bae",
+            "to_size": 5581957,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.99-GTNH/TConstruct-1.14.99-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/mods/TConstruct-1.14.99-GTNH.jar"
+        },
+        {
+            "path": "mods/ProjRed-4.12.43-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fb8501d127e1fb2c5da5416ae07063e04a0596098a3dd0a83fb3ebef2fbb63ae",
+            "to_size": 10288479,
+            "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.43-GTNH/ProjRed-4.12.43-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/mods/ProjRed-4.12.43-GTNH.jar"
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.30.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7dc1a49c6c13589581591af5cd96f416d64aa7b0dca2f441aefbd8d6d8906e83",
+            "to_size": 1981419,
+            "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.30/ThaumicTinkerer-2.12.30.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/mods/ThaumicTinkerer-2.12.30.jar"
+        },
+        {
+            "path": "mods/ProjRed-4.12.41-GTNH.jar",
+            "from_hash": "872159bbec3d6b34724f1785a81fc33ba082d2e5609746e6bca68166446ff154",
+            "from_size": 10250084,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.29.jar",
+            "from_hash": "bb9e2d88a34c197d711929a36cb8df2b2ffc936f678e2f05c70e74f0c4369518",
+            "from_size": 1982194,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.109.jar",
+            "from_hash": "54dae9ce01f6bbf6ec8b5e4069f6e585a4efcec464cc82f1800224a406a95e18",
+            "from_size": 1826952,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ifu-1.12.3.jar",
+            "from_hash": "5dd163aa7737935ef911d9351cc7620b4fb762116d39137437d83832c5b4c51f",
+            "from_size": 61539,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.110.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a54c09415910bf942c48713ffd8671c13fa5930bf2c854ec17b2ebb2f0831c35",
+            "to_size": 1826956,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.110/cropsnh-2.0.110.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/mods/cropsnh-2.0.110.jar"
+        },
+        {
+            "path": "mods/ifu-1.12.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1c36cb51575c6f996aab862e45eacc003f0f7d3a6c84159f82a6affaa2b61a30",
+            "to_size": 61570,
+            "url": "https://github.com/GTNewHorizons/IFU/releases/download/1.12.4/ifu-1.12.4.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/mods/ifu-1.12.4.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "2f3b21bca8b3f7953497dcf99c4b84d5cfc0d9636c8e8a0297b700e43bf2f16a",
+            "from_size": 655,
+            "to_hash": "9a0116d6d7e77838ed95f934eb4f6c07ba6444df5d6f583db5d75f6c092badd1",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/etfuturum-2.6.53-GTNH.jar",
+            "from_hash": "56aaafbdf39020198832b308ee663483bb40bdfe9d87d1172b83c7ff38da3108",
+            "from_size": 5294621,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/etfuturum-2.6.54-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5cd44e61568eef70ed0848c28819623548d3e05d7059d32103f228256ff9b253",
+            "to_size": 5303208,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.54-GTNH/etfuturum-2.6.54-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdc1e11f1ec99311d6a85816044589f54a5d3342/.minecraft/mods/etfuturum-2.6.54-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
