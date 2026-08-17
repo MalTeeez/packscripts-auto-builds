@@ -1,0 +1,132 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.40.jar",
+            "from_hash": "9f01c66bb90642deeb9e064685dca0327293423645cc3cb957aa13864a0aca67",
+            "from_size": 48461852,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.41.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9736b12690c4c78a1754166c72b199a7511476f3b9bba9603c74b271a9abb2e4",
+            "to_size": 48462392,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/mods/GTNewHorizonsCoreMod-2.9.41.jar"
+        },
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "1f6843cf10d934e9fe0addd706d16f12226baf3d121766fc0d7355c09543b2df",
+            "from_size": 208,
+            "to_hash": "e724ba3d61d9fa28b5e01e0b261bf90ed1eff50c3d499ee22435a7279a8e6616",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "4b348c9d4e3570076389ae3b0f122eb1084830b32699f89261c9c88e22c0ece1",
+            "from_size": 6287,
+            "to_hash": "e430fba99ed5179cafcf3e17502f6176bed8f5e5804be696caaa201a2c979660",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "0ed05fb578effccad1f8fb6b0de6df53471095b72c55cb654f4b75923bfc0f48",
+            "from_size": 35,
+            "to_hash": "217ae45680893d87adb8ca767ccd5f9e8d054f53033fb8d430cc9354bad86b41",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/WitcheryExtras-1.4.16.jar",
+            "from_hash": "3d773cd175ea52d478f6f62ef3570749bb4f0b28d23b5d6d7323e544df4cd561",
+            "from_size": 119155,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.91.jar",
+            "from_hash": "06d6a1a6806b19d11d453191419ce34462ca0d8912b0e839bdb41be74ec29249",
+            "from_size": 66309316,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.93.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f86f4b302d53012495fd522a84af85685e0d8a60411f3b4fd002dcbb75e8def0",
+            "to_size": 66320780,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.93/gregtech-5.09.54.93.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/mods/gregtech-5.09.54.93.jar"
+        },
+        {
+            "path": ".minecraft/mods/WitcheryExtras-1.4.17.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8b7a71dbd5bc9ef4644bba48f750e8b3811ddc2e998e86616df501893fbc1966",
+            "to_size": 118185,
+            "url": "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.4.17/WitcheryExtras-1.4.17.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/mods/WitcheryExtras-1.4.17.jar"
+        },
+        {
+            "path": ".minecraft/mods/gtnhlib-0.11.37.jar",
+            "from_hash": "535b7d343b6cb0542e0d3d44636729a42ff7873ce1e5caa2f6de0b9da3d74153",
+            "from_size": 1384832,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gtnhlib-0.11.39.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ecc8a9c7025e99ca180c66cbb120eec4477993c93c1de255281a003772088a86",
+            "to_size": 1388036,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.39/gtnhlib-0.11.39.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/mods/gtnhlib-0.11.39.jar"
+        },
+        {
+            "path": ".minecraft/mods/postea-1.2.5.jar",
+            "from_hash": "fbbddf733f81778350f338edf70e681d92a4dc8e7fa16e5ccded6670847be90f",
+            "from_size": 68369,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/postea-1.2.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "11d3bcb38761eb514ba7a58152c93f00f132ef091d567ba3efc59c99693afae3",
+            "to_size": 68360,
+            "url": "https://github.com/GTNewHorizons/Postea/releases/download/1.2.6/postea-1.2.6.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/mods/postea-1.2.6.jar"
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dc3b726e5da10175a58ffaecf6f97f5ed7449e82c14aad59e3449b1596de198d",
+            "to_size": 9645286,
+            "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.7/angelica-2.2.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b30e105c835cc8586d62dd0d18af06a88e1079cb/.minecraft/mods/angelica-2.2.7.jar"
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.6.jar",
+            "from_hash": "b7d062180fa413d2c0a3b6d2538b49c04a0d67566720e260f51c76e59e91037f",
+            "from_size": 9623618,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
