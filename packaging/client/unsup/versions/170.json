@@ -1,0 +1,98 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.42.jar",
+            "from_hash": "15dfd86840293055c17a1b0e965bb99fa774222cbe8268f183b146c449aab4a4",
+            "from_size": 48461139,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.43.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a4e76b11636a3aaa92a9fb82066ecec170712dfdfb5572bfc608d66421a7b83b",
+            "to_size": 48462842,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/846f2250937b23e3618fe774ef426513bbe309d0/.minecraft/mods/GTNewHorizonsCoreMod-2.9.43.jar"
+        },
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "1aec2681ae5dfb221751758bea72a45abfd0ef712e66fc5dfe184919ae5b80ff",
+            "from_size": 208,
+            "to_hash": "9d2402da16f062131d62d7d902708880aec559aa690660d99f69e48853261250",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/846f2250937b23e3618fe774ef426513bbe309d0/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "1bc32b45706b06f5173981c4a75e755ff9972c7882d18f1eb4e5349d75d80770",
+            "from_size": 35,
+            "to_hash": "7bcbde550ea175f667d51a605b33b395ed14beb78b845378003c4d523b0d1265",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/846f2250937b23e3618fe774ef426513bbe309d0/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "d7dfbfdf9fdf94678ac550de2d6238da531e5b81db03e4d3d3d53fd0edd479ef",
+            "from_size": 6287,
+            "to_hash": "b527558128b01758ec4240c742758fd6398d943ecfb4bc2d3016f4db2edbe4ef",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/846f2250937b23e3618fe774ef426513bbe309d0/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/mods/Thaumcraft4Tweaks-1.5.46.jar",
+            "from_hash": "e589d4f7b2123d7328fb68b18fbf4b41ed240fb6edbff4109bf0f9352215c8aa",
+            "from_size": 394746,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.94.jar",
+            "from_hash": "e6c880eac14556e4923c94503248d860c7e6b766dbe80e7909746d8927fd5cf0",
+            "from_size": 66321871,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.95.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e222f9880b1c382becc886f27fab68ff7a1ce24894069a53b95564888e80d225",
+            "to_size": 66322010,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.95/gregtech-5.09.54.95.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/846f2250937b23e3618fe774ef426513bbe309d0/.minecraft/mods/gregtech-5.09.54.95.jar"
+        },
+        {
+            "path": ".minecraft/mods/Thaumcraft4Tweaks-1.5.47.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5f3d3cac7a437b748c49241cb5db3e2a04cd796723de27e2d8a34328429c2b69",
+            "to_size": 397380,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/846f2250937b23e3618fe774ef426513bbe309d0/.minecraft/mods/Thaumcraft4Tweaks-1.5.47.jar"
+        },
+        {
+            "path": ".minecraft/mods/GalaxySpace-1.1.142-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4a12b9128761336429af1e3fc36fbd92150738e8f8798dd8fb8b3116d5d30537",
+            "to_size": 6999975,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/846f2250937b23e3618fe774ef426513bbe309d0/.minecraft/mods/GalaxySpace-1.1.142-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/GalaxySpace-1.1.141-GTNH.jar",
+            "from_hash": "1f0c88c3a0beb10990d313b885538d86fd3dfb81b4f88ae9dbc85260ed985faf",
+            "from_size": 6999889,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
