@@ -1,0 +1,101 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "9d2402da16f062131d62d7d902708880aec559aa690660d99f69e48853261250",
+            "from_size": 208,
+            "to_hash": "a890eed17c556b2e7bb70fe57ace2b93588e3ae75a446363159f4b40dbd0b488",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ddc7664a7ff9284289843a9b15fc18d2a7cab06e/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "b527558128b01758ec4240c742758fd6398d943ecfb4bc2d3016f4db2edbe4ef",
+            "from_size": 6287,
+            "to_hash": "c0d85db1024d8affb5750737ece5be62e7496f2056976b2be5b105e4430f470c",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ddc7664a7ff9284289843a9b15fc18d2a7cab06e/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/findit-1.4.4.jar",
+            "from_hash": "84bbe1dd4be4ffd208585a3677ce8e6e01286884470c0ad2d313d819a14bf214",
+            "from_size": 65275,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.95.jar",
+            "from_hash": "e222f9880b1c382becc886f27fab68ff7a1ce24894069a53b95564888e80d225",
+            "from_size": 66322010,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.96.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7fc6033b18c59fb37b02852e8f89fbfa0e55c22910a69c7318ea343a4ac7334b",
+            "to_size": 66324680,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.96/gregtech-5.09.54.96.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/ddc7664a7ff9284289843a9b15fc18d2a7cab06e/.minecraft/mods/gregtech-5.09.54.96.jar"
+        },
+        {
+            "path": "mods/findit-1.4.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f548231b4de4b0b4befcc5e8e763b1b337cdd9fb20e3cfb566c16a2e4b063258",
+            "to_size": 68500,
+            "url": "https://github.com/GTNewHorizons/FindIt/releases/download/1.4.6/findit-1.4.6.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ddc7664a7ff9284289843a9b15fc18d2a7cab06e/.minecraft/mods/findit-1.4.6.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.99-GTNH.jar",
+            "from_hash": "015a6d90cb6059e41f9d7c304d21e97711d57f02001449adcf79728804430bae",
+            "from_size": 5581957,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.100-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d067d5e8bfddfc5f00c8c4329b89e9e1d9175d2ad46b9a3719b72519a2fab581",
+            "to_size": 5582104,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.100-GTNH/TConstruct-1.14.100-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ddc7664a7ff9284289843a9b15fc18d2a7cab06e/.minecraft/mods/TConstruct-1.14.100-GTNH.jar"
+        },
+        {
+            "path": "mods/salisarcana-1.1.66-GTNH.jar",
+            "from_hash": "f27cc8c72cb1b53acae20f04f74bf7efceee78a61479bd2580472c2a0ac95ac2",
+            "from_size": 681526,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/salisarcana-1.1.67-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5d9b5a3a82eced550c838b58bb30b639393166669800073b1a129ea17ba774bf",
+            "to_size": 683223,
+            "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.67-GTNH/salisarcana-1.1.67-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ddc7664a7ff9284289843a9b15fc18d2a7cab06e/.minecraft/mods/salisarcana-1.1.67-GTNH.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "bd4729380326f6d711511ca671c5377823a34999d138b5c4b1815270a7557640",
+            "from_size": 655,
+            "to_hash": "42ad504515d5fb1bfcd235854c4730776ce289cc31aeee3c61ddf5cefb0c3be7",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/ddc7664a7ff9284289843a9b15fc18d2a7cab06e/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
