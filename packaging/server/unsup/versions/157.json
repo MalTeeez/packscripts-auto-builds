@@ -1,0 +1,133 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "a890eed17c556b2e7bb70fe57ace2b93588e3ae75a446363159f4b40dbd0b488",
+            "from_size": 208,
+            "to_hash": "68da88a634cda6c4b69863c267810c0c5af8c646561a2492e9a479af0b2bde11",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "c0d85db1024d8affb5750737ece5be62e7496f2056976b2be5b105e4430f470c",
+            "from_size": 6287,
+            "to_hash": "dacce2fd751689c24bd7d05ca9135f122c3acb318eb477e4910e0a110880850f",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/NEI/collapsibleitems.cfg",
+            "from_hash": "9462852bc7ba2880f842033955d58a54a416a03df304e05c8a3d5ba7f905dd3f",
+            "from_size": 32030,
+            "to_hash": "3f519f976d7027f4ac0701a3159c90efc0aa4eabdfe60ac37568ef331b69e8d4",
+            "to_size": 32080,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/NEI/collapsibleitems.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/CrispyRottenFles-AAAAAAAAAAAAAAAAAAALUg==.json",
+            "from_hash": "04d940f82c5aae7f2e6d5e383fbfa391e147cb5ac59cfb55479d76a7ddca399c",
+            "from_size": 109,
+            "to_hash": "534654b59cd50be54f7ca822f4489832ce18abd863925c5b01b5783679217092",
+            "to_size": 109,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/betterquesting/DefaultQuests/QuestLines/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/CrispyRottenFles-AAAAAAAAAAAAAAAAAAALUg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f6c019fe5a8ab0ac94eb8e2aeadb4340d841c5ffe110ae13519a7b28f9cfd5c1",
+            "to_size": 143,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/betterquesting/DefaultQuests/QuestLines/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "ee26682adceffd25fd48ce518e9c421683d13d7dddb759d07b711eaf6e3c7207",
+            "from_size": 404,
+            "to_hash": "273282a4f27745c55d7b6ccb976e71cd4b205ff7317121a4acf0b904710e1410",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "474bcd52e912092f43351470532e2cd3fae82571abb08707f26916d60299cb45",
+            "to_size": 3881,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.96.jar",
+            "from_hash": "7fc6033b18c59fb37b02852e8f89fbfa0e55c22910a69c7318ea343a4ac7334b",
+            "from_size": 66324680,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.97.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ea69b0de48eda81e8cdeb2110dbf27ac6c3cc899257194b1845e6101ef3e6de3",
+            "to_size": 66849577,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.97/gregtech-5.09.54.97.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/mods/gregtech-5.09.54.97.jar"
+        },
+        {
+            "path": "mods/guidenh-1.3.20.jar",
+            "from_hash": "e4513fbc7d4e727678550798662d2eb9f51394767eab352e27847d646466a672",
+            "from_size": 29809147,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.21.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d6e6e017b92d39ca211d3aa8635a4d4327226a352adc62e9037cd3173f96e169",
+            "to_size": 29996268,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.21/guidenh-1.3.21.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/mods/guidenh-1.3.21.jar"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/TinkerTime-AAAAAAAAAAAAAAAAAAAAIQ==.json",
+            "from_hash": "98487072db3cfa4e39ed4afc1fb635bda00db01841c413417bfbdf3676829a64",
+            "from_size": 3849,
+            "to_hash": "12f1329715bb729fdc6c5c02c3abdc80eae08f69d9cd4ca5d93578bc87099e4e",
+            "to_size": 3935,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/TinkerTime-AAAAAAAAAAAAAAAAAAAAIQ==.json"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "42ad504515d5fb1bfcd235854c4730776ce289cc31aeee3c61ddf5cefb0c3be7",
+            "from_size": 655,
+            "to_hash": "39cb014c684544763d2cb082c4165bc94844d7218eaf0c682a00d827daf42f2f",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/TConstruct-1.14.101-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4263b5167c3710c5e0bf689389b3d0737fbdd5a6d6b16abba81795cecae9d19b",
+            "to_size": 5585985,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.101-GTNH/TConstruct-1.14.101-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/404a84c21b31949152d83a269307a61749c3f51b/.minecraft/mods/TConstruct-1.14.101-GTNH.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.100-GTNH.jar",
+            "from_hash": "d067d5e8bfddfc5f00c8c4329b89e9e1d9175d2ad46b9a3719b72519a2fab581",
+            "from_size": 5582104,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
