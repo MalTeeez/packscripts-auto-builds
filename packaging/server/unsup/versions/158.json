@@ -1,0 +1,53 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/gregtech-5.09.54.97.jar",
+            "from_hash": "ea69b0de48eda81e8cdeb2110dbf27ac6c3cc899257194b1845e6101ef3e6de3",
+            "from_size": 66849577,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.98.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "06265d0eb9d56d0e121397584dde0e4e250a7b0a157ba1ea94ed9e14413b8252",
+            "to_size": 66849633,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.98/gregtech-5.09.54.98.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/099308bd147aaaca8f367b7c448faadfbc233bab/.minecraft/mods/gregtech-5.09.54.98.jar"
+        },
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "68da88a634cda6c4b69863c267810c0c5af8c646561a2492e9a479af0b2bde11",
+            "from_size": 208,
+            "to_hash": "6f00750a8b55bc6eb62f61501c4fafe22aeb1974716da40b3f7ce4ce904aff80",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/099308bd147aaaca8f367b7c448faadfbc233bab/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "dacce2fd751689c24bd7d05ca9135f122c3acb318eb477e4910e0a110880850f",
+            "from_size": 6287,
+            "to_hash": "452e3e38d286cf9ee3387633dc19f01e817724269b43e3ffff91252283646ce7",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/099308bd147aaaca8f367b7c448faadfbc233bab/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "39cb014c684544763d2cb082c4165bc94844d7218eaf0c682a00d827daf42f2f",
+            "from_size": 655,
+            "to_hash": "f72121155c57946aaec7611a883cd934be01fbdbf83f5764fcdfd90638b274e9",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/099308bd147aaaca8f367b7c448faadfbc233bab/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
