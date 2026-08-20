@@ -1,0 +1,157 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "6f00750a8b55bc6eb62f61501c4fafe22aeb1974716da40b3f7ce4ce904aff80",
+            "from_size": 208,
+            "to_hash": "9f256749418813b6944aa7a67ee01f28a0f0b921f4c5de95d714df1f6d21097f",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "452e3e38d286cf9ee3387633dc19f01e817724269b43e3ffff91252283646ce7",
+            "from_size": 6287,
+            "to_hash": "807cfc70539e82822d6eb9553dc504425e836202cd37ca7e72aa6a726f8eb80a",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "80bb3d16fe02642bc4dd4773783b30bed39bf532eb13cf4dc9d39db32a2a7203",
+            "from_size": 32092991,
+            "to_hash": "3e30340746b39830e15958d43e187e9e621e7511b6dc1821fbbca8f84f1802da",
+            "to_size": 32109084,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "config/NEI/collapsibleitems.cfg",
+            "from_hash": "3f519f976d7027f4ac0701a3159c90efc0aa4eabdfe60ac37568ef331b69e8d4",
+            "from_size": 32080,
+            "to_hash": "c3b0a73d9d3a961700946101dcc36bc15ff1f21fbd2cf23a5d4deb133f73cdfa",
+            "to_size": 32080,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/config/NEI/collapsibleitems.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "273282a4f27745c55d7b6ccb976e71cd4b205ff7317121a4acf0b904710e1410",
+            "from_size": 404,
+            "to_hash": "1ee9090b2a572497d391db396b79c45e7b7e25335d093fe2a4ba1e58dfef59fc",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json",
+            "from_hash": "474bcd52e912092f43351470532e2cd3fae82571abb08707f26916d60299cb45",
+            "from_size": 3881,
+            "to_hash": "cbd4607a3f75bf5cdb657ba398a7bd6f96f6bb49d51afe689dd1eb7952b28a96",
+            "to_size": 3881,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json"
+        },
+        {
+            "path": "config/hodgepodge.cfg",
+            "from_hash": "79f30d76517626d7de5bb93718b43074909007056f6ecee5c93537339c06a426",
+            "from_size": 31017,
+            "to_hash": "3fe787e3eb9511228391968ed711644547ce0dd1eb0578f3d7fa9c7dbf5fbfbe",
+            "to_size": 65096,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/config/hodgepodge.cfg"
+        },
+        {
+            "path": "mods/TConstruct-1.14.101-GTNH.jar",
+            "from_hash": "4263b5167c3710c5e0bf689389b3d0737fbdd5a6d6b16abba81795cecae9d19b",
+            "from_size": 5585985,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.102-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a68682edaf28bdf7e48e2868791a4c92cee587f725972987628f50130ec7b25c",
+            "to_size": 5591875,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.102-GTNH/TConstruct-1.14.102-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/mods/TConstruct-1.14.102-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1034-GTNH.jar",
+            "from_hash": "b08881b50533073b2f42df5f760e91e8c8a602ba0404bf39f2a2f1d6d4c6455f",
+            "from_size": 4828478,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.98.jar",
+            "from_hash": "06265d0eb9d56d0e121397584dde0e4e250a7b0a157ba1ea94ed9e14413b8252",
+            "from_size": 66849633,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.99.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9b0c3c5c5c7b64d7b417d2081ba0516c3f8c5575e132f9029b574f31af3c1dc9",
+            "to_size": 66854409,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.99/gregtech-5.09.54.99.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/mods/gregtech-5.09.54.99.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1035-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c1e126473c771cd12d4d352123cbeff180bd338a754ee1cd739cea1942a63d23",
+            "to_size": 4829597,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1035-GTNH/appliedenergistics2-rv3-beta-1035-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/mods/appliedenergistics2-rv3-beta-1035-GTNH.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.40.jar",
+            "from_hash": "f27872627b3482f4ee4ba77f4f0fcf8300e75bffd013656ac79aa78b611b463e",
+            "from_size": 1393656,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/binnie-mods-2.6.43.jar",
+            "from_hash": "33dedc5222c5ad14516bd77252973fac17d3853b7dd2c854fe11471a5d4cfff2",
+            "from_size": 4254849,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.41.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "055b799dfa17a4cd49986c1c18df03e28dc90168d230ed8c4318b18dda1c0800",
+            "to_size": 1393639,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.41/gtnhlib-0.11.41.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/mods/gtnhlib-0.11.41.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "f72121155c57946aaec7611a883cd934be01fbdbf83f5764fcdfd90638b274e9",
+            "from_size": 655,
+            "to_hash": "d8194d231307f826d32cb524549a66caf4cf49d96af3d4a8ec29e94a01441871",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/binnie-mods-2.6.44.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6fe1fa82daf148d70d686cb94091108a54e4fe319c3967cd1561747eea12a5f7",
+            "to_size": 4255565,
+            "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.44/binnie-mods-2.6.44.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aa0019f8ba88558e19fd84056e44d327de7298d/.minecraft/mods/binnie-mods-2.6.44.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
