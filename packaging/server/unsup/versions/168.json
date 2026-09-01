@@ -1,0 +1,140 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "5d6ddf6facca6ae0ae6249e4a79a4d8c837eb6d48babe605741b78c2fbb33301",
+            "from_size": 208,
+            "to_hash": "857af91b94f1bd80bffc83bb8bf741f97ae67f1ed569d32f1f237785d0c47635",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/etfuturum/world.cfg",
+            "from_hash": "5b556dd279a97fdfc87373c36b147cc450c080394fad4fe5095e958f9a7f19c7",
+            "from_size": 11184,
+            "to_hash": "255f0af4e835aee9d6e4ea71b67b2ecbebe39da4ceaeb7333a6cded1c1a7b3ca",
+            "to_size": 11782,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/config/etfuturum/world.cfg"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.50.jar",
+            "from_hash": "76769ee03a03b4ee6772f3e353a39f53b3d323b1f14cd3ae0ac575a940d77971",
+            "from_size": 48462630,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.51.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5292fc265a27432b6bcf04a032b5c36013134c62ae38a52c68b894219799a379",
+            "to_size": 48462646,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/mods/GTNewHorizonsCoreMod-2.9.51.jar"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "0ae265112b46e15833f2466cdf7f438b1afc4216123a845ef1682d8446fb5d52",
+            "from_size": 6287,
+            "to_hash": "a7e9321dbc7fe23b305f2857c1d2c05c1697487678d64905e86e44fd4fedd80a",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/Forestry-4.11.37.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8a2f69cf46b2051316ff98c236b4a1a11607b2b1121ce7fe991e65ed974391f2",
+            "to_size": 3396339,
+            "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.37/Forestry-4.11.37.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/mods/Forestry-4.11.37.jar"
+        },
+        {
+            "path": "mods/Forestry-4.11.36.jar",
+            "from_hash": "78daf273c4d112324ea7fb3ad9fbac99ecd088c1b78982811deebd58da712d6f",
+            "from_size": 3396314,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/binnie-mods-2.6.46.jar",
+            "from_hash": "e48b083d55f3546a65a0bf60d47b6c6ac706ac3b12fb8cee909be6510d547feb",
+            "from_size": 4255230,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.110.jar",
+            "from_hash": "47f5839b994ad441bfafe9d35b61804a5f2841e8f906f05264fbe0d785252146",
+            "from_size": 66988396,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.111.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "43efe25dc6c2d2fa480768f02a260a375e90427f775b51ecd756b0a670c5e0b1",
+            "to_size": 66992395,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.111/gregtech-5.09.54.111.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/mods/gregtech-5.09.54.111.jar"
+        },
+        {
+            "path": "mods/binnie-mods-2.6.47.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b8e22d77becfa496158b31c196f7aec2c6e75cd99c1271b2dc2b6b21e75f6d3a",
+            "to_size": 4256739,
+            "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.47/binnie-mods-2.6.47.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/mods/binnie-mods-2.6.47.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.111.jar",
+            "from_hash": "aa6fd42928068018b1ccc65692e3f2cdf3ca0e3fcd34ba613fb794d6b6ff3606",
+            "from_size": 1826930,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/salisarcana-1.1.69-GTNH.jar",
+            "from_hash": "829d927ba6a13db4b6050f8fd23aaa7bc0259e19c0237a99fa8b8dadc273f3f3",
+            "from_size": 698373,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.112.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ba64f02aa3e641765651602406573f96d6a22c14aa3e772d961c061b928621a9",
+            "to_size": 1982252,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.112/cropsnh-2.0.112.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/mods/cropsnh-2.0.112.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "c4c7c5d430f763b9d3a05cf72e3f3f8e88bbfe4b2ef382fa73ba07ffa6fce708",
+            "from_size": 655,
+            "to_hash": "b0a2e9db8c9f3fccadca569d3e63f994f2405f751cd373e87e2525bf0f071020",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/salisarcana-1.1.70-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9ede135ce8dcf79f932346e5a2d4694e1b2d2ad883c7fc564086297151a633af",
+            "to_size": 704322,
+            "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.70-GTNH/salisarcana-1.1.70-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d4f78566655df7f023bad374f6f1ff1351fd54c2/.minecraft/mods/salisarcana-1.1.70-GTNH.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
