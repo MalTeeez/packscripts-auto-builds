@@ -1,0 +1,84 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.52.jar",
+            "from_hash": "9bb6424d905f66153462662b4eac3294dd99ac7a09a4f0a4b7212eafa5e1177b",
+            "from_size": 48462495,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.53.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "785517813766da5576de0b0a36ff5631e2149c186f455e757d03340f0aef7237",
+            "to_size": 48462416,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/e328031bd1b167039334505db6d375c5153a9ea6/.minecraft/mods/GTNewHorizonsCoreMod-2.9.53.jar"
+        },
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "3629d1c94b85cc773c81a106ce020135a6014cb6517cf70c0f35b459de3ee6d1",
+            "from_size": 208,
+            "to_hash": "6acbc8684e2b593efd3bea21b4c14a0bdce5a20fb39532bc32e1d886a4e00124",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e328031bd1b167039334505db6d375c5153a9ea6/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.112.jar",
+            "from_hash": "1deaebf1e56fc77150d0085ce4c6d803bf601132dc89f4bdb06b3829e3c72ac8",
+            "from_size": 66968164,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.114.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ed0eeee543487471800c432e29394c6962b01ca0f30290198071414926999412",
+            "to_size": 66987928,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.114/gregtech-5.09.54.114.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/e328031bd1b167039334505db6d375c5153a9ea6/.minecraft/mods/gregtech-5.09.54.114.jar"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "3e734df1bd0c698cc2c762e4e975f64d833a3ac3219b05563ae0da1a1ecb8b73",
+            "from_size": 6287,
+            "to_hash": "b09f80dcd71cfff2e2e899eb3eb1b608717d6bc9024ebd2602fdd71ebe8c22c6",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e328031bd1b167039334505db6d375c5153a9ea6/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "4a9ee62b98ed3c023f6d45c502befad8522b49ded71f8863f99782587afa7371",
+            "from_size": 655,
+            "to_hash": "a85bd924100ad4cabe55b7444136d05a9ef9e6e937b33b12521309e1b6e05640",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e328031bd1b167039334505db6d375c5153a9ea6/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/etfuturum-2.6.57-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1f17e40d3304c5e1fcd00496871747ce2007fa2d1c9d52577e724c39e10f24de",
+            "to_size": 5350312,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.57-GTNH/etfuturum-2.6.57-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e328031bd1b167039334505db6d375c5153a9ea6/.minecraft/mods/etfuturum-2.6.57-GTNH.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.56-GTNH.jar",
+            "from_hash": "c2d4a9a15f3d3898f29c0952c2b7839149cff7f1bf8207421c9a5f33f0bb67cb",
+            "from_size": 5305730,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
