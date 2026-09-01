@@ -1,0 +1,117 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "6acbc8684e2b593efd3bea21b4c14a0bdce5a20fb39532bc32e1d886a4e00124",
+            "from_size": 208,
+            "to_hash": "aff3a7d30f60a2352d44a3779281d5323796f1265dd12a76d9e51cf9a0d8d963",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "b09f80dcd71cfff2e2e899eb3eb1b608717d6bc9024ebd2602fdd71ebe8c22c6",
+            "from_size": 6287,
+            "to_hash": "dbc5916808479cf3b0b9725a99b5533f5135ec32181ac3c8157451451c5cdc79",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/Galacticraft/core.conf",
+            "from_hash": "62a388c7c653a6533276db9b3fe13f951e47654a938825c4942fcdc89270ad99",
+            "from_size": 12396,
+            "to_hash": "5874d911eabc67c00ab9676099eea2193152218441c4e8e5964e2ec4c33f16ba",
+            "to_size": 12055,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/config/Galacticraft/core.conf"
+        },
+        {
+            "path": "config/NEI/client.cfg",
+            "from_hash": "56a561fe96b8402a68311eeb249bf3aec5e8c6d79d8cbca431e9fc5aef7a02e6",
+            "from_size": 5784,
+            "to_hash": "ef216bdad4a330c367e2bd675e9f1e5dcbdbe218837dc0b1d5c625ad14671382",
+            "to_size": 5785,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/config/NEI/client.cfg"
+        },
+        {
+            "path": "mods/TwilightForest-2.7.39.jar",
+            "from_hash": "2ecc0360c59754ff1f7daa2def3a41deee0c9b2ddf5ce65730f180fbbb2c445a",
+            "from_size": 5362800,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.7.40.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "44e57696b1ca98a9ff299af8ca2e3b37d6262855c35831833e7e89ae570c596c",
+            "to_size": 5364242,
+            "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.40/TwilightForest-2.7.40.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/mods/TwilightForest-2.7.40.jar"
+        },
+        {
+            "path": "mods/backpack-2.6.16-GTNH.jar",
+            "from_hash": "1e92fb21c59fb5b7f956ca3e0e1d4640823fd26b07aae2c3baddb076dee569a1",
+            "from_size": 290504,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.114.jar",
+            "from_hash": "ed0eeee543487471800c432e29394c6962b01ca0f30290198071414926999412",
+            "from_size": 66987928,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.115.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "08d5863f7dc80eea2caa7901f2f6d2947985db3f2809b5a16307a8f905669c97",
+            "to_size": 66985204,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.115/gregtech-5.09.54.115.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/mods/gregtech-5.09.54.115.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1042-GTNH.jar",
+            "from_hash": "e645b5616bbed9f6cbf0a3282b4fa14ca10dc8826c42fae7e6990636c2ac74ed",
+            "from_size": 4847238,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1043-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fb66b36bf2d33f4418af6fb41cf9921bfb200474214fa395d7141fa9c9755aad",
+            "to_size": 4847831,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1043-GTNH/appliedenergistics2-rv3-beta-1043-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/mods/appliedenergistics2-rv3-beta-1043-GTNH.jar"
+        },
+        {
+            "path": "mods/backpack-2.6.17-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d9edeabad209377e607dd1c7f5701b0f7a07eb89ee85491730875f0554a98932",
+            "to_size": 291024,
+            "url": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.6.17-GTNH/backpack-2.6.17-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/.minecraft/mods/backpack-2.6.17-GTNH.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "a85bd924100ad4cabe55b7444136d05a9ef9e6e937b33b12521309e1b6e05640",
+            "from_size": 655,
+            "to_hash": "635540bb906d0ad1bd43acca108e2fab4b600fe37d45bccbe6e86f5fd5dcfcae",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/441749dcbc1f52d601c0496fbdbd58d1ee8e248c/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
