@@ -1,0 +1,116 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "9b5b2ceb5cb588894d3b9b3d458206a6ebc1dae21691c6b6e9c2912ab1fb6973",
+            "from_size": 6287,
+            "to_hash": "577d9a6ecfc0a37575b6fa616cd4927075114c8956f602cd140e347b2a705b9b",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "ed639c039f6521e5d152ec21892127a55928792ceb46045bb78d863e1d4f2716",
+            "from_size": 208,
+            "to_hash": "dcd9b49e112a90d1cb6c7ef6bf791a50bd1985ef0c19d22182c41fd6a836d4d8",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "3f7cf6227fd4d9af67bf173d2397abd3e986f0f1870fabe83f11fafe4c73798a",
+            "from_size": 35,
+            "to_hash": "b42a8a6825a295515381c869909b8e35d62a7d19cd46690fc392007823dd777f",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/bogosorter-1.3.47-GTNH.jar",
+            "from_hash": "c3a0517911e4053f468e1b592e2fd30caa37aa87ac9f38538c8d2ee28f2b2474",
+            "from_size": 479598,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/bogosorter-1.3.49-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3c4f40cf1251cd88ad30ef54657c98aa65bfdd6cc9242a77c66728715c8fa795",
+            "to_size": 483647,
+            "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.49-GTNH/bogosorter-1.3.49-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/mods/bogosorter-1.3.49-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/ServerUtilities-2.4.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a4368d4ea1927ba2939ee59f6b87b632c5b145b312185609d0760a675fbbfc3c",
+            "to_size": 1966519,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.8/ServerUtilities-2.4.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/mods/ServerUtilities-2.4.8.jar"
+        },
+        {
+            "path": ".minecraft/mods/ServerUtilities-2.4.7.jar",
+            "from_hash": "0b373b4a1a4be6d6795c837f5163293ee7f24522b170ffa45de0d9cffbb605eb",
+            "from_size": 1966309,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/chunkapi-mc1.7.10-0.8.3.jar",
+            "from_hash": "ddb6ee5fa6b452e2aa9f19c88531ba2b237c76200195064f3e3280c7e86eb69b",
+            "from_size": 473072,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/chunkapi-mc1.7.10-0.8.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "054e695ca938f20930fa59a97441df4a192ee10cd2cda77487c51a98ce06f00e",
+            "to_size": 473162,
+            "url": "https://github.com/LegacyModdingMC/ChunkAPI/releases/download/0.8.4/chunkapi-mc1.7.10-0.8.4.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/mods/chunkapi-mc1.7.10-0.8.4.jar"
+        },
+        {
+            "path": ".minecraft/mods/esm-legacy-1.7.10-1.1.0.jar",
+            "from_hash": "7f7534d8aac946280be7a4473fb5b852dd73674ac349063bd9d59d178de0c124",
+            "from_size": 399809,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/esm-legacy-1.7.10-1.1.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "065f21b2b70cc705c49beb4bc45a9ba2230481906e12a37f93727a351495a2b5",
+            "to_size": 399795,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/mods/esm-legacy-1.7.10-1.1.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/salisarcana-1.1.71-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "496d905471f2c581381fae570c6ff44356b766441958150b700bdb548377f454",
+            "to_size": 716556,
+            "url": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.71-GTNH/salisarcana-1.1.71-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/12a0b9e676869d506c2f26afff114c3dcbbf6e31/.minecraft/mods/salisarcana-1.1.71-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/salisarcana-1.1.70-GTNH.jar",
+            "from_hash": "9ede135ce8dcf79f932346e5a2d4694e1b2d2ad883c7fc564086297151a633af",
+            "from_size": 704322,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
