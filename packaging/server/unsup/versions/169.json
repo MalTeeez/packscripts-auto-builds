@@ -1,0 +1,180 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "857af91b94f1bd80bffc83bb8bf741f97ae67f1ed569d32f1f237785d0c47635",
+            "from_size": 208,
+            "to_hash": "3629d1c94b85cc773c81a106ce020135a6014cb6517cf70c0f35b459de3ee6d1",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "a7e9321dbc7fe23b305f2857c1d2c05c1697487678d64905e86e44fd4fedd80a",
+            "from_size": 6287,
+            "to_hash": "3e734df1bd0c698cc2c762e4e975f64d833a3ac3219b05563ae0da1a1ecb8b73",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/BuildingBetterBa-AAAAAAAAAAAAAAAAAAAADQ==/FunPartyBlocks-AAAAAAAAAAAAAAAAAAAHlw==.json",
+            "from_hash": "32761c82096db054b3b69dfefedbbadf56733ebe7e0b5cdeb2bf52fb3fff403a",
+            "from_size": 110,
+            "to_hash": "d3420d9d5ef44cd421d69157433d5b7e395f7f690c0729d74a8023b67c2586bb",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/config/betterquesting/DefaultQuests/QuestLines/BuildingBetterBa-AAAAAAAAAAAAAAAAAAAADQ==/FunPartyBlocks-AAAAAAAAAAAAAAAAAAAHlw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/BuildingBetterBa-AAAAAAAAAAAAAAAAAAAADQ==/MarkingYourBase-mnNTKvzVQTONcKQlSpbeqg==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b75e75edaf4da3c47c9a45364c20cb9fa3c4cce74f70953793ee8ba440278a5b",
+            "to_size": 145,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/config/betterquesting/DefaultQuests/QuestLines/BuildingBetterBa-AAAAAAAAAAAAAAAAAAAADQ==/MarkingYourBase-mnNTKvzVQTONcKQlSpbeqg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "0ee93ad8384a709ff6132ab05bfaab3ea600de40b667ba50c2ca4d678dd79767",
+            "from_size": 404,
+            "to_hash": "0dbd62d81312c0f78601ae223f03b6448fcfe0138686eeda57bf77fecb3082cc",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.51.jar",
+            "from_hash": "5292fc265a27432b6bcf04a032b5c36013134c62ae38a52c68b894219799a379",
+            "from_size": 48462646,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.52.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9bb6424d905f66153462662b4eac3294dd99ac7a09a4f0a4b7212eafa5e1177b",
+            "to_size": 48462495,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/mods/GTNewHorizonsCoreMod-2.9.52.jar"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/BuildingBetterBa-AAAAAAAAAAAAAAAAAAAADQ==/MarkingYourBase-mnNTKvzVQTONcKQlSpbeqg==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cb27d70db3bb26bcd95643efbe7458f1f338123f008001be583616bd5991b336",
+            "to_size": 3140,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/config/betterquesting/DefaultQuests/Quests/BuildingBetterBa-AAAAAAAAAAAAAAAAAAAADQ==/MarkingYourBase-mnNTKvzVQTONcKQlSpbeqg==.json"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.81-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "18bc68a45a63a8d2d2e832fd7153dede2ed9fd653b7a8b6f12d587b67d0a6020",
+            "to_size": 1989129,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.81-GTNH/BetterQuesting-3.8.81-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/mods/BetterQuesting-3.8.81-GTNH.jar"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.80-GTNH.jar",
+            "from_hash": "46d9db48f512ffa0e2f9670c80098252af8ac98ab8b61bca127eb8a6210ef6bf",
+            "from_size": 1989129,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.127-GTNH.jar",
+            "from_hash": "84a1781766e490d3a78765b26cb6dfb0000dcc5b855b0e691ee63c6605ccc7e6",
+            "from_size": 1610099,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.128-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "20454d4e5199dea33bb433fe2f5019a7758151cbd4ca5e4ba347b01501bc8991",
+            "to_size": 1612757,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.128-GTNH/NotEnoughItems-2.8.128-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/mods/NotEnoughItems-2.8.128-GTNH.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.103-GTNH.jar",
+            "from_hash": "46ed55db8707a98c3c315291f5c489ad70650fb7e40940386aa2fc8c3d7d3839",
+            "from_size": 5591874,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.104-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c237f0066906225b82fc96cbce6238806fc7aeaa98fd921cc31f646d436cec1e",
+            "to_size": 5592455,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.104-GTNH/TConstruct-1.14.104-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/mods/TConstruct-1.14.104-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1041-GTNH.jar",
+            "from_hash": "48a97fd5ffc968c3c449cba0cb9fab2ed4791e66ebf8b14aeda9fb305dd8793d",
+            "from_size": 4847240,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.111.jar",
+            "from_hash": "43efe25dc6c2d2fa480768f02a260a375e90427f775b51ecd756b0a670c5e0b1",
+            "from_size": 66992395,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.112.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1deaebf1e56fc77150d0085ce4c6d803bf601132dc89f4bdb06b3829e3c72ac8",
+            "to_size": 66968164,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.112/gregtech-5.09.54.112.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/mods/gregtech-5.09.54.112.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1042-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e645b5616bbed9f6cbf0a3282b4fa14ca10dc8826c42fae7e6990636c2ac74ed",
+            "to_size": 4847238,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1042-GTNH/appliedenergistics2-rv3-beta-1042-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/mods/appliedenergistics2-rv3-beta-1042-GTNH.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "b0a2e9db8c9f3fccadca569d3e63f994f2405f751cd373e87e2525bf0f071020",
+            "from_size": 655,
+            "to_hash": "4a9ee62b98ed3c023f6d45c502befad8522b49ded71f8863f99782587afa7371",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/cropsnh-2.0.112.jar",
+            "from_hash": "ba64f02aa3e641765651602406573f96d6a22c14aa3e772d961c061b928621a9",
+            "from_size": 1982252,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.113.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0941ee893e1a7031d21c8785c7be12677c33a7b792ad014a360857ca844b450a",
+            "to_size": 1982269,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.113/cropsnh-2.0.113.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/60e6ff8161bb7b65b71d760a10d65a5b3eeede53/.minecraft/mods/cropsnh-2.0.113.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
