@@ -1,0 +1,69 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "614fdc2220c5cbed3299e043ae5de573914c9a46d6916673da63e75c55c47ed9",
+            "from_size": 208,
+            "to_hash": "0f4cef05ca649b007b663de6a2394d5f1bdb598e79ee58cd43d043a892aac141",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46d71ac2f62cf8ba13395693d1043f193a2deb57/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.119.jar",
+            "from_hash": "6a91f6dc1e996f983bdf5d1bfd2dff88f12c7811e7a5ed4537e2f61c3d5f8e37",
+            "from_size": 67049651,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.120.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e4398f94d1859702f68d523bf24089672698e995de770fb072e3dc86e853595d",
+            "to_size": 67062813,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.120/gregtech-5.09.54.120.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/46d71ac2f62cf8ba13395693d1043f193a2deb57/.minecraft/mods/gregtech-5.09.54.120.jar"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "3128f02ae88657e52cf0e2ab05067468223b601ef8f04569ef30da08effcbe3e",
+            "from_size": 6287,
+            "to_hash": "f78b1b9d4405f1c50d58cb9a9fcd1bb014fa56eb379d4ead705badbf3bb8351e",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46d71ac2f62cf8ba13395693d1043f193a2deb57/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/NotEnoughEnergistics-1.7.40.jar",
+            "from_hash": "4ff8bc036ef295afe03792c1d929dc6e797a60dc1fd9181d09a18f072f19e286",
+            "from_size": 296165,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughEnergistics-1.7.41.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7ffafec0d8077edcade20daa3d01c686edbbbbcf370449268201b9b966043175",
+            "to_size": 296156,
+            "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.41/NotEnoughEnergistics-1.7.41.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46d71ac2f62cf8ba13395693d1043f193a2deb57/.minecraft/mods/NotEnoughEnergistics-1.7.41.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "a9cff3cbd35dadc83aacf8d330416bc919cec3889ef486fa5b6499c04802b2f8",
+            "from_size": 655,
+            "to_hash": "14ad6d9b51603ea502b010ff00a31dc2837c965e2bc407736003e131a4fbcfb4",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/46d71ac2f62cf8ba13395693d1043f193a2deb57/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
