@@ -3528,12 +3528,12 @@
         }
     },
     "bogosorter": {
-        "file_path": "./.minecraft/mods/bogosorter-1.3.47-GTNH.jar",
+        "file_path": "./.minecraft/mods/bogosorter-1.3.49-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.47-GTNH/bogosorter-1.3.47-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.49-GTNH/bogosorter-1.3.49-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3544,14 +3544,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.3.47-GTNH",
+            "version": "1.3.49-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "c3a0517911e4053f468e1b592e2fd30caa37aa87ac9f38538c8d2ee28f2b2474"
+            "sha256_sum": "3c4f40cf1251cd88ad30ef54657c98aa65bfdd6cc9242a77c66728715c8fa795"
         }
     },
     "botanichorizons": {
@@ -3739,12 +3739,12 @@
         }
     },
     "chunkapi": {
-        "file_path": "./.minecraft/mods/chunkapi-mc1.7.10-0.8.3.jar",
+        "file_path": "./.minecraft/mods/chunkapi-mc1.7.10-0.8.4.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/LegacyModdingMC/ChunkAPI/releases/download/0.8.3/chunkapi-mc1.7.10-0.8.3.jar",
+        "source": "https://github.com/LegacyModdingMC/ChunkAPI/releases/download/0.8.4/chunkapi-mc1.7.10-0.8.4.jar",
         "notes": "",
         "wanted_by": [
             "endlessids"
@@ -3753,14 +3753,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.8.3",
+            "version": "0.8.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "ddb6ee5fa6b452e2aa9f19c88531ba2b237c76200195064f3e3280c7e86eb69b"
+            "sha256_sum": "054e695ca938f20930fa59a97441df4a192ee10cd2cda77487c51a98ce06f00e"
         }
     },
     "compactkineticgenerators": {
@@ -4275,7 +4275,7 @@
         }
     },
     "extremesoundmuffler": {
-        "file_path": "./.minecraft/mods/esm-legacy-1.7.10-1.1.0.jar",
+        "file_path": "./.minecraft/mods/esm-legacy-1.7.10-1.1.1.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
@@ -4288,14 +4288,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.1.0",
+            "version": "1.1.1",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "7f7534d8aac946280be7a4473fb5b852dd73674ac349063bd9d59d178de0c124"
+            "sha256_sum": "065f21b2b70cc705c49beb4bc45a9ba2230481906e12a37f93727a351495a2b5"
         }
     },
     "falsepatternlib": {
@@ -5678,12 +5678,12 @@
         }
     },
     "salisarcana": {
-        "file_path": "./.minecraft/mods/salisarcana-1.1.70-GTNH.jar",
+        "file_path": "./.minecraft/mods/salisarcana-1.1.71-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.70-GTNH/salisarcana-1.1.70-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.71-GTNH/salisarcana-1.1.71-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -5692,23 +5692,23 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.1.70-GTNH",
+            "version": "1.1.71-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "9ede135ce8dcf79f932346e5a2d4694e1b2d2ad883c7fc564086297151a633af"
+            "sha256_sum": "496d905471f2c581381fae570c6ff44356b766441958150b700bdb548377f454"
         }
     },
     "serverutilities": {
-        "file_path": "./.minecraft/mods/ServerUtilities-2.4.7.jar",
+        "file_path": "./.minecraft/mods/ServerUtilities-2.4.8.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.7/ServerUtilities-2.4.7.jar",
+        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.8/ServerUtilities-2.4.8.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -5719,14 +5719,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.4.7",
+            "version": "2.4.8",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0b373b4a1a4be6d6795c837f5163293ee7f24522b170ffa45de0d9cffbb605eb"
+            "sha256_sum": "a4368d4ea1927ba2939ee59f6b87b632c5b145b312185609d0760a675fbbfc3c"
         }
     },
     "sharewhereiam": {
