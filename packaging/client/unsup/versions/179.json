@@ -1,0 +1,100 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "597a32d0b9ee488b837aa8088b579ee7145b0d6d65d8246036b6982fa0099820",
+            "from_size": 208,
+            "to_hash": "01b617b740853121498a8f30da36a0c7158da28202a660a902b046807e3e3da7",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/250ffb019504b648f62579a2a1f6cef5461c254d/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "3579d7621de4d7d4f087a81b705008b0854daecb01896b7d7457a3311f13bb87",
+            "from_size": 6287,
+            "to_hash": "72d6de3c89440e67d2f50c56f705eaf55df495d2c6858871503031b4f9930547",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/250ffb019504b648f62579a2a1f6cef5461c254d/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "bf10f99b110163eb05c54decf0824b2b35cf32156f71a77572f02d1887c176df",
+            "from_size": 35,
+            "to_hash": "64e149f9142e12b87edd054bc52f0d2fd0a1801e9ce42a8dc60d45ffb6b358be",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/250ffb019504b648f62579a2a1f6cef5461c254d/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/AppleCore-3.3.11.jar",
+            "from_hash": "4b3b5351567cba454b8a69c016356de74e02efdfe034877d7835666c544639a1",
+            "from_size": 100748,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.104.jar",
+            "from_hash": "5594d0ad482e0b688402d32812b107083f2cbf154ce567396e051d3ec3fc8133",
+            "from_size": 66979759,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.105.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "971c8ff1937b42b88ba342a101dbb14407cfa0491e1c80400a48bb46fedf55a6",
+            "to_size": 66982504,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.105/gregtech-5.09.54.105.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/250ffb019504b648f62579a2a1f6cef5461c254d/.minecraft/mods/gregtech-5.09.54.105.jar"
+        },
+        {
+            "path": ".minecraft/mods/AppleCore-3.3.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8c8f7b93d5347cd8938afc6d3bbf2a6eb28d363f86b99b557be0043455f7131f",
+            "to_size": 100724,
+            "url": "https://github.com/GTNewHorizons/AppleCore/releases/download/3.3.12/AppleCore-3.3.12.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/250ffb019504b648f62579a2a1f6cef5461c254d/.minecraft/mods/AppleCore-3.3.12.jar"
+        },
+        {
+            "path": ".minecraft/mods/Waila-1.19.32.jar",
+            "from_hash": "2f06646f28139a34b85047f51cb5cc18e26666c062b19799ea6bbd4adea5bbe3",
+            "from_size": 551064,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/Waila-1.19.33.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "21714e5fec9c6c733b185b7a3af29ca4a0ef6436dd382438ec70444cd291b3e6",
+            "to_size": 551943,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/250ffb019504b648f62579a2a1f6cef5461c254d/.minecraft/mods/Waila-1.19.33.jar"
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.190.jar",
+            "from_hash": "6b71ee87d17bc8e40870f1ef6faa5d03bbda47b0f5b2882534ca1d775d41b88f",
+            "from_size": 1122609,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.191.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ed90a8d17196ac5f187512ee755e0b1bee042709d55e5cf8ff7c43ab072be791",
+            "to_size": 1122619,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.191/hodgepodge-2.7.191.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/250ffb019504b648f62579a2a1f6cef5461c254d/.minecraft/mods/hodgepodge-2.7.191.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
