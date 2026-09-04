@@ -1,0 +1,196 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "2611993dfbf6692a76a44030a68309203c54a40da2e51d1f7953f22854ff53c8",
+            "from_size": 208,
+            "to_hash": "3810ba3579275b270e7ed576142d54034e66859f6b0c452f2150e7ad0a9f50ea",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "6ce3186ebe017950813e7c1fdaaaab81c5ce95be62ebd917a8beadaf348df7a6",
+            "from_size": 6287,
+            "to_hash": "5c510e7bb64f4b60230a5aad75194f15d3beac4394962431d9be3df92df674bc",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "954d6ba9a9105e2bcbf140a7ce50a0a07e26485e5af6ae822717378b59c4ad33",
+            "from_size": 404,
+            "to_hash": "02abebbbb733adf0f4d5062924a7462cb9fffa9fc405a991f3fd9456c5e21eb0",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.58.jar",
+            "from_hash": "a092e90e09f8c105d074640bc317dc9fccdd5f7938e13d8916c2806e547518b6",
+            "from_size": 48462913,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.60.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "04a3dc009514f440064d706ccf24c823b4baff0a0c6bad36021c62005d54f623",
+            "to_size": 48463022,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/GTNewHorizonsCoreMod-2.9.60.jar"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceCreamTrophy-vqM7dr7aT2OPNlwsar3VMA==.json",
+            "from_hash": "513f61be35a6accb80c0aeb6bb45c3ec0486d07a9d7e6e547859c706f2bf76fc",
+            "from_size": 12702,
+            "to_hash": "1fe8d676726f87148edc438b34ee81cca5466729b02e32e1aa3852424a56eac3",
+            "to_size": 12856,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceCreamTrophy-vqM7dr7aT2OPNlwsar3VMA==.json"
+        },
+        {
+            "path": "mods/IC2NuclearControl-2.7.13.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "480ce52b0cecca1d73d25920aade096784303894d3dc5b7d9f2c08962bf576d2",
+            "to_size": 916311,
+            "url": "https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.7.13/IC2NuclearControl-2.7.13.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/IC2NuclearControl-2.7.13.jar"
+        },
+        {
+            "path": "mods/OpenComputers-1.12.60-GTNH.jar",
+            "from_hash": "affc416aeb41db026c0be648ec3567293695873d2ca53a77288f38d8518a302b",
+            "from_size": 16850350,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.61-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ccd29c1103b572d0d8642f52522fa34a9bdbe6a7e977cd7736b23239f6fc1c55",
+            "to_size": 16851516,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.61-GTNH/OpenComputers-1.12.61-GTNH.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/OpenComputers-1.12.61-GTNH.jar"
+        },
+        {
+            "path": "mods/IC2NuclearControl-2.7.12.jar",
+            "from_hash": "88aea3dce48ba33a829fc3b7271d49690e49876a1bdb52ae8a6047f099a5d40e",
+            "from_size": 915914,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/EnderIO-2.10.42.jar",
+            "from_hash": "7c2d98fd62fedf50bb85952fec0991fb9a5fe43fb68aec08731c88882de57077",
+            "from_size": 4905193,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.128.jar",
+            "from_hash": "1d41c1a2e3459bd71b553389b9fa559961ebde1eb7d03c7a2a3efdf840edc230",
+            "from_size": 67463341,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.129.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ed47682203f89a381d97fc878646f0935e94f23c1774f8b0c981e54ad5a64c7f",
+            "to_size": 67475634,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.129/gregtech-5.09.54.129.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/gregtech-5.09.54.129.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.43.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4800b4812991f322502cc5986865a90be5d70f782ef96e70bf050b18789f57c9",
+            "to_size": 4905189,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.43/EnderIO-2.10.43.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/EnderIO-2.10.43.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.44.jar",
+            "from_hash": "03bb7d4886829673a35009d6c7123570aec217ac1c75e885f25bb3a522452bc3",
+            "from_size": 1394241,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.25.jar",
+            "from_hash": "7bb476cd7b81903ef0bf9b259a4db10f5230c3e610c7d2cbe353e93378a863b9",
+            "from_size": 28144247,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.26.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6701cb93b11e3fed45df2733f22869c631e86308c782b8483973835a12c7d0fd",
+            "to_size": 28148266,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.26/guidenh-1.3.26.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/guidenh-1.3.26.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1047-GTNH.jar",
+            "from_hash": "97f790abf496f6302053096318219be08eccc60f8442ab38de0ec241b0ccbcb4",
+            "from_size": 4854561,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.45.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "35240f4c6ec62b545c09f9de0c430db9964b3d4f801817a218b4c1f198a4b247",
+            "to_size": 1401738,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.45/gtnhlib-0.11.45.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/gtnhlib-0.11.45.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1048-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6537001945164e2b8921a0b2d4b00d75dc0621914f21e9ea84ecd58c1e34ba4f",
+            "to_size": 4854442,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1048-GTNH/appliedenergistics2-rv3-beta-1048-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/appliedenergistics2-rv3-beta-1048-GTNH.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.195.jar",
+            "from_hash": "92a6714d7664608ab3806253c52857e43c859ed30f4c3332b3e1aa1a34cf512c",
+            "from_size": 1129419,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "aa397ea9d796eda524d80f648330e068157437d16be84d5d50d028f53f00c7ea",
+            "from_size": 655,
+            "to_hash": "1b3b9449f3956cdc5c46c472479d35bc6548ab8b41d6e29ab27ba5c6acb57fdc",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.196.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b6e328112246dacdc1fb2fa400bf502965a523c2f3556f9d964ebb23ab1893d3",
+            "to_size": 1147360,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.196/hodgepodge-2.7.196.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/b79ae9e1125c78009b0e44a90d8d003736761748/.minecraft/mods/hodgepodge-2.7.196.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
