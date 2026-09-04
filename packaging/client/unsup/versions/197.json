@@ -1,0 +1,37 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "bf29cf53c2553f5f6ffd1e71a3cdce9c7f37f4823b4ea08eca59da4448668f8e",
+            "from_size": 6287,
+            "to_hash": "6ce3186ebe017950813e7c1fdaaaab81c5ce95be62ebd917a8beadaf348df7a6",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bc16812c4c8538e558c6dd9dad27bb3613b39e0e/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "09c41727396e050cd35fbdd49d48d6fdad0fd7c1c9c5c03758c86107643fa818",
+            "from_size": 208,
+            "to_hash": "2611993dfbf6692a76a44030a68309203c54a40da2e51d1f7953f22854ff53c8",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bc16812c4c8538e558c6dd9dad27bb3613b39e0e/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "cbf89b68ed429308f0543959673f42bc38e4a71d2eab7bfb58602b34070b5486",
+            "from_size": 35,
+            "to_hash": "da624dd4511161961bb1da686c25728c43ad4aa96a91720cf1f56a30465dfe55",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bc16812c4c8538e558c6dd9dad27bb3613b39e0e/.minecraft/config/txloader/load/mainmenu/version.txt"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
