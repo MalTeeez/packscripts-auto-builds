@@ -1,0 +1,53 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "3810ba3579275b270e7ed576142d54034e66859f6b0c452f2150e7ad0a9f50ea",
+            "from_size": 208,
+            "to_hash": "6718fe807686ff82d42bc9f49f4f01b221b954d445add6ff08df67aee4fcc1a9",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5acc7a8d51f0d7e2bbc19808da3fbabd3a856894/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "5c510e7bb64f4b60230a5aad75194f15d3beac4394962431d9be3df92df674bc",
+            "from_size": 6287,
+            "to_hash": "40e3d2d02837ef6566c373d6a97e5e1f7d54a46d3206f92726103e67da291570",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5acc7a8d51f0d7e2bbc19808da3fbabd3a856894/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "1b3b9449f3956cdc5c46c472479d35bc6548ab8b41d6e29ab27ba5c6acb57fdc",
+            "from_size": 655,
+            "to_hash": "13eeff5b088c598e1c338a1bab070bdc5be987b41cfce3e38f7b978e21864a08",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5acc7a8d51f0d7e2bbc19808da3fbabd3a856894/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/EnderIO-2.10.44.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7b63524073304d7ab8d04d42a04e5bcadfe5b82c2de26137db2e1ec518e46bde",
+            "to_size": 4905277,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.44/EnderIO-2.10.44.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5acc7a8d51f0d7e2bbc19808da3fbabd3a856894/.minecraft/mods/EnderIO-2.10.44.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.43.jar",
+            "from_hash": "4800b4812991f322502cc5986865a90be5d70f782ef96e70bf050b18789f57c9",
+            "from_size": 4905189,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
