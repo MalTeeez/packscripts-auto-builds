@@ -1,0 +1,53 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "mods/guidenh-1.3.27.jar",
+            "from_hash": "a3faa5855cba3a96cd6f45f360a24ee6018355c43a4d5ac3fab16d7db0882b81",
+            "from_size": 28229624,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.29.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4127b082f7bc057ab36093b471368506ac0c9f4ca9c01a5be2a79de05a6d5723",
+            "to_size": 28238210,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.29/guidenh-1.3.29.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/94d98ba48252d0b33eb8e34cbc96f53e5f21ed2f/.minecraft/mods/guidenh-1.3.29.jar"
+        },
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "50ebece9715217fbea3ff2c6fe30ca1d9f4a5a298b3e47ec4bc3ddd26bd91df1",
+            "from_size": 208,
+            "to_hash": "792cbbc6f26f222a01caaeea98d465f59a3cac8c0b0e519879e31e58918474dc",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/94d98ba48252d0b33eb8e34cbc96f53e5f21ed2f/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "dfef4afffce6676d90b1cb837923362f7eb571d04e7e74703a1ebb9626f13c95",
+            "from_size": 6287,
+            "to_hash": "6c863c1195df60be675564dbb233bfd92bd03d5b99a7a9020b66a1981985927d",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/94d98ba48252d0b33eb8e34cbc96f53e5f21ed2f/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "9263e5b7a8faaa8980b0ef2b7dbc3bd1b2c9842d76041463112af9b9eb0bc552",
+            "from_size": 655,
+            "to_hash": "8d6340cfc7aa77d6815b0d774588e10d0878235fc2404c80ea1a0ff9e655cb69",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/94d98ba48252d0b33eb8e34cbc96f53e5f21ed2f/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.31",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.31"
+    }
+}
