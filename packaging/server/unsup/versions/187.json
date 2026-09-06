@@ -1,0 +1,109 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "792cbbc6f26f222a01caaeea98d465f59a3cac8c0b0e519879e31e58918474dc",
+            "from_size": 208,
+            "to_hash": "01ced3f1475f10794f0657686da78f3374f7541e19d24334a6b858329d3ea091",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.133.jar",
+            "from_hash": "d46a278a9166f23c44bb90ef6437d562d7aeb15b116199d53a38167484d479d5",
+            "from_size": 67486547,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.134.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c8f43d1fa205b3f767e9f0423b41501880a981eefbb2cb5030e9bb860fc1b29f",
+            "to_size": 67486623,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.134/gregtech-5.09.54.134.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/.minecraft/mods/gregtech-5.09.54.134.jar"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "6c863c1195df60be675564dbb233bfd92bd03d5b99a7a9020b66a1981985927d",
+            "from_size": 6287,
+            "to_hash": "45ab5db5188d3d4237336b820c681a54359f49fed697efdd015eaee2cdb0fe5b",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.196.jar",
+            "from_hash": "b6e328112246dacdc1fb2fa400bf502965a523c2f3556f9d964ebb23ab1893d3",
+            "from_size": 1147360,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.197.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e9c7553e021f5b7ae5dd5e6741b538334aa5f0f98cfab5e085486af9c35909d2",
+            "to_size": 1157502,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.197/hodgepodge-2.7.197.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/.minecraft/mods/hodgepodge-2.7.197.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1050-GTNH.jar",
+            "from_hash": "d277a9e5b2c3e6ef1f2bc9601c0fb3318e7494df466786066ebb156f4e89adc3",
+            "from_size": 4936362,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1051-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "75103fb3af67cea171b1910f5debe1ebea7cb5e7bffd6c792754b6566191221b",
+            "to_size": 4932149,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1051-GTNH/appliedenergistics2-rv3-beta-1051-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/.minecraft/mods/appliedenergistics2-rv3-beta-1051-GTNH.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "8d6340cfc7aa77d6815b0d774588e10d0878235fc2404c80ea1a0ff9e655cb69",
+            "from_size": 655,
+            "to_hash": "2c467e9ff71a83890cc9a51b200a1cbfc182aab1e464fd4e2a2a5e8b23b7e621",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.31.jar",
+            "from_hash": "df53eb7c76c265a34d4d41f4c869b2e25bd372c16ca2389ca4df4993c72b4803",
+            "from_size": 8266235,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.32.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d563c5988bd9478faf1536d4f178fb8603082fdec231790f3354f62d0f425876",
+            "to_size": 8266574,
+            "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.32/lwjgl3ify-3.0.32.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/.minecraft/mods/lwjgl3ify-3.0.32.jar"
+        },
+        {
+            "path": "lwjgl3ify-forgePatches.jar",
+            "from_hash": "47c19c322e44b7be44b82ed2537cbd9c70c4cb51349155001879b1388e7cfedc",
+            "from_size": 7907024,
+            "to_hash": "7124d643b22d3148607ce835a975a88c2d16ffd3a0bcfd947a95a8d3c7aa31cf",
+            "to_size": 7907048,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f8ea043c5f215e9ef25ffbd038b442fffe5b136e/packaging/server/lwjgl3ify-forgePatches.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.32",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.32"
+    }
+}
