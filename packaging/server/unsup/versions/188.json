@@ -1,0 +1,173 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "a299f33c1f7054be445cf67c892d30492283f98fe509a8980881ed33e693442e",
+            "from_size": 32109075,
+            "to_hash": "6a1c8a2a2afd06dbd7095f5cb58b01fc403e995127b301ed401a50944c7838bc",
+            "to_size": 32289379,
+            "url": "https://github.com/malteeez/packscripts-auto-builds/raw/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "01ced3f1475f10794f0657686da78f3374f7541e19d24334a6b858329d3ea091",
+            "from_size": 208,
+            "to_hash": "62b3a6e31310a6fbbb19f5303b4286e6d9681aa6e070170d9402cd96c9f590fb",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "45ab5db5188d3d4237336b820c681a54359f49fed697efdd015eaee2cdb0fe5b",
+            "from_size": 6287,
+            "to_hash": "0f5e4e85c19568eb492f2e1a142a77d4d154183d87cc9c5629323f42a168bd75",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/ForgeMultipart-1.7.12.jar",
+            "from_hash": "024d3d932b4a4876b75324bbf49eda2b6b5f5c7d48667e14a800c36bd9a45ba7",
+            "from_size": 950348,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ForgeMultipart-1.7.13.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "09dac864b40dc6bd5ad13bf701d7581dabcf80bc463b96e4435c45322e928464",
+            "to_size": 958801,
+            "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.13/ForgeMultipart-1.7.13.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/ForgeMultipart-1.7.13.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.106-gtnh.jar",
+            "from_hash": "2c1473503b7243d5acbccbf9eedddb3ad1a33536204a06f5429fd5c13a7e1e2a",
+            "from_size": 817825,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.22.jar",
+            "from_hash": "48ed05ce8facc7a5556fe5c71f14009d063bd5205f6e10db230ebfabe33e88e7",
+            "from_size": 2736909,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.23.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a89e69929945aefee99d590f6d31d9e07b2f556777056bb5ffe324454c473377",
+            "to_size": 2736889,
+            "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.23/ThaumicHorizons-1.8.23.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/ThaumicHorizons-1.8.23.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.107-gtnh.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "643349ca66f9f2931e2703223c90e3d21dbc36d7727916cc4f811eda896758a2",
+            "to_size": 817896,
+            "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.107-gtnh/ae2fc-1.5.107-gtnh.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/ae2fc-1.5.107-gtnh.jar"
+        },
+        {
+            "path": "mods/binnie-mods-2.6.47.jar",
+            "from_hash": "b8e22d77becfa496158b31c196f7aec2c6e75cd99c1271b2dc2b6b21e75f6d3a",
+            "from_size": 4256739,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.134.jar",
+            "from_hash": "c8f43d1fa205b3f767e9f0423b41501880a981eefbb2cb5030e9bb860fc1b29f",
+            "from_size": 67486623,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.136.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6434a89964561faa43088ac231dee5f6d1484ad7f7c222f270ffd4a8435fd82e",
+            "to_size": 67530073,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.136/gregtech-5.09.54.136.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/gregtech-5.09.54.136.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1051-GTNH.jar",
+            "from_hash": "75103fb3af67cea171b1910f5debe1ebea7cb5e7bffd6c792754b6566191221b",
+            "from_size": 4932149,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1053-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0232a5cd1ecf6ec2407b8d12a7cba85aebdf32dd3e99b48091916a25d8d8fb1e",
+            "to_size": 4932212,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1053-GTNH/appliedenergistics2-rv3-beta-1053-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/appliedenergistics2-rv3-beta-1053-GTNH.jar"
+        },
+        {
+            "path": "mods/binnie-mods-2.6.48.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "85b540b83c0c65eb7227ff4757d578e98ee34cb2ed18a8ceb5c487f1318e3cf4",
+            "to_size": 4256738,
+            "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.48/binnie-mods-2.6.48.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/binnie-mods-2.6.48.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.197.jar",
+            "from_hash": "e9c7553e021f5b7ae5dd5e6741b538334aa5f0f98cfab5e085486af9c35909d2",
+            "from_size": 1157502,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.6.44.jar",
+            "from_hash": "1f7179bf4f077704ed4cf018452dbae9c44ed5f0c4ab4767e27e6a35ea96f835",
+            "from_size": 727301,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.199.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "80f60154271c28e57df78fdf478afb9a56005655153cd485c3e7df930b21b63a",
+            "to_size": 1158247,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.199/hodgepodge-2.7.199.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/hodgepodge-2.7.199.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.45.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ea65dd46aa079179e5b6576aa270f2495d43644f08f0843879baa19721a459bb",
+            "to_size": 727568,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.45/littletiles-1.6.45.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/.minecraft/mods/littletiles-1.6.45.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "2c467e9ff71a83890cc9a51b200a1cbfc182aab1e464fd4e2a2a5e8b23b7e621",
+            "from_size": 655,
+            "to_hash": "71837942af2d157fd591732aadd62ab36f3335f84867827d3ef45b017536121d",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/900a4766fefaa45a5663cbe3559b7bbf9149d38d/packaging/server/server.properties"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.32",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.32"
+    }
+}
