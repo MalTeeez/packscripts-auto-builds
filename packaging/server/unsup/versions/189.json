@@ -1,0 +1,221 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "62b3a6e31310a6fbbb19f5303b4286e6d9681aa6e070170d9402cd96c9f590fb",
+            "from_size": 208,
+            "to_hash": "a1b43d68b6cef15ae69f9eaea43ee0bb079c59ead0c8e59a7f32edbc2f2e8ffe",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "0f5e4e85c19568eb492f2e1a142a77d4d154183d87cc9c5629323f42a168bd75",
+            "from_size": 6287,
+            "to_hash": "abffc48bd5234de5509d6bcb7528b0b2fb987c8c4f4c1e6e4dede90b8743afc7",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/InGameInfoXML-2.9.6.jar",
+            "from_hash": "ca352fecae27a5a7808332e30fa1d8928ea6ae904f4bf1882be1bfce7838f40d",
+            "from_size": 324491,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/InGameInfoXML-2.9.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0ff09673ecfaf9fb7ed4fd34cbbf7b0dccbe2c3b8beca810881499a1e76726d3",
+            "to_size": 324526,
+            "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.9.7/InGameInfoXML-2.9.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/InGameInfoXML-2.9.7.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.44.jar",
+            "from_hash": "7b63524073304d7ab8d04d42a04e5bcadfe5b82c2de26137db2e1ec518e46bde",
+            "from_size": 4905277,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/EnderIO-2.10.45.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "19e6a0b7b941465635afb505867339b38641eb423f31e561dba0a4fdbfdbfd41",
+            "to_size": 4905236,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.45/EnderIO-2.10.45.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/EnderIO-2.10.45.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.108-GTNH.jar",
+            "from_hash": "ef13fb8b3fca725fe8a4d357480777c0e7363de2afce0aac1d32c8bb861e02a0",
+            "from_size": 5594620,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.110-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7963fb5f65c4b19ca39fb7af6ae976f46b50db26ac76456199e8f9a028647318",
+            "to_size": 5594883,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.110-GTNH/TConstruct-1.14.110-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/TConstruct-1.14.110-GTNH.jar"
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.23.jar",
+            "from_hash": "a89e69929945aefee99d590f6d31d9e07b2f556777056bb5ffe324454c473377",
+            "from_size": 2736889,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.24.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "94b8c9c2e3c4b8abd79c7d38921edd25c96e71cc092c58ada95fd2f246fc4d4f",
+            "to_size": 2736979,
+            "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.24/ThaumicHorizons-1.8.24.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/ThaumicHorizons-1.8.24.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.114.jar",
+            "from_hash": "0e9857c28f701e2a2703aa98eb1d7d74de8bcf802b1681414d3203a733d2968b",
+            "from_size": 1984789,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.136.jar",
+            "from_hash": "6434a89964561faa43088ac231dee5f6d1484ad7f7c222f270ffd4a8435fd82e",
+            "from_size": 67530073,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.137.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ab1d9c2388c2ef7d808320e5d9a2727314d1a222cbd89b1d3447dcb21e4060af",
+            "to_size": 67532994,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.137/gregtech-5.09.54.137.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/gregtech-5.09.54.137.jar"
+        },
+        {
+            "path": "mods/fether-2.0.5.jar",
+            "from_hash": "e9bbc64360cebce40a4cf5bc959e4c21fc9fcbbca3cce60d331fc36b7ea40264",
+            "from_size": 125780,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/fether-2.0.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "49b42abc43085ae0d0c6837c96d4530b44bcb0df48478f5a2d4be42c2500ec93",
+            "to_size": 125786,
+            "url": "https://github.com/GTNewHorizons/Fether/releases/download/2.0.6/fether-2.0.6.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/fether-2.0.6.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.115.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9435f51b3c7cde210d44e04b64894ea450d0edaef83792a99847c00cd3b7c9fb",
+            "to_size": 1984997,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.115/cropsnh-2.0.115.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/cropsnh-2.0.115.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.46.jar",
+            "from_hash": "967a19a6c58cdef80e363b161f3ac0ce762196d6c83da2cf3607b575c4676e92",
+            "from_size": 1407400,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.199.jar",
+            "from_hash": "80f60154271c28e57df78fdf478afb9a56005655153cd485c3e7df930b21b63a",
+            "from_size": 1158247,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.47.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "32bfa1a9d1993100f02e3b180de5ce0ac0ff7a534021b6401b9ce7283b852b15",
+            "to_size": 1417946,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.47/gtnhlib-0.11.47.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/gtnhlib-0.11.47.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.45.jar",
+            "from_hash": "ea65dd46aa079179e5b6576aa270f2495d43644f08f0843879baa19721a459bb",
+            "from_size": 727568,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.200.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "eea50684ad4998a972b9c43009163319dc5fd7ba2895c1862124e2538b09f72f",
+            "to_size": 1160344,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.200/hodgepodge-2.7.200.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/hodgepodge-2.7.200.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.46.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5b6fff61725e409ceca7be95294a05eb4561a580e4d11ebb1ffd6e699ce68fab",
+            "to_size": 729679,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.46/littletiles-1.6.46.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/littletiles-1.6.46.jar"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "71837942af2d157fd591732aadd62ab36f3335f84867827d3ef45b017536121d",
+            "from_size": 655,
+            "to_hash": "1a3ad73b135f42034493edd5c0efcf51e159b5b4a303ef914383de4bdb2eb84b",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.32.jar",
+            "from_hash": "d563c5988bd9478faf1536d4f178fb8603082fdec231790f3354f62d0f425876",
+            "from_size": 8266574,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.33.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e6763321e86d2f82685adbe33f02fe9a090029d39b9ac1f0ce6928477cdbd673",
+            "to_size": 8266932,
+            "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.33/lwjgl3ify-3.0.33.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/.minecraft/mods/lwjgl3ify-3.0.33.jar"
+        },
+        {
+            "path": "lwjgl3ify-forgePatches.jar",
+            "from_hash": "7124d643b22d3148607ce835a975a88c2d16ffd3a0bcfd947a95a8d3c7aa31cf",
+            "from_size": 7907048,
+            "to_hash": "d45b9ddb69cb2976a5fae3d640625bda6d41d51095d47f1ce08e18578ec962de",
+            "to_size": 7907048,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6c78656f44d3847b60243e698f65454e529ffdb2/packaging/server/lwjgl3ify-forgePatches.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.33",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.33"
+    }
+}
