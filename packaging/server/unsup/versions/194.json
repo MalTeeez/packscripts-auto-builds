@@ -1,0 +1,69 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "359334e452fc008addc8a1a44791351b6a0986ea94d6822a04d1fd7ff74d48f7",
+            "from_size": 208,
+            "to_hash": "4601531bf35fe34b1680e3e3ca3e6e2285cd550d9c31749af561e4267a538d1b",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6882e053ec10083488f3f64cdd900d7c3c27412c/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.148.jar",
+            "from_hash": "e6ae35a0901f546f5545c657cb8f9dd335d5f59e307a26e7d0411d25cbb56c84",
+            "from_size": 67490513,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.149.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9a65901a9a75088aa53259e68ebb65009303d6ee00d56d922b881d38f7a4d43a",
+            "to_size": 67488016,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.149/gregtech-5.09.54.149.jar",
+            "mirror_url": "https://github.com/malteeez/packscripts-auto-builds/raw/6882e053ec10083488f3f64cdd900d7c3c27412c/.minecraft/mods/gregtech-5.09.54.149.jar"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "be17eb0ce682aff90713ee28d85db1f3425f6f83db19561b0e027e750672b3bf",
+            "from_size": 6287,
+            "to_hash": "d9976d43628015fe3f11457e2bb8e0c9046dc5fb0fe6fa00fe5fbfc17ca8c96d",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6882e053ec10083488f3f64cdd900d7c3c27412c/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "server.properties",
+            "from_hash": "6cb422adadf280dcef43454553ed97c1587f3f1f44b01ddc4978959e9006b2c8",
+            "from_size": 655,
+            "to_hash": "4c22beb01d5ea5e5d63f1a7518aee0e4daffb38acced5fefd7484fae3f0e0763",
+            "to_size": 655,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6882e053ec10083488f3f64cdd900d7c3c27412c/packaging/server/server.properties"
+        },
+        {
+            "path": "mods/cropsnh-2.0.115.jar",
+            "from_hash": "9435f51b3c7cde210d44e04b64894ea450d0edaef83792a99847c00cd3b7c9fb",
+            "from_size": 1984997,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.117.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dc89a6c2c0429da48b4a2707b55648b9b0dbd8a336140e12b7c6c063bd68653a",
+            "to_size": 1984997,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.117/cropsnh-2.0.117.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6882e053ec10083488f3f64cdd900d7c3c27412c/.minecraft/mods/cropsnh-2.0.117.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.33",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.33"
+    }
+}
