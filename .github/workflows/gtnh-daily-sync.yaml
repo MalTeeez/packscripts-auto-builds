@@ -14,6 +14,12 @@ permissions:
   contents: write # push commit
   actions: write # dispatch image workflow
 
+env:
+  # Temporarily off: large files are still committed as LFS pointers, but the
+  # objects are never uploaded. Mods are served from the release their manifest
+  # url already points at. Flip back to 'true' to resume uploading.
+  LFS_UPLOADS: 'false'
+
 jobs:
   sync:
     runs-on: ubuntu-24.04
@@ -153,6 +159,14 @@ jobs:
             ! -name "mods" -type d \
             | xargs -I{} cp -r --update=none {} .minecraft/
 
+      - name: Freeze the daily-specific part of the server MOTD
+        run: | # otherwise the whole 48M starter zip is rebuilt & recommitted every daily over one line
+          props=packaging/server/server.properties
+          sed -i -E 's/^(motd=.*)\(Daily [0-9]+\)[[:space:]]*-[[:space:]]*[0-9]{4}-[0-9]{2}-[0-9]{2}[[:space:]]*$/\1(Daily)/' "$props"
+          grep -q 'Daily [0-9]' "$props" \
+            && echo "W: MOTD still carries a daily number, did its format change? $(grep '^motd=' "$props")"
+          grep '^motd=' "$props"
+
       - name: Swap mods folder for server pass
         run: |
           mv .minecraft/mods /tmp/gtnh-client-mods
@@ -188,14 +202,7 @@ jobs:
           bun main version verify_links --org LegacyModdingMC --org GTNewHorizons
 
       - name: Auto-enroll large files in Git LFS
-        run: |
-          git lfs install
-          rm -f .gitattributes
-          find . -mindepth 1 \
-            ! -path './.git*' \
-            ! -path './packscripts*' \
-            -size +10M \
-            | xargs -I{} git lfs track "{}"
+        run: .github/scripts/lfs-enroll.sh
 
       - name: Commit pack snapshot
         run: |
@@ -216,13 +223,7 @@ jobs:
           bun main package bundle
 
       - name: Auto-enroll large files in Git LFS
-        run: |
-          rm -f .gitattributes
-          find . -mindepth 1 \
-            ! -path './.git*' \
-            ! -path './packscripts*' \
-            -size +10M \
-            | xargs -I{} git lfs track "{}"
+        run: .github/scripts/lfs-enroll.sh
 
       - name: Commit generated manifests
         run: |
