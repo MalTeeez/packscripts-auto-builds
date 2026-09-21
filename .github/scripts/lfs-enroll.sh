@@ -16,14 +16,34 @@ set -euo pipefail
 lfs_uploads="${LFS_UPLOADS:-true}"
 pack_name="$(jq -r '.PACKAGING.PACK_NAME' packscripts.json)"
 
-git lfs install --local
+# `git push` uploads objects from the pre-push hook and nowhere else, so with
+# uploads off the hook is replaced by a no-op. Both `git lfs install` and every
+# `git lfs track` call (re)install that hook, so neither may run as-is: the
+# filters that turn staged files into pointers are set by hand instead, and
+# GIT_LFS_TRACK_NO_INSTALL_HOOKS stops `track` from putting the hook back.
+neutralize_pre_push() {
+    mkdir -p .git/hooks
+    printf '#!/bin/sh\nexit 0\n' > .git/hooks/pre-push
+    chmod +x .git/hooks/pre-push
+}
+
+if [ "$lfs_uploads" = "true" ]; then
+    # --force replaces the no-op hook that a run with uploads off leaves behind.
+    git lfs install --local --force
+else
+    git config --local filter.lfs.clean 'git-lfs clean -- %f'
+    git config --local filter.lfs.smudge 'git-lfs smudge -- %f'
+    git config --local filter.lfs.process 'git-lfs filter-process'
+    git config --local filter.lfs.required true
+    export GIT_LFS_TRACK_NO_INSTALL_HOOKS=1
+    neutralize_pre_push
+fi
+
 rm -f .gitattributes
 
 find_args=(. -mindepth 1 -type f -size +10M ! -path './.git*' ! -path './packscripts*')
 
 if [ "$lfs_uploads" != "true" ]; then
-    # `git push` uploads objects from this hook and nowhere else.
-    rm -f .git/hooks/pre-push
     # Only excludes a zip that already holds real content; before `package
     # bundle` runs it is still the previous run's pointer text, well under 10M.
     find_args+=(! -path "./${pack_name}-"'*.zip')
@@ -52,6 +72,11 @@ while IFS= read -r -d '' file; do
 
     unbacked+=("$path")
 done < <(find "${find_args[@]}" -print0)
+
+if [ "$lfs_uploads" != "true" ]; then
+    # Insurance against a git-lfs that reinstalls the hook anyway.
+    neutralize_pre_push
+fi
 
 if [ "${#unbacked[@]}" -gt 0 ]; then
     printf 'W: no working download url while LFS uploads are off: %s\n' "${unbacked[@]}"
