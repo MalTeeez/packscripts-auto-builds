@@ -38,16 +38,28 @@ jobs:
         run: |
           mkdir -p /tmp/gtnh-client /tmp/gtnh-server
 
-          client_id=$(gh api \
-            "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts" \
-            --jq '.artifacts[] | select(.name | contains("mmcprism-java17")) | .id')
+          artifacts=$(gh api "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts")
+
+          # A re-run of the DAXXL build leaves the run with two artifacts per name, so keep the
+          # newest live one — handing both ids to the download call is what breaks the url.
+          pick_artifact() {
+            echo "$artifacts" | jq -r --arg match "$1" \
+              '[.artifacts[] | select(.expired | not) | select(.name | contains($match)) | .id] | max // empty'
+          }
+
+          client_id=$(pick_artifact "mmcprism-java17")
+          server_id=$(pick_artifact "server-java17")
+
+          if [ -z "$client_id" ] || [ -z "$server_id" ]; then
+            echo "ERROR: DAXXL run ${{ inputs.run_id }} has no live client/server artifact (client='$client_id' server='$server_id'). Available:"
+            echo "$artifacts" | jq -r '.artifacts[] | "  \(.id)  expired=\(.expired)  \(.name)"'
+            exit 1
+          fi
+
           gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${client_id}/zip" \
             > /tmp/gtnh-client/artifact.zip
 
-          server_id=$(gh api \
-            "repos/GTNewHorizons/DreamAssemblerXXL/actions/runs/${{ inputs.run_id }}/artifacts" \
-            --jq '.artifacts[] | select(.name | contains("server-java17")) | .id')
           gh api \
             "repos/GTNewHorizons/DreamAssemblerXXL/actions/artifacts/${server_id}/zip" \
             > /tmp/gtnh-server/artifact.zip
