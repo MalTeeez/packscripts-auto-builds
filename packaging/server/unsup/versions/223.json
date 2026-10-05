@@ -1,0 +1,93 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "d47a0acf5bce3d6d3be396acb2c1502e64da494e3a49102147b45ad4bab9b4a8",
+            "from_size": 208,
+            "to_hash": "90c3df67eaf0a7e4c5e1d27b07522fbac8ba2574cd2c2ad06d0ee197878d13f4",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/251d7511ca73cd72fe89816b24bf99fc9c765324/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "40621b679f5e9b7bd276a60f95e5536391d59fbfa3f74933602218921a4721bd",
+            "from_size": 6287,
+            "to_hash": "581abd1774541dcf71aeed7de35b31967825473040defae143042a139f422b74",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/251d7511ca73cd72fe89816b24bf99fc9c765324/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/blockrenderer6343-1.4.23.jar",
+            "from_hash": "fd81070b71550f1a0b5de165a6c0447c4d22ab123c2351e95976ec0a186a0b8a",
+            "from_size": 107116,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/blockrenderer6343-1.4.24.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "69f968af3015ab3ea386f8e61205b3d1918ada3bc94e0fbd7414849dc481af10",
+            "to_size": 107224,
+            "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.4.24/blockrenderer6343-1.4.24.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/251d7511ca73cd72fe89816b24bf99fc9c765324/.minecraft/mods/blockrenderer6343-1.4.24.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.82.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d62a0b4d7ab11a21fc7333a2ddff3310ec63c2a5e1f41ed6d7046360cdef2f5d",
+            "to_size": 48448119,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.82/GTNewHorizonsCoreMod-2.9.82.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/251d7511ca73cd72fe89816b24bf99fc9c765324/.minecraft/mods/GTNewHorizonsCoreMod-2.9.82.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.81.jar",
+            "from_hash": "094606b88544431fead9f703d22163fcfe1a96b98e570bb5e1a19437586c6cb0",
+            "from_size": 48446762,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/modularui2-2.3.91-1.7.10.jar",
+            "from_hash": "e79666a0dcd650902591ff68548bfb7d019ec8b9f74f41e5c04dd98086e03d6c",
+            "from_size": 1628744,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/modularui2-2.3.92-1.7.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b6fb3b9c33d2b059ab7e9af75fea255f52f9f2fb752c6cc27bf3616ebd9b9e86",
+            "to_size": 1629333,
+            "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.92-1.7.10/modularui2-2.3.92-1.7.10.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/251d7511ca73cd72fe89816b24bf99fc9c765324/.minecraft/mods/modularui2-2.3.92-1.7.10.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.192.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "bb4b3bcca97bc044337d7275a3b5d3d65ae2447febd177c10e07d5ec73d297b0",
+            "to_size": 68021066,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.192/gregtech-5.09.54.192.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/251d7511ca73cd72fe89816b24bf99fc9c765324/.minecraft/mods/gregtech-5.09.54.192.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.191.jar",
+            "from_hash": "7fe11a653d2f192dd11866a483e5acfa294d65bc7a02a7278c360063afcebcdf",
+            "from_size": 68017388,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
