@@ -1,0 +1,165 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "4ab002189109a4902fe5844ede6f6ba845fc7483e16ccec5239341d7a90cc5b3",
+            "from_size": 208,
+            "to_hash": "f570a17cd42a35aeab30aea16062343978b0b8e7910987d4344e5a23bf6b5ba4",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "3d5214235d5a9a41e150eed9c04d22a6ea6d1ffd3af201e3acde85bd7a488d8f",
+            "from_size": 6287,
+            "to_hash": "5e3dfa1d3ef4ab2a142710a5432a97248977e96dc7321dca82b976f54bb0cf6c",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/HardcoreEnderExpansion-1.12.27-GTNH.jar",
+            "from_hash": "824bc0b757f69cc7b0aacba90fcc2dd83734f154afeacc853c027a82d6416647",
+            "from_size": 19623594,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/GregTech/GregTech.cfg",
+            "from_hash": "7d23de622b95956137ab8414a03c3c884b4d65aaed8a07f5bbb5f8230abd5c20",
+            "from_size": 24585,
+            "to_hash": "42bbe50aaa2ab45b4202db78a15a68d190f9c032dbcb178c1ca910b74375fef4",
+            "to_size": 24883,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/config/GregTech/GregTech.cfg"
+        },
+        {
+            "path": "mods/CookingForBlockheads-1.4.13-GTNH.jar",
+            "from_hash": "cadee5fc1fc749d68528024ef1348a227be897ec04e96bc7ee3d3c12d99dbdd1",
+            "from_size": 353859,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/CookingForBlockheads-1.4.14-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4985b7adfd9cbfb676d3fdd1ebbde9dac39142cd1b0763423a78703921f84191",
+            "to_size": 353793,
+            "url": "https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.4.14-GTNH/CookingForBlockheads-1.4.14-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/CookingForBlockheads-1.4.14-GTNH.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.111-GTNH.jar",
+            "from_hash": "b52663409a27a72b9677b67bf685d26f38644557aabba67a14665cc2c1044e51",
+            "from_size": 5594888,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.112-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5ea16bed1f917d39edc31ade3b05b16925c60b77b2608a13db27964be6589159",
+            "to_size": 5594922,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.112-GTNH/TConstruct-1.14.112-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/TConstruct-1.14.112-GTNH.jar"
+        },
+        {
+            "path": "mods/TwilightForest-2.7.40.jar",
+            "from_hash": "44e57696b1ca98a9ff299af8ca2e3b37d6262855c35831833e7e89ae570c596c",
+            "from_size": 5364242,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/HardcoreEnderExpansion-1.12.28-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4cf7bf8e87ea39e0476771e7d20e93a378db83ca514d3454e3df3df37116321b",
+            "to_size": 19623461,
+            "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.28-GTNH/HardcoreEnderExpansion-1.12.28-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/HardcoreEnderExpansion-1.12.28-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.150.jar",
+            "from_hash": "e5b5ff68960501c53cd2fd60e1800d4fdefa343fab1e6786a2336a8ae88fa38e",
+            "from_size": 67879274,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.7.41.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "74923de8da6b4ded006d76cf9378f12ac75c916db3bb3a3249356b4513538619",
+            "to_size": 5367120,
+            "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.41/TwilightForest-2.7.41.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/TwilightForest-2.7.41.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1059-GTNH.jar",
+            "from_hash": "2e6b561f520527e2dca261336a696542d9c674f5127b7a8ee4c6c117aed949b7",
+            "from_size": 4935087,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1060-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1d32bc60e534c4469b18ec0b374298ad50d200c8e845d849bb2c28807d4d027d",
+            "to_size": 4953812,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1060-GTNH/appliedenergistics2-rv3-beta-1060-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/appliedenergistics2-rv3-beta-1060-GTNH.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.204.jar",
+            "from_hash": "b40a0d400c004212c1a3184f82de9237494fb296830a5c428bead0b3111adc86",
+            "from_size": 1187721,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.6.47.jar",
+            "from_hash": "24499fd83f7f41f4e77778aa7d069b2369acf1b486a34f403d6684238d6d4f25",
+            "from_size": 730686,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.206.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b8097bb678dcc22e018efb9a05a71324208cbf9304bcc2da00a07181225942bc",
+            "to_size": 1190499,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.206/hodgepodge-2.7.206.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/hodgepodge-2.7.206.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.48.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d5c10d0c085b53148fc1efc9922b0be35e79ad524dc87f9e8b70e3994f1b32d0",
+            "to_size": 730711,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.48/littletiles-1.6.48.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/littletiles-1.6.48.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.152.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "caed637f780b49b2dc4b262fa684ef180b6303a846618172e8210b132121892c",
+            "to_size": 67879130,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.152/gregtech-5.09.54.152.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c76477c8eeb81b799594d62a46ff4d7d89899f8d/.minecraft/mods/gregtech-5.09.54.152.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.33",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.33"
+    }
+}
