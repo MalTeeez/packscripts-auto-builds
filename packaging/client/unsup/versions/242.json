@@ -1,0 +1,118 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "53c171c99eb53d62ffecf45daeaf2f0e376a0228f5698e1ca6a8d2e1883779db",
+            "from_size": 208,
+            "to_hash": "bd8f38fe3bdf2f8ae8f1959f219d6177ef52e6103043fec079239298f57a009a",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "22cf46394ec43c198b35e2768218a69ef485b8c7a0f9bb9b123c5e49cdc8271e",
+            "from_size": 6287,
+            "to_hash": "f05bb203525cd13b27d8f55eb6dd6ebc3fb878306acf1074881126079ac376b7",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "7c185c6a7002b5e5cf08e9afa25b6edc1d0f1ebc8247f57cf6a4f0fc069ce5dd",
+            "from_size": 35,
+            "to_hash": "e58e762f2e3af14bb020360f13e603b510248b85f7c37ec880be01c055b77e85",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.212.jar",
+            "from_hash": "a43cf8f62f77d7f0ad7eb40d94269c8803a721ec094efd4cd8557927402cd323",
+            "from_size": 1212745,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/neirecipepanels-0.3.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "99abe1153f94182faa744f6c21d18089b86b4af69b7a4e98eb2a16d19540ac0f",
+            "to_size": 65790,
+            "url": "https://github.com/GTNewHorizons/Nei-Recipe-Panels/releases/download/0.3.0/neirecipepanels-0.3.0.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/mods/neirecipepanels-0.3.0.jar"
+        },
+        {
+            "path": ".minecraft/mods/hodgepodge-2.7.213.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d12fedb4cf4c9ad2a1abcc3af6712b8d29a4a398f582731c2c40922c7819df87",
+            "to_size": 1219795,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.213/hodgepodge-2.7.213.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/mods/hodgepodge-2.7.213.jar"
+        },
+        {
+            "path": ".minecraft/mods/salisarcana-1.1.71-GTNH.jar",
+            "from_hash": "496d905471f2c581381fae570c6ff44356b766441958150b700bdb548377f454",
+            "from_size": 716556,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/salisarcana-v2.7.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d4c0a9216973cb460a0553147b1ebb396113810eae7b64231a89a7f26c993b74",
+            "to_size": 716526,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/mods/salisarcana-v2.7.0.jar"
+        },
+        {
+            "path": ".minecraft/mods/tasknh-0.14.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f8420d6ea73e0f1bf0df8ab169cbfb0ca04821484a9e57dee1985b6edd40adda",
+            "to_size": 192974,
+            "url": "https://github.com/GTNewHorizons/TaskNH/releases/download/0.14.0/tasknh-0.14.0.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/mods/tasknh-0.14.0.jar"
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.62-GTNH.jar",
+            "from_hash": "a761ba9d958b903f85b4ffbccf1fac962a4fc8964bde0a38c3d8767353c70895",
+            "from_size": 1434614,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.63-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c79065d2553ef006181e259d7aae6c3f689efcabc15ceafcf0b1647525dd8ad8",
+            "to_size": 1434685,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.63-GTNH/thaumicenergistics-1.7.63-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/mods/thaumicenergistics-1.7.63-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.201.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f9b8c3bab43f18ca08fcfd86d4e676d6a9eba2a233685bbccc9b0fc068bbfe33",
+            "to_size": 68072462,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.201/gregtech-5.09.54.201.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0fd56ad8d351035e29653a9605aec6eaa57879ef/.minecraft/mods/gregtech-5.09.54.201.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.199.jar",
+            "from_hash": "157d090f06c57f36264f12394d79e05acb2636b883ac75d282cab97d7424d7c5",
+            "from_size": 68072387,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.36",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.36"
+    }
+}
