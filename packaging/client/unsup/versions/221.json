@@ -1,0 +1,202 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "3552f33af944ef5459d6c757211026b2efce1297e08f911510a7825e9b67d6fd",
+            "from_size": 208,
+            "to_hash": "a7c8263af33cce7eadd7a8610acdd0954e5c5a1f380a3c0458f796251c35e518",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "c6e75085eeec1c31161d553a0be60520649f78c4682c5e88082d28fe26042f9b",
+            "from_size": 6287,
+            "to_hash": "788a97e47b275b4b6a171dd2d70dd4b6e65325826a4304e5d39e19d18d2c5699",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/personalspace.cfg",
+            "from_hash": "3e0d86975ef207092fa9a7f7c3178dfa9c36c647493062cbee78f01bfb96fb56",
+            "from_size": 6666,
+            "to_hash": "9822c6362c409d50b495b78e2a047145bccab405ad1b1d15af8938c84f3a0063",
+            "to_size": 6666,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/config/personalspace.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "bccd9c795e5857986fd2fae207ec41941f3e0db6c4f6f07ab89f16da3f2d1a26",
+            "from_size": 35,
+            "to_hash": "c2e3ae9ed23eab89d483548a7f0a9ed1da1f9bd55eb957c8d3f07ee010e592d1",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/AdvancedSolarPanel-1.7.10-3.5.1a.jar",
+            "from_hash": "a8c76322d88ff67cdd374e390f03281ff29b38aef7ffa5ac82e323c9524436eb",
+            "from_size": 307727,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/AdvancedSolarPanel-1.7.10-3.5.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cf3524d3335e96e4541b087d6384e58b93dcfad0e2f8e49b2ce53908ff567401",
+            "to_size": 305650,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/AdvancedSolarPanel-1.7.10-3.5.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/CodeChickenCore-1.4.21.jar",
+            "from_hash": "d17d0aa003ce43e1e0ae5ad7b637702c7b5b47fded7d66784d07823dd3f3b527",
+            "from_size": 453332,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/CodeChickenCore-1.4.22.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0ff66294703701f156fb493265bf5b3572c4566127ce895095332d2cfe9205c1",
+            "to_size": 453567,
+            "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.22/CodeChickenCore-1.4.22.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/CodeChickenCore-1.4.22.jar"
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughEnergistics-1.7.42.jar",
+            "from_hash": "f8a4184a832129a1da85c841f705fd205269274f545985df6f40b7265841b822",
+            "from_size": 295476,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughEnergistics-1.7.43.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5744919f0c3546a006624c8b8911770909646d0e4dc35c069fceaa3b7e8b69df",
+            "to_size": 297262,
+            "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.43/NotEnoughEnergistics-1.7.43.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/NotEnoughEnergistics-1.7.43.jar"
+        },
+        {
+            "path": ".minecraft/mods/RandomThings-2.7.10.jar",
+            "from_hash": "70a21d4434fca584fcad0b62a3b8d7ef9f4e3fbc689029c0d2467a5b70b41292",
+            "from_size": 2216896,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/RandomThings-2.7.11.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b2d197c3e2a1cd82ba58baa983903e07b61dee24cfaccbe7e722602ac7d2feb9",
+            "to_size": 2216833,
+            "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.7.11/RandomThings-2.7.11.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/RandomThings-2.7.11.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1068-GTNH.jar",
+            "from_hash": "1a28e36e408505f81c57d01fb328d2034955905022a1ddf7779c77eb3dadd4c1",
+            "from_size": 4984566,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1069-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0034a9ba8fd015e1a7e600483054c21b63fa8e5ecab6e84ba2b40a7f9919c7cc",
+            "to_size": 4989085,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1069-GTNH/appliedenergistics2-rv3-beta-1069-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/appliedenergistics2-rv3-beta-1069-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/betterloadingscreen-1.7.17-GTNH.jar",
+            "from_hash": "1f121696e161de4071f89453e67bff8826bb250a135c6e54e5e8d84f9c72461f",
+            "from_size": 2252953,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.71.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2082197fb72fcf2a80633dfe7f43b089eb73ea636af515fae8a84a2e4647555e",
+            "to_size": 48445549,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.71/GTNewHorizonsCoreMod-2.9.71.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/GTNewHorizonsCoreMod-2.9.71.jar"
+        },
+        {
+            "path": ".minecraft/mods/betterloadingscreen-1.7.18-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "227d168c5e8f5dc410668a31fb5fe0729f8e61d73dd769182ef848093db6aff5",
+            "to_size": 2252984,
+            "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.18-GTNH/betterloadingscreen-1.7.18-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/betterloadingscreen-1.7.18-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/bugtorch-1.2.15.jar",
+            "from_hash": "7ffca987a88eecf9e32411ab922bc672e0c6b36224b94ccb63fa9c6248225936",
+            "from_size": 149997,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/bugtorch-1.3.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "90f0f47b165ef8966338fd3699bfb310d307534d0662d15f5f315f59e73b8d47",
+            "to_size": 158753,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/bugtorch-1.3.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/mobsinfo-0.6.0-GTNH.jar",
+            "from_hash": "32635cb0ed072bed35ddd95a09955f49e470cf5bbc04ed062ca904c9b611e377",
+            "from_size": 492389,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/mobsinfo-0.6.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fa8b2e9c3c994873cbee196dea29a0fa3f83e2d9757ed00268a5a3d57fd5e8a1",
+            "to_size": 492366,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/mobsinfo-0.6.0.jar"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.70.jar",
+            "from_hash": "741cbb1e3a480615483655b11f23fa30b04d11d22aaa225ac7269b9209607881",
+            "from_size": 48459034,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.174.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8f0e6327f61ea82f2b591ebdfb55f45a66c6b564602facc9121c27a98418052d",
+            "to_size": 67920764,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.174/gregtech-5.09.54.174.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fdec1ac1ab852443709d612777e07caaad9021e3/.minecraft/mods/gregtech-5.09.54.174.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.172.jar",
+            "from_hash": "345bc555f5c0d3069a2974adad6c1223f10392098b6ca3cbd641bda353337338",
+            "from_size": 67915059,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
