@@ -1,0 +1,125 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "9d7fd574aa381a5cd523d9586e3d9d6d5474779b315f2b8adde7b8706b254a26",
+            "from_size": 208,
+            "to_hash": "2d936834c9e443eb708468864d753121d10878b44e2ad77b16640ac075a49efc",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "d488803403d617c5c1e7d1c860e493182a9752f641aab173b5547ca76c9f9879",
+            "from_size": 6287,
+            "to_hash": "f63cece73f9ef2f8dc64860b324c5c117119ccec2a78760aaf9a133e762ab073",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.146-GTNH.jar",
+            "from_hash": "106020e621d143681b82765c4d998cd9018660d408e74e0e88b649d49f14ddef",
+            "from_size": 1744933,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.147-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e254e80dc165414f2e76ea1fccc5cfdc61444fe012936dc1935ef25e6aa84a80",
+            "to_size": 1748340,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.147-GTNH/NotEnoughItems-2.8.147-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/mods/NotEnoughItems-2.8.147-GTNH.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.116-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2a7a3e36c0ecf7ae4a25a6788e17eb700a6ae1751a170ea0862f847afbdb88a8",
+            "to_size": 5607382,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.116-GTNH/TConstruct-1.14.116-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/mods/TConstruct-1.14.116-GTNH.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.115-GTNH.jar",
+            "from_hash": "327344822a7e1c1a205a5050ce3335f7380be3c18d13cd07f84402f6dc1a47c1",
+            "from_size": 5607389,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.7.42.jar",
+            "from_hash": "3c03b2c1b407d53d0b641a8a1f848f8ff4a40e6958b17d77afae4d40d3d60c35",
+            "from_size": 5367147,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.131.jar",
+            "from_hash": "5a52b97311548644aa96c773178160b4b5dc622dfaa5d631ae92f8157a3a4691",
+            "from_size": 2064980,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.7.43.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "be82fd0140adf1a460eeb2de9828d3bb727deff54f90a53a1c40c824ca5e0f3f",
+            "to_size": 5367763,
+            "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.43/TwilightForest-2.7.43.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/mods/TwilightForest-2.7.43.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.133.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "76ef1c5ab858e9d69abd623768ad9ab36e725a778d1c7490316da5dedb048b41",
+            "to_size": 2065445,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.133/cropsnh-2.0.133.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/mods/cropsnh-2.0.133.jar"
+        },
+        {
+            "path": "mods/findit-1.4.6.jar",
+            "from_hash": "f548231b4de4b0b4befcc5e8e763b1b337cdd9fb20e3cfb566c16a2e4b063258",
+            "from_size": 68500,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/findit-1.4.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e1f4352e7667285482167ad19a0dc9247b7f2ee2bc7eb4a312512954f40b9021",
+            "to_size": 68462,
+            "url": "https://github.com/GTNewHorizons/FindIt/releases/download/1.4.7/findit-1.4.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/mods/findit-1.4.7.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.185.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "be05b030ff3e7f26555f3f5828358c4d47e71c8ba8dfc0bca9143ff14ee5d68d",
+            "to_size": 68029075,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.185/gregtech-5.09.54.185.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2d608a253f7557d38467ba4fe9032d3872a37704/.minecraft/mods/gregtech-5.09.54.185.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.184.jar",
+            "from_hash": "75b341996adea8b633d1c05f203d487570f96b083aa1d03181e1975598708b1b",
+            "from_size": 68029071,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
