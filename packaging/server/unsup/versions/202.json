@@ -1,0 +1,149 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "2b85625e6a464718d8ae3007d493e6473d72fe78d88a046df88e5cb077cf305a",
+            "from_size": 208,
+            "to_hash": "228f9e807b30eaf7d0d0c3afb90a13ba58ed20f4fda7946f65cd82be9c88fde7",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "4a4b60f23dcfe42ed40242c5b629a987ab5d59249f6f320951619a3809ebbf76",
+            "from_size": 6287,
+            "to_hash": "d38d9bc5b4974b350455fc72d21bc3aa25bbc53a44712d17dbc62f2e46bc6efa",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "096fdb892b46a5d5350135f869448242d69f851f7539ce51c2ae5cad074f7e4d",
+            "from_size": 404,
+            "to_hash": "a9b1911c2a57a404130c7253ac75f086af3f981a37a1e463d5fe3317ec6eec89",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/SpacetimeSplitti-pW_B3nmQTxy87apiA9DyMA==.json",
+            "from_hash": "f9761054433a1ec5b1fc13d02e1917ce48dc519ae558053e3d9d7102de6e1e7a",
+            "from_size": 4006,
+            "to_hash": "e8f576ec160ae313a4154b326c9656462b89d03354c1f5e3141b1fcefb41f301",
+            "to_size": 4004,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/SpacetimeSplitti-pW_B3nmQTxy87apiA9DyMA==.json"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.141-GTNH.jar",
+            "from_hash": "ae0615f2d0686e5fa0f51fd464a8669c284234ba0b4b6c4e8ef8710810efeb3e",
+            "from_size": 1722754,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.142-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ba8ed4d73e393c942c6ad24fb2a66e9c0659c3b7fb7ea5e1223348c441b4776a",
+            "to_size": 1722759,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.142-GTNH/NotEnoughItems-2.8.142-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/mods/NotEnoughItems-2.8.142-GTNH.jar"
+        },
+        {
+            "path": "mods/bogosorter-1.3.50-GTNH.jar",
+            "from_hash": "85976c337aa002f09a5168fd1ae0df8ea70669edc37486047a26f8534b06f238",
+            "from_size": 483652,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1065-GTNH.jar",
+            "from_hash": "055839840904ea075f63b2e1907c21b4faa6f6c3d82d64c21229451db7f38d8f",
+            "from_size": 4981763,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/bogosorter-1.3.51-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e0babcbddde91e14dcacd81861c3f06d442adce1120949f5713022e4f18b4c9b",
+            "to_size": 484865,
+            "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.51-GTNH/bogosorter-1.3.51-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/mods/bogosorter-1.3.51-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1066-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c6609e22147ba8b35068e0b897ada413e8ab370c8c46321c66b44e9758070ff9",
+            "to_size": 4983715,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1066-GTNH/appliedenergistics2-rv3-beta-1066-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/mods/appliedenergistics2-rv3-beta-1066-GTNH.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.48.jar",
+            "from_hash": "d5c10d0c085b53148fc1efc9922b0be35e79ad524dc87f9e8b70e3994f1b32d0",
+            "from_size": 730711,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "372b53d496b5d5200493b02b908d6744167f4622364647a8e4d24121cd567706",
+            "from_size": 32296728,
+            "to_hash": "29a211442fb00f06577740a45d5377f43ff1d9cfc58c08fcdd3edb2b5dcbd310",
+            "to_size": 32305650,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "mods/littletiles-1.6.49.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cfe3d6b99faddc870f4bec58bb993b87864fa7f05531a9730c7d65810939a3f8",
+            "to_size": 736384,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.49/littletiles-1.6.49.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/mods/littletiles-1.6.49.jar"
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.56-GTNH.jar",
+            "from_hash": "539cf58e1dab55d13a0318d94df45b962a3cb16b30dd4df26b05c668a1513e17",
+            "from_size": 713201,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.57-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f1eb78d23b56788d12c8f750f1eb6e258b143c87ccaa08958f88458c16e76d7e",
+            "to_size": 714542,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.57-GTNH/matter-manipulator-0.1.57-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/mods/matter-manipulator-0.1.57-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.165.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7f03d01c5678d47512285bd27e70baafde3b2baf4ba519abab51d09c084337fb",
+            "to_size": 67891520,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.165/gregtech-5.09.54.165.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/deebe50c0bce972645c365ec4e76d4104f9419d5/.minecraft/mods/gregtech-5.09.54.165.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.163.jar",
+            "from_hash": "4c6e93d37a183b60c83b73077a37d58fb599429f72763db291839d90287a19ab",
+            "from_size": 67887103,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.33",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.33"
+    }
+}
