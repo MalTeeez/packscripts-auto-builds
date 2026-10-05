@@ -1,0 +1,283 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "2e184e039a67d571aad7291833fbbf6bea742643a3e4d0c0ccfd371315652878",
+            "from_size": 208,
+            "to_hash": "c5f6aebcfaf5581725c4135ec395a1f9450a8518845366fcc4dca79bb00896c8",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/EnhancedLootBags/LootBags.xml",
+            "from_hash": "6a64a85323f909c97e27ba17ca0de680975185e0b470892ede78295062f531cc",
+            "from_size": 440307,
+            "to_hash": "0750535a0d696ac7c8445b535162212c743c56f696df622c56e6e09887dc1a33",
+            "to_size": 440304,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/EnhancedLootBags/LootBags.xml"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "86d11e081ef32a7ead62a8c6d7590310747947e4cc9fae3255b42ed0b28ea9bf",
+            "from_size": 6287,
+            "to_hash": "e45777891d90a83cfa9d2f1df2b1536267e371ef031db927cfd14f54091236a2",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicSteamLootba-AAAAAAAAAAAAAAAAAAABuQ==.json",
+            "from_hash": "3a39e68652518d35534ce3a11534c8585dfb20750208f6fd471441bc91ec350f",
+            "from_size": 107,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "9d93250f7d617ef1833d1e6952d5eb3247f695d39ed5d50ca1c6280f138a1305",
+            "from_size": 404,
+            "to_hash": "79a10691d2556228d9982804313ce009c25a65406804051dc6fcfb3e34ee907b",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/1kEssentiaStorag-AAAAAAAAAAAAAAAAAAAJxQ==.json",
+            "from_hash": "8821bc6a859efbfe11de4b0baf4208bbcb838b955b333b0f18374d116c0ba534",
+            "from_size": 3418,
+            "to_hash": "fdfa596187885aa785e2be50c615bb4a10fe0cf214b5f487eed129e900be0788",
+            "to_size": 3350,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/1kEssentiaStorag-AAAAAAAAAAAAAAAAAAAJxQ==.json"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/Tier05Steam-AAAAAAAAAAAAAAAAAAAAAg==/BasicSteamLootba-AAAAAAAAAAAAAAAAAAABuQ==.json",
+            "from_hash": "92ef96e1c12942c76162c965e408e1e75f3d807af089da81a6c04dd21725db20",
+            "from_size": 2697,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "1afd0f2678777866acbf23b4a5aad7b10f385a66868842ab855399a2d032ac45",
+            "from_size": 35,
+            "to_hash": "4036a9ee332950d967fff5715ecd83df5718b6943b39d3fbb37cbc3e9250c12b",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/template.lang",
+            "from_hash": "dae9bc92d6babdd8c3d2982dd1e572bcfc1686ace2f2fb66173314968a40ff16",
+            "from_size": 2122020,
+            "to_hash": "5b6d6f391655a5c9785fe35958fb4f783e11afa0e991b003b953d2a63692fbe2",
+            "to_size": 2121557,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/txloader/forceload/betterquesting/lang/template.lang"
+        },
+        {
+            "path": ".minecraft/config/vendingmachine/tradeDatabase.json",
+            "from_hash": "62b314f94d461adfcce47a8d1522ae44217c8eb03fae571cdcc7573e8a45f550",
+            "from_size": 173819,
+            "to_hash": "6858aedea4bf3583e4956a9d378613d7297d472f3210f254153d90c355de48a4",
+            "to_size": 198865,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/config/vendingmachine/tradeDatabase.json"
+        },
+        {
+            "path": ".minecraft/mods/ArchitectureCraft-1.12.17.jar",
+            "from_hash": "ba7d2f1d0f744d32d750d7ffa20ff2708a1b6b3254ce0f304b365d2db91192ff",
+            "from_size": 704125,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ArchitectureCraft-1.12.18.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a36c1ac9db58be8ae341e86ce8c569b3170f4a4688f0f1fd6fedbae38c916764",
+            "to_size": 704793,
+            "url": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.18/ArchitectureCraft-1.12.18.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/ArchitectureCraft-1.12.18.jar"
+        },
+        {
+            "path": ".minecraft/mods/EnderIO-2.10.47.jar",
+            "from_hash": "9b4819c1517fd18421272e98948190b7c7faa7b73cd0d8b6662cec033850d1bc",
+            "from_size": 4905190,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/EnderIO-2.10.48.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ad0a65f1cc359a4bf76e41ca39151d8aaf2735db77f8e9d0dcb5b010337805d5",
+            "to_size": 4905192,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.48/EnderIO-2.10.48.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/EnderIO-2.10.48.jar"
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.8.149-GTNH.jar",
+            "from_hash": "02fea606871acf095f47bcd6b46879c473bba61815a014d9b6e7e81a0419a17c",
+            "from_size": 1759209,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.8.152-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c678e75b6c8ab60e80a1321577709e703aa1afc2392076f16f19d886e91bb5c2",
+            "to_size": 1768188,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.152-GTNH/NotEnoughItems-2.8.152-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/NotEnoughItems-2.8.152-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.80.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d9072ca123e13a0ccd462b5a42237d12adc6752c4cc705148dd142f20a9607af",
+            "to_size": 48446776,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.80/GTNewHorizonsCoreMod-2.9.80.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/GTNewHorizonsCoreMod-2.9.80.jar"
+        },
+        {
+            "path": ".minecraft/mods/SpecialMobs-3.7.7.jar",
+            "from_hash": "2ad434495521f63f0629893c63b96b68eb4fd302af9f162d76c2dbdfe1277fb2",
+            "from_size": 1096574,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ProjRed-4.12.45-GTNH.jar",
+            "from_hash": "0515af8ff4581beb0880343575fe029e6d5aef4a0cfa779aa82f4a38bdf925e8",
+            "from_size": 10289554,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.79.jar",
+            "from_hash": "85a126000c01fed123a25e4df2bd1650364882d4053677ed2c52166c9f925059",
+            "from_size": 48447455,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ProjRed-4.12.46-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "88140fbafd40cdd046cb51b2f33aa6291e300a5d3854dcb27c569c45c01b6699",
+            "to_size": 10296808,
+            "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.46-GTNH/ProjRed-4.12.46-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/ProjRed-4.12.46-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/SpecialMobs-3.7.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "df2d13412fb121877b4899e0ab2ec1860f5740e0c9d367511097e87b500a7c73",
+            "to_size": 1096813,
+            "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.8/SpecialMobs-3.7.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/SpecialMobs-3.7.8.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1073-GTNH.jar",
+            "from_hash": "1972f1a647269b249ab966e0e4ea496ad0f92b9a8d57a77983af1dcdd8b5a636",
+            "from_size": 5027220,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1074-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c9274342710d3b99943d7457bd60382598320a9945599233ca967f0f12c862b6",
+            "to_size": 5027240,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1074-GTNH/appliedenergistics2-rv3-beta-1074-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/appliedenergistics2-rv3-beta-1074-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/backpack-2.6.17-GTNH.jar",
+            "from_hash": "d9edeabad209377e607dd1c7f5701b0f7a07eb89ee85491730875f0554a98932",
+            "from_size": 291024,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/backpack-2.6.18-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dd1a3da151f3f74bd802da3e84d65cc82adbd6f096cdbcc866c9e3e51d5c72b3",
+            "to_size": 292086,
+            "url": "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.6.18-GTNH/backpack-2.6.18-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/backpack-2.6.18-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.21.jar",
+            "from_hash": "f5c938baeb030a8b845553c787799d9cd8cb316e66fb7829f2c2663941501427",
+            "from_size": 10809145,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.22.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c5cc3b2c8752e33fc0c8e200a4bfec20961c34717fcfb4ace82a7775b949d34e",
+            "to_size": 11162138,
+            "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.22/angelica-2.2.22.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/angelica-2.2.22.jar"
+        },
+        {
+            "path": ".minecraft/mods/gtnhlib-0.11.51.jar",
+            "from_hash": "9d31e3a5011b39a111536a43f1c2bf74e83a037f5789cf66da3d482e2686adf7",
+            "from_size": 1430358,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gtnhlib-0.11.52.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "790460d7888c8eb2a816235d1500ec52c2005f6492c9686db76f8218809f3131",
+            "to_size": 1430488,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.52/gtnhlib-0.11.52.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/gtnhlib-0.11.52.jar"
+        },
+        {
+            "path": ".minecraft/mods/postea-1.2.6.jar",
+            "from_hash": "11d3bcb38761eb514ba7a58152c93f00f132ef091d567ba3efc59c99693afae3",
+            "from_size": 68360,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/postea-1.2.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9ecaf6ff1f14c3f85ac840460db311f0638441809d81d2f1da79f63ed6ce4b1a",
+            "to_size": 68278,
+            "url": "https://github.com/GTNewHorizons/Postea/releases/download/1.2.7/postea-1.2.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/postea-1.2.7.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.188.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1cdf0d6823c0d99d07911b5e54c3077b226e3f8cf674fd24dd2a6bb2ed2486fd",
+            "to_size": 68031719,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.188/gregtech-5.09.54.188.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/129a9397cc0db90de1189f6505d90c4dfe5b1e2f/.minecraft/mods/gregtech-5.09.54.188.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.187.jar",
+            "from_hash": "28f3a1231eeb6d43b0d3aef4788c9f4512c1aa8819890700f56b02f978daf503",
+            "from_size": 68032128,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
