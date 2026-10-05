@@ -1824,12 +1824,12 @@
         }
     },
     "ProjRed|Core": {
-        "file_path": "./.minecraft/mods/ProjRed-4.12.43-GTNH.jar",
+        "file_path": "./.minecraft/mods/ProjRed-4.12.44-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.43-GTNH/ProjRed-4.12.43-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.44-GTNH/ProjRed-4.12.44-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -1848,14 +1848,14 @@
             "ProjRed|Exploration"
         ],
         "update_state": {
-            "version": "4.12.43-GTNH",
+            "version": "4.12.44-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "fb8501d127e1fb2c5da5416ae07063e04a0596098a3dd0a83fb3ebef2fbb63ae"
+            "sha256_sum": "ce669567dcdf365845a69793d5aa8669a5a98a2ba740830cb35bc0e8ce87d7b3"
         }
     },
     "ProjectBlue": {
@@ -3117,12 +3117,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1072-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1073-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1072-GTNH/appliedenergistics2-rv3-beta-1072-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1073-GTNH/appliedenergistics2-rv3-beta-1073-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3139,14 +3139,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-1072-GTNH",
+            "version": "rv3-beta-1073-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "23f07b7bf7fe23a05c6e93dd8e3a25579b545726d4caf4772759b4b74ceb09d8"
+            "sha256_sum": "1972f1a647269b249ab966e0e4ea496ad0f92b9a8d57a77983af1dcdd8b5a636"
         }
     },
     "archaicfix": {
@@ -4497,12 +4497,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.181.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.183.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.181/gregtech-5.09.54.181.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.183/gregtech-5.09.54.183.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4570,14 +4570,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.181",
+            "version": "5.09.54.183",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "ccbfcd5d79e0353080c3ad50b1d5998dc40852b6c67aa362172adc956666e685"
+            "sha256_sum": "70c760782b89992891d55cc5a5ae4fda9f9e93034c2f901395bfb1bf588a5bd0"
         }
     },
     "gtnhcredits": {
@@ -5104,26 +5104,26 @@
         }
     },
     "matter-manipulator": {
-        "file_path": "./.minecraft/mods/matter-manipulator-0.1.58-GTNH.jar",
+        "file_path": "./.minecraft/mods/matter-manipulator-0.1.59-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.58-GTNH/matter-manipulator-0.1.58-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.59-GTNH/matter-manipulator-0.1.59-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.1.58-GTNH",
+            "version": "0.1.59-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "d380feafda11ab81cf5ac396ad9fea6f4083786fa26fcbe99781978f8717ed61"
+            "sha256_sum": "64a0142701216fa03a8d1dfe001bfb73101610bcae92b4bab1f2a9ab9df32a78"
         }
     },
     "mobsinfo": {
@@ -5702,12 +5702,12 @@
         }
     },
     "serverutilities": {
-        "file_path": "./.minecraft/mods/ServerUtilities-2.4.12.jar",
+        "file_path": "./.minecraft/mods/ServerUtilities-2.4.13.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.12/ServerUtilities-2.4.12.jar",
+        "source": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.13/ServerUtilities-2.4.13.jar",
         "notes": "",
         "wanted_by": [
             "sharedprospecting"
@@ -5718,14 +5718,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.4.12",
+            "version": "2.4.13",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "16f59cf170ed0cf956a69672f38f621737a571f8fedb3cba7ab98696a3e60f1a"
+            "sha256_sum": "c0f39d77079e87be38bcb26c91b888803594f2546102c2d6d6fefca15add3a35"
         }
     },
     "sharewhereiam": {
