@@ -831,12 +831,12 @@
         }
     },
     "Forestry": {
-        "file_path": "./.minecraft/mods/Forestry-4.11.37.jar",
+        "file_path": "./.minecraft/mods/Forestry-4.11.38.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.37/Forestry-4.11.37.jar",
+        "source": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.38/Forestry-4.11.38.jar",
         "notes": "",
         "wanted_by": [
             "beebetteratbees",
@@ -851,23 +851,23 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "4.11.37",
+            "version": "4.11.38",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "8a2f69cf46b2051316ff98c236b4a1a11607b2b1121ce7fe991e65ed974391f2"
+            "sha256_sum": "e1ca5b9747b299e0d6677e373d0581e3169d2d83a78644d078fe19031851a70b"
         }
     },
     "ForgeMultipart": {
-        "file_path": "./.minecraft/mods/ForgeMultipart-1.7.14.jar",
+        "file_path": "./.minecraft/mods/ForgeMultipart-1.7.15.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.14/ForgeMultipart-1.7.14.jar",
+        "source": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.15/ForgeMultipart-1.7.15.jar",
         "notes": "",
         "wanted_by": [
             "RelocationFMP",
@@ -883,14 +883,14 @@
             "ForgeMicroblock"
         ],
         "update_state": {
-            "version": "1.7.14",
+            "version": "1.7.15",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "229e4551018caf9b98858e1fe31c4237dc952f509dd95e1c3ff062acd0802917"
+            "sha256_sum": "aa5c927a7cc8580b4fdcb71ed51cf2addc48ab05ed3c4ecc767c1903c859b338"
         }
     },
     "ForgeRelocation": {
@@ -3118,12 +3118,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1063-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1064-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1063-GTNH/appliedenergistics2-rv3-beta-1063-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1064-GTNH/appliedenergistics2-rv3-beta-1064-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3140,14 +3140,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-1063-GTNH",
+            "version": "rv3-beta-1064-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "70626730f89c2f96a2fdbd3b844f12df7d33b6e697ff09be2111ad37fe6c0c16"
+            "sha256_sum": "ef8bac1f74f3e5789188adb185700413f691a37e5d93fe90c4532243d60971ad"
         }
     },
     "archaicfix": {
@@ -4094,12 +4094,12 @@
         }
     },
     "dreamcraft": {
-        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.64.jar",
+        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.65.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.64/GTNewHorizonsCoreMod-2.9.64.jar",
+        "source": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.65/GTNewHorizonsCoreMod-2.9.65.jar",
         "notes": "",
         "wanted_by": [
             "WitchingGadgets",
@@ -4114,14 +4114,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.9.64",
+            "version": "2.9.65",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "3ba459fcbb1cb16e8135076da7676349ad8095860045f81f8667f4979e63360b"
+            "sha256_sum": "ab93ecf38a41675efae1dd4cacf5ef13e69d48a1fad34f977dc5e1735fcf3c6d"
         }
     },
     "duradisplay": {
@@ -4324,26 +4324,26 @@
         }
     },
     "fether": {
-        "file_path": "./.minecraft/mods/fether-2.0.6.jar",
+        "file_path": "./.minecraft/mods/fether-2.0.7.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Fether/releases/download/2.0.6/fether-2.0.6.jar",
+        "source": "https://github.com/GTNewHorizons/Fether/releases/download/2.0.7/fether-2.0.7.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.0.6",
+            "version": "2.0.7",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "49b42abc43085ae0d0c6837c96d4530b44bcb0df48478f5a2d4be42c2500ec93"
+            "sha256_sum": "77c607f60105e8e5b933e19661a95922bede3d854c96f3529d84981b58f8ad4b"
         }
     },
     "findit": {
@@ -4421,12 +4421,12 @@
         }
     },
     "gadomancy": {
-        "file_path": "./.minecraft/mods/gadomancy-1.5.15.jar",
+        "file_path": "./.minecraft/mods/gadomancy-1.5.16.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.5.15/gadomancy-1.5.15.jar",
+        "source": "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.5.16/gadomancy-1.5.16.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -4435,14 +4435,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.5.15",
+            "version": "1.5.16",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "f14ca6d671da7a4c7226b2a049ab354a9590bd0542e4ac6f98488ba5c6025c9d"
+            "sha256_sum": "3df35dca42916c1c37e33a31fcdf14e8735e54947464da40de14c59c839a83de"
         }
     },
     "gendustry": {
@@ -4498,12 +4498,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.156.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.161.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.156/gregtech-5.09.54.156.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.161/gregtech-5.09.54.161.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4571,14 +4571,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.156",
+            "version": "5.09.54.161",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "c88757f18540190f5ab0db7af3efb46c1c1cc73f36218cb72dd0d6140aaf708f"
+            "sha256_sum": "1b4ddd8c81e73013a61db26a72b4544fdb4c783c2726b6e3b6a5a08737cfcfa3"
         }
     },
     "gtnhcredits": {
@@ -4780,12 +4780,12 @@
         }
     },
     "hodgepodge": {
-        "file_path": "./.minecraft/mods/hodgepodge-2.7.206.jar",
+        "file_path": "./.minecraft/mods/hodgepodge-2.7.207.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.206/hodgepodge-2.7.206.jar",
+        "source": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.207/hodgepodge-2.7.207.jar",
         "notes": "",
         "wanted_by": [
             "supernova"
@@ -4798,14 +4798,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.7.206",
+            "version": "2.7.207",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "b8097bb678dcc22e018efb9a05a71324208cbf9304bcc2da00a07181225942bc"
+            "sha256_sum": "4933530743968cb2fe978e4ed72fa7dfa2d43817acbd56d7a0f8e173c7dfd9ae"
         }
     },
     "holoinventory": {
