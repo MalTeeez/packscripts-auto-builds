@@ -1,0 +1,93 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "4a50788781299680788339bbe2dd9aea6f4774d3c96146b9579e1d3454dbf0cc",
+            "from_size": 208,
+            "to_hash": "53c171c99eb53d62ffecf45daeaf2f0e376a0228f5698e1ca6a8d2e1883779db",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "0105ac5323bbc062705d702d67fecf66ffb742713e49cde8b8be337b450334a7",
+            "from_size": 6287,
+            "to_hash": "22cf46394ec43c198b35e2768218a69ef485b8c7a0f9bb9b123c5e49cdc8271e",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "a42fcbbfacdc26fd1cda4d88a1790352248e84902600a7e8262d42d602c0c5da",
+            "from_size": 404,
+            "to_hash": "93c63b78b9466dc4e16574e0cb6fbbc81de1fa019901bdf093aeedf8dc9b92fd",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/NamingNames-AAAAAAAAAAAAAAAAAAAHxw==.json",
+            "from_hash": "977de7bb6a06d64571cdff33029ccb2c4ca508270d699b6e575a652ba79f196a",
+            "from_size": 3688,
+            "to_hash": "37746f17f86ef3f831918f7e5f95de017f9cb488d85d95213aaa7a4809c2e00a",
+            "to_size": 3516,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/NamingNames-AAAAAAAAAAAAAAAAAAAHxw==.json"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "e5fc50aa9c7e7f8dd76ac9418d1bbf71337d3fd0a056046e06cadab5bad82c16",
+            "from_size": 35,
+            "to_hash": "7c185c6a7002b5e5cf08e9afa25b6edc1d0f1ebc8247f57cf6a4f0fc069ce5dd",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/template.lang",
+            "from_hash": "6566ed3582a58077acafaadb6bb06a041a425a25813780357623e6816dffdb21",
+            "from_size": 2121782,
+            "to_hash": "98672116deff48253165423a678f26933b3df3ad1d6f3d01d0040c2db2f8487f",
+            "to_size": 2121614,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/config/txloader/forceload/betterquesting/lang/template.lang"
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.26.jar",
+            "from_hash": "a1cecd75b1fcdc85bbb2fa9895f2307d121eb4bd6339ff53e7fc55a765871ea6",
+            "from_size": 11355654,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.27.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7f76fac9dd59303614799ed373ad3f5163c712b86fc780907cc607364e812152",
+            "to_size": 11620284,
+            "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.27/angelica-2.2.27.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/mods/angelica-2.2.27.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.199.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "157d090f06c57f36264f12394d79e05acb2636b883ac75d282cab97d7424d7c5",
+            "to_size": 68072387,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.199/gregtech-5.09.54.199.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c3c804aad988fb45e685bf4fadc3072387d079ae/.minecraft/mods/gregtech-5.09.54.199.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.198.jar",
+            "from_hash": "cb47b4929e7438a7fabf4d22038c73cc924455b965809db9c991dab062d186fa",
+            "from_size": 68070012,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.36",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.36"
+    }
+}
