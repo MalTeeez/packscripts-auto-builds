@@ -1,0 +1,205 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "f570a17cd42a35aeab30aea16062343978b0b8e7910987d4344e5a23bf6b5ba4",
+            "from_size": 208,
+            "to_hash": "6ebf19dac84b3798c06ff0afa0b79fe9c526c2beda46585edcc04b20e6a53d94",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "5e3dfa1d3ef4ab2a142710a5432a97248977e96dc7321dca82b976f54bb0cf6c",
+            "from_size": 6287,
+            "to_hash": "c901d97d9baf2552ee3c9f938c829774e314f018dfe0db5fc510c76147d0facb",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/CodeChickenCore-1.4.19.jar",
+            "from_hash": "e111b02d4dda5d1a4618b4f8dd5c9a62a4830d36cd2b00094daed3da38982695",
+            "from_size": 452751,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/CodeChickenCore-1.4.20.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "83aba66512a26637faa0ddce1359cb5b882089ca749718a6b24d10250860c860",
+            "to_size": 453332,
+            "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.20/CodeChickenCore-1.4.20.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/CodeChickenCore-1.4.20.jar"
+        },
+        {
+            "path": "mods/NEICustomDiagram-1.8.34.jar",
+            "from_hash": "a16e69096a7706c3f760bf65a37d4af1a5f00cb980686b980271890c4a4806bb",
+            "from_size": 929482,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NEICustomDiagram-1.8.35.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "df4fc58273247414da27eee84e8aaa4d1842fa9983dff8835d9564036f4feac5",
+            "to_size": 929484,
+            "url": "https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.8.35/NEICustomDiagram-1.8.35.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/NEICustomDiagram-1.8.35.jar"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.139-GTNH.jar",
+            "from_hash": "21cc2189670e98c0cd7e9d3eea46a5b2bb07f0cb6c43ba5973d9fd670c3d450f",
+            "from_size": 1717803,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.140-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "342e818c0edf989369169a7174e46f6ab54ff4ca492845bc1ac49ee3225e939c",
+            "to_size": 1717791,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.140-GTNH/NotEnoughItems-2.8.140-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/NotEnoughItems-2.8.140-GTNH.jar"
+        },
+        {
+            "path": "mods/RandomThings-2.7.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "70a21d4434fca584fcad0b62a3b8d7ef9f4e3fbc689029c0d2467a5b70b41292",
+            "to_size": 2216896,
+            "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.7.10/RandomThings-2.7.10.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/RandomThings-2.7.10.jar"
+        },
+        {
+            "path": "mods/RandomThings-2.7.9.jar",
+            "from_hash": "c049b7db65e56f9643e233cfa3c7af557021b06c4ddf085cfd7b82bbfc6de64e",
+            "from_size": 2214532,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/SpecialMobs-3.7.6.jar",
+            "from_hash": "780cc9cb4405d79055d6799e4c6cf3c2ea9cf0ba446e3cc776752ced3d0204bf",
+            "from_size": 1096273,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ae2fc-1.5.108-gtnh.jar",
+            "from_hash": "3bdb584c157b94e5a00cd7fd83461227d709520a95ac6cd89c77d7bad703eaac",
+            "from_size": 817931,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/SpecialMobs-3.7.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2ad434495521f63f0629893c63b96b68eb4fd302af9f162d76c2dbdfe1277fb2",
+            "to_size": 1096574,
+            "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.7/SpecialMobs-3.7.7.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/SpecialMobs-3.7.7.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.109-gtnh.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "00d30c9d41aad0fb08c8a414c6f02f59c6798f896c8681b6577b65edf6ff379b",
+            "to_size": 840531,
+            "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.109-gtnh/ae2fc-1.5.109-gtnh.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/ae2fc-1.5.109-gtnh.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.118.jar",
+            "from_hash": "c71a5f42f08606a5f819275500d77dbc4632b0a8b4c3d9101234f4c609c21e81",
+            "from_size": 1985000,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1060-GTNH.jar",
+            "from_hash": "1d32bc60e534c4469b18ec0b374298ad50d200c8e845d849bb2c28807d4d027d",
+            "from_size": 4953812,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.119.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c546bf1e1063d7b1b90bb0936d0a0d189fc72c6cf62701cc4f30041313042e4a",
+            "to_size": 1985276,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.119/cropsnh-2.0.119.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/cropsnh-2.0.119.jar"
+        },
+        {
+            "path": "mods/guidenh-1.3.31.jar",
+            "from_hash": "2e7b6f021aee9ba2a17998a1214dd76092e4510fe81d874efb8feeeb14049c64",
+            "from_size": 28298034,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1061-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3e3f78aa109c8b8c7f67811555b9d32804bdfe9e0600ea0a33ecf0d81ab4235b",
+            "to_size": 4980653,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1061-GTNH/appliedenergistics2-rv3-beta-1061-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/appliedenergistics2-rv3-beta-1061-GTNH.jar"
+        },
+        {
+            "path": "mods/modularui2-2.3.89-1.7.10.jar",
+            "from_hash": "73c76a0e30772f6c7d83695c9c859d6cfe94802dffe006ff98141d129c2a6452",
+            "from_size": 1628741,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/modularui2-2.3.90-1.7.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "bbd8a4c7633dbe0096859fee64984843d323ebdb4a40e87ed1693ed13a59d256",
+            "to_size": 1628744,
+            "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.90-1.7.10/modularui2-2.3.90-1.7.10.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/modularui2-2.3.90-1.7.10.jar"
+        },
+        {
+            "path": "mods/guidenh-1.3.32.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8f52aa138540a2ffd9533497090ae4e5de5e98777c853074d7432987e026993f",
+            "to_size": 28573940,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.32/guidenh-1.3.32.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/guidenh-1.3.32.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.154.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "198788a0f97d65c5da760c4585c564648832879045508637f01b7afe9f6f485d",
+            "to_size": 67879130,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.154/gregtech-5.09.54.154.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5315fc0b4a0a549629afa451a05737dde993b6a1/.minecraft/mods/gregtech-5.09.54.154.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.152.jar",
+            "from_hash": "caed637f780b49b2dc4b262fa684ef180b6303a846618172e8210b132121892c",
+            "from_size": 67879130,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.33",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.33"
+    }
+}
