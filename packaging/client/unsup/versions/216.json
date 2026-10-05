@@ -1,0 +1,157 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "cb758c5d86ab98fe58bd7ac225cbae9a67eaf85e80eb83107f8d8cd8ec95eb84",
+            "from_size": 208,
+            "to_hash": "2b85625e6a464718d8ae3007d493e6473d72fe78d88a046df88e5cb077cf305a",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "f2c44a2c035bff2f7c1aa37ec38464595124d2a7f37105b43dfc58b6a308fda7",
+            "from_size": 6287,
+            "to_hash": "4a4b60f23dcfe42ed40242c5b629a987ab5d59249f6f320951619a3809ebbf76",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "d2cb3601cfdea0b1f65539f5dfd767e4289ac03658aa6d4a2466390c015c518e",
+            "from_size": 404,
+            "to_hash": "096fdb892b46a5d5350135f869448242d69f851f7539ce51c2ae5cad074f7e4d",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/NoQuestLine/TriggerQuantumAr-AZDwXr_rTie-JHiuykME7w==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "db24784781385d26713ca0c0522b1af3d01a78c08d334c013fddbff6ab04120a",
+            "to_size": 4089,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/config/betterquesting/DefaultQuests/Quests/NoQuestLine/TriggerQuantumAr-AZDwXr_rTie-JHiuykME7w==.json"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "327a8df1c37d414ea08b2b45d23370cb73144f527289f1ebc5c12a6c58bf2152",
+            "from_size": 35,
+            "to_hash": "8441a70bcc1d0dd589bf27547a56dcbf2327303892d26f81349294c162ed210f",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/template.lang",
+            "from_hash": "558ba3e1dbcfad97caeb2824531be450a907ba00bf8fb524b501c307a3ef34ce",
+            "from_size": 2118658,
+            "to_hash": "b14a6c2a349264bf2a036b74cfc7ec0c7d5450219ee811093d57b192434239f4",
+            "to_size": 2118823,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/config/txloader/forceload/betterquesting/lang/template.lang"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1064-GTNH.jar",
+            "from_hash": "ef8bac1f74f3e5789188adb185700413f691a37e5d93fe90c4532243d60971ad",
+            "from_size": 4981633,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1065-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "055839840904ea075f63b2e1907c21b4faa6f6c3d82d64c21229451db7f38d8f",
+            "to_size": 4981763,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1065-GTNH/appliedenergistics2-rv3-beta-1065-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/mods/appliedenergistics2-rv3-beta-1065-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.120.jar",
+            "from_hash": "de91e7a0eb2e2cb62b810ae73b1aceb3f371531dbb01b0a57bfb262553ca70a0",
+            "from_size": 1985421,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.0.121.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1b283128530fcae95f1074c54e1ef62bfa5566ea13af22aaf776cce37f78cf42",
+            "to_size": 1985803,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.121/cropsnh-2.0.121.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/mods/cropsnh-2.0.121.jar"
+        },
+        {
+            "path": ".minecraft/mods/etfuturum-2.6.58-GTNH.jar",
+            "from_hash": "1579ba06d6dc3a29a1abf39ec62ccfc2528835f9f60178b8496955e9f6b75e4d",
+            "from_size": 5350760,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.66.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1b22d27f6ca39938849a1d1c38268ca6017b41efff03e363293029311cde0644",
+            "to_size": 48463913,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.66/GTNewHorizonsCoreMod-2.9.66.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/mods/GTNewHorizonsCoreMod-2.9.66.jar"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.65.jar",
+            "from_hash": "ab93ecf38a41675efae1dd4cacf5ef13e69d48a1fad34f977dc5e1735fcf3c6d",
+            "from_size": 48463862,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/etfuturum-2.6.59-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "bfd650e83e1c445136df4dcc7c6b60093ecd42b0c4cbbe8c6f8493ed71b7a7b2",
+            "to_size": 5357674,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.59-GTNH/etfuturum-2.6.59-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/mods/etfuturum-2.6.59-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/guidenh-1.3.32.jar",
+            "from_hash": "8f52aa138540a2ffd9533497090ae4e5de5e98777c853074d7432987e026993f",
+            "from_size": 28573940,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/guidenh-1.3.33.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a15c1757d800eb1f109e46757fcb05efbce57c6b8f81e5c8602820b18157dd33",
+            "to_size": 28633640,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.33/guidenh-1.3.33.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/mods/guidenh-1.3.33.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.161.jar",
+            "from_hash": "1b4ddd8c81e73013a61db26a72b4544fdb4c783c2726b6e3b6a5a08737cfcfa3",
+            "from_size": 67887089,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.163.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4c6e93d37a183b60c83b73077a37d58fb599429f72763db291839d90287a19ab",
+            "to_size": 67887103,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.163/gregtech-5.09.54.163.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/77ad20f3005a92ea4f68dc65dd26ed2911e9a055/.minecraft/mods/gregtech-5.09.54.163.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.33",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.33"
+    }
+}
