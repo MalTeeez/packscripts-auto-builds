@@ -1,0 +1,141 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "3780bf0ced0d18389ee659e58240068b09e50487e6420599b879e5ec17a31780",
+            "from_size": 208,
+            "to_hash": "d47a0acf5bce3d6d3be396acb2c1502e64da494e3a49102147b45ad4bab9b4a8",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "d8442a49c5aa2e19dc3d184fbad4475a1a2690e78a70ef72babd22dabe4c0d80",
+            "from_size": 6287,
+            "to_hash": "40621b679f5e9b7bd276a60f95e5536391d59fbfa3f74933602218921a4721bd",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/OpenComputers.cfg",
+            "from_hash": "ebda0bd0ee66a31f3108e89074cab6e704a10226dee6b4a9b51309dc2d2e6e68",
+            "from_size": 78366,
+            "to_hash": "9493308a185790825f6c7f669d50b9474037d5aae582b5ab658d08b709014281",
+            "to_size": 78374,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/config/OpenComputers.cfg"
+        },
+        {
+            "path": "config/backhand.cfg",
+            "from_hash": "c5d50615fd4d891bf25bf82a7bb5f358ea82b64b0f4d39888f92a4e2a3fea0ed",
+            "from_size": 5509,
+            "to_hash": "c513182c85091fe6519e1b03cecc8bc0bc0c7cff4692d9c067aa7cbe0206b9c4",
+            "to_size": 7584,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/config/backhand.cfg"
+        },
+        {
+            "path": "mods/TConstruct-1.14.117-GTNH.jar",
+            "from_hash": "bd2a7ad6c7b895347c4cad749e63555d6545f23e6941afed22d0b33485d521b7",
+            "from_size": 5613373,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.118-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1b83fee5a6a2f04b5f321bae26f3d3b352367e2e22621a070c19743a6163eaf9",
+            "to_size": 5616255,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.118-GTNH/TConstruct-1.14.118-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/mods/TConstruct-1.14.118-GTNH.jar"
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.25.jar",
+            "from_hash": "c8ec2c02cd37f35603b64e50f8d027b60e9cd7aafd59c974e5b9f92d20485ba2",
+            "from_size": 2736979,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.26.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "27fa646ba2f04fa49257a97c40538493d6aaebcb447d42f5a29fa91d8f7e551f",
+            "to_size": 2736998,
+            "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.26/ThaumicHorizons-1.8.26.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/mods/ThaumicHorizons-1.8.26.jar"
+        },
+        {
+            "path": "mods/OpenComputers-1.12.63-GTNH.jar",
+            "from_hash": "1b8704136ce1330c10e9fa7b06509ce0ab7728e0599ccd068a56860d94693e37",
+            "from_size": 16865609,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenComputers-1.12.64-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f1fba20d2b76b61463dc1356aac1dc80f1054c3e22260b5232849228e9d1d404",
+            "to_size": 16865609,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.64-GTNH/OpenComputers-1.12.64-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/mods/OpenComputers-1.12.64-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1076-GTNH.jar",
+            "from_hash": "327499859878dc219d0141160783e4a45105242bbcd77057a053c855d262b82e",
+            "from_size": 5035901,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1077-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3db2f7c4417fe9f36bccfdb27dec745317f94225fff119c1b2667032ed1c5fe2",
+            "to_size": 5036209,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1077-GTNH/appliedenergistics2-rv3-beta-1077-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/mods/appliedenergistics2-rv3-beta-1077-GTNH.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.53.jar",
+            "from_hash": "95ce1ac42b5bede99ccc551d32514fcbf4bf92031d6db35b4c88ab7d377a77c2",
+            "from_size": 737536,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.6.57.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e0f98be47dda7bcb9dd31f72d7e245a9d8e07c313b11c9ff1834444dc68a93a6",
+            "to_size": 739882,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.57/littletiles-1.6.57.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/mods/littletiles-1.6.57.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.191.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7fe11a653d2f192dd11866a483e5acfa294d65bc7a02a7278c360063afcebcdf",
+            "to_size": 68017388,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.191/gregtech-5.09.54.191.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/318ccbadfba646d59f115f7a7cd7f406abbc0b14/.minecraft/mods/gregtech-5.09.54.191.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.190.jar",
+            "from_hash": "396995010ed13900a2d5e7e662268a2fc3c904395effe4c1fb3547beba0252d9",
+            "from_size": 68022414,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
