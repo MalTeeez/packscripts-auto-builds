@@ -1,0 +1,149 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "3150edd3cd936b7609df1aa41e14d0ededf0c332a05d3e48b64a3fce09962345",
+            "from_size": 208,
+            "to_hash": "b273e882fad909769daba6fcc0822fd237aede949b856848c7154cd40649b2fe",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "068eae7b3a42b2c64b76886657e4bca66fbf7384a338e92c8ee3869e6b52e205",
+            "from_size": 6287,
+            "to_hash": "028ddd96ca7ad9ab440b843b6a764a89ad265628f04a97a726c49c89b88ace8e",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/OpenComputers-1.12.61-GTNH.jar",
+            "from_hash": "ccd29c1103b572d0d8642f52522fa34a9bdbe6a7e977cd7736b23239f6fc1c55",
+            "from_size": 16851516,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/backhand.cfg",
+            "from_hash": "a10d5339be7c724d2f8c4780aa96290bc6c5ecc706cd0579f5f643593fa677f8",
+            "from_size": 5177,
+            "to_hash": "c5d50615fd4d891bf25bf82a7bb5f358ea82b64b0f4d39888f92a4e2a3fea0ed",
+            "to_size": 5509,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/config/backhand.cfg"
+        },
+        {
+            "path": "mods/VillageNames-4.5.18-GTNH.jar",
+            "from_hash": "7433fa393f513378bf359a8085a01044131b9f8eef20585c0c02041c1a235629",
+            "from_size": 3481046,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/VillageNames-4.5.19-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3842e16a733f0596e970b0958012367640d8ee7cc3e4e35e6489237f08ff9d7a",
+            "to_size": 3481137,
+            "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.19-GTNH/VillageNames-4.5.19-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/mods/VillageNames-4.5.19-GTNH.jar"
+        },
+        {
+            "path": "mods/backhand-1.8.14.jar",
+            "from_hash": "ce1fbefb627176beb6a0f76ff9541f6494dfc863d6743f319952cc697b9bcff1",
+            "from_size": 154209,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/backhand-1.8.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b8cae00318474405518bb75697c60d3dfe08892fe2c0256c0239e10e8d9f3d4a",
+            "to_size": 154699,
+            "url": "https://github.com/GTNewHorizons/Backhand/releases/download/1.8.15/backhand-1.8.15.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/mods/backhand-1.8.15.jar"
+        },
+        {
+            "path": "mods/OpenComputers-1.12.62-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "09cb1d272449d29b4392e7aa1dc7a98bd104a95c13be6a89328f606cf818fa7a",
+            "to_size": 16865600,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.62-GTNH/OpenComputers-1.12.62-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/mods/OpenComputers-1.12.62-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.72.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "92309b3d0fc5d249bd9a4e483a478aac6599c39d71d6ebd8a9eac0ce3383394d",
+            "to_size": 48445068,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.72/GTNewHorizonsCoreMod-2.9.72.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/mods/GTNewHorizonsCoreMod-2.9.72.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.71.jar",
+            "from_hash": "2082197fb72fcf2a80633dfe7f43b089eb73ea636af515fae8a84a2e4647555e",
+            "from_size": 48445549,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.210.jar",
+            "from_hash": "40bc725ba4088bec13a1852bfe182153b09da4e7b57eb54f7bc329550d7460d8",
+            "from_size": 1200582,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.211.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "54fce9d0dc526ade1587d4a3b08cd49846292f29ba8ac33b07ca246d62ea29d6",
+            "to_size": 1211238,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.211/hodgepodge-2.7.211.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/mods/hodgepodge-2.7.211.jar"
+        },
+        {
+            "path": "mods/structurelib-1.4.44.jar",
+            "from_hash": "9db3066a8eaae3ba9a908f9ee353c874dfd2526a90314bf3eb1d582dd4f0c697",
+            "from_size": 353032,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/structurelib-1.4.45.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "46228e9e4dd652a0566ad04cff22465b4d29fa3f1d1f4f089026738779f6b84e",
+            "to_size": 359300,
+            "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.45/structurelib-1.4.45.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/mods/structurelib-1.4.45.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.176.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f9395094fa3843537e3b98ef04a559fa28896da98c87fc23ab14fae1b6aa7df7",
+            "to_size": 67910267,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.176/gregtech-5.09.54.176.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/512b9444114136327b94e2f18a124509a3d011f2/.minecraft/mods/gregtech-5.09.54.176.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.175.jar",
+            "from_hash": "8a5cf153ea43c05e0baa6720a06a012d19fd44551c26c713086b1cad4c72db2c",
+            "from_size": 67922436,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
