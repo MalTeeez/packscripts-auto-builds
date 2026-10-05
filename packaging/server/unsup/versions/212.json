@@ -1,0 +1,29 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "669ac10d5169c55e7cffb4b38115dce65a80a50d9ddc60fb24303ecfc9d0e79e",
+            "from_size": 208,
+            "to_hash": "bda9e29bbb33a518787fbb3afd95d994e9542aadc78dde3f2c34b1e3148d7046",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68f1a4b56f2611793ca72b5592ad694f52e1fe52/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "d93332b7a4bf8e37721e7b136e78207bec071684c0ec21fc58c4416005820969",
+            "from_size": 6287,
+            "to_hash": "a95c5fa77e37d5875169de7a3f0a18d19d8bfaf124d45a8a66b8903f009878e4",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/68f1a4b56f2611793ca72b5592ad694f52e1fe52/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
