@@ -1,0 +1,141 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "6ebf19dac84b3798c06ff0afa0b79fe9c526c2beda46585edcc04b20e6a53d94",
+            "from_size": 208,
+            "to_hash": "5c9eeb6a14e72f714492c8192f8cf7dafe389b7c7d660f7e82815f7e9137d2e9",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "c901d97d9baf2552ee3c9f938c829774e314f018dfe0db5fc510c76147d0facb",
+            "from_size": 6287,
+            "to_hash": "1b5c73e7aad02f566f884252400fb7474f4e404a246a562fddeaa472833fdb27",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/EnhancedLootBags-1.3.4.jar",
+            "from_hash": "c7bbe1e0ea9f4f0839b62b714567523c1b38be1f4bcd844e0e2a15005fc8a6c0",
+            "from_size": 76120,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/EnhancedLootBags-1.3.5.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "60593464d24e8bd947a2d243d137c9fc950f801d634f3e619246ad1560297dd2",
+            "to_size": 76122,
+            "url": "https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.3.5/EnhancedLootBags-1.3.5.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/mods/EnhancedLootBags-1.3.5.jar"
+        },
+        {
+            "path": "mods/InfernalMobs-1.10.6-GTNH.jar",
+            "from_hash": "a70a55c5a2ce1a88a3340de2d918adeb02a310cf9a45b21a5a9dae24cae87544",
+            "from_size": 145927,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/InfernalMobs-1.10.7-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "af06f45f91a70c0221d11b838d19f80d5e19872f2d2d889a766abbce4ca4dc7e",
+            "to_size": 145925,
+            "url": "https://github.com/GTNewHorizons/Infernal-Mobs/releases/download/1.10.7-GTNH/InfernalMobs-1.10.7-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/mods/InfernalMobs-1.10.7-GTNH.jar"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.140-GTNH.jar",
+            "from_hash": "342e818c0edf989369169a7174e46f6ab54ff4ca492845bc1ac49ee3225e939c",
+            "from_size": 1717791,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.141-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ae0615f2d0686e5fa0f51fd464a8669c284234ba0b4b6c4e8ef8710810efeb3e",
+            "to_size": 1722754,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.141-GTNH/NotEnoughItems-2.8.141-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/mods/NotEnoughItems-2.8.141-GTNH.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.119.jar",
+            "from_hash": "c546bf1e1063d7b1b90bb0936d0a0d189fc72c6cf62701cc4f30041313042e4a",
+            "from_size": 1985276,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.120.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "de91e7a0eb2e2cb62b810ae73b1aceb3f371531dbb01b0a57bfb262553ca70a0",
+            "to_size": 1985421,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.120/cropsnh-2.0.120.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/mods/cropsnh-2.0.120.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1061-GTNH.jar",
+            "from_hash": "3e3f78aa109c8b8c7f67811555b9d32804bdfe9e0600ea0a33ecf0d81ab4235b",
+            "from_size": 4980653,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1063-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "70626730f89c2f96a2fdbd3b844f12df7d33b6e697ff09be2111ad37fe6c0c16",
+            "to_size": 4981623,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1063-GTNH/appliedenergistics2-rv3-beta-1063-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/mods/appliedenergistics2-rv3-beta-1063-GTNH.jar"
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.56-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "539cf58e1dab55d13a0318d94df45b962a3cb16b30dd4df26b05c668a1513e17",
+            "to_size": 713201,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.56-GTNH/matter-manipulator-0.1.56-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/mods/matter-manipulator-0.1.56-GTNH.jar"
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.55-GTNH.jar",
+            "from_hash": "9e3d125b5760826b095c74038d3905c93b0fd9dff0689eef11bdcaeb6c0cd0c7",
+            "from_size": 706204,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.156.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c88757f18540190f5ab0db7af3efb46c1c1cc73f36218cb72dd0d6140aaf708f",
+            "to_size": 67876397,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.156/gregtech-5.09.54.156.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1d264124ed11fe29d701baf70ff448c35b771f10/.minecraft/mods/gregtech-5.09.54.156.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.154.jar",
+            "from_hash": "198788a0f97d65c5da760c4585c564648832879045508637f01b7afe9f6f485d",
+            "from_size": 67879130,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.33",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.33"
+    }
+}
