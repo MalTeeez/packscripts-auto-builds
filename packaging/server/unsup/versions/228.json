@@ -1,0 +1,753 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "bd8f38fe3bdf2f8ae8f1959f219d6177ef52e6103043fec079239298f57a009a",
+            "from_size": 208,
+            "to_hash": "47cb4f953b1998d7e6f08fe2cdd04a79b7b5482c19d24a23810727fdfca98123",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "f05bb203525cd13b27d8f55eb6dd6ebc3fb878306acf1074881126079ac376b7",
+            "from_size": 6287,
+            "to_hash": "4be2e48a7c76b641d93a30ab76cf0fe94980ca513538c867de3d97e72a870549",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Densecables-AAAAAAAAAAAAAAAAAAAISA==.json",
+            "from_hash": "05aca0612ef1136648523166c79e7234feb5255aed9b419aa1a80c6344764cd9",
+            "from_size": 110,
+            "to_hash": "8ac3ce6a50d2970fc37a0e4a622689b1c7cd8ae23a9452c5fa505c3d5c87efdb",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Densecables-AAAAAAAAAAAAAAAAAAAISA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Smartcables-AAAAAAAAAAAAAAAAAAAIRw==.json",
+            "from_hash": "1e0e7d27c6053778118ae3a78a37aaaa6ecaa4541baf3e01cab67c2bc85f3b38",
+            "from_size": 110,
+            "to_hash": "aa481def75940467fee73bdc964233ec596b4a5122478e1494e50e9db028c69c",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Smartcables-AAAAAAAAAAAAAAAAAAAIRw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/CableDiodes-AAAAAAAAAAAAAAAAAAAHHQ==.json",
+            "from_hash": "14d479d5fa6729d176fee2573d55adb2ef951b5e00242bfcfa561fb2ee7b1a03",
+            "from_size": 110,
+            "to_hash": "e32c46302f7e9e0a0b28d0b7cab520b149182c889bc51f4eb71cbc54790a0e27",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/CableDiodes-AAAAAAAAAAAAAAAAAAAHHQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/DontPutaFingerin-AAAAAAAAAAAAAAAAAAAIYA==.json",
+            "from_hash": "918b2fa5f81739a84637a31f8629e63098cb2d5d771f02fa5c5ea5124c47a7b5",
+            "from_size": 110,
+            "to_hash": "515982fb15b34401ce9e92b3985957b2649c855219924f82c8960f39e5ec962f",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/DontPutaFingerin-AAAAAAAAAAAAAAAAAAAIYA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/EnergyBuffers-AAAAAAAAAAAAAAAAAAAIAQ==.json",
+            "from_hash": "019fb5dee747131d5944782f4ba5139845466dc1d63ffac9c562b2bd49dc8fa3",
+            "from_size": 110,
+            "to_hash": "00ff918afceb219b2519184d5bc945ba5bb6a2e5f116438ae570e56cc44544b3",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/EnergyBuffers-AAAAAAAAAAAAAAAAAAAIAQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json",
+            "from_hash": "470dc42596b6ccc3567e0ac13abddff7ffaa7feee6afa71091b4e97ff63f368a",
+            "from_size": 110,
+            "to_hash": "e7755adcfb3f009862234cf2838c0f1be30f1bd55b8baffacee424e1e8dd49b3",
+            "to_size": 110,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/ADiodeButForCond-HvtY6xu3RAKjwhAZCTwK8A==.json",
+            "from_hash": "afccf9b5e946103b8a025300a48d9ea4424d04d05f72dba927a2ffb73f9bf199",
+            "from_size": 143,
+            "to_hash": "2cf8773fcf9df3a9dc0debcd6d4a9aa0eff2ad88fab0001a50693440a23ea4b2",
+            "to_size": 143,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/ADiodeButForCond-HvtY6xu3RAKjwhAZCTwK8A==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/HeliofluxMelting-GslQBIW9QKaCz7FFpkrv6g==.json",
+            "from_hash": "4bc4b98e752da4e9cf22301b491bf7f64b3f53459f1fdf05f9b50d41819fe920",
+            "from_size": 144,
+            "to_hash": "e7995d16231476ff58dadf94a0e103ba6b26e6d4a8d0288a3d96acc2a4701945",
+            "to_size": 144,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/HeliofluxMelting-GslQBIW9QKaCz7FFpkrv6g==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/HeliofusionExoti-0YrjX7i4QfeSo98gSE0SWg==.json",
+            "from_hash": "e8320b5f9663446b5a6a5e82803b0bf103b46920f671faa1bbde9c823dea6ee0",
+            "from_size": 145,
+            "to_hash": "f706705b9b5d35a6d27a98ef14ddd65f3f904ad51895f804571a216ad9fe12b2",
+            "to_size": 145,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/HeliofusionExoti-0YrjX7i4QfeSo98gSE0SWg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/NoitsnotaTypo-U12vBo4fQjOyzJ67qH7gUA==.json",
+            "from_hash": "1b3b2f9ac99a0a92580c7638a30031be568701b3c7053b326873b95e8ac34449",
+            "from_size": 144,
+            "to_hash": "d6e95d5ac6c67391e516eb325e5866d36db85934f9f1647bf3837d3c91f84bc3",
+            "to_size": 144,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/NoitsnotaTypo-U12vBo4fQjOyzJ67qH7gUA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/PrimitiveCompone-_U63kXS8QNqZZCgZSYYrKw==.json",
+            "from_hash": "57239838d8063387d8a1968060362b33085fbb47a9b3b881391970e2a1948b55",
+            "from_size": 143,
+            "to_hash": "0554ca8fd2883a017e06561a3329a99c64e612371d2307302676e9fac3e514d0",
+            "to_size": 143,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/PrimitiveCompone-_U63kXS8QNqZZCgZSYYrKw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/TunnelsOfLight-52NvoXdXSuCp2hCvV_otBA==.json",
+            "from_hash": "ade6e8f150acdbe83c71962bb218e00c0ea01a2f728b93625b660625bc11e5fe",
+            "from_size": 144,
+            "to_hash": "90e7a0e9628acf7821365fe4b984f16d6b62acd0c387e5129d51722f09d19d7b",
+            "to_size": 144,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/TunnelsOfLight-52NvoXdXSuCp2hCvV_otBA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicArcFurnace-AAAAAAAAAAAAAAAAAAAClg==.json",
+            "from_hash": "608381029fc9304483d4338cbc959cd488dee9039358d202c1a1077a30c43780",
+            "from_size": 109,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestLines/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ArcFurnace-AAAAAAAAAAAAAAAAAAAClg==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "608381029fc9304483d4338cbc959cd488dee9039358d202c1a1077a30c43780",
+            "to_size": 109,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestLines/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ArcFurnace-AAAAAAAAAAAAAAAAAAAClg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "93c63b78b9466dc4e16574e0cb6fbbc81de1fa019901bdf093aeedf8dc9b92fd",
+            "from_size": 404,
+            "to_hash": "d09827942f1f2c6b107a8eb21c2cf9915d9b8e7c7d5d1877d909fccaf1c5b9bb",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/AEEssentiaStorag-AAAAAAAAAAAAAAAAAAAJvw==.json",
+            "from_hash": "9c51e213f89a2117d179c56f85c037156a281f77e8cc37036a6c2acee4d73f4c",
+            "from_size": 3056,
+            "to_hash": "ea5565d7ae2251075492a00aafb1b1e655e97c4f69c7b827844c25f509ef9c94",
+            "to_size": 3035,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/AEEssentiaStorag-AAAAAAAAAAAAAAAAAAAJvw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Densecables-AAAAAAAAAAAAAAAAAAAISA==.json",
+            "from_hash": "c936348342be54b5cec99ae19e1c67abc3a9d55fb04ada453b17e5f6cf1538e4",
+            "from_size": 2842,
+            "to_hash": "7a06d44c5288e80115ed99c47bf1f994babbbbd04eadd84e14d9c212a15cd391",
+            "to_size": 2814,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Densecables-AAAAAAAAAAAAAAAAAAAISA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Smartcables-AAAAAAAAAAAAAAAAAAAIRw==.json",
+            "from_hash": "98a05c45011df629346f2ef920c88f8667393e053e4c0ce53f945f4c336b6bd4",
+            "from_size": 2762,
+            "to_hash": "bed8f6c93dd21cf8b2d55c83012de7eed558349714bb7935caa254ed12b9f92e",
+            "to_size": 2959,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/AppliedEnergisti-AAAAAAAAAAAAAAAAAAAAIw==/Smartcables-AAAAAAAAAAAAAAAAAAAIRw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/EndgameGoals-AAAAAAAAAAAAAAAAAAAAHQ==/YoullOnlyNeedaFe-AAAAAAAAAAAAAAAAAAAKIg==.json",
+            "from_hash": "2b1b3d2e9beddd184bf5cdb2b293326659e65fd16116f2daaab5c445124f8258",
+            "from_size": 2415,
+            "to_hash": "516d5781695e4306fbd9d51a146ffadd06d509313cc59beb7656160b4d9eb6e3",
+            "to_size": 2434,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/EndgameGoals-AAAAAAAAAAAAAAAAAAAAHQ==/YoullOnlyNeedaFe-AAAAAAAAAAAAAAAAAAAKIg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json",
+            "from_hash": "cbd4607a3f75bf5cdb657ba398a7bd6f96f6bb49d51afe689dd1eb7952b28a96",
+            "from_size": 3881,
+            "to_hash": "af2fa5f07a319b6226ae6e09987ca62a926d94a63b2974516a09bf2f116d052e",
+            "to_size": 3870,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/FeedingYourself-AAAAAAAAAAAAAAAAAAAACg==/IceIceBaby-uPmgcTcIR6OcAYqLCD7IkQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/HowtoGeneratePow-AAAAAAAAAAAAAAAAAAAACQ==/LargeNaquadahRea-AAAAAAAAAAAAAAAAAAALhA==.json",
+            "from_hash": "1ad2c1d9450eb61403b95a936f089655dcd87c236621200e16e0861f50f684fc",
+            "from_size": 4047,
+            "to_hash": "22140ff86173c64335b555e0bb6256dd861b139878984552c479acce340da8c2",
+            "to_size": 3969,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/HowtoGeneratePow-AAAAAAAAAAAAAAAAAAAACQ==/LargeNaquadahRea-AAAAAAAAAAAAAAAAAAALhA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/HowtoGeneratePow-AAAAAAAAAAAAAAAAAAAACQ==/PoweroftheSunatL-AAAAAAAAAAAAAAAAAAADqA==.json",
+            "from_hash": "29eafae69caf98a9d779c639d930e9b483e6f57555830e1ad5b3ceb9b8ff2f05",
+            "from_size": 4551,
+            "to_hash": "7e080eecb204c6d29829b0d4c79ffaaf7f8dd0417b504c865c33dcae4716062c",
+            "to_size": 4656,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/HowtoGeneratePow-AAAAAAAAAAAAAAAAAAAACQ==/PoweroftheSunatL-AAAAAAAAAAAAAAAAAAADqA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/SteamFusing-WGhhKERfRTiJXKZEPoRf1Q==.json",
+            "from_hash": "5bf4819aaf0cecc0c9cd753ef5e0a7d0b2bc4cc7db98f30a47e8a683b4052cbe",
+            "from_size": 4827,
+            "to_hash": "b8d86118c1742e0cda95d793af51f7adaec1d5ca1f8c577c205cafac5ed454e4",
+            "to_size": 4813,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/MassProcessing-AAAAAAAAAAAAAAAAAAAAEQ==/SteamFusing-WGhhKERfRTiJXKZEPoRf1Q==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/StreamlinedCaste-8BGpDDsCTrOjJ4DlZN0WQw==.json",
+            "from_hash": "c84bf9f89867c94d470b840f4aa10168960e48a85b82d6b12af8bd51c979297a",
+            "from_size": 4072,
+            "to_hash": "22da04d726db418a66b7391201d9a8c44483f2c35cce9dced6ef250090554ee5",
+            "to_size": 4072,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/StreamlinedCaste-8BGpDDsCTrOjJ4DlZN0WQw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/SuperdenseCastin-EWAWhpFvQY6nvgVeXSZoNQ==.json",
+            "from_hash": "56c24dbb747e6d99f6f0ba38aabc435938b889536838a3920b5b936cc119372e",
+            "from_size": 4385,
+            "to_hash": "c51c62a9ae47790413652325002257bd22e4f58923e8cc367f7cb7aa871a388a",
+            "to_size": 4373,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/SuperdenseCastin-EWAWhpFvQY6nvgVeXSZoNQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/WoodenCrossbow-AAAAAAAAAAAAAAAAAAAEfw==.json",
+            "from_hash": "635d8a2b2e27d505651ebb10cb16a6d44eea113f8fbc62674c77f5200ff9bea6",
+            "from_size": 7194,
+            "to_hash": "e004122284d9d10f4dac0a5b1d8cd4c05b9921b77107b192994d99cda710f2c9",
+            "to_size": 7194,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/WoodenCrossbow-AAAAAAAAAAAAAAAAAAAEfw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/PayingtheHighest-AAAAAAAAAAAAAAAAAAAAHA==/ArchmageOrbLetTh-AAAAAAAAAAAAAAAAAAACww==.json",
+            "from_hash": "bbc86ee62ba9c40bfa22c4c0aa7c64b135e7cd1aae68e8c2739b25dcbdd605be",
+            "from_size": 3012,
+            "to_hash": "9359c97e7d964c27624c2f4393f515b646ee55dea4843640985cd1ccc5207efc",
+            "to_size": 2939,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/PayingtheHighest-AAAAAAAAAAAAAAAAAAAAHA==/ArchmageOrbLetTh-AAAAAAAAAAAAAAAAAAACww==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/ComputerCase-AAAAAAAAAAAAAAAAAAAG2g==.json",
+            "from_hash": "c686807362eb209d931d46f49029dc0e804cf2105779e8a6fe90037e23f1ed3c",
+            "from_size": 7532,
+            "to_hash": "17982220fa0e82cad516d0c786ade0df031eca230573ade82eacfa4baeda76d4",
+            "to_size": 7528,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/ComputerCase-AAAAAAAAAAAAAAAAAAAG2g==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/Intelligenceisth-AAAAAAAAAAAAAAAAAAAG4A==.json",
+            "from_hash": "1b364290d184b8e30a7978340394a2433b69dcf54b6827438685794ff1cb6987",
+            "from_size": 4035,
+            "to_hash": "d03b5ce5075c71724a7a0a5308ead2d6ae333216f94f3296f19c79f4a1f65fe9",
+            "to_size": 4032,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/Intelligenceisth-AAAAAAAAAAAAAAAAAAAG4A==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/NamingNames-AAAAAAAAAAAAAAAAAAAHxw==.json",
+            "from_hash": "37746f17f86ef3f831918f7e5f95de017f9cb488d85d95213aaa7a4809c2e00a",
+            "from_size": 3516,
+            "to_hash": "cde1aee52cf06ccbba36ab045c391e0101e76642a028bbbdd2c0c169f9dfec2f",
+            "to_size": 3709,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/NamingNames-AAAAAAAAAAAAAAAAAAAHxw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json",
+            "from_hash": "d5a019ec08d99b7ed4bfd829db1935795369aff306f20541b40cbd92822fefb2",
+            "from_size": 3351,
+            "to_hash": "87da28f674b5fee0deb6d11b7feeaf035d3fa2018eb2b1dc0bbcb6404bb8a41b",
+            "to_size": 4573,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/StoringandTransf-AAAAAAAAAAAAAAAAAAAAIQ==/WhoCaresAboutaLi-AAAAAAAAAAAAAAAAAAAFiw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/PurchaseCables-AAAAAAAAAAAAAAAAAAAG6w==.json",
+            "from_hash": "e2c25e00ed9e89cef6ad2219f81db0310f4b4b11be000eaee7db8019bb963c37",
+            "from_size": 2495,
+            "to_hash": "b8844335741d31756e208c2f234acd0116c9833800993884cd25e7ee9e966664",
+            "to_size": 2491,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/SFMandComputers-AAAAAAAAAAAAAAAAAAAAHw==/PurchaseCables-AAAAAAAAAAAAAAAAAAAG6w==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier10UEV-D_aFb1hFQH2PDkN0_KvAEQ==/Hypogen-AAAAAAAAAAAAAAAAAAAKGA==.json",
+            "from_hash": "4e61a1e7ae504a82c17a4527a7fd241297608b664aa3d8e0e140565e81af9e6e",
+            "from_size": 2746,
+            "to_hash": "33f82946986ce3c3db8acf9c03c8330c66d4ec55b130c819f0e0e4aaf50bd6bd",
+            "to_size": 2690,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier10UEV-D_aFb1hFQH2PDkN0_KvAEQ==/Hypogen-AAAAAAAAAAAAAAAAAAAKGA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/FuwusionMK5-vLnSpTweSki3BaorBNQhxQ==.json",
+            "from_hash": "0009ead701883609461edef833a851c918334dc744ca16f2b7524a7da03408ae",
+            "from_size": 3707,
+            "to_hash": "efa12ee22705461d598460f2ea38bff23776e7315a6cf54e2969c192c1ae1ebd",
+            "to_size": 3708,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/FuwusionMK5-vLnSpTweSki3BaorBNQhxQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/TheRealPlanetEat-GHobGJFEQzK1q96l6oC8wQ==.json",
+            "from_hash": "244b6404f31e7d279a08f6d4b233aeb5555c159cb8f2e8e0c964474f517896f1",
+            "from_size": 2496,
+            "to_hash": "2e12e9c76aeaae688629ee5de043bee2c65811189ab0283d7d6cf2b594ec2a77",
+            "to_size": 2425,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/TheRealPlanetEat-GHobGJFEQzK1q96l6oC8wQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/SpaceModulesGalo-nghPgh6-TuSKXUlzGXGrpw==.json",
+            "from_hash": "d5abc2dd8372a56c24790a1e9bd29138e11c07243372d216298753820bbd6926",
+            "from_size": 2748,
+            "to_hash": "b395f1acdf9b231b50b745fbe17f3c161fc74d9f48f332c6322291b09d3db5fa",
+            "to_size": 2775,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier11UIV-ytf2QCzUSk6ihcYeRbwblw==/SpaceModulesGalo-nghPgh6-TuSKXUlzGXGrpw==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier12UMV-l37V2WvbSHGZQ5oMgAfBuw==/SubspaceCooling-hybMIjq9Q9mxxWKEE8gBWQ==.json",
+            "from_hash": "4c657e68f2aeab532e57334da76d9c9864fe162682b408031ff3c4cbfe428618",
+            "from_size": 3038,
+            "to_hash": "144d8adeeadceb351b7340161df165afeab140b97cb0d8f08e981e742c1ae9d3",
+            "to_size": 3145,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier12UMV-l37V2WvbSHGZQ5oMgAfBuw==/SubspaceCooling-hybMIjq9Q9mxxWKEE8gBWQ==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ArcFurnace-AAAAAAAAAAAAAAAAAAAClg==.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0b389c5306d622482ff9477fe255c1b2f64afbcf6942e24b5c42074fe192eda0",
+            "to_size": 3248,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/ArcFurnace-AAAAAAAAAAAAAAAAAAAClg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier1LV-AAAAAAAAAAAAAAAAAAAAAw==/BasicArcFurnace-AAAAAAAAAAAAAAAAAAAClg==.json",
+            "from_hash": "4c57f17c7ac188034a86b223574673e6772c461c8c1850015ba345c5b395103e",
+            "from_size": 3094,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/UltraLowPowerIC-AAAAAAAAAAAAAAAAAAAHTA==.json",
+            "from_hash": "7328646338ad3392ec0233436664fdea77e20d4a35c3aff515d50b35f653ac7b",
+            "from_size": 3666,
+            "to_hash": "594a581f72203d78229b8be02dc32df7e4a1abf334b2c0bbd8ff390abf37f326",
+            "to_size": 3850,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier2MV-AAAAAAAAAAAAAAAAAAAABA==/UltraLowPowerIC-AAAAAAAAAAAAAAAAAAAHTA==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/Tier5IV-AAAAAAAAAAAAAAAAAAAABw==/EvenBettererMagn-AAAAAAAAAAAAAAAAAAALZg==.json",
+            "from_hash": "7859a9bb373b391587c29b03aa0b38522ebeb6f40b40802cd1a754c728f8d570",
+            "from_size": 3121,
+            "to_hash": "6a77aab4d6fb861090dda373b6bf63d5c0650fcf5e1dffc66ad55f866d96470e",
+            "to_size": 3040,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier5IV-AAAAAAAAAAAAAAAAAAAABw==/EvenBettererMagn-AAAAAAAAAAAAAAAAAAALZg==.json"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/WithoutDying-AAAAAAAAAAAAAAAAAAAACw==/Bronzearmor-AAAAAAAAAAAAAAAAAAACrw==.json",
+            "from_hash": "ed9f93bd80bce88644d2c8d26ce4ec968517970411ed0331eec15e411b57cf9b",
+            "from_size": 4205,
+            "to_hash": "0018db8c1a4ebe4c4d1940814155398784116f8fd1b6d1c258f335a92574287d",
+            "to_size": 4172,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/betterquesting/DefaultQuests/Quests/WithoutDying-AAAAAAAAAAAAAAAAAAAACw==/Bronzearmor-AAAAAAAAAAAAAAAAAAACrw==.json"
+        },
+        {
+            "path": "config/enderio/SAGMillRecipes_User.xml",
+            "from_hash": "a35eb95d2dd64c63931cf02ab84dd7806693685b61ef91557c85431e61ef080c",
+            "from_size": 583893,
+            "to_hash": "c9f99bff8edc4055f982612d5b6e21a2cc557a3723181a34bc48c0425d21fa4e",
+            "to_size": 583428,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/enderio/SAGMillRecipes_User.xml"
+        },
+        {
+            "path": "mods/Botania-1.13.36-GTNH.jar",
+            "from_hash": "3807414922bd3b5f4e0fb1078425883f7ec213cd49fcdca7a96c9c1889ad2b89",
+            "from_size": 16905682,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.89-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "893fbec96a469f5225a9c3673dd8b5965860ebe00fbe0fa20ef0081c15bebbe0",
+            "to_size": 2011711,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.89-GTNH/BetterQuesting-3.8.89-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/BetterQuesting-3.8.89-GTNH.jar"
+        },
+        {
+            "path": "mods/BetterQuesting-3.8.88-GTNH.jar",
+            "from_hash": "1d9cfa6b6d07a1ea1f73a70bf1bd8a6bc62d14a110a8993f360e27b5b929d3c2",
+            "from_size": 2011694,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Forestry-4.11.38.jar",
+            "from_hash": "e1ca5b9747b299e0d6677e373d0581e3169d2d83a78644d078fe19031851a70b",
+            "from_size": 3396414,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Forestry-4.11.39.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f3cacea1f523a5b94bf3f7bcc811c49dd5224d5024ac3d98fb6ac3b26a51547f",
+            "to_size": 3396491,
+            "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.11.39/Forestry-4.11.39.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/Forestry-4.11.39.jar"
+        },
+        {
+            "path": "mods/ForgeMultipart-1.7.15.jar",
+            "from_hash": "aa5c927a7cc8580b4fdcb71ed51cf2addc48ab05ed3c4ecc767c1903c859b338",
+            "from_size": 961233,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Botania-1.13.37-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "30366786a232aed4631b2e9d1c2382e1625fe7661fcae3b01baa81fe96b060d6",
+            "to_size": 16906430,
+            "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.37-GTNH/Botania-1.13.37-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/Botania-1.13.37-GTNH.jar"
+        },
+        {
+            "path": "mods/ForgeMultipart-1.7.16.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1b33a214fb972855b9ba4661aee4b2c137186b5bbe5f2225b39ced4e687d1327",
+            "to_size": 961300,
+            "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.16/ForgeMultipart-1.7.16.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/ForgeMultipart-1.7.16.jar"
+        },
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "df49dff14e665e3c1ccffc0fc55908b98ee93394a1941ecdbe36bbc795e1f030",
+            "from_size": 32303100,
+            "to_hash": "30bad207984527af4b74e4382a4ea8f89c25a26311339cd4512c4c00d99c98c5",
+            "to_size": 32303100,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "mods/IC2NuclearControl-2.7.14.jar",
+            "from_hash": "bea87f1dcdec3936c9656ea79b31e9697ae10e90803e85f5bb8751112d3f9097",
+            "from_size": 916320,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/IC2NuclearControl-2.7.16.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "60cd08eb2eaf3da4fe14a6231c8dffea8bc6023f2859515aff647ab1232a4a60",
+            "to_size": 918871,
+            "url": "https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.7.16/IC2NuclearControl-2.7.16.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/IC2NuclearControl-2.7.16.jar"
+        },
+        {
+            "path": "mods/NotEnoughEnergistics-1.7.45.jar",
+            "from_hash": "d194fdef99b09960b655aa454b2c3d81f0cccec89efad0bb7d02a155fb0e058e",
+            "from_size": 298222,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughEnergistics-1.7.46.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "18152a80e04bb20e9bab405535fa822a3659d28a4b8a456d895b779b76c8d140",
+            "to_size": 298281,
+            "url": "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.46/NotEnoughEnergistics-1.7.46.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/NotEnoughEnergistics-1.7.46.jar"
+        },
+        {
+            "path": "mods/ProjRed-4.12.46-GTNH.jar",
+            "from_hash": "88140fbafd40cdd046cb51b2f33aa6291e300a5d3854dcb27c569c45c01b6699",
+            "from_size": 10296808,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.84.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1a232869786faca607a75e57b7e113ca688334fd28118ec4c336e318a018af35",
+            "to_size": 48448437,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.84/GTNewHorizonsCoreMod-2.9.84.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/GTNewHorizonsCoreMod-2.9.84.jar"
+        },
+        {
+            "path": "mods/ProjRed-4.12.47-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "642ed242325bf9e5b097ade572162d8fbec387c7a26c5951defdf4a4fd22ee5a",
+            "to_size": 10297763,
+            "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.47-GTNH/ProjRed-4.12.47-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/ProjRed-4.12.47-GTNH.jar"
+        },
+        {
+            "path": "mods/ProjectBlue-1.2.10-GTNH.jar",
+            "from_hash": "344d739ea270b920b9092abf900ed6d4e08aade24727a568899ffcccebdcf263",
+            "from_size": 256931,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.83.jar",
+            "from_hash": "373fafcaaa22294af13a1bf6f10eee92f2156b3d8e4a9e0e9fb2831efb88f411",
+            "from_size": 48448217,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ProjectBlue-1.2.11-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ebd4de48e4528a25f547bb2fa1603072a7b4af5469b13167cfaa71f62056f5b1",
+            "to_size": 256932,
+            "url": "https://github.com/GTNewHorizons/ProjectBlue/releases/download/1.2.11-GTNH/ProjectBlue-1.2.11-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/ProjectBlue-1.2.11-GTNH.jar"
+        },
+        {
+            "path": "mods/ServerUtilities-2.4.13.jar",
+            "from_hash": "c0f39d77079e87be38bcb26c91b888803594f2546102c2d6d6fefca15add3a35",
+            "from_size": 1993289,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.26.jar",
+            "from_hash": "27fa646ba2f04fa49257a97c40538493d6aaebcb447d42f5a29fa91d8f7e551f",
+            "from_size": 2736998,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ServerUtilities-2.4.14.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0f63d5df1dfca17051fa18cb4f1e91bdc7a969492c2210f47b7132b7ead3c52b",
+            "to_size": 1992312,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.14/ServerUtilities-2.4.14.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/ServerUtilities-2.4.14.jar"
+        },
+        {
+            "path": "mods/ThaumicHorizons-1.8.27.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a484be1ec5c797a5ad76ac2991d3b6b22ca85780587c5aa87ae6c2f759fd14bf",
+            "to_size": 2737000,
+            "url": "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.8.27/ThaumicHorizons-1.8.27.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/ThaumicHorizons-1.8.27.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.113-gtnh.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "68cf32a1cc9d08071387d08f872dc5defd670713f955bbf2935ff57301f945f4",
+            "to_size": 841378,
+            "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.113-gtnh/ae2fc-1.5.113-gtnh.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/ae2fc-1.5.113-gtnh.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.111-gtnh.jar",
+            "from_hash": "e86e1b8ec28df3abadb2df9c2028a757f78ea3ce4bbb231a29065b17ffc007d2",
+            "from_size": 841780,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.7.43.jar",
+            "from_hash": "be82fd0140adf1a460eeb2de9828d3bb727deff54f90a53a1c40c824ca5e0f3f",
+            "from_size": 5367763,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.7.44.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "36e0f4b298795b9c1cc7d093d6cb51a6845caf31dd6f7d5cd3f4a5cbd318ed27",
+            "to_size": 5368048,
+            "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.44/TwilightForest-2.7.44.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/TwilightForest-2.7.44.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1080-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7bcada90f561ff6c17e577b0c87ad1a1b0a7cf98fc8e934c18a67bdec11fd89f",
+            "to_size": 5048994,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1080-GTNH/appliedenergistics2-rv3-beta-1080-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/appliedenergistics2-rv3-beta-1080-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1079-GTNH.jar",
+            "from_hash": "d09f67da9e0943056b0864ecf4fcc518060e49a2d32c646c549d7c393ac725c3",
+            "from_size": 5048068,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/chisel-2.17.33-GTNH.jar",
+            "from_hash": "d9afe390c60c0c560888a44609cd4c8cebaf30b5d571110e3de121ce5126ad63",
+            "from_size": 7607744,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/chisel-2.17.34-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cc8a7af6bb777c96d68f5b4ef0a47fbc11984e91471ce8d66710fb7a6a0bae1f",
+            "to_size": 7607794,
+            "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.34-GTNH/chisel-2.17.34-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/chisel-2.17.34-GTNH.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.6.59-GTNH.jar",
+            "from_hash": "bfd650e83e1c445136df4dcc7c6b60093ecd42b0c4cbbe8c6f8493ed71b7a7b2",
+            "from_size": 5357674,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/etfuturum-2.6.60-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "23c324e58ce7c002a6a79c4f5f8c51d3facddc0d1696e19c8ef76b93d7e88428",
+            "to_size": 5357706,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.60-GTNH/etfuturum-2.6.60-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/etfuturum-2.6.60-GTNH.jar"
+        },
+        {
+            "path": "mods/gadomancy-1.5.16.jar",
+            "from_hash": "3df35dca42916c1c37e33a31fcdf14e8735e54947464da40de14c59c839a83de",
+            "from_size": 6953909,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gadomancy-1.5.17.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "677c1afb12e26c324d7b9e34f20876ccb4d027b7c8058d3c8baa46a9274faf8d",
+            "to_size": 6953639,
+            "url": "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.5.17/gadomancy-1.5.17.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/gadomancy-1.5.17.jar"
+        },
+        {
+            "path": "mods/guidenh-1.3.40.jar",
+            "from_hash": "71fcd657846aead35115c4a62ab011cd225f7bd0f0cb50d4f56a80ea13300d45",
+            "from_size": 29086130,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.41.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "14476feca7bdbf15813cc7308fd138db0eab6957f8b1e595f9e8930a243c727c",
+            "to_size": 29079396,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.41/guidenh-1.3.41.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/guidenh-1.3.41.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.213.jar",
+            "from_hash": "d12fedb4cf4c9ad2a1abcc3af6712b8d29a4a398f582731c2c40922c7819df87",
+            "from_size": 1219795,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.215.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8d15b562275f7349be0465bb3edb69ba27de6b6e7a43b23e1b30098baa182337",
+            "to_size": 1226254,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.215/hodgepodge-2.7.215.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/hodgepodge-2.7.215.jar"
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.36.jar",
+            "from_hash": "ecaaf82176bb84a29961efb202f44ceec9af8941b0c87c4cae8c88ec363444a5",
+            "from_size": 8266942,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/neirecipepanels-0.3.0.jar",
+            "from_hash": "99abe1153f94182faa744f6c21d18089b86b4af69b7a4e98eb2a16d19540ac0f",
+            "from_size": 65790,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.37.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3c5af555d62eb9b7f4196adea94cb4cbd4c8efe3e1d512f83537aa88d9d5211e",
+            "to_size": 8266971,
+            "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.37/lwjgl3ify-3.0.37.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/lwjgl3ify-3.0.37.jar"
+        },
+        {
+            "path": "mods/tasknh-0.14.0.jar",
+            "from_hash": "f8420d6ea73e0f1bf0df8ab169cbfb0ca04821484a9e57dee1985b6edd40adda",
+            "from_size": 192974,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.63-GTNH.jar",
+            "from_hash": "c79065d2553ef006181e259d7aae6c3f689efcabc15ceafcf0b1647525dd8ad8",
+            "from_size": 1434685,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.64-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6787fed73f4f6b92d95719d0fb7ccb5e3bdd0a41c78a713b7d05e5ef6ac0c715",
+            "to_size": 1434772,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.64-GTNH/thaumicenergistics-1.7.64-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/thaumicenergistics-1.7.64-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.204.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3fadb679d512e673610e170066a626ca6da8837b7387e658bcb5fb2a627a07b8",
+            "to_size": 68074580,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.204/gregtech-5.09.54.204.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/.minecraft/mods/gregtech-5.09.54.204.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.201.jar",
+            "from_hash": "f9b8c3bab43f18ca08fcfd86d4e676d6a9eba2a233685bbccc9b0fc068bbfe33",
+            "from_size": 68072462,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "lwjgl3ify-forgePatches.jar",
+            "from_hash": "0e540396bb065acfca4a44cbc89a40c3068d711f2c2fa9dc4fa38007ca6d2541",
+            "from_size": 7907049,
+            "to_hash": "fa6009e70ed752627cfa036a225d43928136c2da153a7dd1564a494c6d7125ae",
+            "to_size": 7907048,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4232c85a205a20ada1bc2da1f093bd0c1a764024/packaging/server/lwjgl3ify-forgePatches.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.37",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.37"
+    }
+}
