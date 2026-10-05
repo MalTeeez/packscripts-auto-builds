@@ -1,0 +1,117 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "bda9e29bbb33a518787fbb3afd95d994e9542aadc78dde3f2c34b1e3148d7046",
+            "from_size": 208,
+            "to_hash": "22aa340b41bab21370f3d2633716a4b7af9f510b6ca653c1149a443034792e2c",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "a95c5fa77e37d5875169de7a3f0a18d19d8bfaf124d45a8a66b8903f009878e4",
+            "from_size": 6287,
+            "to_hash": "ec3da635f34fa9c69721a5ffe8c4e2f3e222ef7cd2a90df0bf134a1e1085db31",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "85f56589b566aac52ae7cc484b8805ed8a56e7ca6186dd8ea19f76707978b698",
+            "from_size": 35,
+            "to_hash": "9fe79f2fa75e9a7e0b616f2b8470a92ec254f0364769860cdb00d57da5389a78",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/ServerUtilities-2.4.12.jar",
+            "from_hash": "16f59cf170ed0cf956a69672f38f621737a571f8fedb3cba7ab98696a3e60f1a",
+            "from_size": 1984631,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ServerUtilities-2.4.13.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c0f39d77079e87be38bcb26c91b888803594f2546102c2d6d6fefca15add3a35",
+            "to_size": 1993289,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.4.13/ServerUtilities-2.4.13.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/mods/ServerUtilities-2.4.13.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1072-GTNH.jar",
+            "from_hash": "23f07b7bf7fe23a05c6e93dd8e3a25579b545726d4caf4772759b4b74ceb09d8",
+            "from_size": 5018541,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/ProjRed-4.12.43-GTNH.jar",
+            "from_hash": "fb8501d127e1fb2c5da5416ae07063e04a0596098a3dd0a83fb3ebef2fbb63ae",
+            "from_size": 10288479,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-rv3-beta-1073-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1972f1a647269b249ab966e0e4ea496ad0f92b9a8d57a77983af1dcdd8b5a636",
+            "to_size": 5027220,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1073-GTNH/appliedenergistics2-rv3-beta-1073-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/mods/appliedenergistics2-rv3-beta-1073-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/ProjRed-4.12.44-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ce669567dcdf365845a69793d5aa8669a5a98a2ba740830cb35bc0e8ce87d7b3",
+            "to_size": 10289557,
+            "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.44-GTNH/ProjRed-4.12.44-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/mods/ProjRed-4.12.44-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/matter-manipulator-0.1.58-GTNH.jar",
+            "from_hash": "d380feafda11ab81cf5ac396ad9fea6f4083786fa26fcbe99781978f8717ed61",
+            "from_size": 714557,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/matter-manipulator-0.1.59-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "64a0142701216fa03a8d1dfe001bfb73101610bcae92b4bab1f2a9ab9df32a78",
+            "to_size": 714633,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.59-GTNH/matter-manipulator-0.1.59-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/mods/matter-manipulator-0.1.59-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.183.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "70c760782b89992891d55cc5a5ae4fda9f9e93034c2f901395bfb1bf588a5bd0",
+            "to_size": 68026391,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.183/gregtech-5.09.54.183.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f1a2c016542379a3f7f2fdc2d54f62befa648c6/.minecraft/mods/gregtech-5.09.54.183.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.181.jar",
+            "from_hash": "ccbfcd5d79e0353080c3ad50b1d5998dc40852b6c67aa362172adc956666e685",
+            "from_size": 68019990,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
