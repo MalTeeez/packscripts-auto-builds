@@ -1,0 +1,77 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "22aa340b41bab21370f3d2633716a4b7af9f510b6ca653c1149a443034792e2c",
+            "from_size": 208,
+            "to_hash": "c1246b0f50df6c2b786cdf15a9d7cdbc1981452b31f94c36b8cdad67e48d95d4",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/21dea78085ca05f45778fad89fe988b54c28b7da/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "ec3da635f34fa9c69721a5ffe8c4e2f3e222ef7cd2a90df0bf134a1e1085db31",
+            "from_size": 6287,
+            "to_hash": "758417694a2b61986d76c7b48016ee22230683283f4736125fb69d77495dbe0d",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/21dea78085ca05f45778fad89fe988b54c28b7da/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/NEIAddons-1.18.5.jar",
+            "from_hash": "39576cd0accb129ac34b4d4f29eb43551e30a25d12f99ef172a98684ed89ac53",
+            "from_size": 153251,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NEIAddons-1.18.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "59c4ed31a135c34e81c9947d6c45e8cece7bcab6d074424dcf4477182567eb3a",
+            "to_size": 152893,
+            "url": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.18.6/NEIAddons-1.18.6.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/21dea78085ca05f45778fad89fe988b54c28b7da/.minecraft/mods/NEIAddons-1.18.6.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.113-GTNH.jar",
+            "from_hash": "f234c930ecc59572475dcba026805bea9120017511fadbf2376a4f867a0889aa",
+            "from_size": 5594922,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.115-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "327344822a7e1c1a205a5050ce3335f7380be3c18d13cd07f84402f6dc1a47c1",
+            "to_size": 5607389,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.115-GTNH/TConstruct-1.14.115-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/21dea78085ca05f45778fad89fe988b54c28b7da/.minecraft/mods/TConstruct-1.14.115-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.76.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f55623b2f46ff3748504f53951342ed8bb52193051e87b4aefdcab0731ecc32e",
+            "to_size": 48447322,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.76/GTNewHorizonsCoreMod-2.9.76.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/21dea78085ca05f45778fad89fe988b54c28b7da/.minecraft/mods/GTNewHorizonsCoreMod-2.9.76.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.75.jar",
+            "from_hash": "78f809f61c1e67d094959bb6257a6629c21e03cad55a4148039eb7cebbfbc3f8",
+            "from_size": 48447328,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.2",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.35",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.35"
+    }
+}
