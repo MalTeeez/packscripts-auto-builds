@@ -1,0 +1,61 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "47cb4f953b1998d7e6f08fe2cdd04a79b7b5482c19d24a23810727fdfca98123",
+            "from_size": 208,
+            "to_hash": "582c953a580e3ccdb9cf112f53cb66d6702f2455e2f828dc9b4b9c6fe96bb718",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/329c31631aabc670fa3e85594b2aca9e2ef2b379/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/BaublesExpanded-2.2.24-GTNH.jar",
+            "from_hash": "fe33d5c51e57bb98d0e637bd55aec460d6e5f7ac450caebe67a3f574a4ea1f36",
+            "from_size": 115184,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "4be2e48a7c76b641d93a30ab76cf0fe94980ca513538c867de3d97e72a870549",
+            "from_size": 6287,
+            "to_hash": "080d6bf1309296040856cdfe3ee7fbb273491dea2feccea1d1ca4121803da317",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/329c31631aabc670fa3e85594b2aca9e2ef2b379/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/BaublesExpanded-2.2.25-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "942f2a9e7d97582a9b1ec9302f1fa3bb86cc547f2873aa902dc44aa919f7ceee",
+            "to_size": 115228,
+            "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.25-GTNH/BaublesExpanded-2.2.25-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/329c31631aabc670fa3e85594b2aca9e2ef2b379/.minecraft/mods/BaublesExpanded-2.2.25-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.205.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d5cac894cb6da544c841daf3ee3a7a335afb181bafb57b91d3ab06f0ca23933c",
+            "to_size": 68074583,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.205/gregtech-5.09.54.205.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/329c31631aabc670fa3e85594b2aca9e2ef2b379/.minecraft/mods/gregtech-5.09.54.205.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.204.jar",
+            "from_hash": "3fadb679d512e673610e170066a626ca6da8837b7387e658bcb5fb2a627a07b8",
+            "from_size": 68074580,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.37",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.37"
+    }
+}
