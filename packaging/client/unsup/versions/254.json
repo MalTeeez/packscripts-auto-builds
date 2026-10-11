@@ -1,0 +1,205 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "0fe35dc1330c0574a65bde7382d68a8010b466f79859525e92f2570f49a3b1fc",
+            "from_size": 208,
+            "to_hash": "62916eb36ffc6a3f4ffbda8d2d8ddf576bfdc1629901534f5c470cfe04e6c1dc",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "df4bb425543c72297dc5a73e31293cf60109f0d40df219856532d0967a443d37",
+            "from_size": 6287,
+            "to_hash": "287e66b2ea45dd97605619c7f9125ba17a2524f08ea4ed6d20cb24e20cbb22dc",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "0fbcd30794054ba4342013123cf99fa6e4c2828c90c51f5da3fa6dc26a243aaa",
+            "from_size": 404,
+            "to_hash": "1655cf3d3969e7b718a070f56230170b57f7b083c5bd11b83a00a3173a3b1b3e",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/LooktotheEdges-AAAAAAAAAAAAAAAAAAAAGw==/WitcherySeeds-AAAAAAAAAAAAAAAAAAAGGA==.json",
+            "from_hash": "e1bbe70dbe89ed3f40c712ce660daf1f326acd79233689e52bde91833c062443",
+            "from_size": 8765,
+            "to_hash": "0e161a809c8696c26144ad56d3fff66742f3d6a551f39aae3cc78db0a4c374f9",
+            "to_size": 8765,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/config/betterquesting/DefaultQuests/Quests/LooktotheEdges-AAAAAAAAAAAAAAAAAAAAGw==/WitcherySeeds-AAAAAAAAAAAAAAAAAAAGGA==.json"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "6bb61088e09b6a9e7e0c098204a6f7e54661ffff83cf8d8331845e019754088b",
+            "from_size": 35,
+            "to_hash": "c4dd7affd52aa3504b9d2ac0180a83390a4bc470e5bc2100359b8233390fcdc6",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/Botania-1.13.37-GTNH.jar",
+            "from_hash": "30366786a232aed4631b2e9d1c2382e1625fe7661fcae3b01baa81fe96b060d6",
+            "from_size": 16906430,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/config/guidenh/DefaultGuide.zip",
+            "from_hash": "dbf76b5542f6b3ebc59908db8f18e83ad596e83b27da01d36f5faf06eeb00b97",
+            "from_size": 34806437,
+            "to_hash": "c0dd647b9cc1170e46f5dc6e7201df7b1f3e36752f9ea7f19d553f5555e11800",
+            "to_size": 34838731,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": ".minecraft/mods/Botania-1.13.38-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cbdbe2342857bb8386442a190774ed1505b8c6e2a017440ae2569d5aed05cd40",
+            "to_size": 16906441,
+            "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.38-GTNH/Botania-1.13.38-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/Botania-1.13.38-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.87.jar",
+            "from_hash": "00fb11e39519aaac28a103cc8456d26ef541892728efe9777ef76d73993f6164",
+            "from_size": 48448418,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/IC2NuclearControl-2.7.16.jar",
+            "from_hash": "60cd08eb2eaf3da4fe14a6231c8dffea8bc6023f2859515aff647ab1232a4a60",
+            "from_size": 918871,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/IC2NuclearControl-2.7.17.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "756399c8ce18a155382af4929d1a609aee61cb80f536511ae95fa337222b1d00",
+            "to_size": 918742,
+            "url": "https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.7.17/IC2NuclearControl-2.7.17.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/IC2NuclearControl-2.7.17.jar"
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.8.158-GTNH.jar",
+            "from_hash": "2089e41b09618d9290cb4239f2aec3255c1308e46fce30491db88eeebfe66977",
+            "from_size": 1770750,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.8.159-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "050b2440952adc930e871586f496607959344aa2d7c3be781fd922a5b253a3af",
+            "to_size": 1772030,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.159-GTNH/NotEnoughItems-2.8.159-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/NotEnoughItems-2.8.159-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/GTNewHorizonsCoreMod-2.9.88.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "fcc18bde0638931c3559d41a6322a71b6b754e150439de856909d79c7d880117",
+            "to_size": 48448420,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.88/GTNewHorizonsCoreMod-2.9.88.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/GTNewHorizonsCoreMod-2.9.88.jar"
+        },
+        {
+            "path": ".minecraft/mods/etfuturum-2.6.63-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4d288e90b5d35f74924c8b8b53adf410d0c7d20bacdbfa9ff146855eabc3d16d",
+            "to_size": 5358365,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.63-GTNH/etfuturum-2.6.63-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/etfuturum-2.6.63-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/etfuturum-2.6.62-GTNH.jar",
+            "from_hash": "3acef92713ca870ee3a300143a91511c0eaa645106540235abbb66c144e47957",
+            "from_size": 5357939,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.30.jar",
+            "from_hash": "8c62e9eeaecfbf3633a4526a159f9071cdfd15ff0b9ae45f5dcf58822c4da0e3",
+            "from_size": 11910706,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/matter-manipulator-0.1.63-GTNH.jar",
+            "from_hash": "eb63244ac180c484ab7376dafea1576a4966193277ac562f75e67080d564a308",
+            "from_size": 716560,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.31.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "73c48cfa3432b9a42fb3768d5652eb335db4b33e22f0c64347b2c5f0ad6e17ad",
+            "to_size": 12074431,
+            "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.31/angelica-2.2.31.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/angelica-2.2.31.jar"
+        },
+        {
+            "path": ".minecraft/mods/matter-manipulator-0.1.64-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5f0600375c8d2eeed6d7e7b0c7857e6b818c200b024cc9a7d7658578c61bd493",
+            "to_size": 721948,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.64-GTNH/matter-manipulator-0.1.64-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/matter-manipulator-0.1.64-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.64-GTNH.jar",
+            "from_hash": "6787fed73f4f6b92d95719d0fb7ccb5e3bdd0a41c78a713b7d05e5ef6ac0c715",
+            "from_size": 1434772,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.65-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "291decdd950025f6ba08d2bd6ff9dc025a73086618622ea0d8ddaf9230c0cf9c",
+            "to_size": 1434830,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.65-GTNH/thaumicenergistics-1.7.65-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/thaumicenergistics-1.7.65-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.221.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "60ceb229cd894dd28393efb6d0013de2835289eeef6fcf84ad3e17a6475baf5b",
+            "to_size": 68069806,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.221/gregtech-5.09.54.221.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/5aca0ef43f5afe273b8a11e928c3a01fdb433c28/.minecraft/mods/gregtech-5.09.54.221.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.220.jar",
+            "from_hash": "4d74d389d0967fecdaf898a91009d4ce033bd12e1fa88b17bcb2e5f48fa4ec19",
+            "from_size": 68060870,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.37",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.37"
+    }
+}
