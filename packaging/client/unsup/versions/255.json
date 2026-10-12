@@ -1,0 +1,68 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "62916eb36ffc6a3f4ffbda8d2d8ddf576bfdc1629901534f5c470cfe04e6c1dc",
+            "from_size": 208,
+            "to_hash": "cf534a33c51ba5e810faa2eba221f6e4376407c73bd06d0211b71407f41e8485",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a1c7fdf150b74d3b24ca97fec03de5e4c5f499ae/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "287e66b2ea45dd97605619c7f9125ba17a2524f08ea4ed6d20cb24e20cbb22dc",
+            "from_size": 6287,
+            "to_hash": "8390109c8603b46dcea729dc8aeaf3b9dcc527cd0969e8447716188f99d96f55",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a1c7fdf150b74d3b24ca97fec03de5e4c5f499ae/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "c4dd7affd52aa3504b9d2ac0180a83390a4bc470e5bc2100359b8233390fcdc6",
+            "from_size": 35,
+            "to_hash": "9a62124137f30f74fa7cf35f09b7b02582506f68dabce139d3a4a78ac2d37239",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a1c7fdf150b74d3b24ca97fec03de5e4c5f499ae/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/defaultkeys-1.3.2.jar",
+            "from_hash": "e7009545ee4d275355a88dd8b1a0c9871213c281a9d87d509f22b3eb23242dd7",
+            "from_size": 34369,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/betterloadingscreen-1.7.18-GTNH.jar",
+            "from_hash": "227d168c5e8f5dc410668a31fb5fe0729f8e61d73dd769182ef848093db6aff5",
+            "from_size": 2252984,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/betterloadingscreen-1.7.19-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9b780d3072f75846a9cfbf92c8ec1e83e3046414287321f59bf40d2953070218",
+            "to_size": 2253344,
+            "url": "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.19-GTNH/betterloadingscreen-1.7.19-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a1c7fdf150b74d3b24ca97fec03de5e4c5f499ae/.minecraft/mods/betterloadingscreen-1.7.19-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/defaultkeys-1.3.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4d74a3c364f74ed5af496add6300903bbd60ad324f34ec9754e0405ff8f3a843",
+            "to_size": 34369,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/a1c7fdf150b74d3b24ca97fec03de5e4c5f499ae/.minecraft/mods/defaultkeys-1.3.3.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.37",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.37"
+    }
+}
