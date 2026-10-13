@@ -103,26 +103,26 @@
         }
     },
     "ArchitectureCraft": {
-        "file_path": "./.minecraft/mods/ArchitectureCraft-1.12.18.jar",
+        "file_path": "./.minecraft/mods/ArchitectureCraft-1.12.19.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.18/ArchitectureCraft-1.12.18.jar",
+        "source": "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.12.19/ArchitectureCraft-1.12.19.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.12.18",
+            "version": "1.12.19",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "a36c1ac9db58be8ae341e86ce8c569b3170f4a4688f0f1fd6fedbae38c916764"
+            "sha256_sum": "ba4e3d5b19321f1acc3209acde320f4ec0b3a144bd56ec3503199384241e4aa9"
         }
     },
     "Automagy": {
@@ -429,12 +429,12 @@
         }
     },
     "Botania": {
-        "file_path": "./.minecraft/mods/Botania-1.13.38-GTNH.jar",
+        "file_path": "./.minecraft/mods/Botania-1.13.39-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.38-GTNH/Botania-1.13.38-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Botania/releases/download/1.13.39-GTNH/Botania-1.13.39-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons"
@@ -447,14 +447,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.13.38-GTNH",
+            "version": "1.13.39-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "cbdbe2342857bb8386442a190774ed1505b8c6e2a017440ae2569d5aed05cd40"
+            "sha256_sum": "ea3e5c7961af5def2e4452206fa7d0b7a96e0e684020b0ff4259d9d113fc4e67"
         }
     },
     "BuildCraft|Compat": {
@@ -970,12 +970,12 @@
         }
     },
     "GalacticraftCore": {
-        "file_path": "./.minecraft/mods/Galacticraft-3.4.34-GTNH.jar",
+        "file_path": "./.minecraft/mods/Galacticraft-3.4.35-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.4.34-GTNH/Galacticraft-3.4.34-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.4.35-GTNH/Galacticraft-3.4.35-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "GalacticraftAmunRa",
@@ -989,18 +989,18 @@
             "GalacticraftMars"
         ],
         "update_state": {
-            "version": "3.4.34-GTNH",
+            "version": "3.4.35-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "d59ce83201ad530cec32092645852477942b838ec21647c16f29f0e331a6a809"
+            "sha256_sum": "ab57bf9e6d2a91a15c34d1f4467d903d50da731abb1a5a52e2943e96ed824d50"
         }
     },
     "GalaxySpace": {
-        "file_path": "./.minecraft/mods/GalaxySpace-1.1.143-GTNH.jar",
+        "file_path": "./.minecraft/mods/GalaxySpace-1.1.144-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -1016,14 +1016,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.1.143-GTNH",
+            "version": "1.1.144-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "d3bb6e79c1fa022adef4d1629e1188ae6fb07c79b9461de83ea5318326445099"
+            "sha256_sum": "bad7e1453c6d1e22e429a0d87c0325f8294f8059ff3dbd48142cb8fe92047b6f"
         }
     },
     "GraviSuite": {
@@ -1546,12 +1546,12 @@
         }
     },
     "NEIAddons": {
-        "file_path": "./.minecraft/mods/NEIAddons-1.18.6.jar",
+        "file_path": "./.minecraft/mods/NEIAddons-1.18.7.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.18.6/NEIAddons-1.18.6.jar",
+        "source": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.18.7/NEIAddons-1.18.7.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
@@ -1567,14 +1567,14 @@
             "NEIAddons|ExNihilo"
         ],
         "update_state": {
-            "version": "1.18.6",
+            "version": "1.18.7",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "59c4ed31a135c34e81c9947d6c45e8cece7bcab6d074424dcf4477182567eb3a"
+            "sha256_sum": "ee3429c393785210053604b279c1282a152cd82616db4ce2999ff7f419830390"
         }
     },
     "Natura": {
@@ -1631,12 +1631,12 @@
         }
     },
     "NotEnoughItems": {
-        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.159-GTNH.jar",
+        "file_path": "./.minecraft/mods/NotEnoughItems-2.8.160-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.159-GTNH/NotEnoughItems-2.8.159-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.160-GTNH/NotEnoughItems-2.8.160-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "beebetteratbees",
@@ -1660,14 +1660,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.8.159-GTNH",
+            "version": "2.8.160-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "050b2440952adc930e871586f496607959344aa2d7c3be781fd922a5b253a3af"
+            "sha256_sum": "723984da9883980f1b13a71e3e500ed52ea3c059141ef931078a8ea511a1ae17"
         }
     },
     "OilTweak": {
@@ -1929,12 +1929,12 @@
         }
     },
     "Railcraft": {
-        "file_path": "./.minecraft/mods/Railcraft-9.17.33.jar",
+        "file_path": "./.minecraft/mods/Railcraft-9.17.34.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.33/Railcraft-9.17.33.jar",
+        "source": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.34/Railcraft-9.17.34.jar",
         "notes": "",
         "wanted_by": [
             "gregtech"
@@ -1943,14 +1943,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "9.17.33",
+            "version": "9.17.34",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "9c7c7bdc6ed8c9b824788302265653e0cf97166a48447166e8a2e04f10a83252"
+            "sha256_sum": "f2ffc683366b98ac283f296dc1c54e6a31af649f60868dbf769d7d71d6f88cae"
         }
     },
     "RandomThings": {
@@ -3063,11 +3063,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.2.31.jar",
+        "file_path": "./.minecraft/mods/angelica-2.2.32.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.31/angelica-2.2.31.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.32/angelica-2.2.32.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3080,14 +3080,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.2.31",
+            "version": "2.2.32",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "73c48cfa3432b9a42fb3768d5652eb335db4b33e22f0c64347b2c5f0ad6e17ad"
+            "sha256_sum": "6ed503b96fcecc0f4e03fa22cdc3cc7f96debd403cd2469776e616ba27b0a14e"
         }
     },
     "angermod": {
@@ -3118,12 +3118,12 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1082-GTNH.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-rv3-beta-1083-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1082-GTNH/appliedenergistics2-rv3-beta-1082-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1083-GTNH/appliedenergistics2-rv3-beta-1083-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "ae2fc",
@@ -3140,14 +3140,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "rv3-beta-1082-GTNH",
+            "version": "rv3-beta-1083-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "5a2c9dad59ad425bf9892074bc44a91ae30220bfbff13f98cebfc9701ba7c1de"
+            "sha256_sum": "1d36de168284746961e431348419c7ec46ba9031e72fc42d324f57224f21573a"
         }
     },
     "archaicfix": {
@@ -3331,11 +3331,11 @@
         }
     },
     "beebetteratbees": {
-        "file_path": "./.minecraft/mods/beebetteratbees-0.4.7-GTNH.jar",
+        "file_path": "./.minecraft/mods/beebetteratbees-0.4.8-GTNH.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH/releases/download/0.4.7-GTNH/beebetteratbees-0.4.7-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH/releases/download/0.4.8-GTNH/beebetteratbees-0.4.8-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3345,14 +3345,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.4.7-GTNH",
+            "version": "0.4.8-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "24db6587dc873e9789904ed2812073f321c39b7da984207eef57b57e83b04133"
+            "sha256_sum": "af210d51cf0c6e57e57775b3f993047b1e9416d2176149b8d1bd90a7825d9e62"
         }
     },
     "betterbuilderswands": {
@@ -3449,12 +3449,12 @@
         }
     },
     "betterquesting": {
-        "file_path": "./.minecraft/mods/BetterQuesting-3.8.90-GTNH.jar",
+        "file_path": "./.minecraft/mods/BetterQuesting-3.8.92-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.90-GTNH/BetterQuesting-3.8.90-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.8.92-GTNH/BetterQuesting-3.8.92-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
@@ -3465,14 +3465,14 @@
             "cb4bq"
         ],
         "update_state": {
-            "version": "3.8.90-GTNH",
+            "version": "3.8.92-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "aaa07e389148e071de70da766803c0df8e9d05668a7354cad3b710dc0a6a5c85"
+            "sha256_sum": "a339b2c9d143350903ac4ee52e0d3b5ba0692abd22cde3ddc50f6ec12d7c3a7e"
         }
     },
     "blocklimiter": {
@@ -3954,12 +3954,12 @@
         }
     },
     "cropsnh": {
-        "file_path": "./.minecraft/mods/cropsnh-2.0.137.jar",
+        "file_path": "./.minecraft/mods/cropsnh-2.0.138.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.137/cropsnh-2.0.137.jar",
+        "source": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.138/cropsnh-2.0.138.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3969,14 +3969,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.0.137",
+            "version": "2.0.138",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "f08e0e985acabf3c51931b21d799ebb9eca3e4116cf6b4f2b44ce5c10de00f02"
+            "sha256_sum": "ca788878accfac8a04e7386a866fac6de1a0cce9bc83c0555ef170dce7cdff0d"
         }
     },
     "custommainmenu": {
@@ -4028,7 +4028,7 @@
         }
     },
     "defaultkeys": {
-        "file_path": "./.minecraft/mods/defaultkeys-1.3.3.jar",
+        "file_path": "./.minecraft/mods/defaultkeys-1.3.4.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
@@ -4039,14 +4039,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.3.3",
+            "version": "1.3.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "4d74a3c364f74ed5af496add6300903bbd60ad324f34ec9754e0405ff8f3a843"
+            "sha256_sum": "16e29b33b9fdeebb63b3d2e09a2d4a3f2f7322f93475a7979b50cb5ddc4eddfe"
         }
     },
     "defaultserverlist": {
@@ -4094,12 +4094,12 @@
         }
     },
     "dreamcraft": {
-        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.88.jar",
+        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.9.89.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.88/GTNewHorizonsCoreMod-2.9.88.jar",
+        "source": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.89/GTNewHorizonsCoreMod-2.9.89.jar",
         "notes": "",
         "wanted_by": [
             "WitchingGadgets",
@@ -4114,14 +4114,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.9.88",
+            "version": "2.9.89",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "fcc18bde0638931c3559d41a6322a71b6b754e150439de856909d79c7d880117"
+            "sha256_sum": "12df3be8787753650ba0c7414b40276d42ab26e451bd88753a445bd3892bb33e"
         }
     },
     "duradisplay": {
@@ -4250,12 +4250,12 @@
         }
     },
     "etfuturum": {
-        "file_path": "./.minecraft/mods/etfuturum-2.6.63-GTNH.jar",
+        "file_path": "./.minecraft/mods/etfuturum-2.6.64-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.63-GTNH/etfuturum-2.6.63-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.64-GTNH/etfuturum-2.6.64-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -4264,14 +4264,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.6.63-GTNH",
+            "version": "2.6.64-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4d288e90b5d35f74924c8b8b53adf410d0c7d20bacdbfa9ff146855eabc3d16d"
+            "sha256_sum": "ffc3d4c6af3a1112512f8181cb3c203a19852ab8c8feadafccd79d98acb3c3ce"
         }
     },
     "extremesoundmuffler": {
@@ -4498,12 +4498,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.54.221.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.54.222.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.221/gregtech-5.09.54.221.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.222/gregtech-5.09.54.222.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4571,14 +4571,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.54.221",
+            "version": "5.09.54.222",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "60ceb229cd894dd28393efb6d0013de2835289eeef6fcf84ad3e17a6475baf5b"
+            "sha256_sum": "252b1d21b707679727d0a8fe62865ea4ec46d76d0e7efb4e9eeb3045a12248ec"
         }
     },
     "gtnhcredits": {
@@ -5106,26 +5106,26 @@
         }
     },
     "matter-manipulator": {
-        "file_path": "./.minecraft/mods/matter-manipulator-0.1.64-GTNH.jar",
+        "file_path": "./.minecraft/mods/matter-manipulator-0.1.65-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.64-GTNH/matter-manipulator-0.1.64-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.65-GTNH/matter-manipulator-0.1.65-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.1.64-GTNH",
+            "version": "0.1.65-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "5f0600375c8d2eeed6d7e7b0c7857e6b818c200b024cc9a7d7658578c61bd493"
+            "sha256_sum": "36ef97ec63c8af2e2add49f39ed254b86bffe712a2797f955dd0866f342aa6e0"
         }
     },
     "mobsinfo": {
