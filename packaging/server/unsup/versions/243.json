@@ -1,0 +1,125 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "23f2c09b4af2df114f0a7b2a7dcca4158616431d7ababccf7736809e9ae011ad",
+            "from_size": 208,
+            "to_hash": "c969b6977df408f860c5b59b8122dc45c4fcf23f8f6059fab7517db0d64e41a1",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "0b7093473d3518b8c26ae36f1732d4ee8b32200f1158be7df27350c8eace0bb4",
+            "from_size": 6287,
+            "to_hash": "e788ed281d446ec23b3cfd542c599496747de1784def8c960c92ed844c2fcd64",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/fether-2.0.7.jar",
+            "from_hash": "77c607f60105e8e5b933e19661a95922bede3d854c96f3529d84981b58f8ad4b",
+            "from_size": 130224,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ae2fc-1.5.113-gtnh.jar",
+            "from_hash": "68cf32a1cc9d08071387d08f872dc5defd670713f955bbf2935ff57301f945f4",
+            "from_size": 841378,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/fether-2.0.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3bea4f436e824b259444439b8d6c71febf65935b556186a5c72c971cbab5ecbc",
+            "to_size": 130223,
+            "url": "https://github.com/GTNewHorizons/Fether/releases/download/2.0.8/fether-2.0.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/mods/fether-2.0.8.jar"
+        },
+        {
+            "path": "mods/ae2fc-1.5.114-gtnh.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e8ae08b8146f427774a6546d6a41c7a79f48b66ae32132eea0d715c33bdd0553",
+            "to_size": 841481,
+            "url": "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.5.114-gtnh/ae2fc-1.5.114-gtnh.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/mods/ae2fc-1.5.114-gtnh.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.52.jar",
+            "from_hash": "790460d7888c8eb2a816235d1500ec52c2005f6492c9686db76f8218809f3131",
+            "from_size": 1430488,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.11.54.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "61340948f200ce52f210380ec00ec763fe867fac10c6342743e04c1688e85039",
+            "to_size": 1432444,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.54/gtnhlib-0.11.54.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/mods/gtnhlib-0.11.54.jar"
+        },
+        {
+            "path": "mods/guidenh-1.3.45.jar",
+            "from_hash": "330096c6e29e4d12bb1942783c3ecd253fbfc95da6665f4cf5180d76ea089d32",
+            "from_size": 29194970,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/holoinventory-2.5.17-GTNH.jar",
+            "from_hash": "d5c37a1caf311a3d7b586f65c52e38011f596c28a39a9e2502ff23451078cae0",
+            "from_size": 102200,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.46.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "000e1a6472299c5fb78bd919b7177bba789d17188915105deeda79ffff6b683b",
+            "to_size": 29257614,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.46/guidenh-1.3.46.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/mods/guidenh-1.3.46.jar"
+        },
+        {
+            "path": "mods/holoinventory-2.5.18-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "57431e7539279fb087cc375397a500b37ebd56196543062b76ae068f7b1402b2",
+            "to_size": 102202,
+            "url": "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.5.18-GTNH/holoinventory-2.5.18-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/mods/holoinventory-2.5.18-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.223.jar",
+            "from_hash": "1d6147a3c41fe624d49b8748971be13d93ea34d1206de83704d03d06a49ffeb2",
+            "from_size": 68129174,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.225.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5bd8e63070cf1f70785111e5329c58dcc3afaef38c413755958c633bae0b2337",
+            "to_size": 68147589,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.225/gregtech-5.09.54.225.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/bfdcef0b76ad3a8686d6491c912ec912e36fda97/.minecraft/mods/gregtech-5.09.54.225.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.38",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.38"
+    }
+}
