@@ -1,0 +1,165 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "c969b6977df408f860c5b59b8122dc45c4fcf23f8f6059fab7517db0d64e41a1",
+            "from_size": 208,
+            "to_hash": "50257a3c00cc938c35b9e03939c7603e619207fa9de435f5809c237ceed44ba4",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "e788ed281d446ec23b3cfd542c599496747de1784def8c960c92ed844c2fcd64",
+            "from_size": 6287,
+            "to_hash": "7c66960c9e0edc62f869bb6487c366471f8f592ca133f4b2a82928deb34f5182",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/ForgeMultipart-1.7.17.jar",
+            "from_hash": "22f023a85e49e1ce58f38c4046df8411f2c7d4eaa732462937cf25917f73de3b",
+            "from_size": 961359,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ForgeMultipart-1.7.18.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5e57550b5e81062fdf3100c0f404d010d06da1e603c60f159c4f4519f1b44c94",
+            "to_size": 961468,
+            "url": "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.7.18/ForgeMultipart-1.7.18.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/ForgeMultipart-1.7.18.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1083-GTNH.jar",
+            "from_hash": "1d36de168284746961e431348419c7ec46ba9031e72fc42d324f57224f21573a",
+            "from_size": 5049004,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1084-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b63a7a77b0ce64abf44531813422101f3d446906391a07ae37854f9637f3e537",
+            "to_size": 5049047,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1084-GTNH/appliedenergistics2-rv3-beta-1084-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/appliedenergistics2-rv3-beta-1084-GTNH.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.138.jar",
+            "from_hash": "ca788878accfac8a04e7386a866fac6de1a0cce9bc83c0555ef170dce7cdff0d",
+            "from_size": 2083888,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.139.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "792913883f29b089449b7c1e0ce17f813a97bc02ad62433a1ba2c8bdacb7b224",
+            "to_size": 2083930,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.139/cropsnh-2.0.139.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/cropsnh-2.0.139.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.92.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6c3d596b40eb12f3e5093a2493a87148b613fdde2c4a4ef726a0046791077b86",
+            "to_size": 48449813,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.92/GTNewHorizonsCoreMod-2.9.92.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/GTNewHorizonsCoreMod-2.9.92.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.89.jar",
+            "from_hash": "12df3be8787753650ba0c7414b40276d42ab26e451bd88753a445bd3892bb33e",
+            "from_size": 48448556,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.38.jar",
+            "from_hash": "22b39b5fd26c7054f95c9cd6d0e222c506e738a7463247249e9213c2496fd0ac",
+            "from_size": 8267101,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/lwjgl3ify-3.0.39.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c120ef93dfda5bd54e2b16ffae3265fc8bb188e952790cb886999896a70a52c6",
+            "to_size": 8267108,
+            "url": "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/3.0.39/lwjgl3ify-3.0.39.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/lwjgl3ify-3.0.39.jar"
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.66-GTNH.jar",
+            "from_hash": "d968ac076b94057031aedfc4f683bce5c3c9d72a6dc5518b4d8a7f57de9ca893",
+            "from_size": 729950,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.67-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "da51ec3f754b9a6b6d1d7096d9897d28e74e67dc9e8ff6ced0d1eeeaa3830e54",
+            "to_size": 730121,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.67-GTNH/matter-manipulator-0.1.67-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/matter-manipulator-0.1.67-GTNH.jar"
+        },
+        {
+            "path": "mods/structurelib-1.4.46.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e8460e006af869a465b938f89fcb61dc5e75d3b14a3f766f4f3c23e01b2d1b7a",
+            "to_size": 365784,
+            "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.46/structurelib-1.4.46.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/structurelib-1.4.46.jar"
+        },
+        {
+            "path": "mods/structurelib-1.4.45.jar",
+            "from_hash": "46228e9e4dd652a0566ad04cff22465b4d29fa3f1d1f4f089026738779f6b84e",
+            "from_size": 359300,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "lwjgl3ify-forgePatches.jar",
+            "from_hash": "e10bc9656a527d218c003fb2b27d4ee71e4c8c7f38115c3c8327dfc9d28a2238",
+            "from_size": 7907049,
+            "to_hash": "7428fdbe6f85d7c092aecd9169ff8d5e83327edd6e8ef1c2ee517f739c5388b0",
+            "to_size": 7907049,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/packaging/server/lwjgl3ify-forgePatches.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.225.jar",
+            "from_hash": "5bd8e63070cf1f70785111e5329c58dcc3afaef38c413755958c633bae0b2337",
+            "from_size": 68147589,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.228.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6ae3d200ac6546288df9963061776a74e2126210ea0d669245cc7515ff32598c",
+            "to_size": 68168901,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.228/gregtech-5.09.54.228.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e764f43261ead545f5af734440046abe99d7e443/.minecraft/mods/gregtech-5.09.54.228.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
