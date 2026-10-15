@@ -1,0 +1,117 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "50257a3c00cc938c35b9e03939c7603e619207fa9de435f5809c237ceed44ba4",
+            "from_size": 208,
+            "to_hash": "48ca137c444a4ea16a358566b654cb1af0c1ff91889747c7e2b20bf777e2b721",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "7c66960c9e0edc62f869bb6487c366471f8f592ca133f4b2a82928deb34f5182",
+            "from_size": 6287,
+            "to_hash": "03480d16a720b5b5e6aa7894925db2c96af77b977b503aec833de6daf38e7d96",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/TwilightForest-2.7.44.jar",
+            "from_hash": "36e0f4b298795b9c1cc7d093d6cb51a6845caf31dd6f7d5cd3f4a5cbd318ed27",
+            "from_size": 5368048,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.7.45.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "84eb70c61c8e73e2dc7c5e5a332789f379ed1b31bf70b51f25146affb182a818",
+            "to_size": 5368058,
+            "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.45/TwilightForest-2.7.45.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/mods/TwilightForest-2.7.45.jar"
+        },
+        {
+            "path": "mods/blockrenderer6343-1.4.24.jar",
+            "from_hash": "69f968af3015ab3ea386f8e61205b3d1918ada3bc94e0fbd7414849dc481af10",
+            "from_size": 107224,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1084-GTNH.jar",
+            "from_hash": "b63a7a77b0ce64abf44531813422101f3d446906391a07ae37854f9637f3e537",
+            "from_size": 5049047,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/blockrenderer6343-1.4.25.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8608bddf642a8e92ce611ad206464c03c197be3d31c20aa924593f9f9f2315b9",
+            "to_size": 116728,
+            "url": "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.4.25/blockrenderer6343-1.4.25.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/mods/blockrenderer6343-1.4.25.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1085-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2992b99db49d47169b5753d0a2621fe3f254f696468647db515c40c77eb64ef0",
+            "to_size": 5049026,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1085-GTNH/appliedenergistics2-rv3-beta-1085-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/mods/appliedenergistics2-rv3-beta-1085-GTNH.jar"
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.65-GTNH.jar",
+            "from_hash": "291decdd950025f6ba08d2bd6ff9dc025a73086618622ea0d8ddaf9230c0cf9c",
+            "from_size": 1434830,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "2fae9db69faa42b71a028bf4b6aa25ab224b02b68336dafd5e73ad9b81c7ea29",
+            "from_size": 34874687,
+            "to_hash": "2548d5037828c084a3bdbecf678654a926b4559b3129bdef5ff5ee3b3d872ce1",
+            "to_size": 34899674,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "mods/thaumicenergistics-1.7.66-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "932c1a409aa917422b33eba298ba5082bbc4bcaae1b80764bc2aeb1e5a58302a",
+            "to_size": 1434829,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.66-GTNH/thaumicenergistics-1.7.66-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/mods/thaumicenergistics-1.7.66-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.229.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6b60fe9dc1a17750799c0b3750ef42becc1974de503343edbd66ad651518462d",
+            "to_size": 68169061,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.229/gregtech-5.09.54.229.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e594e5df0fac6d086449f9ff9dd8964b1b37438b/.minecraft/mods/gregtech-5.09.54.229.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.228.jar",
+            "from_hash": "6ae3d200ac6546288df9963061776a74e2126210ea0d669245cc7515ff32598c",
+            "from_size": 68168901,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
