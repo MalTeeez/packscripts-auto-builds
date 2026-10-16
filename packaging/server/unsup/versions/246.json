@@ -1,0 +1,93 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "48ca137c444a4ea16a358566b654cb1af0c1ff91889747c7e2b20bf777e2b721",
+            "from_size": 208,
+            "to_hash": "715244b7218ccaec25c7bd03e3014b4b9e412d1dcfabe42d269f84e18ae5a006",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f790721ba186a60d68c57f494478924a59bf0ba/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "03480d16a720b5b5e6aa7894925db2c96af77b977b503aec833de6daf38e7d96",
+            "from_size": 6287,
+            "to_hash": "8a2f4f27dcbef5b448ef79037e3bc84c34ece443db9864e93ab4115846c049b2",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f790721ba186a60d68c57f494478924a59bf0ba/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/fether-2.0.8.jar",
+            "from_hash": "3bea4f436e824b259444439b8d6c71febf65935b556186a5c72c971cbab5ecbc",
+            "from_size": 130223,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/fether-2.0.9.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "554492ba0221f465f5b97411b2953ed508294b4125d6a727e5465418d89c3084",
+            "to_size": 134474,
+            "url": "https://github.com/GTNewHorizons/Fether/releases/download/2.0.9/fether-2.0.9.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f790721ba186a60d68c57f494478924a59bf0ba/.minecraft/mods/fether-2.0.9.jar"
+        },
+        {
+            "path": "mods/littletiles-1.6.60.jar",
+            "from_hash": "4961b2103ba4e5ef81f401645ddc85017bef71aee2c0e6c598496193480c3ce4",
+            "from_size": 809152,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.6.61.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "eb3467cca097981072b292ca2d8efacf003844a7d0ae5ff61cdcc0ed1bdb2a55",
+            "to_size": 809252,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.6.61/littletiles-1.6.61.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f790721ba186a60d68c57f494478924a59bf0ba/.minecraft/mods/littletiles-1.6.61.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.4.101.jar",
+            "from_hash": "59284120547623738a47444a6505d635d33d6f90052262ce81dbe00a2f773437",
+            "from_size": 2306004,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/vendingmachine-0.4.102.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "9b6ae88ed4df04f2d4a469a9943898bba77be4ad5fd148601dbe8542bb04c1de",
+            "to_size": 2306005,
+            "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.4.102/vendingmachine-0.4.102.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f790721ba186a60d68c57f494478924a59bf0ba/.minecraft/mods/vendingmachine-0.4.102.jar"
+        },
+        {
+            "path": "mods/Thaumcraft-1.7.10-4.2.3.5.jar",
+            "from_hash": "3dba9786966974701578a658d1bb369bf35bdf5f363079f5ac9c4910a39113be",
+            "from_size": 12565807,
+            "to_hash": "3dba9786966974701578a658d1bb369bf35bdf5f363079f5ac9c4910a39113be",
+            "to_size": 12565807,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f790721ba186a60d68c57f494478924a59bf0ba/.minecraft/mods/Thaumcraft-1.7.10-4.2.3.5.jar"
+        },
+        {
+            "path": "libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar",
+            "from_hash": "3aa616f5c56d2052fc5e3231f3e8cf1736f876caff0142a66096fc5b4dc87ae5",
+            "from_size": 13449765,
+            "to_hash": "3aa616f5c56d2052fc5e3231f3e8cf1736f876caff0142a66096fc5b4dc87ae5",
+            "to_size": 13449765,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6f790721ba186a60d68c57f494478924a59bf0ba/packaging/server/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
