@@ -2,15 +2,18 @@
 # Rebuild .gitattributes, deciding per large file whether it can be a Git LFS
 # pointer or has to be committed as plain bytes.
 #
-# With LFS_UPLOADS=false nothing may be uploaded, and GitHub refuses a push that
-# references an LFS object it does not already store (GH008, enforced from the
-# pointer *content* — leaving the path out of .gitattributes does not help). So a
-# large file may only stay an LFS pointer when its content is byte-identical to
-# the pointer already committed at HEAD, i.e. an earlier run uploaded that exact
-# object. Anything new is committed raw, which costs repo size but keeps every
-# url working: packscripts hashes the blob content, so a raw jar still matches
-# annotated_mods.json and its manifest url stays the GitHub release, with
-# raw.githubusercontent as a mirror that now actually resolves.
+# With LFS_UPLOADS=false nothing is tracked at all: every large file is committed
+# raw. Two reasons it has to be all-or-nothing rather than "keep the pointers
+# whose object is already stored":
+#   - GitHub refuses a push referencing an LFS object it does not store (GH008,
+#     enforced from the pointer *content*, so leaving the path out of
+#     .gitattributes does not help), so new content can never be a pointer.
+#   - A pointer that stays behind is still *read* from LFS — by the image build's
+#     smudge and by every client install — which bills bandwidth just as uploads
+#     bill storage.
+# Raw costs repo size but keeps every url working: packscripts hashes blob
+# content, so a raw jar still matches annotated_mods.json and its manifest url
+# stays the GitHub release, with raw.githubusercontent as a mirror that resolves.
 set -euo pipefail
 
 lfs_uploads="${LFS_UPLOADS:-true}"
@@ -30,11 +33,6 @@ if [ "$lfs_uploads" = "true" ]; then
     # --force replaces the no-op hook that a run with uploads off leaves behind.
     git lfs install --local --force
 else
-    git config --local filter.lfs.clean 'git-lfs clean -- %f'
-    git config --local filter.lfs.smudge 'git-lfs smudge -- %f'
-    git config --local filter.lfs.process 'git-lfs filter-process'
-    git config --local filter.lfs.required true
-    export GIT_LFS_TRACK_NO_INSTALL_HOOKS=1
     neutralize_pre_push
 fi
 
@@ -50,11 +48,8 @@ while IFS= read -r -d '' file; do
         continue
     fi
 
-    # Unchanged content keeps its pointer: the object is already on the server,
-    # so the push references nothing new. Everything else goes in raw.
-    committed_oid="$(git cat-file -p "HEAD:$path" 2>/dev/null | sed -n 's/^oid sha256://p' || true)"
-    if [ -n "$committed_oid" ] && [ "$committed_oid" = "$(sha256sum "$file" | cut -d' ' -f1)" ]; then
-        git lfs track "$path"
+    # Only content that differs from HEAD adds anything to history this run.
+    if git diff --quiet HEAD -- "$path" 2>/dev/null; then
         continue
     fi
 
@@ -62,11 +57,6 @@ while IFS= read -r -d '' file; do
     raw+=("$(printf '%s (%s MiB)' "$path" "$((size / 1048576))")")
     raw_bytes=$((raw_bytes + size))
 done < <(find . -mindepth 1 -type f -size +10M ! -path './.git*' ! -path './packscripts*' -print0)
-
-if [ "$lfs_uploads" != "true" ]; then
-    # Insurance against a git-lfs that reinstalls the hook anyway.
-    neutralize_pre_push
-fi
 
 if [ "${#raw[@]}" -gt 0 ]; then
     printf 'Committing raw (LFS uploads are off): %s\n' "${raw[@]}"
