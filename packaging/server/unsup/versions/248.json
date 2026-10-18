@@ -1,0 +1,85 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "7348ed44dfba41b50427ac68436a25a80764c86ac396b6921a88217905595e12",
+            "from_size": 208,
+            "to_hash": "6aa2632f2ead670b8cbd7ac9d22e6e2c551e4be24a3c2e9cefe94eb43f72db5b",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e1965eddaba3b75aaca0f0757767d3953f4a9c9c/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "0d873cc83176336de63e8d6d4660324b7e4d9b3d24b6205cdb32f045f859b446",
+            "from_size": 6287,
+            "to_hash": "5a686b7ff1e8ee62c3e50f8fb4ad1e77be1e37a1813cd0a2fdea7d1b0f6f0d30",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e1965eddaba3b75aaca0f0757767d3953f4a9c9c/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1086-GTNH.jar",
+            "from_hash": "411d1672e21de8ffc24b0e84d9f7baa2998c5f34eb43711a77e0df51234e1665",
+            "from_size": 5049028,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.92.jar",
+            "from_hash": "6c3d596b40eb12f3e5093a2493a87148b613fdde2c4a4ef726a0046791077b86",
+            "from_size": 48449813,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "2548d5037828c084a3bdbecf678654a926b4559b3129bdef5ff5ee3b3d872ce1",
+            "from_size": 34899674,
+            "to_hash": "0356176a254961577a34914bdc69472d5fdb1b8f0958da8f640f50e1a7638bdc",
+            "to_size": 34918088,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e1965eddaba3b75aaca0f0757767d3953f4a9c9c/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1087-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f50c661cb555da655abd8909e0b18fabee9696a1b9968b8a50289cc72df600b3",
+            "to_size": 5052367,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1087-GTNH/appliedenergistics2-rv3-beta-1087-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e1965eddaba3b75aaca0f0757767d3953f4a9c9c/.minecraft/mods/appliedenergistics2-rv3-beta-1087-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.93.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c16b9b675b47eed9c16094663a758caf4ba822faca9e37818e7f85005bb38295",
+            "to_size": 48449823,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.93/GTNewHorizonsCoreMod-2.9.93.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e1965eddaba3b75aaca0f0757767d3953f4a9c9c/.minecraft/mods/GTNewHorizonsCoreMod-2.9.93.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.234.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a47acc8b3f47222a2646aee756fd4031b0df69d6c3f7e83e88c8e99b1714eab3",
+            "to_size": 68183645,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.234/gregtech-5.09.54.234.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/e1965eddaba3b75aaca0f0757767d3953f4a9c9c/.minecraft/mods/gregtech-5.09.54.234.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.232.jar",
+            "from_hash": "0f1983f6d23ad2de094f5d8cfae2d18226eaa010aa044080547812c62d5f83f8",
+            "from_size": 68183016,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
