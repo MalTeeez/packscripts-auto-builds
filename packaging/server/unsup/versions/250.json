@@ -1,0 +1,236 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "a2da7730ae1368a9953008dc40bad14e463eee08ebfbaebc3e1ec61d03ca2653",
+            "from_size": 208,
+            "to_hash": "017e5fa564f78d5611521c5d092bb4e44fd3575a65321c2e2f3c8dc1d3a7286b",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "3267ef02fc20c3090ae197a099a241f1d09f1ade254b4cd2ca72454a41315dfc",
+            "from_size": 6287,
+            "to_hash": "cbd79c167f5b007aca9b885d03fb882c112f7d12d332b2f52916af370b40198a",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/EnderStorage-1.8.7.jar",
+            "from_hash": "086d61761a93aead84bb7c37acbe176d0e0a450fd93ab12597c0e05e8ca7ef03",
+            "from_size": 158107,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/EnderStorage-1.8.9.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "723343fb0893c940c5962212faf03d876667a98848898d275c578d15ff73508c",
+            "to_size": 159141,
+            "url": "https://github.com/GTNewHorizons/EnderStorage/releases/download/1.8.9/EnderStorage-1.8.9.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/EnderStorage-1.8.9.jar"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.162-GTNH.jar",
+            "from_hash": "cc4190b66573177a919f96b405b71b3d1bc190b503ad275f8561212c0e464b2d",
+            "from_size": 1786102,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.163-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "55a36d6e32220ea9c66147121cc644864662f48087122e7c11534f84f3da4506",
+            "to_size": 1786904,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.163-GTNH/NotEnoughItems-2.8.163-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/NotEnoughItems-2.8.163-GTNH.jar"
+        },
+        {
+            "path": "mods/TConstruct-1.14.119-GTNH.jar",
+            "from_hash": "92f43f02b02d8a0224112df2f001399d7d1a11a6421bb9b21e1b0c81c5ef7f89",
+            "from_size": 5616253,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/WirelessCraftingTerminal-1.12.16.jar",
+            "from_hash": "4bbce873a01e867c91e9b84e2f32e00852a6e50d37e707fdebda1e835017cf56",
+            "from_size": 246638,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.120-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1bf8dbf6b7b95e33d39ef1b5706befaa361bca991a362578b3a9060020af2f3e",
+            "to_size": 5616422,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.120-GTNH/TConstruct-1.14.120-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/TConstruct-1.14.120-GTNH.jar"
+        },
+        {
+            "path": "mods/WirelessCraftingTerminal-1.12.17.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "334216e53507d8a02742f710acf896be664d593e8093f797d293ba737f6f355f",
+            "to_size": 247068,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/WirelessCraftingTerminal-1.12.17.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1089-GTNH.jar",
+            "from_hash": "3adffad277cda6c096a3d964cf2d502e17d39c0c7a1a77dc8941f3638a581b8b",
+            "from_size": 5052849,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.94.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c739874e79906384690508b4e31cb61a504008d3db03fabc9a9b6c56c2a8e087",
+            "to_size": 48449821,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.94/GTNewHorizonsCoreMod-2.9.94.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/GTNewHorizonsCoreMod-2.9.94.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1090-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "24e0a3077e171757bb784b2a57837a4c1efb9dc6138926001e1d7e301b123f72",
+            "to_size": 5053937,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1090-GTNH/appliedenergistics2-rv3-beta-1090-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/appliedenergistics2-rv3-beta-1090-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.93.jar",
+            "from_hash": "c16b9b675b47eed9c16094663a758caf4ba822faca9e37818e7f85005bb38295",
+            "from_size": 48449823,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/binnie-mods-2.6.48.jar",
+            "from_hash": "85b540b83c0c65eb7227ff4757d578e98ee34cb2ed18a8ceb5c487f1318e3cf4",
+            "from_size": 4256738,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/cropsnh-2.0.140.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f3cfd564b438b9669be927f27bae93a8fbe77797bfd89886d6d9683c451d2e9e",
+            "to_size": 2083962,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.0.140/cropsnh-2.0.140.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/cropsnh-2.0.140.jar"
+        },
+        {
+            "path": "mods/cropsnh-2.0.139.jar",
+            "from_hash": "792913883f29b089449b7c1e0ce17f813a97bc02ad62433a1ba2c8bdacb7b224",
+            "from_size": 2083930,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/binnie-mods-2.6.49.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4beae79bf2e37929298ff05ed3c1272083673b5d9c5564d92aae40ee6c1dd142",
+            "to_size": 4256735,
+            "url": "https://github.com/GTNewHorizons/Binnie/releases/download/2.6.49/binnie-mods-2.6.49.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/binnie-mods-2.6.49.jar"
+        },
+        {
+            "path": "mods/guidenh-1.3.48.jar",
+            "from_hash": "616c8b022b6dade13a8704437a99dd7ee1214929b05f77b83b3cab541a668727",
+            "from_size": 29268190,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.217.jar",
+            "from_hash": "bace1388077b6a8a1dd46a27eab35caef61c1913fe417f3120b02afbcd1c1f38",
+            "from_size": 1260245,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.3.49.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "330569bacb2e1c5dbddc7ce96554d739951ae9382e37d91fb7d993591a49a0a8",
+            "to_size": 29313980,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.3.49/guidenh-1.3.49.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/guidenh-1.3.49.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.218.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5060198e774ddf6d49c92d7166b1703714e8090e6690672c76c6865d51529baf",
+            "to_size": 1261292,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.218/hodgepodge-2.7.218.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/hodgepodge-2.7.218.jar"
+        },
+        {
+            "path": "mods/malisisdoors-1.19.12-GTNH.jar",
+            "from_hash": "1ee5ebf2626a0e79396789c7c754ac72c386e0e44ea508dea2a9a1505f7207ef",
+            "from_size": 2058622,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.70-GTNH.jar",
+            "from_hash": "f7b82f9d56e6b56f6f6eb886ee5df2e57226071efb9bcb2c54f93614cefd8f6a",
+            "from_size": 736557,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.71-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f43b43caa6d8aaf1c5ffa827618495be814eb538052b1fcbc9d9d256ea2a1aa0",
+            "to_size": 739140,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.71-GTNH/matter-manipulator-0.1.71-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/matter-manipulator-0.1.71-GTNH.jar"
+        },
+        {
+            "path": "mods/malisisdoors-1.19.13-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "49ee04dbfe9e124640bbc4ddafc3a75c35dd66f72e06f59d193cbde13051375b",
+            "to_size": 2058651,
+            "url": "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.19.13-GTNH/malisisdoors-1.19.13-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/malisisdoors-1.19.13-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.238.jar",
+            "from_hash": "274c7fc6ec5b16933bbb2156ac5d44652ddd0f3232ad3b0d83e0cde4b54c14c4",
+            "from_size": 68043824,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.239.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b44486bd416ec85580e0ced4ade46ba94a171f353816cdaf2ff62edad2cc5f7e",
+            "to_size": 68045109,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.239/gregtech-5.09.54.239.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/356f90a71c402f19a9110e56dfbca47126947bee/.minecraft/mods/gregtech-5.09.54.239.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
