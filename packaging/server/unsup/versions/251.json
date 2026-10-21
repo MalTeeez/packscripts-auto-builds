@@ -1,0 +1,125 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "017e5fa564f78d5611521c5d092bb4e44fd3575a65321c2e2f3c8dc1d3a7286b",
+            "from_size": 208,
+            "to_hash": "4ab8ea3b4869de482785da9c155aae492b027de24238ca5b7064d40c3daa86f0",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "cbd79c167f5b007aca9b885d03fb882c112f7d12d332b2f52916af370b40198a",
+            "from_size": 6287,
+            "to_hash": "d2e485991cdd637d9ada8378a54eb54c91676fb81c62e7c8e8e6cc0ab256ce29",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/RandomThings-2.7.11.jar",
+            "from_hash": "b2d197c3e2a1cd82ba58baa983903e07b61dee24cfaccbe7e722602ac7d2feb9",
+            "from_size": 2216833,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.163-GTNH.jar",
+            "from_hash": "55a36d6e32220ea9c66147121cc644864662f48087122e7c11534f84f3da4506",
+            "from_size": 1786904,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.164-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "86e8ed4ec9841a0e2246f4f814a5545a16ddc58e8c02fe69573bbaffeea07aa9",
+            "to_size": 1790246,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.164-GTNH/NotEnoughItems-2.8.164-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/mods/NotEnoughItems-2.8.164-GTNH.jar"
+        },
+        {
+            "path": "mods/RandomThings-2.7.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4aaa62c1f05d023438ccd1cb3cff8213612728f008cddb8c9c676687875ffcbf",
+            "to_size": 2216374,
+            "url": "https://github.com/GTNewHorizons/Random-Things/releases/download/2.7.12/RandomThings-2.7.12.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/mods/RandomThings-2.7.12.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1091-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "67c2e304f4592734ec848e75474ece8567ae50e8ee07b0e7494fc965a58d0b4b",
+            "to_size": 5054715,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1091-GTNH/appliedenergistics2-rv3-beta-1091-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/mods/appliedenergistics2-rv3-beta-1091-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1090-GTNH.jar",
+            "from_hash": "24e0a3077e171757bb784b2a57837a4c1efb9dc6138926001e1d7e301b123f72",
+            "from_size": 5053937,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.71-GTNH.jar",
+            "from_hash": "f43b43caa6d8aaf1c5ffa827618495be814eb538052b1fcbc9d9d256ea2a1aa0",
+            "from_size": 739140,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.72-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f718844466ac6f56bccf00070364a361d96b3a43dfe3f2a5c95bef9014aeb79d",
+            "to_size": 739633,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.72-GTNH/matter-manipulator-0.1.72-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/mods/matter-manipulator-0.1.72-GTNH.jar"
+        },
+        {
+            "path": "mods/structurelib-1.4.46.jar",
+            "from_hash": "e8460e006af869a465b938f89fcb61dc5e75d3b14a3f766f4f3c23e01b2d1b7a",
+            "from_size": 365784,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/structurelib-1.4.47.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b434f3fa8be3e3f9d27bbba028a6284654bead5d4a5eb5ada88b5116187b9d90",
+            "to_size": 367947,
+            "url": "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.47/structurelib-1.4.47.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/mods/structurelib-1.4.47.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.240.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "39f8ebfdd2d83a1fe3b4681d58a1b7bfc636d844fe6881ec44d549b54f975c75",
+            "to_size": 68067663,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.240/gregtech-5.09.54.240.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/401d331acbdd4954aac72ff730ed1431f60211db/.minecraft/mods/gregtech-5.09.54.240.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.239.jar",
+            "from_hash": "b44486bd416ec85580e0ced4ade46ba94a171f353816cdaf2ff62edad2cc5f7e",
+            "from_size": 68045109,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
