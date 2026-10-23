@@ -1,0 +1,157 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "80fab871084ff48937e307c3043f520bf4361a11ede2e4ab67d88b8ab25fca16",
+            "from_size": 208,
+            "to_hash": "c5d23df603d57ac4ad9d68cb35113599bd3ff50426c367078ab99d4e3b9f4044",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "efff27745a7121b24c6b3b4e969a1fd8b56c474a3e3fad0cdd35101b103aa4a1",
+            "from_size": 6287,
+            "to_hash": "1fb25b05c433ae1ff873c5bf6d7de8d278f1fed352750d97d9c56bde145dcfc0",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/BaublesExpanded-2.2.25-GTNH.jar",
+            "from_hash": "942f2a9e7d97582a9b1ec9302f1fa3bb86cc547f2873aa902dc44aa919f7ceee",
+            "from_size": 115228,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/BaublesExpanded-2.2.26-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "554624dd865489d852dd463abe17cebc546961f1a288a78f5712aeb6d8253d8d",
+            "to_size": 116399,
+            "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.26-GTNH/BaublesExpanded-2.2.26-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/BaublesExpanded-2.2.26-GTNH.jar"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.164-GTNH.jar",
+            "from_hash": "86e8ed4ec9841a0e2246f4f814a5545a16ddc58e8c02fe69573bbaffeea07aa9",
+            "from_size": 1790246,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.8.165-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4ea122bf5871d3638513b7db29f270f8f4a3f91d1bc45f535acabf1ec8c06df5",
+            "to_size": 1790516,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.165-GTNH/NotEnoughItems-2.8.165-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/NotEnoughItems-2.8.165-GTNH.jar"
+        },
+        {
+            "path": "mods/ProjRed-4.12.47-GTNH.jar",
+            "from_hash": "642ed242325bf9e5b097ade572162d8fbec387c7a26c5951defdf4a4fd22ee5a",
+            "from_size": 10297763,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ProjRed-4.12.48-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d84b6bdee77142bee7809b139061928b6ff72ce9b0fad2239294773d11dd91eb",
+            "to_size": 10297684,
+            "url": "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.12.48-GTNH/ProjRed-4.12.48-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/ProjRed-4.12.48-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.96.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7ac6067535806dc37b2a7c5987463de78f855ae3b341ca06d4046af28a5c04da",
+            "to_size": 48452856,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.96/GTNewHorizonsCoreMod-2.9.96.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/GTNewHorizonsCoreMod-2.9.96.jar"
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.33.jar",
+            "from_hash": "738053f4703e81ea7f20b867346a434f21b8d63cc32bd15394634a03b1016caa",
+            "from_size": 1983478,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ThaumicTinkerer-2.12.34.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a28fbce66b67cd06f7ca4707f279b8b0e5dbf5bf5cfda39f6f18ed14ed3995fc",
+            "to_size": 1983503,
+            "url": "https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.12.34/ThaumicTinkerer-2.12.34.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/ThaumicTinkerer-2.12.34.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.94.jar",
+            "from_hash": "c739874e79906384690508b4e31cb61a504008d3db03fabc9a9b6c56c2a8e087",
+            "from_size": 48449821,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/VillageNames-4.5.19-GTNH.jar",
+            "from_hash": "3842e16a733f0596e970b0958012367640d8ee7cc3e4e35e6489237f08ff9d7a",
+            "from_size": 3481137,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/VillageNames-4.5.20-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a65743d87bd37ed99ab81ee9f2a21209b4db2ff6425296ce59749b05101cb015",
+            "to_size": 3481427,
+            "url": "https://github.com/GTNewHorizons/VillageNames/releases/download/4.5.20-GTNH/VillageNames-4.5.20-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/VillageNames-4.5.20-GTNH.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.218.jar",
+            "from_hash": "5060198e774ddf6d49c92d7166b1703714e8090e6690672c76c6865d51529baf",
+            "from_size": 1261292,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.219.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0bf958115463c9841610e2d0183dfde26db46e3a7756b8eb88740e382eaf1184",
+            "to_size": 1261940,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.219/hodgepodge-2.7.219.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/hodgepodge-2.7.219.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.241.jar",
+            "from_hash": "e7c066dba5c475b247bf13836687c037382c834ecdc840b60d2511dfbbad99d2",
+            "from_size": 68068489,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.54.243.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3505495b5f992e802da8e62312bc1af4d5c362126d9454e010472adc10df07b5",
+            "to_size": 68105955,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.243/gregtech-5.09.54.243.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4fa1c2994ecec3c9b2e4bf6453f931e6fd2fd805/.minecraft/mods/gregtech-5.09.54.243.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
