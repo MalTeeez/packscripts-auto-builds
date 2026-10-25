@@ -1,0 +1,109 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "99882696a9a04989eb7c68add489bc14f48d94c64695f19d2135c2e5825b566c",
+            "from_size": 208,
+            "to_hash": "e4ba2c55032c303b937a56dd74d82d38dbd415cab13df5e6ffb076fe7378fa57",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "6910236d018ccf0044a873bbbd070fe4af1bc2e7514dc301e1b3ad62edcb9fec",
+            "from_size": 6287,
+            "to_hash": "1bcffb97cbc7bca597ee89fb775502868f6c02181d3b137918b33f92dd127cb8",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/ifu.cfg",
+            "from_hash": "8cdf18c33497d588dc4d9dc99400736e08e762749b09777e848bda8b805ba5af",
+            "from_size": 1699,
+            "to_hash": "622027b8abbef0e6e11467a4b110b9aaaa1a52190bdaca8d0cd4b5b5925c9339",
+            "to_size": 1748,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/config/ifu.cfg"
+        },
+        {
+            "path": "mods/Railcraft-9.17.34.jar",
+            "from_hash": "f2ffc683366b98ac283f296dc1c54e6a31af649f60868dbf769d7d71d6f88cae",
+            "from_size": 3390928,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Railcraft-9.17.35.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "c5701aebb405536e3b98c6c0996444c5220baac486c3265e3827ab6cb33597b4",
+            "to_size": 3390975,
+            "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.35/Railcraft-9.17.35.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/mods/Railcraft-9.17.35.jar"
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.72-GTNH.jar",
+            "from_hash": "f718844466ac6f56bccf00070364a361d96b3a43dfe3f2a5c95bef9014aeb79d",
+            "from_size": 739633,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.1.73-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "75a762ee9b4b64e8c1a54cdcc6b178a64e2ee72fc0475b575d44eefa56decc79",
+            "to_size": 739627,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.1.73-GTNH/matter-manipulator-0.1.73-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/mods/matter-manipulator-0.1.73-GTNH.jar"
+        },
+        {
+            "path": "mods/modularui2-2.3.92-1.7.10.jar",
+            "from_hash": "b6fb3b9c33d2b059ab7e9af75fea255f52f9f2fb752c6cc27bf3616ebd9b9e86",
+            "from_size": 1629333,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/guidenh/DefaultGuide.zip",
+            "from_hash": "0356176a254961577a34914bdc69472d5fdb1b8f0958da8f640f50e1a7638bdc",
+            "from_size": 34918088,
+            "to_hash": "e6c7208815b29c8fe451441a0e31b8f8341227a879cfa6196f0bb2822cebe07f",
+            "to_size": 34951550,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": "mods/modularui2-2.3.93-1.7.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0aa25185e01556c8b4bd2ee86885240694f4ada26a7b9933319ff799da2984b8",
+            "to_size": 1629395,
+            "url": "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.3.93-1.7.10/modularui2-2.3.93-1.7.10.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/mods/modularui2-2.3.93-1.7.10.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.246.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4dc9e96e3ea46b8e0857fadcc1327bbd6277e33d9a0e86fb64c082a28a0c45b4",
+            "to_size": 68111078,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.246/gregtech-5.09.54.246.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/0f6555222ddc6be40c54a695a6859210416ee79a/.minecraft/mods/gregtech-5.09.54.246.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.244.jar",
+            "from_hash": "693875550bb302654963a45b917aa439892bb9d2d9ae27191e8462c3c1440942",
+            "from_size": 68106984,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.39",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.39"
+    }
+}
