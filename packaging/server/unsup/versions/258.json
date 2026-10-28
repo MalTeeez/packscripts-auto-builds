@@ -1,0 +1,205 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "63ecbbcb1bb8c8fa334b74946e0f83d40733c1c8f85d2fe2cd1643a09beaa3ae",
+            "from_size": 208,
+            "to_hash": "65bc1a5c1f66bf21e04c1269c24f6de4b6432b0487c67fae736d00d0b1dd8cec",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "d0d62362d490d6b3ad1718a8e41da03005ea4e668c1f00aa75473f9a9419e896",
+            "from_size": 6287,
+            "to_hash": "8aa359c19c2f88f30d1d95994072b9cf5e1b2ec95c63fd097b38d809f8072eda",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "e594f2e728ce0b66d0a4b24522492ceef2a1cacfe5c27a08da5b9a4dca82106d",
+            "from_size": 404,
+            "to_hash": "895ecf070a4191224784d567a1e0147cc46b25b55d68f45b0caa7cf4acc94f61",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": "mods/BaublesExpanded-2.2.26-GTNH.jar",
+            "from_hash": "554624dd865489d852dd463abe17cebc546961f1a288a78f5712aeb6d8253d8d",
+            "from_size": 116399,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/NeutroniumCompre-XKKP2E5ORG-ju42dSDd3sw==.json",
+            "from_hash": "d735ea3a4d415c06a4cb8d6b9cec85f3cc8aac5a4772bb05ecad4d46296093eb",
+            "from_size": 3076,
+            "to_hash": "96605cc16425a10a86b8b1d7cc4ae5f3de332e6e42cffb55a1e44e0bf74e73ba",
+            "to_size": 3087,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/NeutroniumCompre-XKKP2E5ORG-ju42dSDd3sw==.json"
+        },
+        {
+            "path": "mods/BaublesExpanded-2.2.27-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "51078036bb5a72d5a1715ef3756909e670f55ee9cdeb70ae2fb056894bd7e275",
+            "to_size": 116398,
+            "url": "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.2.27-GTNH/BaublesExpanded-2.2.27-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/BaublesExpanded-2.2.27-GTNH.jar"
+        },
+        {
+            "path": "mods/Railcraft-9.17.35.jar",
+            "from_hash": "c5701aebb405536e3b98c6c0996444c5220baac486c3265e3827ab6cb33597b4",
+            "from_size": 3390975,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Railcraft-9.17.36.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f1dd8875ddc23dd17e59df27ab9d86d0cd3862d7079bdbdfd4da089e4b255d36",
+            "to_size": 3390979,
+            "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.17.36/Railcraft-9.17.36.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/Railcraft-9.17.36.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.51.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "527fafdf9add94ff74f47b9181ccd0cb77a6aa4ff09040b844a7fb91ca367c9b",
+            "to_size": 4908368,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.10.51/EnderIO-2.10.51.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/EnderIO-2.10.51.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.10.50.jar",
+            "from_hash": "da5c30bfc5dd8193d9e3613885b60525c89dbe03b9325c557885d2f4beccedce",
+            "from_size": 4905218,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.121-GTNH.jar",
+            "from_hash": "b5dfc3c85ae6b9287714960d7327bef675a7bed726731b6ff190b91c5e48109d",
+            "from_size": 5616648,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TConstruct-1.14.122-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5b7818141dc1511c53ed2c8e4ed223586ba726a02288dce2c96d158034661eba",
+            "to_size": 5616741,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.122-GTNH/TConstruct-1.14.122-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/TConstruct-1.14.122-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1093-GTNH.jar",
+            "from_hash": "5c484cc4e4dc2317aac98bf6f4bdbf226c12c19a26563396f2cbadd011f2b605",
+            "from_size": 5055729,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/bogosorter-1.3.55-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4e1ba13eec8083ae96d41b3ffe4934be840ce51807774732223110dc48919a1e",
+            "to_size": 482824,
+            "url": "https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.3.55-GTNH/bogosorter-1.3.55-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/bogosorter-1.3.55-GTNH.jar"
+        },
+        {
+            "path": "mods/bogosorter-1.3.54-GTNH.jar",
+            "from_hash": "b043c875df9fcd38349e9d26f73840e1dfea9e1c4a1254e060c0d51fe05a139b",
+            "from_size": 482796,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-rv3-beta-1094-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "01b3a1437c121f55a632947b751ebe530187c3bbd092da538d064028b9845700",
+            "to_size": 5058661,
+            "url": "https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-1094-GTNH/appliedenergistics2-rv3-beta-1094-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/appliedenergistics2-rv3-beta-1094-GTNH.jar"
+        },
+        {
+            "path": "mods/findit-1.4.7.jar",
+            "from_hash": "e1f4352e7667285482167ad19a0dc9247b7f2ee2bc7eb4a312512954f40b9021",
+            "from_size": 68462,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/findit-1.4.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a0b9fad4aed1617a76c553e7a2fcbb0aa2cd4f2ea1c129e8fa97e76aafe6b220",
+            "to_size": 68380,
+            "url": "https://github.com/GTNewHorizons/FindIt/releases/download/1.4.8/findit-1.4.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/findit-1.4.8.jar"
+        },
+        {
+            "path": "mods/logisticspipes-1.5.38-GTNH.jar",
+            "from_hash": "26624f68bc8e444944a692a68b965b32097c04284b0b3258ac2023c8aef9efc5",
+            "from_size": 2903542,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/logisticspipes-1.5.39-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8db7c68d0691bb637618cd069d7be911c5cff29a8b55ae75892a1d29d24c82d9",
+            "to_size": 2903586,
+            "url": "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.5.39-GTNH/logisticspipes-1.5.39-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/logisticspipes-1.5.39-GTNH.jar"
+        },
+        {
+            "path": "mods/magicbees-2.10.12-GTNH.jar",
+            "from_hash": "6da93fbe224dd30ec0cdb37478ff6eea711ef2908ee8b6466dc2f8c6547257ca",
+            "from_size": 1012704,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/magicbees-2.10.13-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0f16828ace8a1343c4518854b8d481db2f31895e7f3859f8dbb0c193529da00a",
+            "to_size": 1012711,
+            "url": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.10.13-GTNH/magicbees-2.10.13-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/magicbees-2.10.13-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.252.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "838df2852544f1e4f168971a93859f19de6402f42a1006fd922e6c46575d798f",
+            "to_size": 68150221,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.252/gregtech-5.09.54.252.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/90e9b5e865f3b63d3c58d01ee0749fa4ab769aab/.minecraft/mods/gregtech-5.09.54.252.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.250.jar",
+            "from_hash": "9b694367a271b8135760fb600b63d755086806c4659d5bf6e211bc7f48836ac9",
+            "from_size": 68132674,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.40",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.40"
+    }
+}
