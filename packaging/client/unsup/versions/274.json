@@ -1,0 +1,237 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "65bc1a5c1f66bf21e04c1269c24f6de4b6432b0487c67fae736d00d0b1dd8cec",
+            "from_size": 208,
+            "to_hash": "56b2312b47540073b0cab39efa6453442fbfce8eb47c3a490c8411440116092c",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "8aa359c19c2f88f30d1d95994072b9cf5e1b2ec95c63fd097b38d809f8072eda",
+            "from_size": 6287,
+            "to_hash": "1878c0dcb5b560a8358dc4083c639b4f45e93e620998503fcec84546be4a50ba",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/QuestSettings.json",
+            "from_hash": "895ecf070a4191224784d567a1e0147cc46b25b55d68f45b0caa7cf4acc94f61",
+            "from_size": 404,
+            "to_hash": "40612e0ce380a90298708bdadeae180ce8a99aea27598ef8fee9f3dd2178bb2d",
+            "to_size": 404,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/betterquesting/DefaultQuests/QuestSettings.json"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/WoodenBolts-AAAAAAAAAAAAAAAAAAAEhA==.json",
+            "from_hash": "5d552f5f5c5a097c7aa5e85880649f769a131a99d15c6baa1c362bb86fd63ab0",
+            "from_size": 7031,
+            "to_hash": "337e45e09a0bc1b21b8105beea321264d967656ebb46c8399da7b2f4ea91b92a",
+            "to_size": 7087,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/WoodenBolts-AAAAAAAAAAAAAAAAAAAEhA==.json"
+        },
+        {
+            "path": ".minecraft/config/betterquesting/DefaultQuests/Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/AlltheFinestCuts-AAAAAAAAAAAAAAAAAAAFxA==.json",
+            "from_hash": "45edf46fb9aae37df3fcd35336040de1cf1064453ba05b648b54016423b1d3fc",
+            "from_size": 4435,
+            "to_hash": "db7c48785e046782192c7167670296ea58ab7fba09e20007f35997f5d4c7a7c5",
+            "to_size": 4544,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/betterquesting/DefaultQuests/Quests/Tier0StoneAge-AAAAAAAAAAAAAAAAAAAAAQ==/AlltheFinestCuts-AAAAAAAAAAAAAAAAAAAFxA==.json"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "25795485273872ffdecb773f45974710d37b046862c6ecc9818dce63ad7f727a",
+            "from_size": 35,
+            "to_hash": "3d86e249c9ef49711e1f5ae0dbd5d71490086fd7f0d98da8103c748303dce2d2",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/IguanaTweaksTConstruct-2.7.14.jar",
+            "from_hash": "c3e6348674a369ebaf42218112a42c3cb208656a34ba8ff5dc8712109a3a0851",
+            "from_size": 437779,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/IguanaTweaksTConstruct-2.7.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0f2b62dd3dfa348c3ab5392402b324a43ba365fe972d3c7604b1511adc320c79",
+            "to_size": 440727,
+            "url": "https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.7.15/IguanaTweaksTConstruct-2.7.15.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/IguanaTweaksTConstruct-2.7.15.jar"
+        },
+        {
+            "path": ".minecraft/mods/InGameInfoXML-2.9.7.jar",
+            "from_hash": "0ff09673ecfaf9fb7ed4fd34cbbf7b0dccbe2c3b8beca810881499a1e76726d3",
+            "from_size": 324526,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/config/txloader/forceload/betterquesting/lang/template.lang",
+            "from_hash": "d8402dc771e43dc5b300e95eb9df384a95cc579d6d326dbacfe27849afe536e9",
+            "from_size": 2127790,
+            "to_hash": "a7fc71704744772d93f4fefe404eb1348aeb951670133f7e79cc3fcba281e5dc",
+            "to_size": 2127930,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/txloader/forceload/betterquesting/lang/template.lang"
+        },
+        {
+            "path": ".minecraft/mods/InGameInfoXML-2.9.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a5e2b4188ef9ff6fb6a23c24b3aae0143617f475d04a6faa6e147d8616e05229",
+            "to_size": 325130,
+            "url": "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.9.8/InGameInfoXML-2.9.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/InGameInfoXML-2.9.8.jar"
+        },
+        {
+            "path": ".minecraft/mods/NEIAddons-1.18.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "640d4eab1b3dbe85995b30b0eb737aacc1f985df1f779c009ba82f92c3f94b32",
+            "to_size": 167703,
+            "url": "https://github.com/GTNewHorizons/neiaddons/releases/download/1.18.8/NEIAddons-1.18.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/NEIAddons-1.18.8.jar"
+        },
+        {
+            "path": ".minecraft/mods/NEIAddons-1.18.7.jar",
+            "from_hash": "ee3429c393785210053604b279c1282a152cd82616db4ce2999ff7f419830390",
+            "from_size": 167760,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.8.170-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1086201a90bbfae020a42c6bce86d67d82fd0febbcccb72acc430694e978860a",
+            "to_size": 1792866,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.170-GTNH/NotEnoughItems-2.8.170-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/NotEnoughItems-2.8.170-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.8.169-GTNH.jar",
+            "from_hash": "93f730d88b1411bf609a5dd1fd23196dd25236960e8df24928c958dfe217ef84",
+            "from_size": 1792786,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/TConstruct-1.14.122-GTNH.jar",
+            "from_hash": "5b7818141dc1511c53ed2c8e4ed223586ba726a02288dce2c96d158034661eba",
+            "from_size": 5616741,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/TConstruct-1.14.123-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7e9ecb65757a594b2dc320ec5921d37392c8dabf490cd83bd1720f45b717f1c2",
+            "to_size": 5616076,
+            "url": "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.14.123-GTNH/TConstruct-1.14.123-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/TConstruct-1.14.123-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/config/guidenh/DefaultGuide.zip",
+            "from_hash": "e6c7208815b29c8fe451441a0e31b8f8341227a879cfa6196f0bb2822cebe07f",
+            "from_size": 34951550,
+            "to_hash": "2373d4e4f2bd4e90205d9d86cebdfd06b4e81b65ab8b70f69c0f7900fe34e261",
+            "to_size": 46225267,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/config/guidenh/DefaultGuide.zip"
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.40.jar",
+            "from_hash": "c91adf2712aa65f8d99f5378a3027f538ab8e027c0b5b2aa261cc632ae937c54",
+            "from_size": 12804085,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/etfuturum-2.6.64-GTNH.jar",
+            "from_hash": "ffc3d4c6af3a1112512f8181cb3c203a19852ab8c8feadafccd79d98acb3c3ce",
+            "from_size": 5368139,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/etfuturum-2.6.65-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dc1e1b813cdf783f9fc94216bb46fe007877c0270d52ea71f29ce0e0c86067b5",
+            "to_size": 5368300,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.65-GTNH/etfuturum-2.6.65-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/etfuturum-2.6.65-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/angelica-2.2.41.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "09992fc4a455b38c2973ef2be8e1cceccc68f59b2c0d72c909f32787c6e27393",
+            "to_size": 12806384,
+            "url": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.41/angelica-2.2.41.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/angelica-2.2.41.jar"
+        },
+        {
+            "path": ".minecraft/mods/simpleskinbackport-1.0.4-GTNH.jar",
+            "from_hash": "b1d57fa8a2fe9d9bd5319e9afe28a5870ab5b0cce5bfe96c3d5a55bdfbde4061",
+            "from_size": 120142,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/simpleskinbackport-1.0.5-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "61830183a70fd125b67876c8e0272f5a30b66d7ee98488552f5b993504e83e7d",
+            "to_size": 124354,
+            "url": "https://github.com/GTNewHorizons/SimpleSkinBackport/releases/download/1.0.5-GTNH/simpleskinbackport-1.0.5-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/simpleskinbackport-1.0.5-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.67-GTNH.jar",
+            "from_hash": "8032e304c38679b0532c5d629bf83499ce21b72d8f52a088d3207230e8969539",
+            "from_size": 1434833,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/thaumicenergistics-1.7.68-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0005041388f5b25c80dcc6a71933e79aeb15081b8055f33e6c1352364871fc1e",
+            "to_size": 1434833,
+            "url": "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.68-GTNH/thaumicenergistics-1.7.68-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/thaumicenergistics-1.7.68-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.256.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b4f8d38ef734e08564e3ddb793c411a23a7d7df6b86de4994fa3d8f9afe947c3",
+            "to_size": 68154094,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.256/gregtech-5.09.54.256.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/41c5dd96672b8c734bb59ad06e39b08a7409943a/.minecraft/mods/gregtech-5.09.54.256.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.54.252.jar",
+            "from_hash": "838df2852544f1e4f168971a93859f19de6402f42a1006fd922e6c46575d798f",
+            "from_size": 68150221,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.40",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.40"
+    }
+}
