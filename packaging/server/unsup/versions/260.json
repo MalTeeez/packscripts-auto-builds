@@ -1,0 +1,77 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "56b2312b47540073b0cab39efa6453442fbfce8eb47c3a490c8411440116092c",
+            "from_size": 208,
+            "to_hash": "84a2d7a5a89a65602d4661709fe4a6be7bfa1a7fb334560ce2eb71dcaa572a08",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b710fec079c2e6ac34881826f1e78fd521cb7ab/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/Wawla-1.3.3-GTNH.jar",
+            "from_hash": "788076ebf369549640063229b66f4ec3980c0fecc1f7ca0294e8672f28889bd6",
+            "from_size": 78897,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "1878c0dcb5b560a8358dc4083c639b4f45e93e620998503fcec84546be4a50ba",
+            "from_size": 6287,
+            "to_hash": "5953d377644acb95906d7f78eab1bb89c9526492f58a72ed9d34283b90374729",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b710fec079c2e6ac34881826f1e78fd521cb7ab/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/Wawla-1.3.4-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6bf5f0bd285038ef85102bc07301e0eb26a346d58d99678ba04eda833f8ee9f1",
+            "to_size": 78896,
+            "url": "https://github.com/GTNewHorizons/WAWLA/releases/download/1.3.4-GTNH/Wawla-1.3.4-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b710fec079c2e6ac34881826f1e78fd521cb7ab/.minecraft/mods/Wawla-1.3.4-GTNH.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.7.219.jar",
+            "from_hash": "0bf958115463c9841610e2d0183dfde26db46e3a7756b8eb88740e382eaf1184",
+            "from_size": 1261940,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.7.220.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f5db5b2b9bc89e441c5b0818240eaaf3027642409d6fabca2a4d624263efa005",
+            "to_size": 1262199,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.7.220/hodgepodge-2.7.220.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b710fec079c2e6ac34881826f1e78fd521cb7ab/.minecraft/mods/hodgepodge-2.7.220.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.257.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "45c43e435a0531565c6d63e1372d4ff24dc26160b612b0bfcf4df8b8242d0159",
+            "to_size": 68157172,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.54.257/gregtech-5.09.54.257.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/6b710fec079c2e6ac34881826f1e78fd521cb7ab/.minecraft/mods/gregtech-5.09.54.257.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.54.256.jar",
+            "from_hash": "b4f8d38ef734e08564e3ddb793c411a23a7d7df6b86de4994fa3d8f9afe947c3",
+            "from_size": 68154094,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.40",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.40"
+    }
+}
