@@ -1,0 +1,84 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "4c5e64a87400768750b001fe8071fcf2539ce582be78d45930ddc85d347dbb84",
+            "from_size": 208,
+            "to_hash": "f2b83c42c19299448880cc0f3fc6db642fb62dd411d62d4846499c9cffc61057",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/25159888677e15d1c4cd0d75d2483373d9b57b42/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "b2c67ad4648e1281f9b31c9777e9a9a00099dadeb1c5fdd93c3e070357dad19d",
+            "from_size": 6287,
+            "to_hash": "27fd181904fe3d3f0057d98e7008633a5e505305d42fa42247788533075b17c5",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/25159888677e15d1c4cd0d75d2483373d9b57b42/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "da8a47da825d685fa887794c6130e218ed0b08328dd24f3a80f18f93c45c9f89",
+            "from_size": 35,
+            "to_hash": "9acd0d7a7a36a9048def68eab71091e1ba598362277c0c698a9c32e17391a0c2",
+            "to_size": 35,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/25159888677e15d1c4cd0d75d2483373d9b57b42/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/WitchingGadgets-1.8.52-GTNH.jar",
+            "from_hash": "cea8017b24f539c60189f5682f80160eed2eca17c5252439fe5d918cc3c39340",
+            "from_size": 3984273,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/WitchingGadgets-1.8.53-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "29273c1a59c88c79ab3f1fc01d8b03ca3a8e6d2a53fdf0902e27cbc89ea2e386",
+            "to_size": 3984321,
+            "url": "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.8.53-GTNH/WitchingGadgets-1.8.53-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/25159888677e15d1c4cd0d75d2483373d9b57b42/.minecraft/mods/WitchingGadgets-1.8.53-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/rwg2-2.0.4.jar",
+            "from_hash": "cc2464db58fb7153477ead94736aac54709fe5ad33ab2b395fc03c7df0a54077",
+            "from_size": 444134,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/rwg2-2.0.6.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "19cc1e21238cf28253225963a24980519c747a0663a61ae8ae489a19c86e178b",
+            "to_size": 451122,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/25159888677e15d1c4cd0d75d2483373d9b57b42/.minecraft/mods/rwg2-2.0.6.jar"
+        },
+        {
+            "path": ".minecraft/mods/OpenComputers-1.12.68-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "06ebdccfb5801748a455adfd53b2197d848b48b1711e1f2c22dc4dd5645f7d56",
+            "to_size": 16961338,
+            "url": "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.12.68-GTNH/OpenComputers-1.12.68-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/25159888677e15d1c4cd0d75d2483373d9b57b42/.minecraft/mods/OpenComputers-1.12.68-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/OpenComputers-1.12.67-GTNH.jar",
+            "from_hash": "630a21b2e775b51139a3b52f93356ac239245788824e340dba731bf551bf7893",
+            "from_size": 16958801,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.42",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.42"
+    }
+}
