@@ -1,0 +1,61 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "b23d838367a0232c0fb6e3509d5c29c6fa8feffbf71978634d89cd444a76140d",
+            "from_size": 6287,
+            "to_hash": "cfe951d7c316bdd41578ebef0d1edaf06bacdbfc18bad4415f591fce579bb8da",
+            "to_size": 6287,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c43ea16c7461a87ebb7b635109f870f2edc98d40/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "5e76e904aee38e04ef292da9f0bd683c1a3ade44ebc899aabfe62dad3b7682fe",
+            "from_size": 208,
+            "to_hash": "a63f54aec41369288e727fd88c69555027fa238d92b0c3907b0d9bb11cd99a75",
+            "to_size": 208,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c43ea16c7461a87ebb7b635109f870f2edc98d40/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.56.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2d3bcd68588e84a19e29e00ec1ca54ef6cd0fa19a179698d9619e26026250168",
+            "to_size": 1444238,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.11.56/gtnhlib-0.11.56.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c43ea16c7461a87ebb7b635109f870f2edc98d40/.minecraft/mods/gtnhlib-0.11.56.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.11.55.jar",
+            "from_hash": "9088540b9e358a993f2206317d712cde03b9ead62c4817c210943fe0b273c3f6",
+            "from_size": 1434019,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.103.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3e9500ed251c851a460a10a47a4c12f931793af0162af783822a6f324702fb2a",
+            "to_size": 48453475,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.9.103/GTNewHorizonsCoreMod-2.9.103.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/c43ea16c7461a87ebb7b635109f870f2edc98d40/.minecraft/mods/GTNewHorizonsCoreMod-2.9.103.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.9.102.jar",
+            "from_hash": "29f3a98547a2cf0bff18bc0487cd2c861fc480b86bf45a1e674a4860aae38ceb",
+            "from_size": 48453456,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.0.42",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.0.42"
+    }
+}
