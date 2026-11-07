@@ -1,0 +1,83 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "a1fbcdfdc08336752e543a602f32b02dce3e7e162c7e3076e55f588615703160",
+            "from_size": 209,
+            "to_hash": "2621321efe6e34292dbd06aed0babae02349212584b7070624173ede260f3e23",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fba26a1028b59fa2bdf9fcf71fec4ca313bc37a1/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "93eea6406125367158a192b5df1700c29a0015e5e6b3e731e07fdd2e10d0e94f",
+            "from_size": 6289,
+            "to_hash": "1355bd7a19efa62b7a380f981130e45bb334841633c567a31d876a2dab3454ab",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fba26a1028b59fa2bdf9fcf71fec4ca313bc37a1/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "2edc95fcaf9e3fb589a58a564ec452b3a2880fb94bd8ab74d5ee3a3b586bf333",
+            "from_size": 36,
+            "to_hash": "ad2a52e882f25352a541b33929cff0c0e0978ce6399d7451a54b6d4705af1965",
+            "to_size": 36,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fba26a1028b59fa2bdf9fcf71fec4ca313bc37a1/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.9.1-GTNH.jar",
+            "from_hash": "40c0c20b7a88282859c13f680af3d4382407430059973ad029bf76f6245008b8",
+            "from_size": 1796207,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.9.2-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1f6fdd279cc5d15a165c1a8cd6bd4cacc38ff7015a27a52a522098621c2360f9",
+            "to_size": 1796177,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.2-GTNH/NotEnoughItems-2.9.2-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fba26a1028b59fa2bdf9fcf71fec4ca313bc37a1/.minecraft/mods/NotEnoughItems-2.9.2-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/GalaxySpace-1.1.146-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4f27f7e71f8abdf7a67ccec8f23d1599fcf6f63895521b286a0d31feb62e5407",
+            "to_size": 7003240,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fba26a1028b59fa2bdf9fcf71fec4ca313bc37a1/.minecraft/mods/GalaxySpace-1.1.146-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/GalaxySpace-1.1.145-GTNH.jar",
+            "from_hash": "7755f7d931674a77ff35980a5ff0bc0fbfcbd2ad2ee39d9b6ea84fc586710e97",
+            "from_size": 7003240,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-1.0.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e36c88615f683e921d4597666cf19a1fb4167e0660bfa2869b6c5ebabe07ccdb",
+            "to_size": 8114239,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fba26a1028b59fa2bdf9fcf71fec4ca313bc37a1/.minecraft/mods/appliedenergistics2-1.0.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/appliedenergistics2-1.0.0.jar",
+            "from_hash": "848267adb49ded8e25f20c18ce0f473091237539f73290654ac55973d8830cdf",
+            "from_size": 8111558,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
