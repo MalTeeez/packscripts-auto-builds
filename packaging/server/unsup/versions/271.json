@@ -1,0 +1,133 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "690335b9447696a07d697b2b030a54dd8226eb43bd3279432f7d6c3805883aca",
+            "from_size": 209,
+            "to_hash": "9057c3ef97fc4b43981755477d3302f5b92561b79c04ab7557b211848cb10ac4",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "ccc438c96be20896815fead5e249ec80f10813987f7cfdbd5f0bec77e37f19cb",
+            "from_size": 6289,
+            "to_hash": "2f4dc93e5e445d27e08362c9b99806c1b8457ed478d16f3780e577eca59dee25",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/EMT-1.8.0.jar",
+            "from_hash": "6ec04160f05e305ddc7d711bdcda6ad940bf68a6b7702b4cd5115ba8de397f11",
+            "from_size": 1474297,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/EMT-1.8.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4f108f730312470f5c93dac874ee027089a1c63df21da61f9c6800a5c1db3816",
+            "to_size": 1474265,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/mods/EMT-1.8.1.jar"
+        },
+        {
+            "path": "mods/ForgeRelocation-0.4.0.jar",
+            "from_hash": "a72963d05145c89f7eaa13355089d017b1d02e9268d8e27fd7c58d4ae2449435",
+            "from_size": 456068,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ForgeRelocation-0.4.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b1d48b60525e0a81c43ec7e31067bc6799870ff3f2ef51fb6e4131becae9e853",
+            "to_size": 457308,
+            "url": "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.4.1/ForgeRelocation-0.4.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/mods/ForgeRelocation-0.4.1.jar"
+        },
+        {
+            "path": "mods/JABBA-1.6.0.jar",
+            "from_hash": "6e55bbaa2dc298b3141b2fa3c99dbbd6c29629867fca7bb52f202a1e97adb4df",
+            "from_size": 477827,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/JABBA-1.6.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f376866b0cff709a39ac4869900736096ae34bd2bf48cc886ddc21082ef68257",
+            "to_size": 477751,
+            "url": "https://github.com/GTNewHorizons/Jabba/releases/download/1.6.1/JABBA-1.6.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/mods/JABBA-1.6.1.jar"
+        },
+        {
+            "path": "mods/SpecialMobs-3.8.0.jar",
+            "from_hash": "0570b761632e2fbd3d68aa572956fb6e27639f3fa8101373aedd428f0a42def2",
+            "from_size": 1096908,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/SpecialMobs-3.8.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "eea3e4eef2cd0e153e8d1684de87a4c13485da84e48e4cd2d457f5c3f9328419",
+            "to_size": 1096909,
+            "url": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.8.1/SpecialMobs-3.8.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/mods/SpecialMobs-3.8.1.jar"
+        },
+        {
+            "path": "mods/TooMuchLoot-4.4.0-GTNH.jar",
+            "from_hash": "c7807108e08f35e10a465f508db2c0ee1e56322f5125a53a5be365eb4998c4d5",
+            "from_size": 18758,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TooMuchLoot-4.5.0-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3ad820747950715691c0ea4a327ae6d3496bcb707ad34a85a4ec90f584ffb022",
+            "to_size": 24790,
+            "url": "https://github.com/GTNewHorizons/TooMuchLoot/releases/download/4.5.0-GTNH/TooMuchLoot-4.5.0-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/mods/TooMuchLoot-4.5.0-GTNH.jar"
+        },
+        {
+            "path": "mods/tasknh-0.15.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b602d89262e018fb55043a6158ab33e20234f570bf75e10f3cd50e54354ffa94",
+            "to_size": 200215,
+            "url": "https://github.com/GTNewHorizons/TaskNH/releases/download/0.15.1/tasknh-0.15.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/mods/tasknh-0.15.1.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0da31cd759fc6ab3194568274cf0af4eb20456c295a90f3f0c9a0491bbe92c45",
+            "to_size": 48453648,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.4/GTNewHorizonsCoreMod-2.10.4.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/4f0461a3f5e49461f83f9d37674faaf12abf5ab3/.minecraft/mods/GTNewHorizonsCoreMod-2.10.4.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.3.jar",
+            "from_hash": "436d806606fe6e0593c4ee976f3bcf1f92fbe0d704bc8fc365783b9f187c7641",
+            "from_size": 48453662,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
