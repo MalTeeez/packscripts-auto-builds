@@ -648,7 +648,7 @@
         }
     },
     "EMT": {
-        "file_path": "./.minecraft/mods/EMT-1.8.0.jar",
+        "file_path": "./.minecraft/mods/EMT-1.8.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -665,14 +665,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.8.0",
+            "version": "1.8.1",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "OTHER",
             "file_pattern": "",
-            "sha256_sum": "6ec04160f05e305ddc7d711bdcda6ad940bf68a6b7702b4cd5115ba8de397f11"
+            "sha256_sum": "4f108f730312470f5c93dac874ee027089a1c63df21da61f9c6800a5c1db3816"
         }
     },
     "EnderIO": {
@@ -893,12 +893,12 @@
         }
     },
     "ForgeRelocation": {
-        "file_path": "./.minecraft/mods/ForgeRelocation-0.4.0.jar",
+        "file_path": "./.minecraft/mods/ForgeRelocation-0.4.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.4.0/ForgeRelocation-0.4.0.jar",
+        "source": "https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.4.1/ForgeRelocation-0.4.1.jar",
         "notes": "",
         "wanted_by": [
             "RelocationFMP"
@@ -911,14 +911,14 @@
             "MCFrames"
         ],
         "update_state": {
-            "version": "0.4.0",
+            "version": "0.4.1",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "a72963d05145c89f7eaa13355089d017b1d02e9268d8e27fd7c58d4ae2449435"
+            "sha256_sum": "b1d48b60525e0a81c43ec7e31067bc6799870ff3f2ef51fb6e4131becae9e853"
         }
     },
     "GTTweaker": {
@@ -1310,12 +1310,12 @@
         }
     },
     "JABBA": {
-        "file_path": "./.minecraft/mods/JABBA-1.6.0.jar",
+        "file_path": "./.minecraft/mods/JABBA-1.6.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/Jabba/releases/download/1.6.0/JABBA-1.6.0.jar",
+        "source": "https://github.com/GTNewHorizons/Jabba/releases/download/1.6.1/JABBA-1.6.1.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -1324,14 +1324,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.6.0",
+            "version": "1.6.1",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "6e55bbaa2dc298b3141b2fa3c99dbbd6c29629867fca7bb52f202a1e97adb4df"
+            "sha256_sum": "f376866b0cff709a39ac4869900736096ae34bd2bf48cc886ddc21082ef68257"
         }
     },
     "JourneyMapServer": {
@@ -2078,26 +2078,26 @@
         }
     },
     "SpecialMobs": {
-        "file_path": "./.minecraft/mods/SpecialMobs-3.8.0.jar",
+        "file_path": "./.minecraft/mods/SpecialMobs-3.8.1.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.8.0/SpecialMobs-3.8.0.jar",
+        "source": "https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.8.1/SpecialMobs-3.8.1.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "3.8.0",
+            "version": "3.8.1",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "0570b761632e2fbd3d68aa572956fb6e27639f3fa8101373aedd428f0a42def2"
+            "sha256_sum": "eea3e4eef2cd0e153e8d1684de87a4c13485da84e48e4cd2d457f5c3f9328419"
         }
     },
     "SpiceOfLife": {
@@ -2319,26 +2319,26 @@
         }
     },
     "TML": {
-        "file_path": "./.minecraft/mods/TooMuchLoot-4.4.0-GTNH.jar",
+        "file_path": "./.minecraft/mods/TooMuchLoot-4.5.0-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/TooMuchLoot/releases/download/4.4.0-GTNH/TooMuchLoot-4.4.0-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/TooMuchLoot/releases/download/4.5.0-GTNH/TooMuchLoot-4.5.0-GTNH.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [],
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "4.4.0-GTNH",
+            "version": "4.5.0-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "c7807108e08f35e10a465f508db2c0ee1e56322f5125a53a5be365eb4998c4d5"
+            "sha256_sum": "3ad820747950715691c0ea4a327ae6d3496bcb707ad34a85a4ec90f584ffb022"
         }
     },
     "TMechworks": {
@@ -3016,11 +3016,11 @@
         }
     },
     "angelica": {
-        "file_path": "./.minecraft/mods/angelica-2.2.44.jar",
+        "file_path": "./.minecraft/mods/angelica-2.2.45.jar",
         "tags": [
             "SIDE.CLIENT"
         ],
-        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.44/angelica-2.2.44.jar",
+        "source": "https://github.com/GTNewHorizons/Angelica/releases/download/2.2.45/angelica-2.2.45.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -3033,14 +3033,14 @@
             "mcpatcherforge"
         ],
         "update_state": {
-            "version": "2.2.44",
+            "version": "2.2.45",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "f28936d757cee9cc4f7f3fdf7f8eac06fedde34057bd40d0b365b12769253e55"
+            "sha256_sum": "d8e9544506f30906483f9a3b5ebd84cd6deed931fbe14def1120e8e65ae1ecf9"
         }
     },
     "angermod": {
@@ -3963,6 +3963,30 @@
             "sha256_sum": "6e0484d0f6bd9fdb4a421610ad8a5a96c293b97afc35bdb4fddf9fe97ae01763"
         }
     },
+    "dashboard": {
+        "file_path": "./.minecraft/mods/dashboard-1.0.19.jar",
+        "tags": [
+            "SIDE.CLIENT"
+        ],
+        "source": "https://github.com/GTNewHorizons/Dashboard/releases/download/1.0.19/dashboard-1.0.19.jar",
+        "notes": "",
+        "wanted_by": [],
+        "wants": [
+            "gtnhlib"
+        ],
+        "enabled": true,
+        "other_mod_ids": [],
+        "update_state": {
+            "version": "1.0.19",
+            "disable_check": false,
+            "frequency": "EOL",
+            "last_status": "200",
+            "last_updated_at": "",
+            "source_type": "GITHUB",
+            "file_pattern": "",
+            "sha256_sum": "be73790b9a0f480e14f3b025ac1343ab69d3b28ebc74af5503f1a72b865df329"
+        }
+    },
     "defaultkeys": {
         "file_path": "./.minecraft/mods/defaultkeys-1.4.0.jar",
         "tags": [
@@ -4030,12 +4054,12 @@
         }
     },
     "dreamcraft": {
-        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.10.3.jar",
+        "file_path": "./.minecraft/mods/GTNewHorizonsCoreMod-2.10.4.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.3/GTNewHorizonsCoreMod-2.10.3.jar",
+        "source": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.4/GTNewHorizonsCoreMod-2.10.4.jar",
         "notes": "",
         "wanted_by": [
             "WitchingGadgets",
@@ -4050,14 +4074,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.10.3",
+            "version": "2.10.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "436d806606fe6e0593c4ee976f3bcf1f92fbe0d704bc8fc365783b9f187c7641"
+            "sha256_sum": "0da31cd759fc6ab3194568274cf0af4eb20456c295a90f3f0c9a0491bbe92c45"
         }
     },
     "duradisplay": {
@@ -4627,7 +4651,8 @@
             "nutrition",
             "thaumicbases",
             "tasknh",
-            "rwg2"
+            "rwg2",
+            "dashboard"
         ],
         "wants": [],
         "enabled": true,
@@ -5818,6 +5843,32 @@
             "source_type": "GITHUB",
             "file_pattern": "",
             "sha256_sum": "99556a26323038d0b93acf6d0f1a196b9a521b8cf78886a54ba4cbcf427f736b"
+        }
+    },
+    "tasknh": {
+        "file_path": "./.minecraft/mods/tasknh-0.15.1.jar",
+        "tags": [
+            "SIDE.CLIENT",
+            "SIDE.SERVER"
+        ],
+        "source": "https://github.com/GTNewHorizons/TaskNH/releases/download/0.15.1/tasknh-0.15.1.jar",
+        "notes": "",
+        "wanted_by": [],
+        "wants": [
+            "gtnhlib",
+            "modularui2"
+        ],
+        "enabled": true,
+        "other_mod_ids": [],
+        "update_state": {
+            "version": "0.15.1",
+            "disable_check": false,
+            "frequency": "EOL",
+            "last_status": "200",
+            "last_updated_at": "",
+            "source_type": "GITHUB",
+            "file_pattern": "",
+            "sha256_sum": "b602d89262e018fb55043a6158ab33e20234f570bf75e10f3cd50e54354ffa94"
         }
     },
     "tc4tweak": {
