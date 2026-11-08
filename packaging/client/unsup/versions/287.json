@@ -1,0 +1,141 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": ".minecraft/config/DreamCoreMod.properties",
+            "from_hash": "9057c3ef97fc4b43981755477d3302f5b92561b79c04ab7557b211848cb10ac4",
+            "from_size": 209,
+            "to_hash": "1da47fd029fda3155dbefab0207a6435fee9057dc6c2dc0ab6934fc8a11b4c4e",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": ".minecraft/config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "2f4dc93e5e445d27e08362c9b99806c1b8457ed478d16f3780e577eca59dee25",
+            "from_size": 6289,
+            "to_hash": "420caca754d8c1b2712d209e3d62b847d044cf45d10b94fba00a0bc5c6e3cd7f",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": ".minecraft/config/txloader/load/mainmenu/version.txt",
+            "from_hash": "a619e9fb001c9db91fc2b18557324269e918d266edb6cf9afd96c3bf2db28269",
+            "from_size": 36,
+            "to_hash": "d32eac04e7d509d47a1e5ed4a944f70493a963ae67d217a5af054cc2d88afefb",
+            "to_size": 36,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/config/txloader/load/mainmenu/version.txt"
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.9.2-GTNH.jar",
+            "from_hash": "1f6fdd279cc5d15a165c1a8cd6bd4cacc38ff7015a27a52a522098621c2360f9",
+            "from_size": 1796177,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/NotEnoughItems-2.9.3-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3d0fb0b1381e0cd8e2527f1eb01ae1b2b3b6c6c4cd0e4c011c9211d93cd48c1a",
+            "to_size": 1798267,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.3-GTNH/NotEnoughItems-2.9.3-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/mods/NotEnoughItems-2.9.3-GTNH.jar"
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.1.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1ea9b59e4920d26d2b8d6b6c0796748d9133be739e66ff109d458b901c63993a",
+            "to_size": 2084115,
+            "url": "https://github.com/GTNewHorizons/CropsNH/releases/download/2.1.1/cropsnh-2.1.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/mods/cropsnh-2.1.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/dashboard-1.0.19.jar",
+            "from_hash": "be73790b9a0f480e14f3b025ac1343ab69d3b28ebc74af5503f1a72b865df329",
+            "from_size": 1653486,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/cropsnh-2.1.0.jar",
+            "from_hash": "f3bf9072f68dbc661b0b1bf89680ba71d8b0a169da76427cf91f710f1c73448a",
+            "from_size": 2084113,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/dashboard-1.0.20.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "6aa9479e820a6792175e6d0460b11af24aee81f031958d201a39dac2cff4d024",
+            "to_size": 1653705,
+            "url": "https://github.com/GTNewHorizons/Dashboard/releases/download/1.0.20/dashboard-1.0.20.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/mods/dashboard-1.0.20.jar"
+        },
+        {
+            "path": ".minecraft/mods/littletiles-1.7.0.jar",
+            "from_hash": "c76bb1ee0040908561754c19e81a8f393a68628ae38933ed68bb18dd509d7729",
+            "from_size": 811961,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/littletiles-1.7.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "13238c0e219f16926d5216ed6b9de30b49fa3dca2375d46dc14fde4d947682d0",
+            "to_size": 818294,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.7.1/littletiles-1.7.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/mods/littletiles-1.7.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/rwg2-2.1.0.jar",
+            "from_hash": "0b6380f7cd6d31aec0584acff6c94566b076500096cbed0d166adf980c57f90f",
+            "from_size": 460652,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": ".minecraft/mods/rwg2-2.1.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "eefc4fdd462d2fb24d4ea3b134662e52a3d5a00c461104affcdb4bd179c75be0",
+            "to_size": 466508,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/mods/rwg2-2.1.1.jar"
+        },
+        {
+            "path": ".minecraft/mods/plannh-0.2.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "be1f13fc187c0f5315e1211ac2ed719b4af80881e85fda37cf57d204808e86a2",
+            "to_size": 14488477,
+            "url": "https://github.com/GTNewHorizons/PlanNH/releases/download/0.2.3/plannh-0.2.3.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/mods/plannh-0.2.3.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.55.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0d752f18e06b55d7459b56562f8f566ba4ceb5520db07a44ea80c792b9761a42",
+            "to_size": 68215543,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.3/gregtech-5.09.55.3.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/fd5ba4d2ce33fd40bf7e3f9c0dbb6d841d35e05e/.minecraft/mods/gregtech-5.09.55.3.jar"
+        },
+        {
+            "path": ".minecraft/mods/gregtech-5.09.55.2.jar",
+            "from_hash": "9170a4974f635f3e08de11f094e51946072a41b8bbdb29623e87ad5529db164d",
+            "from_size": 68210560,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
