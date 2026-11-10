@@ -1,0 +1,45 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "376102f34419d2e9cb7f2a6301ba41a0e518ccfdb4af96b56cb4daa5def164ad",
+            "from_size": 209,
+            "to_hash": "c783fcafadffb48aa4f5f2893743a8f90eed140bfbfc7c1a027e5f8d97ebeaa8",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f1b2f763ca5f069b1d4a3309b5e2a234b736c7c1/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "f710e86accace82b253f61a292de1136676fdd312326c3a2f9bd7da90c94e151",
+            "from_size": 6289,
+            "to_hash": "ab28b277e37db64e27f313f46ce1d2bb074cf3ebcf39be9a5dd24a4d10b61093",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f1b2f763ca5f069b1d4a3309b5e2a234b736c7c1/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/littletiles-1.7.1.jar",
+            "from_hash": "13238c0e219f16926d5216ed6b9de30b49fa3dca2375d46dc14fde4d947682d0",
+            "from_size": 818294,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.7.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3d0d1f765087ae71745987dff63f084d4ec392414c892b5095b24c16bd1cbacb",
+            "to_size": 830313,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.7.2/littletiles-1.7.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/f1b2f763ca5f069b1d4a3309b5e2a234b736c7c1/.minecraft/mods/littletiles-1.7.2.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
