@@ -1,0 +1,254 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "218938271b93a4e1de06712da5115df34794b73e81f921528a11f3a58f1e9021",
+            "from_size": 209,
+            "to_hash": "277a1fcb692dd612c7e22bc3258de67093c469e8a3416481cc6e7b6879b353c0",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "357bfe8017e91d3c7082ea6843c256fb17991081f884e93cb393ab3ca1d46f60",
+            "from_size": 6289,
+            "to_hash": "38053c83bf507fb54f6fb9f8b492b0161882aac3f7b1fe33615e78109f2408f9",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/dashboard/hud_layout.json",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8c7e03895b98d81d20718b377552ddda0838a930c3c8380c8db9c471c08cd02f",
+            "to_size": 61,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/config/dashboard/hud_layout.json"
+        },
+        {
+            "path": "mods/Forestry-4.12.0.jar",
+            "from_hash": "b460d144e1f178d608714ed72f1dc8f9218f0cf7c4a89c74edac1d181a2cfbdd",
+            "from_size": 3396853,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Forestry-4.12.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "19ee935f48b77c4e77f43ca8c40fe1d6a045da4f14caded2168624db15be5959",
+            "to_size": 3396874,
+            "url": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.12.1/Forestry-4.12.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/Forestry-4.12.1.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.11.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "26f5aff1a0b98b282712372a765bb0556bb0d71529907e0e05b7da401f1dd85a",
+            "to_size": 4910554,
+            "url": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.11.1/EnderIO-2.11.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/EnderIO-2.11.1.jar"
+        },
+        {
+            "path": "mods/EnderIO-2.11.0.jar",
+            "from_hash": "9859e643585f94a0b259af56bf32001b7353b221e9d556bdf056e6caa64c7e9f",
+            "from_size": 4909838,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.9.4-GTNH.jar",
+            "from_hash": "fd26902d32955f6650a84651c6cb896e8b8ebaf085a235155bfe6c1d081d0671",
+            "from_size": 1798652,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.9.5-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "064aa68d221319911c1b67f15cc97b5faa1d6a182c030fa3c4974f87261a6909",
+            "to_size": 1801462,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.5-GTNH/NotEnoughItems-2.9.5-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/NotEnoughItems-2.9.5-GTNH.jar"
+        },
+        {
+            "path": "mods/Railcraft-9.18.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "7f17174641d20940895e4cbfaa020d9d66ce287be750fff026c8c5ce0127cefa",
+            "to_size": 3390807,
+            "url": "https://github.com/GTNewHorizons/Railcraft/releases/download/9.18.1/Railcraft-9.18.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/Railcraft-9.18.1.jar"
+        },
+        {
+            "path": "mods/Railcraft-9.18.0.jar",
+            "from_hash": "22204d41e27815277439412d3d3c17d7c77a4090a34ee9e032f627d56c5a869f",
+            "from_size": 3390970,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/SpiceOfLife-2.3.0-carrot.jar",
+            "from_hash": "9a3d3aac883333791ebc7de4315c4ea3d085587762fc32394a2df2a2833ff1f3",
+            "from_size": 259595,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/SpiceOfLife-2.3.1-carrot.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cd1c8f2e33d44f1c29b4aea4155d80b28878e39ccec1b0e9b2a9abb1ecdee509",
+            "to_size": 259933,
+            "url": "https://github.com/GTNewHorizons/SpiceOfLife/releases/download/2.3.1-carrot/SpiceOfLife-2.3.1-carrot.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/SpiceOfLife-2.3.1-carrot.jar"
+        },
+        {
+            "path": "mods/TwilightForest-2.8.0.jar",
+            "from_hash": "2bd8305d4eca8ac47d9deb318259c46f792de0f94071d23ae89fe2fde8467c29",
+            "from_size": 5368055,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/TwilightForest-2.8.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "32f4ff9bda4b8decaafbee04b2116e44482c5467a9752a108e8abccc6e6cce68",
+            "to_size": 5368301,
+            "url": "https://github.com/GTNewHorizons/twilightforest/releases/download/2.8.1/TwilightForest-2.8.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/TwilightForest-2.8.1.jar"
+        },
+        {
+            "path": "mods/freecam-gtnh-1.1.1.jar",
+            "from_hash": "fb3f632050c40aebf410e222fe7f3977ca3e7395408b7c586ce3b41fa7321e62",
+            "from_size": 47150,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.5.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0b6dc03cbf3d7921eba363ebf444a8dec75f4a8b5b83495624fc941c3c6ed33d",
+            "to_size": 48453735,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.5/GTNewHorizonsCoreMod-2.10.5.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/GTNewHorizonsCoreMod-2.10.5.jar"
+        },
+        {
+            "path": "mods/freecam-gtnh-1.1.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2e9d26bf557d13111b47858fd09bbbf6b5a8d3f3bf37db29b2064c99837cd948",
+            "to_size": 47225,
+            "url": "https://github.com/GTNewHorizons/Freecam/releases/download/1.1.2/freecam-gtnh-1.1.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/freecam-gtnh-1.1.2.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.12.1.jar",
+            "from_hash": "146d6deb8f54651341e8ee247b1f400ecbc59569b8467e3aad983b057556ea34",
+            "from_size": 1449573,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.4.jar",
+            "from_hash": "0da31cd759fc6ab3194568274cf0af4eb20456c295a90f3f0c9a0491bbe92c45",
+            "from_size": 48453648,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.12.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5b9f3a0e71f0d5a3816e140f121290b430caedd27d36d41d25bf4b63d272343b",
+            "to_size": 1449761,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.2/gtnhlib-0.12.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/gtnhlib-0.12.2.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.8.1.jar",
+            "from_hash": "ac2cdd985cdd99be488abfe530fed6cf2e5b59f0ecfcc3bba1e91538a6489001",
+            "from_size": 1264189,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.8.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "750ba765b67e5c716dd82935419db6c0366c48f879ead93f1ba2bdfddb35777f",
+            "to_size": 1267378,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.8.2/hodgepodge-2.8.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/hodgepodge-2.8.2.jar"
+        },
+        {
+            "path": "mods/littletiles-1.7.8.jar",
+            "from_hash": "3df9106a7abada65e5aa5a23454d089336d94e1d8f4ecf64615d7e16784b38d5",
+            "from_size": 858057,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/littletiles-1.7.9.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4851dc8fee9ad3bdbfa2c8613a3f08e660c9e080f69df2849b6b89410f142421",
+            "to_size": 860931,
+            "url": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.7.9/littletiles-1.7.9.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/littletiles-1.7.9.jar"
+        },
+        {
+            "path": "mods/nutrition-1.1.0.jar",
+            "from_hash": "6906efe4922db26ffbfae02822f860321ce6d5c9652bd0eab7bac3068b893a20",
+            "from_size": 122320,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/nutrition-1.1.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "30916c70fe7a11878cde95ad8a79b927b4fd92ff13925879b743af4b986f6bd4",
+            "to_size": 122261,
+            "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/1.1.1/nutrition-1.1.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/nutrition-1.1.1.jar"
+        },
+        {
+            "path": "mods/tempora-1.0.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "edf1c4785c8422f61dd9872b2c268099ff808998ae634cc4fab9caa8fcaffb46",
+            "to_size": 12747814,
+            "url": "https://github.com/GTNewHorizons/Tempora/releases/download/1.0.3/tempora-1.0.3.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/tempora-1.0.3.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.9.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5e5ad80d6155b1b1c03e51e2c316441ea2266922b727836d273b2eceb3ca1e13",
+            "to_size": 68261528,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.9/gregtech-5.09.55.9.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/1352513ae665fdbc80437c99c45284e59002073e/.minecraft/mods/gregtech-5.09.55.9.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.5.jar",
+            "from_hash": "799e6eb734f6deda11d8f77e3a1b7753ac009bb798a7faf3e0acbe51d177b0a1",
+            "from_size": 68210190,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
