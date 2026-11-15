@@ -1416,12 +1416,12 @@
         }
     },
     "MagicBees": {
-        "file_path": "./.minecraft/mods/magicbees-2.11.0-GTNH.jar",
+        "file_path": "./.minecraft/mods/magicbees-2.11.1-GTNH.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.11.0-GTNH/magicbees-2.11.0-GTNH.jar",
+        "source": "https://github.com/GTNewHorizons/MagicBees/releases/download/2.11.1-GTNH/magicbees-2.11.1-GTNH.jar",
         "notes": "",
         "wanted_by": [
             "gregtech"
@@ -1432,14 +1432,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.11.0-GTNH",
+            "version": "2.11.1-GTNH",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "454451c76f46804bb9bf6697502d393d018652ce7957134b205b7840b52f391a"
+            "sha256_sum": "3a335764f6beda63759760232605f95b52bbcfa328987d8bb991ed11e327f169"
         }
     },
     "Mantle": {
@@ -3071,7 +3071,7 @@
         }
     },
     "appliedenergistics2": {
-        "file_path": "./.minecraft/mods/appliedenergistics2-1.0.1.jar",
+        "file_path": "./.minecraft/mods/appliedenergistics2-1.0.2.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
@@ -3102,14 +3102,14 @@
             "betterp2p"
         ],
         "update_state": {
-            "version": "1.0.1",
+            "version": "1.0.2",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "e36c88615f683e921d4597666cf19a1fb4167e0660bfa2869b6c5ebabe07ccdb"
+            "sha256_sum": "985f99015ee2af0dfe453bfe40a21057c59f9c401294a953787c5456cc462d10"
         }
     },
     "archaicfix": {
@@ -4461,12 +4461,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.55.13.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.55.14.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.13/gregtech-5.09.55.13.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.14/gregtech-5.09.55.14.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4534,14 +4534,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.55.13",
+            "version": "5.09.55.14",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "f62e44cad9da0e01b852bbbc3f4a783c3643bbd033b0669b5866321abdea27f0"
+            "sha256_sum": "2102f279e07f5f8355daec2e667f1e373ddaf084bf5b109db8f99e556c41a328"
         }
     },
     "gtnhcredits": {
@@ -4590,12 +4590,12 @@
         }
     },
     "gtnhlib": {
-        "file_path": "./.minecraft/mods/gtnhlib-0.12.3.jar",
+        "file_path": "./.minecraft/mods/gtnhlib-0.12.4.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.3/gtnhlib-0.12.3.jar",
+        "source": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.4/gtnhlib-0.12.4.jar",
         "notes": "",
         "wanted_by": [
             "ae2stuff",
@@ -4659,14 +4659,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "0.12.3",
+            "version": "0.12.4",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "b82fa970751d5e527a17b545c7dfc29bb71552fdaef4f32c774fed77c10d66d8"
+            "sha256_sum": "806c7c4e207bd7113cfa3302080be3b3ef4b2971addbc1de0579bf1fa15dc1d9"
         }
     },
     "gtnhtcwands": {
@@ -4973,12 +4973,12 @@
         }
     },
     "littletiles": {
-        "file_path": "./.minecraft/mods/littletiles-1.7.12.jar",
+        "file_path": "./.minecraft/mods/littletiles-1.7.13.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.7.12/littletiles-1.7.12.jar",
+        "source": "https://github.com/GTNewHorizons/LittleTiles/releases/download/1.7.13/littletiles-1.7.13.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -4989,14 +4989,14 @@
             "creativecore"
         ],
         "update_state": {
-            "version": "1.7.12",
+            "version": "1.7.13",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "c24b5375aba02ea2d1cf69a12abdb29f6c1f2c3602d8508c09f8fd9b2544bbd2"
+            "sha256_sum": "1afc13187d563ec906cc32a9290e4b6e5800fd2ca471bbe9d7d2b9738b6b359b"
         }
     },
     "lootgames": {
