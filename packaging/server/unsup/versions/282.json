@@ -1,0 +1,117 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "387242607cc0006557ecfe09730d4812b864e355dd8eac53e754cbf91a6f1926",
+            "from_size": 209,
+            "to_hash": "77b0baea36bb2926d081f12b8af84cb244e02f5b38f66631f44e032d1fce439b",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "59267859d68d239c317a45246eb3068f9d9e79371578701459c2311c947f36b3",
+            "from_size": 6289,
+            "to_hash": "9b3e6cb91bd7b2d8d280e6bfbd3ab69e7c72c19855dfa58cf25b0a14086caafd",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.9.8-GTNH.jar",
+            "from_hash": "0be94e71130b1942cdf02c2cb8e1da4fed504165863f1462fab3fbe963ec1a29",
+            "from_size": 1810356,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ServerUtilities-2.5.3.jar",
+            "from_hash": "500dd38810caa55d7fb0a894a6e45f95465118145795785b12fd26133dd0f9c7",
+            "from_size": 2069269,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.9.9-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0fa2e4fc60520cf32c9d89f9e2f2db615961fd88ed100b6a7c587bec8ebb22bc",
+            "to_size": 1833598,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.9-GTNH/NotEnoughItems-2.9.9-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/mods/NotEnoughItems-2.9.9-GTNH.jar"
+        },
+        {
+            "path": "mods/betterp2p-1.5.0.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cb72d6751bb92911c7cc403db152c21c04f6ec0823c26000477a73fd861b0101",
+            "to_size": 238074,
+            "url": "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.5.0/betterp2p-1.5.0.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/mods/betterp2p-1.5.0.jar"
+        },
+        {
+            "path": "mods/ServerUtilities-2.5.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "cd60cc70a74693ce0fb4ac1d304593072f4b1f7ca6036acdc82fa6a9c0f78051",
+            "to_size": 2072032,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.5.4/ServerUtilities-2.5.4.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/mods/ServerUtilities-2.5.4.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.7.1-GTNH.jar",
+            "from_hash": "3ba0242b919dd74102dcc709bd8600c14100447386834d151e6d9023d286004b",
+            "from_size": 5496300,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.3.jar",
+            "from_hash": "ce528717a63c314b1a3d34e513bd8f29b79c1b51fbe5d9627ebda969c155ff1c",
+            "from_size": 7816629,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3a1d58467a7f15a6af642cc6b7e6f968e7656472485b181c61d8f5fa88c745af",
+            "to_size": 7846347,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/mods/appliedenergistics2-1.0.4.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.7.2-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4303cbcfd6a8d449d00e6740e9dfa8a911c28e36b7b6981c019eee5c90f35039",
+            "to_size": 5498665,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.7.2-GTNH/etfuturum-2.7.2-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/mods/etfuturum-2.7.2-GTNH.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.18.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a9f19e7148556fa80c7fd810857cd49066f3f15382e3810f0fa8090ba89a96f1",
+            "to_size": 67419109,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.18/gregtech-5.09.55.18.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/74528f3b44a4d538eda9072632567474a5de1a81/.minecraft/mods/gregtech-5.09.55.18.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.17.jar",
+            "from_hash": "da41cd6935f000eaf21095d904c1eeedd602533da2bb2499b02a9445dbbdd686",
+            "from_size": 67418916,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
