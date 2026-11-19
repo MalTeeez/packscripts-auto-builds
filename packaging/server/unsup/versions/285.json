@@ -1,0 +1,141 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "5bd6228104bcae792e26b2af11b5abd6211ccc787102197472adf662737d81b7",
+            "from_size": 209,
+            "to_hash": "bd8609a3bf7d0bcdb3f381bc199e6acd2a628357716ddf07f71027bb5465cc50",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "ad2e84c02dab63e84172750472b7d4f248d55a696d314ba9ed1917646517388f",
+            "from_size": 6289,
+            "to_hash": "20acaf8c3da2fdefb8e6ceba8fec14cadfac5c0423fefc7e0722dfb1394bb28a",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.6.2-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5673f5975cccc818646025646f11f9841d232d42587680bea84454b8f3851398",
+            "to_size": 6749370,
+            "url": "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.6.2-GTNH/Draconic-Evolution-1.6.2-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/mods/Draconic-Evolution-1.6.2-GTNH.jar"
+        },
+        {
+            "path": "mods/coretweaks-0.3.6.0-GTNH.jar",
+            "from_hash": "a97cb5d4ebbcf3be54b4f231ef9ca591c6fd92e248ed019598efb4e9840bf8bb",
+            "from_size": 787026,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/coretweaks-0.3.6.1-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ab2321a2b89cafd0d20eb7eaa9fc72fb31070685dcd3e99d84480586cf312a67",
+            "to_size": 786976,
+            "url": "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.6.1-GTNH/coretweaks-0.3.6.1-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/mods/coretweaks-0.3.6.1-GTNH.jar"
+        },
+        {
+            "path": "mods/Draconic-Evolution-1.6.1-GTNH.jar",
+            "from_hash": "3b43128b26af1843e2a19e56fabc7be1170d2c631e8cd323accf2993d666403d",
+            "from_size": 6749360,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/etfuturum-2.7.2-GTNH.jar",
+            "from_hash": "4303cbcfd6a8d449d00e6740e9dfa8a911c28e36b7b6981c019eee5c90f35039",
+            "from_size": 5498665,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.12.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "95099c2752c89404b369b059b28587801528ce49b47c3e3e0a2cffc872b65fab",
+            "to_size": 48454464,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.12/GTNewHorizonsCoreMod-2.10.12.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/mods/GTNewHorizonsCoreMod-2.10.12.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.7.3-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "d523277b3305bba8af071fe47efcda6b630372589384eae2d7dcb11e19fe4ea2",
+            "to_size": 5498580,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.7.3-GTNH/etfuturum-2.7.3-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/mods/etfuturum-2.7.3-GTNH.jar"
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.11.jar",
+            "from_hash": "6b053b3f24119dd2aab2feb00f1707cd71d03f4227608363fa224708245c4725",
+            "from_size": 48454360,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhextlib-1.1.0.jar",
+            "from_hash": "1eb0d83e67aa7519e7f8318c247859256ae62e7ab13c29cd5075a9f7870bd147",
+            "from_size": 25359846,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhextlib-1.1.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1430a258f5e4a911fe8880f18b7c653a623d043953e666302acce1c625db0f8b",
+            "to_size": 26129028,
+            "url": "https://github.com/GTNewHorizons/GTNHExtLib/releases/download/1.1.1/gtnhextlib-1.1.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/mods/gtnhextlib-1.1.1.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.12.5.jar",
+            "from_hash": "6ec6a8913e5fa40851b29ac481be95bb347f81f8cb7b44a3db39e73f82e691af",
+            "from_size": 1486378,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.12.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "426441cd1d16c15a263df475c6212d9577d1284ba527fc259232273f1b0ca54f",
+            "to_size": 1504586,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.8/gtnhlib-0.12.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/mods/gtnhlib-0.12.8.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.25.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b01d93558612ebeb2f4a5b55ed518045867eaca21e945e37a7d32f0555d0b6cc",
+            "to_size": 67516038,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.25/gregtech-5.09.55.25.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/2de26d4d49e8cff519ae33f1fd32fb4510ba3e9d/.minecraft/mods/gregtech-5.09.55.25.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.23.jar",
+            "from_hash": "0e4136f097bfe34455966f9546611dba38333493626e92e12eed9fdfcc80c580",
+            "from_size": 67534875,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
