@@ -1,0 +1,164 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "bd8609a3bf7d0bcdb3f381bc199e6acd2a628357716ddf07f71027bb5465cc50",
+            "from_size": 209,
+            "to_hash": "fb1a389ab40c5b7c08ee82ab0fa0e9236161bd1bb4234c48b52dad5ecd8274b4",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/EMT.cfg",
+            "from_hash": "e905223256bd0772fe090dc190087b059294d307a5106d2992e29aa0ff0cc064",
+            "from_size": 9439,
+            "to_hash": "ab18c901fd91235b37fe8802992ae152d6a8013b5fad64abd6282adfe2649e8d",
+            "to_size": 9566,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/config/EMT.cfg"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "20acaf8c3da2fdefb8e6ceba8fec14cadfac5c0423fefc7e0722dfb1394bb28a",
+            "from_size": 6289,
+            "to_hash": "16d5fd2a161f33ebe7d6667fc3090f391e03368ddeed1fbb4b91e90bdbdac426",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/TooMuchLoot/loot/dungeonChest.xml",
+            "from_hash": "d0d17a14163555af342d880d035cd6553ae3bc3604ed26094ecf1f29a039c271",
+            "from_size": 14866,
+            "to_hash": "699c5e1e4b6602f7f8345e945ebf5fef11b4b7868c81ce78d34643387dbed856",
+            "to_size": 14951,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/config/TooMuchLoot/loot/dungeonChest.xml"
+        },
+        {
+            "path": "mods/OpenBlocks-1.13.4-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0b836558b7babf0bc78b082ce05c65e0e79a4bebcda87aeca4db1643d8f42065",
+            "to_size": 3474431,
+            "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.13.4-GTNH/OpenBlocks-1.13.4-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/mods/OpenBlocks-1.13.4-GTNH.jar"
+        },
+        {
+            "path": "mods/OpenModsLibs-0.10.15.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "b9bd3adacea71cb2c4c52143d513d2570fd33e9d5ac7a071c7e94edbfb1ed283",
+            "to_size": 2127738,
+            "url": "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.15/OpenModsLibs-0.10.15.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/mods/OpenModsLibs-0.10.15.jar"
+        },
+        {
+            "path": "mods/OpenBlocks-1.13.3-GTNH.jar",
+            "from_hash": "3492228c168323c0cd997cf751a8f19041a8d8d91fd923401a37e5c5bfc25f73",
+            "from_size": 3474540,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/OpenModsLibs-0.11.0.jar",
+            "from_hash": "40e7a287518842dc9f43055917d882f08f9579eeaebae3d167d1360d2597cf70",
+            "from_size": 2127741,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.7.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "78400e13dc5449659f3990145f6aafb3b24e718badbaea656aa3499dec29defe",
+            "to_size": 7848072,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/mods/appliedenergistics2-1.0.7.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.6.jar",
+            "from_hash": "7ba53def63e46caa1d05daee341143267daf4fcb24b1b94b2da5b1904223f3ed",
+            "from_size": 7847574,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.12.8.jar",
+            "from_hash": "426441cd1d16c15a263df475c6212d9577d1284ba527fc259232273f1b0ca54f",
+            "from_size": 1504586,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.12.9.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "42038f764037f9f2354292ae520d43f594edf72a1c2bdfbb80b7a877bed1a12b",
+            "to_size": 1504320,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.9/gtnhlib-0.12.9.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/mods/gtnhlib-0.12.9.jar"
+        },
+        {
+            "path": "mods/guidenh-1.4.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4689ff520f890d095f7a7809db7dd077bb9f6e65a21597dfb13dd4e2459d1389",
+            "to_size": 29955208,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.4.8/guidenh-1.4.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/mods/guidenh-1.4.8.jar"
+        },
+        {
+            "path": "mods/guidenh-1.4.7.jar",
+            "from_hash": "dded6eb0c60f2db39e50aaec1999f6796e06805f92349cc36d0407067e00b542",
+            "from_size": 29955634,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/tasknh-0.15.1.jar",
+            "from_hash": "b602d89262e018fb55043a6158ab33e20234f570bf75e10f3cd50e54354ffa94",
+            "from_size": 200215,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/tasknh-0.15.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "1359a8d18909e25a3d9284be8399442d577f7ad90e0504006d1f5c0ee1bd8235",
+            "to_size": 203882,
+            "url": "https://github.com/GTNewHorizons/TaskNH/releases/download/0.15.2/tasknh-0.15.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/mods/tasknh-0.15.2.jar"
+        },
+        {
+            "path": "startserver-java9.sh",
+            "from_hash": "09d5b7338e9f6c9c4b02cfc34e9e1a4159b15738aeff3c82e65cd12104eaee85",
+            "from_size": 592,
+            "to_hash": "e7420244902a358217ca18e535fe59df8edb243b000184a0b4bc73d0d9c070a8",
+            "to_size": 600,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/packaging/server/startserver-java9.sh"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.25.jar",
+            "from_hash": "b01d93558612ebeb2f4a5b55ed518045867eaca21e945e37a7d32f0555d0b6cc",
+            "from_size": 67516038,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gregtech-5.09.55.26.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "43dc8e950371c057e72ed6cc5427a8ab67c4fb2b408f205d2e018578f3396025",
+            "to_size": 67516076,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.26/gregtech-5.09.55.26.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d15d0ab9bcddc330b8aca3120189f56485bd4795/.minecraft/mods/gregtech-5.09.55.26.jar"
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
