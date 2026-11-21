@@ -1,0 +1,266 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "70faed71d328c5fd1de7d814fe284a635cc2f72ac8e719ba8a1aedcb4ede058d",
+            "from_size": 209,
+            "to_hash": "270ec2fc1df6b3f19bdedd06e71cf9537fffc28bb772b14ce391c764c3f80d66",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "f0fdea9e93eb272d691775be81d0ff23fbcadf612fdc6720f447dd1c66f79c81",
+            "from_size": 6289,
+            "to_hash": "51848a293c070e199f23dd112707e77ac3da971b13898252e508c4df260d94ee",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "config/ThaumicTinkerer.cfg",
+            "from_hash": "802d8959d24063b3347b2e18d96446fce5321990ec46461fcffe573ac0be8463",
+            "from_size": 6133,
+            "to_hash": "b31711c2391b5221f90d178465a6cdb0115f86814229220c2bb41705f6ab7052",
+            "to_size": 6172,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/config/ThaumicTinkerer.cfg"
+        },
+        {
+            "path": "mods/BetterQuesting-3.9.4-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ed01f0821545f65baf0f5762b08e031947982f662d9fc367f509f80373d6935b",
+            "to_size": 2014083,
+            "url": "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.9.4-GTNH/BetterQuesting-3.9.4-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/BetterQuesting-3.9.4-GTNH.jar"
+        },
+        {
+            "path": "mods/BetterQuesting-3.9.3-GTNH.jar",
+            "from_hash": "d8d419168fae95c07fb3884e6cfb877256cb4196e26a1b6e0e5a49586004211a",
+            "from_size": 2014030,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Galacticraft-3.5.2-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3de5c7ba8f753e6c346eeacce9b12f68352af59f9e7c2be62fc1f74f4653f524",
+            "to_size": 12344585,
+            "url": "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.5.2-GTNH/Galacticraft-3.5.2-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/Galacticraft-3.5.2-GTNH.jar"
+        },
+        {
+            "path": "mods/ProjectBlue-1.3.0-GTNH.jar",
+            "from_hash": "8a1bc3544b89c0b3f6c4fc55bd67761daf996c3e62af70740fefa859c880b980",
+            "from_size": 256930,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/HardcoreEnderExpansion-1.14.2-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "24c8ac04aad7063726d84179ced14268f2ac262b6cdeaa65c81a543e87c264d0",
+            "to_size": 19623514,
+            "url": "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.14.2-GTNH/HardcoreEnderExpansion-1.14.2-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/HardcoreEnderExpansion-1.14.2-GTNH.jar"
+        },
+        {
+            "path": "mods/ProjectBlue-1.3.1-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3a133a47a8bb7bbc586ab1a02016d2bc8eaf5e5fbf290655cf958b9d4ead7f72",
+            "to_size": 257167,
+            "url": "https://github.com/GTNewHorizons/ProjectBlue/releases/download/1.3.1-GTNH/ProjectBlue-1.3.1-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/ProjectBlue-1.3.1-GTNH.jar"
+        },
+        {
+            "path": "mods/SGCraft-1.5.0-GTNH.jar",
+            "from_hash": "79678b21c92a442ade437ec530647a320aabb0c41318c963443851c3b252ff65",
+            "from_size": 924893,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/HardcoreEnderExpansion-1.14.1-GTNH.jar",
+            "from_hash": "3484e52aed5e686f85f3482a70fd3ad032855ad357cce3d5ec28aa7acd06dcb2",
+            "from_size": 19623468,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/SGCraft-1.5.1-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5c738369a27f1475cc04f8df0356295489f420ea174fea34f59fe6b5cc470b4a",
+            "to_size": 925048,
+            "url": "https://github.com/GTNewHorizons/SGCraft/releases/download/1.5.1-GTNH/SGCraft-1.5.1-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/SGCraft-1.5.1-GTNH.jar"
+        },
+        {
+            "path": "mods/Waila-1.20.2.jar",
+            "from_hash": "9780523717fc8cef04167378ef945d7847e36ee87c1633fd3b0cbcb1261e085d",
+            "from_size": 558955,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Galacticraft-3.5.1-GTNH.jar",
+            "from_hash": "a5e21b962de5632ae86cc822fa93226a56df029b4486a89be7c9bce20479c718",
+            "from_size": 12344269,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Waila-1.20.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0ca831305505983639662da1d3b0ee660c3b63251691994066b6bbeecf71fafd",
+            "to_size": 559070,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/Waila-1.20.3.jar"
+        },
+        {
+            "path": "mods/WarpTheory-1.6.2-GTNH.jar",
+            "from_hash": "962197c44124a3691cf0c197557204af503af3b0b1ed2990ba93c3c4937bfead",
+            "from_size": 398984,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/WarpTheory-1.6.3-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a3872a2d2e224268a1c8782ae3eb20880c92e91bca0881e96c3b3fe521a83c36",
+            "to_size": 395646,
+            "url": "https://github.com/GTNewHorizons/WarpTheory/releases/download/1.6.3-GTNH/WarpTheory-1.6.3-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/WarpTheory-1.6.3-GTNH.jar"
+        },
+        {
+            "path": "mods/akashictome-1.3.0.jar",
+            "from_hash": "d098cdec81900653191ad43a99c5c39fe9731ff398c5d786a9fb5825fc8029f1",
+            "from_size": 51873,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/akashictome-1.3.1.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "5d4e14249e78a1c64e9d0ab64a73c94383ae41d5d32fe558e87bba58ec2e8575",
+            "to_size": 54265,
+            "url": "https://github.com/GTNewHorizons/AkashicTome/releases/download/1.3.1/akashictome-1.3.1.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/akashictome-1.3.1.jar"
+        },
+        {
+            "path": "mods/betterp2p-1.5.0.jar",
+            "from_hash": "cb72d6751bb92911c7cc403db152c21c04f6ec0823c26000477a73fd861b0101",
+            "from_size": 238074,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.11.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0be57f19aa9611803119d9cb6ee71e640901b05f60147083f28b5bbc36adbd3c",
+            "to_size": 7970106,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/appliedenergistics2-1.0.11.jar"
+        },
+        {
+            "path": "mods/chisel-2.18.1-GTNH.jar",
+            "from_hash": "3ce22da57a951a0f3258408b8129771fd8d9b042433002d2066d1be6c8da328d",
+            "from_size": 7610396,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/chisel-2.18.3-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ec7578e3a9a10efb461c415252ee626e5aeac31ce277209cff1785b0224953f9",
+            "to_size": 8114741,
+            "url": "https://github.com/GTNewHorizons/Chisel/releases/download/2.18.3-GTNH/chisel-2.18.3-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/chisel-2.18.3-GTNH.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.9.jar",
+            "from_hash": "83905a62197fdb82ce802453cc1a3ebd04c3ad28b8ee43f03f1b423eaa6a22bc",
+            "from_size": 7851560,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.4.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "f13d87a264e4a5b774bc09abe4313bd586ecf3a50c9b2104681fd6ed8fecd864",
+            "to_size": 31385479,
+            "url": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.4.10/guidenh-1.4.10.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/guidenh-1.4.10.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.8.4.jar",
+            "from_hash": "37adb1126227db9983d0ab9c7bcc6a203f5b69b76bd58c1ce1feb118c06a683f",
+            "from_size": 1269413,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/guidenh-1.4.9.jar",
+            "from_hash": "b98f02e37fd83242766f7f71313c40249f400745610ef86e4f6ba5ba8fb1ac1b",
+            "from_size": 31288329,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/nutrition-1.1.1.jar",
+            "from_hash": "30916c70fe7a11878cde95ad8a79b927b4fd92ff13925879b743af4b986f6bd4",
+            "from_size": 122261,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/hodgepodge-2.8.5.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "428f7dd186466b8445913f4bacd9526dbf40c1a2b7fd13c793365bf3780cb321",
+            "to_size": 1274797,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.8.5/hodgepodge-2.8.5.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/hodgepodge-2.8.5.jar"
+        },
+        {
+            "path": "mods/nutrition-1.1.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "4a83be17f0239f5e122c5e5a0b831483bbfd0120126f3336cacce198efb6ec77",
+            "to_size": 123402,
+            "url": "https://github.com/GTNewHorizons/Nutrition/releases/download/1.1.2/nutrition-1.1.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/nutrition-1.1.2.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.32.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dce0fecc274b288a27e6259d13642c2cf65961d13c3f858e3c5c8971fedb5656",
+            "to_size": 67619961,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.32/gregtech-5.09.55.32.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/58b5940126e8349dbb8f072351f4a21e22e149a0/.minecraft/mods/gregtech-5.09.55.32.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.31.jar",
+            "from_hash": "13859f2a870ba90793f0f50d989738520fdc49fec16d88378b67156185ea9f6c",
+            "from_size": 67605899,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
