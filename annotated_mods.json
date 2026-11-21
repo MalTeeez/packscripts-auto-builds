@@ -676,12 +676,12 @@
         }
     },
     "EnderIO": {
-        "file_path": "./.minecraft/mods/EnderIO-2.11.1.jar",
+        "file_path": "./.minecraft/mods/EnderIO-2.11.2.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.11.1/EnderIO-2.11.1.jar",
+        "source": "https://github.com/GTNewHorizons/EnderIO/releases/download/2.11.2/EnderIO-2.11.2.jar",
         "notes": "",
         "wanted_by": [
             "gregtech"
@@ -694,14 +694,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "2.11.1",
+            "version": "2.11.2",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "26f5aff1a0b98b282712372a765bb0556bb0d71529907e0e05b7da401f1dd85a"
+            "sha256_sum": "57b7b7405ef0cde43508ecbf6802229420c89ea317b7260806af19a48a24aa41"
         }
     },
     "EnderStorage": {
@@ -830,12 +830,12 @@
         }
     },
     "Forestry": {
-        "file_path": "./.minecraft/mods/Forestry-4.12.1.jar",
+        "file_path": "./.minecraft/mods/Forestry-4.12.2.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.12.1/Forestry-4.12.1.jar",
+        "source": "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.12.2/Forestry-4.12.2.jar",
         "notes": "",
         "wanted_by": [
             "beebetteratbees",
@@ -850,14 +850,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "4.12.1",
+            "version": "4.12.2",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "19ee935f48b77c4e77f43ca8c40fe1d6a045da4f14caded2168624db15be5959"
+            "sha256_sum": "80bb8b7a046837ae59481b66b9e0a0f469207e6856d95ed961f8c9023e9c521b"
         }
     },
     "ForgeMultipart": {
@@ -4490,12 +4490,12 @@
         }
     },
     "gregtech": {
-        "file_path": "./.minecraft/mods/gregtech-5.09.55.30.jar",
+        "file_path": "./.minecraft/mods/gregtech-5.09.55.31.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.30/gregtech-5.09.55.30.jar",
+        "source": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.31/gregtech-5.09.55.31.jar",
         "notes": "",
         "wanted_by": [
             "botanichorizons",
@@ -4565,14 +4565,14 @@
             "gtnhintergalactic"
         ],
         "update_state": {
-            "version": "5.09.55.30",
+            "version": "5.09.55.31",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "8179ad62d6d7547fde1e3f3788aebc9555e16be1718351ca6af2960056097945"
+            "sha256_sum": "13859f2a870ba90793f0f50d989738520fdc49fec16d88378b67156185ea9f6c"
         }
     },
     "gtnhcredits": {
@@ -4729,12 +4729,12 @@
         }
     },
     "guidenh": {
-        "file_path": "./.minecraft/mods/guidenh-1.4.8.jar",
+        "file_path": "./.minecraft/mods/guidenh-1.4.9.jar",
         "tags": [
             "SIDE.CLIENT",
             "SIDE.SERVER"
         ],
-        "source": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.4.8/guidenh-1.4.8.jar",
+        "source": "https://github.com/GTNewHorizons/GuideNH/releases/download/1.4.9/guidenh-1.4.9.jar",
         "notes": "",
         "wanted_by": [],
         "wants": [
@@ -4743,14 +4743,14 @@
         "enabled": true,
         "other_mod_ids": [],
         "update_state": {
-            "version": "1.4.8",
+            "version": "1.4.9",
             "disable_check": false,
             "frequency": "EOL",
             "last_status": "200",
             "last_updated_at": "",
             "source_type": "GITHUB",
             "file_pattern": "",
-            "sha256_sum": "4689ff520f890d095f7a7809db7dd077bb9f6e65a21597dfb13dd4e2459d1389"
+            "sha256_sum": "b98f02e37fd83242766f7f71313c40249f400745610ef86e4f6ba5ba8fb1ac1b"
         }
     },
     "harvestcraft": {
