@@ -1,0 +1,61 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "270ec2fc1df6b3f19bdedd06e71cf9537fffc28bb772b14ce391c764c3f80d66",
+            "from_size": 209,
+            "to_hash": "25d53cb4d607980b8b3a8f1e33fcb265934418cd9ed6dc3d1cd2fd5a42714680",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d737eb487e3bd4892aeef26991ed294f25410736/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "51848a293c070e199f23dd112707e77ac3da971b13898252e508c4df260d94ee",
+            "from_size": 6289,
+            "to_hash": "ffe21294563206e8df8b08b9ca28d1404e370a1f0e3b3611327b3818a5754adf",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d737eb487e3bd4892aeef26991ed294f25410736/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/jarjar-0.4.1-beta.jar",
+            "from_hash": "43a32d9bf896e015fab246a4dcbeb43b6a862dddc2fd12bd2927ca22194d4f9f",
+            "from_size": 160149,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/jarjar-0.4.2-beta.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ccc97eb97c99545739ce76c52675d1cd3eb9e80f63b86e02cf2d00e18e2c1b1e",
+            "to_size": 160164,
+            "url": "https://github.com/GTNewHorizons/JarJar/releases/download/0.4.2-beta/jarjar-0.4.2-beta.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d737eb487e3bd4892aeef26991ed294f25410736/.minecraft/mods/jarjar-0.4.2-beta.jar"
+        },
+        {
+            "path": "mods/tasknh-0.15.3.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "3f7610d9e335679abbb192e8d6b7a134cc3b1bec73d7645a355f0741429454fd",
+            "to_size": 205621,
+            "url": "https://github.com/GTNewHorizons/TaskNH/releases/download/0.15.3/tasknh-0.15.3.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/d737eb487e3bd4892aeef26991ed294f25410736/.minecraft/mods/tasknh-0.15.3.jar"
+        },
+        {
+            "path": "mods/tasknh-0.15.2.jar",
+            "from_hash": "1359a8d18909e25a3d9284be8399442d577f7ad90e0504006d1f5c0ee1bd8235",
+            "from_size": 203882,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.0",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.0"
+    }
+}
