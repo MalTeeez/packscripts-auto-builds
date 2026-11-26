@@ -19,90 +19,90 @@ navigation:
   <ImportStructure src="/assets/structures/infusion_altar.snbt" />
 </GameScene>
 
-**Thaumcraft 4** (TC4) is one of GTNH's main magic mods and the first magic mod you encounter.
+**Thaumcraft 4** (TC4) é um dos principais mods de magia do GTNH e o primeiro mod de magia com o qual você se depara.
 
-Starting with scanning and research, you gradually learn about the aspects contained in items and creatures. Through alchemy and infusion, you can create wands, magical tools, equipment and automation systems.
+Começando pela análise e pela pesquisa, você aprende gradualmente sobre os aspectos contidos em itens e criaturas. Por meio da alquimia e da infusão, é possível criar varinhas, ferramentas mágicas, equipamentos e sistemas de automação.
 
-In NH, Thaumcraft is closely connected to technology materials, the Twilight Forest and other magic mods. As your research progresses, you can explore Botania and Blood Magic, connect magical systems to AE, or use magic to maintain GT machines.
+No GTNH, o Thaumcraft está intimamente ligado a materiais tecnológicos, ao Twilight Forest e a outros mods de magia. À medida que suas pesquisas avançam, você pode explorar o Botania e o Blood Magic, conectar sistemas mágicos ao AE ou utilizar a magia para manter as máquinas do GT em funcionamento.
 
-This page provides an overview of Thaumcraft's world, basic concepts and NH-specific changes, focusing on the uses of magical facilities and the differences between <Color color="#B7A0D6">research points, Vis and essentia</Color>.
+Esta página oferece uma visão geral do mundo de Thaumcraft, conceitos básicos e alterações específicas de New Horizons, com foco no uso de instalações mágicas e nas diferenças entre elas <Color color="#B7A0D6">pontos de pesquisa, Vis e essencial</Color>.
 
 <br clear="all" />
 
-## The World of Thaumcraft
+## O Mundo de Thaumcraft
 
-- **Everything has aspects.** In Thaumcraft, objects have more than an appearance and a purpose: they also contain <Color color="#B7A0D6">aspects</Color> that you can observe and study. Fire, water, order, life and metal can all be described through aspects. Combining aspects produces more complex properties; understanding these relationships is fundamental to research and alchemy.
+- **Tudo tem aspectos.** Em Thaumcraft, os objetos têm mais do que uma aparência e uma função: eles também contêm <Color color="#B7A0D6">aspectos</Color> que você pode observar e estudar. Fogo, água, ordem, vida e metal podem, todos, ser descritos por meio de aspectos. A combinação de aspectos gera propriedades mais complexas; compreender essas relações é fundamental para a pesquisa e a alquimia.
 
-- **Knowledge becomes infrastructure.** The world also contains <Color color="#B7A0D6">aura nodes</Color> that gather magical energy. Wands can draw Vis from nodes for arcane crafting and wand foci. Essentia extracted from items is used for alchemy, infusion and some magical devices. As your knowledge and facilities improve, you move from manual research and crafting to essentia storage, logistics and automated production.
+- **O conhecimento torna-se infraestrutura.** O mundo também contém <Color color="#B7A0D6">aura nodes</Color> que coletam energia mágica. Varinhas podem extrair Vis de nodos para uso em criação arcana e como focos para varinhas. A Essentia extraída de itens é utilizada em alquimia, infusão e em alguns dispositivos mágicos. À medida que seu conhecimento e suas instalações evoluem, você passa da pesquisa e criação manuais para o armazenamento de Essentia, logística e produção automatizada.
 
-- **Exploration has consequences.** Processing magical materials can pollute the surrounding environment, while learning forbidden knowledge can give the player Warp. When researching a new ability, learn about its uses, costs and effects together.
+- **A exploração tem consequências.** O processamento de materiais mágicos pode poluir o ambiente ao redor, enquanto o aprendizado de conhecimentos proibidos pode conferir ao jogador "Warp". Ao pesquisar uma nova habilidade, informe-se sobre seus usos, custos e efeitos.
 
-## The Thaumonomicon
+## O Thaumonomicon
 
-The <ItemLink id="Thaumcraft:ItemThaumonomicon" showIcon="left" /> is your main source of knowledge about Thaumcraft, containing research explanations, research notes and unlocked recipes. Its research entries provide the operating instructions for individual devices.
+O <ItemLink id="Thaumcraft:ItemThaumonomicon" showIcon="left" /> É a sua principal fonte de conhecimento sobre o Thaumcraft, contendo explicações de pesquisas, anotações de pesquisa e receitas desbloqueadas. Seus registros de pesquisa fornecem instruções de operação para dispositivos específicos.
 
-The book has separate tabs for different topics and addons. Research has prerequisites, and some entries only appear after specific scans or other conditions are met. **An entry being absent does not necessarily mean it does not exist.**
+O livro possui abas separadas para diferentes tópicos e complementos. As pesquisas possuem pré-requisitos, e algumas entradas só aparecem após análises específicas ou o cumprimento de outras condições. **A ausência de uma entrada não significa, necessariamente, que ela não exista.**
 
-| Content in the Book | Information Provided |
+| Conteúdo do livro | Informações fornecidas |
 | --- | --- |
-| Research icons and connections | Prerequisites between research entries and hints about unlocking them |
-| <Color color="#B7A0D6">Research notes</Color> | Research solved at a Research Table, primarily through aspect connections |
-| Research that costs research points | The aspect types and research points required to unlock it |
-| Completed research | Device uses, operating instructions and recipes |
-| <Color color="#D5B77A">Forbidden knowledge markers</Color> | Purple effects and the associated warnings indicate that learning this research may cause Warp |
+| Pesquise ícones e conexões | Pré-requisitos entre entradas de pesquisa e dicas sobre como desbloqueá-las |
+| <Color color="#B7A0D6">Research notes</Color> | Pesquisa realizada em uma Mesa de Pesquisa, principalmente por meio de conexões de aspectos. |
+| Pesquisa que consome pontos de pesquisa | Os tipos de aspecto e os pontos de pesquisa necessários para desbloqueá-lo |
+| Pesquisa concluída | Usos do aparelho, instruções de operação e receitas |
+| <Color color="#D5B77A">Marcador de conhecimento proibidos</Color> | Os efeitos roxos e os avisos associados indicam que aprender sobre esta pesquisa pode causar distorção. |
 
-Completed research must be read to unlock its content. **Research unlocks and material requirements are independent:** seeing a recipe in the book does not mean your technology and magical facilities can already produce it.
+Pesquisas concluídas precisam ser lidas para que seu conteúdo seja desbloqueado. **O desbloqueio de pesquisas e os requisitos de materiais são independentes:** visualizar uma receita no livro não significa que sua tecnologia e suas instalações mágicas já sejam capazes de produzi-la.
 
-## Aspects, Research Points, Vis and Essentia
+## Aspectos, Pontos de Pesquisa, Vis e Essentia
 
-These concepts often use the same aspect icons, but serve different purposes. When you see an icon, first check whether it appears at a Research Table, in a wand or in an essentia container.
+Esses conceitos frequentemente utilizam os mesmos ícones de aspecto, mas servem a propósitos diferentes. Ao encontrar um ícone, verifique primeiro se ele aparece em uma Mesa de Pesquisa, em uma varinha ou em um recipiente de essência.
 
-| Concept | Meaning | Main Uses |
+| Conceito | Significado | Principais usos |
 | --- | --- | --- |
-| <Color color="#B7A0D6">Aspects</Color> | Properties that describe items, creatures and magical phenomena | Understanding research combinations and identifying which essentia an item can provide |
-| <Color color="#B7A0D6">Research points</Color> | Research resources accumulated by the player, tracked separately for each aspect | Connecting research notes, combining aspects and unlocking some research |
-| <Color color="#B7A0D6">Vis</Color> | Magical energy stored in a wand, tracked separately for each primal aspect | Crafting at an Arcane Worktable, using wand foci and similar operations |
-| <Color color="#B7A0D6">Essentia</Color> | Aspects extracted from items that can be stored and transported | Alchemy, infusion and some magical devices |
+| <Color color="#B7A0D6">Aspectos</Color> | Propriedades que descrevem itens, criaturas e fenômenos mágicos | Compreender as combinações de pesquisa e identificar quais essências um item pode fornecer |
+| <Color color="#B7A0D6">Pontos de pesquisa</Color> | Recursos de pesquisa acumulados pelo jogador, rastreados separadamente para cada aspecto | Conectando anotações de pesquisa, combinando aspectos e desbloqueando pesquisas |
+| <Color color="#B7A0D6">Vis</Color> | Energia mágica armazenada em uma varinha, monitorada separadamente para cada aspecto primordial | Fabricação em uma Bancada de Trabalho Arcano, utilizando focos de varinha e operações semelhantes |
+| <Color color="#B7A0D6">Essência</Color> |Aspectos extraídos de itens que podem ser armazenados e transportados | Alquimia, infusão e alguns dispositivos mágicos |
 
-## Aspects and Research Points
+## Aspectos e Pontos de Pesquisa
 
-The six <Color color="#B7A0D6">primal aspects</Color> are <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"aer"}' scale="0.75" />Air (Aer), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"terra"}' scale="0.75" />Earth (Terra), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"ignis"}' scale="0.75" />Fire (Ignis), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"aqua"}' scale="0.75" />Water (Aqua), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"ordo"}' scale="0.75" />Order (Ordo) and <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"perditio"}' scale="0.75" />Entropy (Perditio). Compound aspects are formed from two other aspects; NH's addons also expand the aspect system.
+Os seis <Color color="#B7A0D6">primal aspects</Color> são <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"aer"}' scale="0.75" />Air (Aer), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"terra"}' scale="0.75" />Earth (Terra), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"ignis"}' scale="0.75" />Fire (Ignis), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"aqua"}' scale="0.75" />Water (Aqua), <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"ordo"}' scale="0.75" />Order (Ordo) e <ItemImage id='aspectrecipeindex:aspect:1:{Aspect:"perditio"}' scale="0.75" />Entropy (Perditio). Aspectos compostos são formados a partir de dois outros aspectos; os complementos do NH também expandem o sistema de aspectos.
 
-Scanning items, creatures and other targets can reveal aspects and grant research points. Some targets require you to know their component aspects before they can be scanned. Combining aspects at a Research Table can also help you discover new compound aspects. If you lack research points, you need to replenish your research resources; charging a wand will not solve that problem.
+Escanear itens, criaturas e outros alvos pode revelar aspectos e conceder pontos de pesquisa. Alguns alvos exigem que você conheça seus aspectos constituintes antes de poderem ser escaneados. Combinar aspectos em uma Mesa de Pesquisa também pode ajudar você a descobrir novos aspectos compostos. Se lhe faltarem pontos de pesquisa, você precisará reabastecer seus recursos de pesquisa; recarregar uma varinha não resolverá esse problema.
 
-## Vis and Essentia
+## Vis e Essencia
 
-Vis in a wand is tracked separately for the six primal aspects. Check the stored amount of each aspect required by an arcane recipe; having one aspect fully charged cannot make up for a shortage of another.
+O Vis em uma varinha é contabilizado separadamente para os seis aspectos primordiais. Verifique a quantidade armazenada de cada aspecto exigida por uma receita arcana; ter um aspecto totalmente carregado não compensa a falta de outro.
 
-Essentia is usually extracted from items using an Alchemical Furnace or similar facilities, then collected in jars or other containers. A recipe requiring compound aspects such as metal or life is often asking for the corresponding essentia rather than Vis in a wand.
+A essência é, geralmente, extraída de itens por meio de um Forno Alquímico ou instalações similares, sendo então coletada em frascos ou outros recipientes. Uma receita que exija aspectos compostos, como "metal" ou "vida", frequentemente solicita a essência correspondente, em vez de Vis contido em uma varinha..
 
-Aer Vis required by an Arcane Worktable and Metallum essentia required by infusion come from a wand and an essentia supply system, respectively. **Research points, wand Vis and essentia in jars cannot replace each other.**
+O Aer Vis, exigido por uma Bancada de Trabalho Arcano, e a essentia Metallum, necessária para a infusão, provêm, respectivamente, de uma varinha e de um sistema de suprimento de essentia. **Pontos de pesquisa, Vis de varinha e essência em frascos não são intercambiáveis..**
 
-## Nodes and Sources of Magical Energy
+## Nodos e Fontes de Energia Mágica
 
-**Aura nodes** are concentrations of magical energy in the world. Observation tools reveal their aspects, and wands can draw Vis from them. Most nodes gradually regenerate their energy, so finding and managing nodes is an important part of early magical power supply.
+**Aura nodes** são concentrações de energia mágica no mundo. Ferramentas de observação revelam suas características, e varinhas podem extrair Vis delas. A maioria dos nodos regenera sua energia gradualmente; portanto, encontrar e gerenciar nodos é uma parte importante do suprimento de energia mágica nos estágios iniciais..
 
-Nodes have different types, qualities and aspect compositions. Once you understand them, you can research ways to move, preserve and modify them, using what you find while exploring to supply your base's magical facilities.
+Os nodos possuem diferentes tipos, qualidades e composições de aspectos. Uma vez que você os compreenda, poderá pesquisar formas de movê-los, preservá-los e modificá-los, utilizando o que encontrar durante a exploração para abastecer as instalações mágicas da sua base.
 
-> [!WARNING]
-> When drawing energy from a node with an early wand, avoid casually draining an aspect to zero. <Color color="#D5B77A">Draining a node completely</Color> can damage it and affect its ability to provide energy later. First learn what protections your wand and completed research offer.
+> [!Aviso]
+> Ao extrair energia de um nó usando uma varinha rudimentar, evite esgotar um aspecto até zero de forma descuidada. <Color color="#D5B77A">Esvaziar um nó completamente</Color> pode danificá-la e afetar sua capacidade de fornecer energia mais tarde. Primeiro, informe-se sobre quais proteções sua varinha e as pesquisas concluídas oferecem.
 
-Later, you will also encounter <Color color="#B7A0D6">Centi-Vis</Color>: modified nodes can supply compatible devices with this form of energy. Storing Vis in a wand and building a Centi-Vis supply network are two forms of power supply that you need to understand separately.
+Mais tarde, você também encontrará <Color color="#B7A0D6">Centi-Vis</Color>: Nodos modificados podem fornecer esse tipo de energia a dispositivos compatíveis. Armazenar Vis em uma varinha e construir uma rede de suprimento de Centi-Vis são duas formas de fornecimento de energia que você precisa compreender separadamente.
 
-## Vis Costs and Discounts
+## Custos e descontos de Vis
 
-<Color color="#B7A0D6">Wand capacity</Color> determines how much Vis of each primal aspect the wand can store, while <Color color="#B7A0D6">Vis discounts</Color> reduce the energy actually consumed by an operation. Wand caps and some equipment provide discounts. For more demanding recipes, consider both wand capacity and the discounts available to you.
+<Color color="#B7A0D6">Capacidade da Varinha</Color> determina a quantidade de Vis de cada aspecto primordial que a varinha pode armazenar, enquanto <Color color="#B7A0D6">Descontos Vis</Color> Reduza a energia efetivamente consumida por uma operação. As tampas de varinha (wand caps) e alguns equipamentos oferecem descontos. Para receitas mais exigentes, leve em consideração tanto a capacidade da varinha quanto os descontos disponíveis para você.
 
-For example, suppose an arcane recipe has a base requirement of 100 Vis of one aspect, with a total applicable discount of 20%. The actual requirement becomes 80 Vis of that aspect. This allows a wand with a capacity of 80 to satisfy a recipe that originally required 100, but the wand's capacity remains 80.
+Por exemplo, suponha que uma receita arcana tenha um requisito base de 100 Vis de um determinado aspecto, com um desconto total aplicável de 20%. O requisito efetivo passa a ser 80 Vis desse aspecto. Isso permite que uma varinha com capacidade 80 atenda a uma receita que originalmente exigia 100, mas a capacidade da varinha permanece 80.
 
-| Problem | What to Check |
+| Problema | O que verificar |
 | --- | --- |
-| The wand has enough capacity but lacks stored energy | Replenish every type of Vis required by the recipe |
-| A fully charged wand still cannot meet the recipe's requirements | Upgrade the wand or increase the discounts applicable to that craft |
-| You have equipment with discounts but still cannot craft | Check the actual requirements, whether the equipment is worn and the stored amount of each aspect |
-| Infusion lacks essentia | Prepare an essentia supply; Vis discounts cannot replace essentia ingredients |
+| A varinha tem capacidade suficiente, mas carece de energia armazenada. | Reponha todos os tipos de Vis exigidos pela receita |
+| Uma varinha totalmente carregada ainda não atende aos requisitos da receita. | Aprimore a varinha ou aumente os descontos aplicáveis ​​a esse ofício. |
+| Você tem equipamentos com descontos, mas ainda assim não consegue fabricar. | Verifique os requisitos reais, se o equipamento apresenta desgaste e a quantidade armazenada de cada item. |
+| A infusão carece de essentia | Prepare um suprimento de essentia; descontos em Vis não podem substituir os ingredientes de essentia. |
 
-## Flux, Taint and Warp
+## Fluxo, Corrupção e Distorção
 
 Environmental problems and effects on the player need to be understood separately.
 

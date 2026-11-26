@@ -39,13 +39,13 @@ item.berry.dusk.name=황혼베리
 item.berry.sky.name=하늘베리
 item.berry.sting.name=따끔베리
 
-tile.berrybush.name=Berry Bush
+tile.berrybush.name=네더 베리 덤불
 block.rasp.berryBush.name=라즈베리 덤불
 block.blue.berryBush.name=블루베리 덤불
 block.black.berryBush.name=블랙베리 덤불
 block.geo.berryBush.name=말로베리 덤불
 
-tile.berrybush.name=네더 베리 덤불
+tile.netherBerrybush.name=Nether Berry Bush
 block.bush.berry.blight.name=암흑베리 덤불
 block.bush.berry.dusk.name=황혼베리 덤불
 block.bush.berry.sky.name=하늘베리 덤불
@@ -158,19 +158,19 @@ tile.door.redwood.name=삼나무 문
 tile.door.bloodwood.name=피 유칼립투스 문
 tile.door.redwoodbark.name=피 유칼립투스 뿌리 문
 
-tile.pressureplate.eucalyptus.name=유칼립투스 감압판
-tile.pressureplate.sakura.name=벚나무 감압판
-tile.pressureplate.ghostwood.name=유령나무 감압판
-tile.pressureplate.hopseed.name=호프씨나무 감압판
-tile.pressureplate.redwood.name=삼나무 감압판
-tile.pressureplate.bloodwood.name=피 유칼립투스 감압판
-tile.pressureplate.darkwood.name=암흑나무 감압판
-tile.pressureplate.fusewood.name=퓨즈나무 감압판
-tile.pressureplate.willow.name=버드나무 감압판
-tile.pressureplate.tiger.name=호랑나무 감압판
-tile.pressureplate.maple.name=단풍나무 감압판
-tile.pressureplate.amaranth.name=아마란스 감압판
-tile.pressureplate.silverbell.name=때죽나무 감압판
+tile.pressureplate.eucalyptus.name=유칼립투스나무 압력판
+tile.pressureplate.sakura.name=벚나무 압력판
+tile.pressureplate.ghostwood.name=유령나무 압력판
+tile.pressureplate.hopseed.name=호프씨나무 압력판
+tile.pressureplate.redwood.name=삼나무 압력판
+tile.pressureplate.bloodwood.name=피 압력판
+tile.pressureplate.darkwood.name=암흑나무 압력판
+tile.pressureplate.fusewood.name=퓨즈나무 압력판
+tile.pressureplate.willow.name=버드나무 압력판
+tile.pressureplate.tiger.name=호랑나무 압력판
+tile.pressureplate.maple.name=단풍나무 압력판
+tile.pressureplate.amaranth.name=아마란스 압력판
+tile.pressureplate.silverbell.name=은종나무 압력판
 
 tile.fence.eucalyptus.name=유칼립투스 울타리
 tile.fence.sakura.name=벛나무 울타리
@@ -247,7 +247,7 @@ tile.blazerail.powered.name=블레이즈 파워 레일
 tile.blazerail.detector.name=블레이즈 디텍터 레일
 tile.blazerail.activator.name=블레이즈 활성화 레일
 
-tile.furnace.netherrack.name=지옥 화로
+tile.furnace.netherrack.name=네더 화로
 tile.nether.obelisk.name=오벨리스크
 tile.nether.hopper.name=깔대기
 
@@ -356,7 +356,7 @@ entity.Natura.FlameSpider.name=화염 거미
 entity.Natura.FlameSpiderBaby.name=아기 화염 거미
 entity.Natura.NitroCreeper.name=니트로 크리퍼
 
-tooltip.nethertree=지옥 나무
+tooltip.nethertree=네더 나무
 tooltip.fusewood.log=폭발성
 tooltip.glass.soul=유령같은
 tooltip.glass.heat=뜨거운
@@ -377,7 +377,7 @@ tooltip.flour2=케이크를 만드는 데도 쓰입니다.
 tooltip.cotton=모든 실과 솜의 공급원
 tooltip.sulfur=2x2로 조합하면 화약이 됩니다.
 tooltip.fletching=화살의 재료
-tooltip.imp=지옥의 열에도 견딥니다.
+tooltip.imp=네더의 열에도 견딥니다.
 tooltip.string=일반 실보다 튼튼한 것
 tooltip.darkwood1=꽃이다!
 tooltip.darkwood2=사과가 열립니다.

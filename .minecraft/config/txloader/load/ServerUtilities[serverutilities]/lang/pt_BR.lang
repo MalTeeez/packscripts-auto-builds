@@ -143,9 +143,11 @@ serverutilities.mixins.endermen=Enable Endermen Mixin
 serverutilities.mixins.bypassplayerlimit=Enable Bypass Player Limit Mixin
 serverutilities.mixins.farmlandtramplingprotection=Enable Farmland Trampling Protection Mixin
 
-serverutilities.motd=Server MOTD
-serverutilities.motd.line1=First MOTD Line
-serverutilities.motd.line2=Second MOTD Line
+# Multiplayer Browser "Message of the Day"
+serverutilities.motd=Server MotD
+serverutilities.motd.update_frequency=MotD Update Frequency (Milliseconds)
+serverutilities.motd.line1=MotD First Line
+serverutilities.motd.line2=MotD Second Line
 
 serverutilities.world=World
 serverutilities.world.blocked_claiming_dimensions=Blocked Claiming Dimensions
@@ -349,10 +351,10 @@ player_config.vanish.itemdropping.tooltip=Toggles dropping items while vanished
 
 # Team Settings
 team_config.serverutilities.display=Display
-team_config.serverutilities.display.color=Color
+team_config.serverutilities.display.color=Cor
 team_config.serverutilities.display.fake_player_status=Fake Player Level
 team_config.serverutilities.display.fake_player_status.tooltip=Determines the level of membership a fake player will operate under (Miners, pumps, harvesters etc.)
-team_config.serverutilities.display.title=Title
+team_config.serverutilities.display.title=Título
 team_config.serverutilities.display.title.tooltip=Displays when you enter a claimed chunk
 team_config.serverutilities.display.desc=Description
 team_config.serverutilities.display.desc.tooltip=Displays under Title
@@ -503,6 +505,8 @@ commands.backup.prune.usage=/backup prune preview
 commands.backup.stop.usage=/backup stop
 commands.backup.getsize.usage=/backup getsize
 commands.backup.list.usage=/backup list
+commands.backup.pause.usage=/backup pause [duration, e.g. 30m, 1h, 5d]
+commands.backup.resume.usage=/backup resume
 commands.reload.usage=/reload [*|domain:*|domain:id]
 commands.my_settings.usage=/my_settings <config id> [value]
 commands.team.usage=/team
@@ -646,6 +650,11 @@ cmd.backup_manual_launch_oc=%s launched a claimed only manual backup!
 cmd.backup_already_running=Backup or retention scan in progress!
 cmd.backup_manual_failed=Backup could not be started or completed. See the error above and the server log.
 cmd.backup_not_running=Backup is not running!
+cmd.backup_paused=Automatic backups paused, you can resume them with /backup resume.
+cmd.backup_paused_until=Automatic backups paused until %s, you can resume them with /backup resume.
+cmd.backup_resumed=Automatic backups resumed.
+cmd.backup_already_paused=Automatic backups are already paused.
+cmd.backup_already_resumed=Automatic backups aren't paused.
 cmd.backup_prune_header=Retention preview (nothing is deleted):
 cmd.backup_prune_entry=  %s %s | %s | %s | %s
 cmd.backup_prune_keep=KEEP
@@ -706,7 +715,7 @@ gui.loaded=Loaded
 gui.info=Info
 gui.collapse_all=Collapse All
 gui.expand_all=Expand All
-gui.update=Update
+gui.update=Atualizar
 gui.active=Active
 gui.inactive=Inactive
 gui.settings=Settings
@@ -786,7 +795,7 @@ privacy.team=Team
 
 # Redstone Mode
 redstone_mode=Redstone Mode
-redstone_mode.disabled=Disabled
+redstone_mode.disabled=Desativado
 redstone_mode.active_high=Active High
 redstone_mode.active_low=Active Low
 redstone_mode.pulse=Pulse
@@ -796,7 +805,7 @@ io_mode=IO Mode
 io_mode.io=IO
 io_mode.in=Input Only
 io_mode.out=Output Only
-io_mode.none=Disabled
+io_mode.none=Desativado
 
 # Click Actions
 click_action.url=Open URL
