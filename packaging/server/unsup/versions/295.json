@@ -1,0 +1,252 @@
+{
+    "unsup_manifest": "update-1",
+    "hash_function": "SHA-2 256",
+    "changes": [
+        {
+            "path": "config/DreamCoreMod.properties",
+            "from_hash": "ea9f81e395730cb47146783233d28b3a82dc22cd9e986bf0225bc195e939fa89",
+            "from_size": 209,
+            "to_hash": "6d9f193d50a8d0480e2d3ebd51cf2ba9cd5bcfc0d7b91fac8e63b6381f975b40",
+            "to_size": 209,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/config/DreamCoreMod.properties"
+        },
+        {
+            "path": "config/GTNewHorizons/dreamcraft.cfg",
+            "from_hash": "62690df5f858dc0ecee88c0f203db29a89c9d6039637fc357afc6c1f1361ec92",
+            "from_size": 6289,
+            "to_hash": "ce6215ee0dde9786ba6586f8cdb5e1c04313e8996b67289020ed96ea75282ad0",
+            "to_size": 6289,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/config/GTNewHorizons/dreamcraft.cfg"
+        },
+        {
+            "path": "mods/CodeChickenCore-1.5.2.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "e392627e5850388e137d59e0695a3d98dc7a36e8f0001b7732fa489d94438193",
+            "to_size": 454335,
+            "url": "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.5.2/CodeChickenCore-1.5.2.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/CodeChickenCore-1.5.2.jar"
+        },
+        {
+            "path": "mods/CodeChickenCore-1.5.1.jar",
+            "from_hash": "5c3eb9ab9303b304caf9fb3cfd646599fa5f913ce5c222c9c996beeb4c0331d6",
+            "from_size": 454337,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Botania-1.14.1-GTNH.jar",
+            "from_hash": "84ab871e46fb8e2d439c9d32a2ea7c00a5a98e83ef4806d367799c22ccba05f7",
+            "from_size": 16899141,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/Botania-1.14.2-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "83ab8a8a695d4100fb1d627fb5262f5b24244d0904ba464abf8e0b5f5be442a4",
+            "to_size": 16899507,
+            "url": "https://github.com/GTNewHorizons/Botania/releases/download/1.14.2-GTNH/Botania-1.14.2-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/Botania-1.14.2-GTNH.jar"
+        },
+        {
+            "path": "mods/NotEnoughItems-2.9.16-GTNH.jar",
+            "from_hash": "c3257ade52e20e003164750b09d7f4fa3b45b44cfe60543010125ef581e2c469",
+            "from_size": 1840248,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/NotEnoughItems-2.9.17-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "a3a680fed00e048aa616fc2078c866f34f4b349f3f1a49cdbe8f32b780ea9732",
+            "to_size": 1841103,
+            "url": "https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.9.17-GTNH/NotEnoughItems-2.9.17-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/NotEnoughItems-2.9.17-GTNH.jar"
+        },
+        {
+            "path": "mods/OpenBlocks-1.13.5-GTNH.jar",
+            "from_hash": "a8f3ab5cb58ff04d06dd703ff6b81041d9a16818408c9eb1cc06e63351580d6e",
+            "from_size": 3475169,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.19.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "078b210e23dfab48d0be0c7075a6b609a5ee4102b6f8e4165446e2750dcf1989",
+            "to_size": 48445862,
+            "url": "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.10.19/GTNewHorizonsCoreMod-2.10.19.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/GTNewHorizonsCoreMod-2.10.19.jar"
+        },
+        {
+            "path": "mods/OpenBlocks-1.13.6-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "32bb13253c45231100cb4f1f16bd95610354f230b848304b7e5b82a4d61af47a",
+            "to_size": 3479793,
+            "url": "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.13.6-GTNH/OpenBlocks-1.13.6-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/OpenBlocks-1.13.6-GTNH.jar"
+        },
+        {
+            "path": "mods/ServerUtilities-2.5.7.jar",
+            "from_hash": "2da2cfc562643d0e1732103502b0f70d7824666f9874a8e50f00ae7b9ae551f0",
+            "from_size": 2084181,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/ServerUtilities-2.5.8.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "25a08ce350200502073d3b4b0d0b9e5a46650c92c01ab56167e6872c9860f91b",
+            "to_size": 2084410,
+            "url": "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.5.8/ServerUtilities-2.5.8.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/ServerUtilities-2.5.8.jar"
+        },
+        {
+            "path": "mods/battlegear2-1.7.0-backhand.jar",
+            "from_hash": "10b7bffbd142aceca78aaba754c48091298234ba101323ac460a99aca1c39812",
+            "from_size": 962350,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/GTNewHorizonsCoreMod-2.10.17.jar",
+            "from_hash": "a714e1cdd541da971311cc6df8e48b148b8005fd0e89bb42eb762ce24ee444a8",
+            "from_size": 48445759,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/battlegear2-1.7.1-backhand.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "ac62d84442677ad16c713dc1530797ae2d258f39f26b4c1744e68a86a942f9f9",
+            "to_size": 963486,
+            "url": "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.7.1-backhand/battlegear2-1.7.1-backhand.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/battlegear2-1.7.1-backhand.jar"
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.13.jar",
+            "from_hash": "f3048ff5196cbfcb998155f4accabbad3ce0fe7a068c715d895ca2c302d952ff",
+            "from_size": 8004979,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/appliedenergistics2-1.0.14.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "383348bbb979e515fc1f9d9d4ccd7d46148e35015d4bafd83c5dbf7fed753257",
+            "to_size": 8064552,
+            "url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/appliedenergistics2-1.0.14.jar"
+        },
+        {
+            "path": "mods/etfuturum-2.7.5-GTNH.jar",
+            "from_hash": "c994258cf7b86ac4eaea87ea0c446a245e9ecdea0c98c0879b933042767a454f",
+            "from_size": 5502443,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/etfuturum-2.7.6-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "0145236f82dbee6d1b7b635bdd7abcc5b6635d7eddf184ccd598e75b1abe97a5",
+            "to_size": 5506583,
+            "url": "https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.7.6-GTNH/etfuturum-2.7.6-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/etfuturum-2.7.6-GTNH.jar"
+        },
+        {
+            "path": "mods/gtnhlib-0.12.10.jar",
+            "from_hash": "77e1a9a60680ad4304c65716851741fa95cd1c36336cdfca1770790cfbd6b203",
+            "from_size": 1504468,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/gtnhlib-0.12.11.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "64b654a7c90066aeaa705c07b2dcc01f46b1223a48140ffd51e3abb3270068a2",
+            "to_size": 1506838,
+            "url": "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.12.11/gtnhlib-0.12.11.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/gtnhlib-0.12.11.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.8.10.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "902b3b9d19e41314210d34fe21b79069f152503bf5dbc6e7dc3a780416d48a3f",
+            "to_size": 1312330,
+            "url": "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.8.10/hodgepodge-2.8.10.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/hodgepodge-2.8.10.jar"
+        },
+        {
+            "path": "mods/hodgepodge-2.8.8.jar",
+            "from_hash": "9400146f4b962203a75edc2c3ffbd69b335d87670e3041aba6db548ab1f04c75",
+            "from_size": 1290841,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.2.4-GTNH.jar",
+            "from_hash": "175f6f45f662b5f9d91c7d0aad35a2f2553d93037041b2c2e4d540f6cc4e5caf",
+            "from_size": 765719,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/matter-manipulator-0.2.5-GTNH.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "2e3434b4dd2094cf431215562ee48e41738816c5086fa8ea63195556faea4b2d",
+            "to_size": 872116,
+            "url": "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.2.5-GTNH/matter-manipulator-0.2.5-GTNH.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/matter-manipulator-0.2.5-GTNH.jar"
+        },
+        {
+            "path": "mods/vendingmachine-0.5.2.jar",
+            "from_hash": "b8337c9ab834609cad7dbe8f721db131ae3f8825efaf4faf2fe7ac15abf407ba",
+            "from_size": 2306142,
+            "to_hash": null,
+            "to_size": 0
+        },
+        {
+            "path": "mods/vendingmachine-0.5.4.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "dedfa190e43bec051238d81b499b23015799f61a4df7ba1a8ae2efe280aa83cf",
+            "to_size": 2475125,
+            "url": "https://github.com/GTNewHorizons/VendingMachine/releases/download/0.5.4/vendingmachine-0.5.4.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/vendingmachine-0.5.4.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.43.jar",
+            "from_hash": null,
+            "from_size": 0,
+            "to_hash": "8bce7ca961438390042dbbca5533d2cf7f2b9630b992d4da6979579a65a9bb77",
+            "to_size": 67676056,
+            "url": "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.55.43/gregtech-5.09.55.43.jar",
+            "mirror_url": "https://raw.githubusercontent.com/malteeez/packscripts-auto-builds/515d3c32a799255b5f8872f0c8ea2603490d2f6e/.minecraft/mods/gregtech-5.09.55.43.jar"
+        },
+        {
+            "path": "mods/gregtech-5.09.55.38.jar",
+            "from_hash": "5571b117cb9e0259a4dcebe1e9f2294fdd21396beb4f9ba8d612f3abfda7495b",
+            "from_size": 67637875,
+            "to_hash": null,
+            "to_size": 0
+        }
+    ],
+    "component_versions": {
+        "org.lwjgl3": "3.4.3",
+        "net.minecraft": "1.7.10",
+        "me.eigenraven.lwjgl3ify.forgepatches": "3.1.1",
+        "net.minecraftforge": "10.13.4.1614",
+        "me.eigenraven.lwjgl3ify.launchargs": "3.1.1"
+    }
+}
